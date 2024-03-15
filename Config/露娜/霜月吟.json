@@ -1,0 +1,115 @@
+{
+    "name": "霜月吟",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231218/17028679266779.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231218/17028679293617.jpg",
+    "voice_clips": [
+        {
+            "text": "纷纷吹落无尘处……霜雪澄明，冰心可鉴。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028688881683.mp3"
+        },
+        {
+            "text": "砺雪凌霜三尺剑，为示天下不平人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028689213413.mp3"
+        },
+        {
+            "text": "剑指千星，问道苍冥。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028689587740.mp3"
+        },
+        {
+            "text": "雪境化三清域外，寸心系尘世万千。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028679681937.mp3"
+        },
+        {
+            "text": "修真者的仙途，何以由凡人的牺牲铸就？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028679921441.mp3"
+        },
+        {
+            "text": "未曾被上苍注视的生命，亦将名姓写在天地之间。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028680152401.mp3"
+        },
+        {
+            "text": "荒原上终年不化的冻雪，是飘零之魂的凝结。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028680364608.mp3"
+        },
+        {
+            "text": "他们的呼声，遗落为深谷中冗长的回音。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028680575235.mp3"
+        },
+        {
+            "text": "众生决意即为剑意，万世民心可证道心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028680861490.mp3"
+        },
+        {
+            "text": "活下去……为了和我们一样的漂泊者，不再别离。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028681132357.mp3"
+        },
+        {
+            "text": "怎能...在此刻离去……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028681614294.mp3"
+        },
+        {
+            "text": "风骨尽失，仙道何存？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028682126167.mp3"
+        },
+        {
+            "text": "空山无归，春风不渡。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028682778662.mp3"
+        },
+        {
+            "text": "苍风试霜刃，冷月照归人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028683118049.mp3"
+        },
+        {
+            "text": "临风。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028683399947.mp3"
+        },
+        {
+            "text": "吹雪。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028683623430.mp3"
+        },
+        {
+            "text": "衔霜。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028684358588.mp3"
+        },
+        {
+            "text": "琉璃净。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028684602858.mp3"
+        },
+        {
+            "text": "琼芳引。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028684908186.mp3"
+        },
+        {
+            "text": "素心寒。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028685688287.mp3"
+        },
+        {
+            "text": "逐月照影。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028685937142.mp3"
+        },
+        {
+            "text": "洄梦流光。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028686204485.mp3"
+        },
+        {
+            "text": "雪映清辉。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028686436141.mp3"
+        },
+        {
+            "text": "天地皓然。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028686684910.mp3"
+        },
+        {
+            "text": "往来纵横。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028686908506.mp3"
+        },
+        {
+            "text": "剑破长空。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028687119402.mp3"
+        },
+        {
+            "text": "当以此剑，斩尽诸世不公。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028687361488.mp3"
+        }
+    ]
+}

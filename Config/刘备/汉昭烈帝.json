@@ -1,0 +1,63 @@
+{
+    "name": "汉昭烈帝",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498345715491.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498345747967.jpg",
+    "voice_clips": [
+        {
+            "text": "复兴汉室！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497704361822.wav"
+        },
+        {
+            "text": "二弟 荆州焉在？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497708255045.wav"
+        },
+        {
+            "text": "这样的战斗似曾相识！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497708459032.wav"
+        },
+        {
+            "text": "勿以喜为胜，勿以败为荣，",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497709764495.wav"
+        },
+        {
+            "text": "胸怀大志者，随我一统九州",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497709951734.wav"
+        },
+        {
+            "text": "心存敬畏  方能进退有度",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497710141189.wav"
+        },
+        {
+            "text": "青梅煮酒，问英雄谁是英雄！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497710306380.wav"
+        },
+        {
+            "text": "穿上草鞋，飞一般的感觉",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497712528609.wav"
+        },
+        {
+            "text": "击中要害！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497712813745.wav"
+        },
+        {
+            "text": "一震之威！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497713089374.wav"
+        },
+        {
+            "text": "无处可藏！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497713282017.wav"
+        },
+        {
+            "text": "动作要快 姿势要帅",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497713663328.wav"
+        },
+        {
+            "text": "汉贼不两立！（改编自诸葛亮《后出师表》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497713819629.wav"
+        },
+        {
+            "text": "江山不相信眼泪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497714102965.wav"
+        }
+    ]
+}

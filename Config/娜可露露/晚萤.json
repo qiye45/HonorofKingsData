@@ -1,0 +1,91 @@
+{
+    "name": "晚萤",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498440805072.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498440843400.jpg",
+    "voice_clips": [
+        {
+            "text": "ありがとう　ママハハ",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498436333176.wav"
+        },
+        {
+            "text": "さぁ　立ちなさい",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498436471637.wav"
+        },
+        {
+            "text": "この光の中から私をみつけられますか？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499245826893.wav"
+        },
+        {
+            "text": "大自然のお仕置きです",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499246014685.wav"
+        },
+        {
+            "text": "自然の報いを受けなさい",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498436928060.wav"
+        },
+        {
+            "text": "行こう　ママハハ",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498437275380.wav"
+        },
+        {
+            "text": "これでどうですか？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498437436649.wav"
+        },
+        {
+            "text": "過ぎ去った時間は、別の形で生まれ変わります。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498437575409.wav"
+        },
+        {
+            "text": "光に近づいていく一つ一つの瞬間が大切なのです。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498437724333.wav"
+        },
+        {
+            "text": "私も星になりたい……。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498437945105.wav"
+        },
+        {
+            "text": "シクルゥ",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498438116749.wav"
+        },
+        {
+            "text": "アンヌ・ムツベ",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498438262517.wav"
+        },
+        {
+            "text": "レラ・ムツベ",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498438404239.wav"
+        },
+        {
+            "text": "カムイ リムセ",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498438551887.wav"
+        },
+        {
+            "text": "ママハハ",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498438694966.wav"
+        },
+        {
+            "text": "メル シキテ",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498438842528.wav"
+        },
+        {
+            "text": "カント シキテ",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498439013638.wav"
+        },
+        {
+            "text": "エレルシ カムイ リムセ",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498439206474.wav"
+        },
+        {
+            "text": "夜の景色をよく見てください！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498439373758.wav"
+        },
+        {
+            "text": "自然の痛みを知りなさい",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498440263325.wav"
+        },
+        {
+            "text": "暗闇で自分を見失った哀れな人ですね。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498440425160.wav"
+        }
+    ]
+}

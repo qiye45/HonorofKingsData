@@ -1,0 +1,75 @@
+{
+    "name": "白蛇",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240108/17047054738349.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240108/17047054754704.jpg",
+    "voice_clips": [
+        {
+            "text": "缘起前世，一梦千年",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499849939239.mp3"
+        },
+        {
+            "text": "西子湖畔，相思为谁",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499850066248.mp3"
+        },
+        {
+            "text": "因缘而起，因念而生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499850219725.mp3"
+        },
+        {
+            "text": "来吧，了却生生世世的羁绊",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754558302.mp3"
+        },
+        {
+            "text": "都说人间有情，可…情为何物？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754707099.mp3"
+        },
+        {
+            "text": "在等待，那个和我泛舟的人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754862844.mp3"
+        },
+        {
+            "text": "世界是变幻的泡沫，在大海上逐流随波",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497755011718.mp3"
+        },
+        {
+            "text": "镜花水月，迷惑了多少世人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497755169933.mp3"
+        },
+        {
+            "text": "没有七情六欲，就不会伤心落泪",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497755401967.mp3"
+        },
+        {
+            "text": "来世……再续今生缘",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497755907417.mp3"
+        },
+        {
+            "text": "越过生生世世",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497756378863.wav"
+        },
+        {
+            "text": "济人一时，度人万世",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497756535145.wav"
+        },
+        {
+            "text": "听从宿命的召唤",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497756651659.wav"
+        },
+        {
+            "text": "哼，情缘已断",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497756945042.wav"
+        },
+        {
+            "text": "再等一千年，也等不到你们赢一回~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497757281903.wav"
+        },
+        {
+            "text": "诶？啊！你也要离开我吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497757619531.wav"
+        },
+        {
+            "text": "小青，就算为你失去了这千年道行，也值得",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497758012265.mp3"
+        }
+    ]
+}

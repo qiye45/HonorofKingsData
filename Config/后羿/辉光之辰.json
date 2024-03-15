@@ -1,0 +1,59 @@
+{
+    "name": "辉光之辰",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230221/16769641314415.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502896372752.jpg",
+    "voice_clips": [
+        {
+            "text": "此生不相见，动如参与商。（选自杜甫《赠卫八处士》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497416286718.mp3"
+        },
+        {
+            "text": "射穿虚伪的箭，有着光明的去向",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497416478302.mp3"
+        },
+        {
+            "text": "还不闪开？你以为我是丘比特？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497416648427.wav"
+        },
+        {
+            "text": "最了解你的往往是对手",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497416801244.wav"
+        },
+        {
+            "text": "人间虽远，你我都在其中",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497417002103.mp3"
+        },
+        {
+            "text": "需要，才是存在的理由",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497417137333.wav"
+        },
+        {
+            "text": "一个人有了欲望，便能看到他的终点",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497417352719.mp3"
+        },
+        {
+            "text": "比起多长只眼，不如多长点心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497417592563.mp3"
+        },
+        {
+            "text": "万里挑一的失败……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497417742086.wav"
+        },
+        {
+            "text": "你无法直视的光芒。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497417909891.wav"
+        },
+        {
+            "text": "逐日之争！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497418042147.wav"
+        },
+        {
+            "text": "向明天的太阳告别吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497418208924.wav"
+        },
+        {
+            "text": "我只接受自己败在强者手里，很可惜，不是你",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497418419402.mp3"
+        }
+    ]
+}

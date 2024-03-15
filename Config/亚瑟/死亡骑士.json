@@ -1,0 +1,67 @@
+{
+    "name": "死亡骑士",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498341764872.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498341796400.jpg",
+    "voice_clips": [
+        {
+            "text": "亡灵们，执行我的意志！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497682273408.wav"
+        },
+        {
+            "text": "没错，这是黑化后的亚瑟。现在最流行的设定。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497682462336.wav"
+        },
+        {
+            "text": "向我乞求怜悯吧，我会狠狠拒绝你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497682657855.wav"
+        },
+        {
+            "text": "不断复生，直至征服世界！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497682841296.wav"
+        },
+        {
+            "text": "你们前进的动力真的是正义吗？呵呵呵呵……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497683014769.wav"
+        },
+        {
+            "text": "吾乃死亡骑士，并非死掉的骑士！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497683202213.wav"
+        },
+        {
+            "text": "好友名单上的头一个就是巫喵王。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497683411666.wav"
+        },
+        {
+            "text": "永久的归宿",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684268172.wav"
+        },
+        {
+            "text": "以死亡的名义，冲锋！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684857883.wav"
+        },
+        {
+            "text": "上吧，行尸走肉们~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497685088294.wav"
+        },
+        {
+            "text": "黑暗的庇护！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497685354751.wav"
+        },
+        {
+            "text": "释放仇恨！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497685529658.wav"
+        },
+        {
+            "text": "堕落吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497685689822.wav"
+        },
+        {
+            "text": "折磨他们！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497685854549.wav"
+        },
+        {
+            "text": "冰封王座太冷，是时候来点热身运动了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497688679878.wav"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "和平守望",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499964021767.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498349285221.jpg",
+    "voice_clips": [
+        {
+            "text": "变形，出发！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496784501473.wav"
+        },
+        {
+            "text": "生存，就是最精彩的战斗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496784686813.wav"
+        },
+        {
+            "text": "会让你印象深刻的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496784826227.wav"
+        },
+        {
+            "text": "进化的终点是自我毁灭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496784975253.wav"
+        },
+        {
+            "text": "太吵了，需要一点和平！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496785123593.wav"
+        },
+        {
+            "text": "保持敬老的美德，能让你避免被碾压。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496785269867.wav"
+        },
+        {
+            "text": "心怀恐惧，方能无畏！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496785503156.wav"
+        },
+        {
+            "text": "哇啊，什么黑科技……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496785656750.wav"
+        },
+        {
+            "text": "警报：高能时刻！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496785929155.wav"
+        },
+        {
+            "text": "我来组成头部！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496786055549.wav"
+        },
+        {
+            "text": "感谢你为和平做出的牺牲！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496786181015.wav"
+        },
+        {
+            "text": "踩到你了吗，抱歉……呃，一不小心就碾压。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496786332348.wav"
+        },
+        {
+            "text": "嗯，我知道啦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511319552545.mp3"
+        }
+    ]
+}

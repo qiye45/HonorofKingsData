@@ -1,0 +1,87 @@
+{
+    "name": "信念之刃",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498388646790.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498388716075.jpg",
+    "voice_clips": [
+        {
+            "text": "我，是你惹不起的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496475402057.wav"
+        },
+        {
+            "text": "非死不可！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496475739761.wav"
+        },
+        {
+            "text": "不是你记忆中的刺客，但致命的程度没两样",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496475862920.wav"
+        },
+        {
+            "text": "想叫就叫吧，反正是最后一声了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496475973574.wav"
+        },
+        {
+            "text": "不知道你的名字，但清楚你的死期。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496476217567.wav"
+        },
+        {
+            "text": "你已经死了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496476345494.wav"
+        },
+        {
+            "text": "没我快！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496476458335.wav"
+        },
+        {
+            "text": "只相信本能。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496476556110.wav"
+        },
+        {
+            "text": "任务，终结！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496476832774.wav"
+        },
+        {
+            "text": "就是偷袭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496478107718.wav"
+        },
+        {
+            "text": "不该背对我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496478232166.wav"
+        },
+        {
+            "text": "永别了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496478524200.wav"
+        },
+        {
+            "text": "无人生还！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496478651978.wav"
+        },
+        {
+            "text": "死亡笔记有了新名字",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496478794780.wav"
+        },
+        {
+            "text": "没哭！眼睛里进沙子了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496479215783.wav"
+        },
+        {
+            "text": "我知道你不会怕输，你只会怕我",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496479325714.wav"
+        },
+        {
+            "text": "包容失败，却不会包容轻率的失败！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496479441268.wav"
+        },
+        {
+            "text": "长得漂亮不如干得漂亮，而你两样都做到了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496479553098.wav"
+        },
+        {
+            "text": "别打这主意，谢谢了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496479661134.wav"
+        },
+        {
+            "text": "藏起刀来，重要的是节奏。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496479944154.wav"
+        }
+    ]
+}

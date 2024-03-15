@@ -1,0 +1,99 @@
+{
+    "name": "天狼运算者",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498346192110.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498346229768.jpg",
+    "voice_clips": [
+        {
+            "text": "这里有我，并且不止有我，收到收到，准备出发！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220418/16502896128494.mp3"
+        },
+        {
+            "text": "城市的夜晚，被每个微小的愿望点亮，呼叫呼叫，愿望正在发送！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220418/16502896396310.mp3"
+        },
+        {
+            "text": "1325 1825 1877，行动代码破解成功~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499907614185.mp3"
+        },
+        {
+            "text": "心理暗示也是种战术！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496735513784.wav"
+        },
+        {
+            "text": "信号已发出，收到请回复~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496735633595.wav"
+        },
+        {
+            "text": "相信奇迹，天狼守则第二条~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496735808348.wav"
+        },
+        {
+            "text": "计划赶不上变化，但变化赶不上聪明的头脑~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496735945900.wav"
+        },
+        {
+            "text": "不必畏惧黑暗，黎明会因你我而到来",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496736098070.wav"
+        },
+        {
+            "text": "听到了…...纪念碑的召唤…...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496736249899.wav"
+        },
+        {
+            "text": "情报解析！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496736427955.wav"
+        },
+        {
+            "text": "倒数结局！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496736629253.wav"
+        },
+        {
+            "text": "欢迎来到我的主场！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496736766784.wav"
+        },
+        {
+            "text": "把每一个盒子送到它该去的地方~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496736899476.wav"
+        },
+        {
+            "text": "喂…队友队友…呼叫队友~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496737042586.wav"
+        },
+        {
+            "text": "记得五星好评~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496737216201.wav"
+        },
+        {
+            "text": "老虎，准备集合！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496737675160.wav"
+        },
+        {
+            "text": "好可爱的大猫咪呀~能摸摸你的胡须吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496737804717.wav"
+        },
+        {
+            "text": "偶……偶像，可以和我拍张照片吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496739001288.wav"
+        },
+        {
+            "text": "你忘记的不是音乐，而是信仰",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496739321915.wav"
+        },
+        {
+            "text": "我的生日愿望，就是成为和你一样厉害的人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496739582132.wav"
+        },
+        {
+            "text": "虚拟与真实的界限，要靠心去辨认！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496739909111.wav"
+        },
+        {
+            "text": "我..我会继续努力的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500065369242.wav"
+        },
+        {
+            "text": "天狼星小队集结完毕，行动开始！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496740215072.wav"
+        }
+    ]
+}

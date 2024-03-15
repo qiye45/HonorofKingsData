@@ -1,0 +1,147 @@
+{
+    "name": "末日机甲",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230907/16940572159040.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230907/16940572186665.jpg",
+    "voice_clips": [
+        {
+            "text": "干得好小家伙！那么接下来，该我登场了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940691838774.mp3"
+        },
+        {
+            "text": "子弹不为和平而生便毫无意义。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940692024581.mp3"
+        },
+        {
+            "text": "不同的字母代表不同的弹药，选一个吧，还是说，你全都要？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940692297779.mp3"
+        },
+        {
+            "text": "接过这具机甲的那一刻，我也继承了他的责任。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940573338150.mp3"
+        },
+        {
+            "text": "拯救世界真是件麻烦事……唉，谁让我是星际联盟的大英雄呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940574778419.mp3"
+        },
+        {
+            "text": "在宇宙面前人类的确渺小，但我们生存的意志永无止境。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940575042144.mp3"
+        },
+        {
+            "text": "就算是临时舰长，也得战斗在第一线。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940575256908.mp3"
+        },
+        {
+            "text": "你看到游隼小队了吗，他们救人的本事可是一流的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940575598002.mp3"
+        },
+        {
+            "text": "在星际流浪的那些日子里，我听过最多的词就是和平。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940575834117.mp3"
+        },
+        {
+            "text": "钢铁之躯和血肉之身又有什么区别，过几百年还不都是宇宙的尘埃。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940576049306.mp3"
+        },
+        {
+            "text": "弹药耗尽……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940576307165.mp3"
+        },
+        {
+            "text": "（Mission Fail）让我再来一次……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940576551363.mp3"
+        },
+        {
+            "text": "子弹上膛！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940581588351.mp3"
+        },
+        {
+            "text": "猜猜下颗会是什么！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940581832957.mp3"
+        },
+        {
+            "text": "Heavy Machine Gun!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940585671517.mp3"
+        },
+        {
+            "text": "嘘，星星都睡着了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940586142715.mp3"
+        },
+        {
+            "text": "喂，看这儿！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940586351534.mp3"
+        },
+        {
+            "text": "飞跃宇宙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940586579462.mp3"
+        },
+        {
+            "text": "启动太空形态！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940586776983.mp3"
+        },
+        {
+            "text": "炮火轰鸣！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940587172394.mp3"
+        },
+        {
+            "text": "全屏扫射！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940587938043.mp3"
+        },
+        {
+            "text": "（Rocket Launcher）再跑快点儿！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940588146415.mp3"
+        },
+        {
+            "text": "可不能临阵脱逃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940588431282.mp3"
+        },
+        {
+            "text": "星星之火！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940588659799.mp3"
+        },
+        {
+            "text": "群星为你闪耀！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940588845395.mp3"
+        },
+        {
+            "text": "你怎么老吃独食？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940589336455.mp3"
+        },
+        {
+            "text": "放心，这枚是催眠弹。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940589685255.mp3"
+        },
+        {
+            "text": "（Mission Complete）希望下次的任务能有点难度~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940589896279.mp3"
+        },
+        {
+            "text": "你的外壳的确崭新又闪亮，但内心就……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940590087516.mp3"
+        },
+        {
+            "text": "天才英雄，就是这么自信！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940590352542.mp3"
+        },
+        {
+            "text": "（Mission Start）这次的任务是什么？营救人质，还是把对面统统打趴下？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940590822628.mp3"
+        },
+        {
+            "text": "你尽管出发吧，这边就放心交给我了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940671448072.mp3"
+        },
+        {
+            "text": "呼叫舰长，本次星变已趋于稳定，你那边情况如何？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940671672543.mp3"
+        },
+        {
+            "text": "你早就看出我不是那个大英雄了吧？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940671911101.mp3"
+        },
+        {
+            "text": "有没有希望不是你说了算！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940672147518.mp3"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "name": "山海·炽霜斩",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230214/16763615101219.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230214/16763615339250.jpg",
+    "voice_clips": [
+        {
+            "text": "凝瑞气，定山海",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765283221691.mp3"
+        },
+        {
+            "text": "寒冰铸骨，热血难凉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765283479201.mp3"
+        },
+        {
+            "text": "心火重燃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765283696112.mp3"
+        },
+        {
+            "text": "山海有灵，天地共生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763625585839.wav"
+        },
+        {
+            "text": "素蒙山海之恩泽，必救造化于危难",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763627368805.mp3"
+        },
+        {
+            "text": "火可熄而不可夺其热，士可伤却不可损其志",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763627705160.mp3"
+        },
+        {
+            "text": "燎星火，照四方！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763628029443.mp3"
+        },
+        {
+            "text": "山海异界，所守同源",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763628229362.mp3"
+        },
+        {
+            "text": "燃此不屈魂，铸我手中刃",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763628428904.mp3"
+        },
+        {
+            "text": "当第一缕焰光亮起，黑暗亦是我们的领土",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763628698209.mp3"
+        },
+        {
+            "text": "玄离，替我镇守此处……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763629487492.mp3"
+        },
+        {
+            "text": "你不曾见过火光，难怪甘于漂泊寒夜",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763629822658.mp3"
+        },
+        {
+            "text": "山海之间，会有重逢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763630344349.mp3"
+        },
+        {
+            "text": "为与山海之誓约，拔剑向前！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763635058037.mp3"
+        },
+        {
+            "text": "身躯于风雪中重塑，信念在绝境中新生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763637949476.mp3"
+        },
+        {
+            "text": "拨风雪，破寒夜！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763638212685.mp3"
+        },
+        {
+            "text": "（哼）刺骨的家伙，要来硬碰硬吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763638506695.mp3"
+        },
+        {
+            "text": "炽心化寒剑，冰霜作铁衣",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763638816089.mp3"
+        },
+        {
+            "text": "但问千山风雪，可敢应我一剑？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763639085109.mp3"
+        },
+        {
+            "text": "玄离，继续向前……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763639413774.mp3"
+        },
+        {
+            "text": "孤身徜徉的旅人，可曾惧怕迷失于冰原？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763639779067.mp3"
+        },
+        {
+            "text": "灵脉赠赤帝以炬火，祝融馈山海以希望",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763640216356.mp3"
+        },
+        {
+            "text": "悬安危于一刃，系存殁于我肩。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763640418069.mp3"
+        },
+        {
+            "text": "砾石尚在，火种不绝！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763640699670.mp3"
+        },
+        {
+            "text": "我们未知拂晓何方，我们唯有彻夜前行",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763640928080.mp3"
+        },
+        {
+            "text": "玄离，我并不后悔……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763641192347.mp3"
+        },
+        {
+            "text": "还未行至绝路，便要言弃吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763641706009.mp3"
+        },
+        {
+            "text": "令四海宇内，重燃祝融之火！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763642981862.mp3"
+        },
+        {
+            "text": "笑万仞寒山，不敌我身作剑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763643359905.mp3"
+        },
+        {
+            "text": "且守——山海无恙",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763643698146.mp3"
+        },
+        {
+            "text": "且战——天地莫挡！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763643977587.mp3"
+        },
+        {
+            "text": "浴火重生！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763644272209.mp3"
+        },
+        {
+            "text": "饮冰而行！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763644588145.mp3"
+        },
+        {
+            "text": "长夜无明（暗信），执我为炬（光信）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763644896764.mp3"
+        },
+        {
+            "text": "何惧舍身（光信），挥为利刃（暗信）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763645161159.mp3"
+        },
+        {
+            "text": "何夜无月，何处无篝火，但有吾友在侧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763645842562.mp3"
+        },
+        {
+            "text": "唤起一天明月，照你我满怀冰雪。（改编自辛弃疾《水调歌头·和马叔度游月波楼》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763646192549.mp3"
+        },
+        {
+            "text": "且试篝火，待吾友归",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763646482104.mp3"
+        },
+        {
+            "text": "玄离~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763646791061.mp3"
+        },
+        {
+            "text": "看好了~接住！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763647096621.mp3"
+        },
+        {
+            "text": "玄离？玄离？……早点回家",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763647337011.mp3"
+        },
+        {
+            "text": "周游四海的冒险家，我亦有所耳闻。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764538544143.mp3"
+        },
+        {
+            "text": "我们用眼神和尾巴交流……难道你们不是？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764540484895.mp3"
+        }
+    ]
+}

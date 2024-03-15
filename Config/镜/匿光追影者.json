@@ -1,0 +1,139 @@
+{
+    "name": "匿光追影者",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499893286227.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498412126925.jpg",
+    "voice_clips": [
+        {
+            "text": "任务编号501，情报已获取。(执行者，代号蝶)",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500179116485.mp3"
+        },
+        {
+            "text": "（始于黑夜 ） 归于黑夜",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500178951123.mp3"
+        },
+        {
+            "text": "（消失，或让别人消失。）你只能选择一个答案。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500179268517.mp3"
+        },
+        {
+            "text": "任务目标，名为Z的武器线索。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498415708684.wav"
+        },
+        {
+            "text": "有人寄望于遥远的信仰，有人只相信眼前的力量。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498415864022.wav"
+        },
+        {
+            "text": "再出色的猎手，总有成为猎物的一天。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498416019974.wav"
+        },
+        {
+            "text": "越是边缘，越是锋利。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498416148398.wav"
+        },
+        {
+            "text": "光，也有它的影子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498416534688.wav"
+        },
+        {
+            "text": "接纳自己，有时比接纳他人更难。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498416683712.wav"
+        },
+        {
+            "text": "直到替换掉哪个部分，我就不再是我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498416825302.wav"
+        },
+        {
+            "text": "计划暂停。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498416979576.wav"
+        },
+        {
+            "text": "迅速！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498417127725.wav"
+        },
+        {
+            "text": "（精准）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498417671644.wav"
+        },
+        {
+            "text": "目标确定！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498417855248.wav"
+        },
+        {
+            "text": "破茧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498417975145.wav"
+        },
+        {
+            "text": "（双生）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498418135934.wav"
+        },
+        {
+            "text": "我既是我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498418308811.wav"
+        },
+        {
+            "text": "击穿虚妄！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498418443636.wav"
+        },
+        {
+            "text": "无需搭档！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498418641898.wav"
+        },
+        {
+            "text": "（破碎真实）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498418808397.wav"
+        },
+        {
+            "text": "（我们就是搭档）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498418953487.wav"
+        },
+        {
+            "text": "（以蝶之名！）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498419099995.wav"
+        },
+        {
+            "text": "（瞬光蝶影！）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498419265760.wav"
+        },
+        {
+            "text": "让开，我不会重复第二遍。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498422515445.wav"
+        },
+        {
+            "text": "人应当学会和自己告别。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498422687515.wav"
+        },
+        {
+            "text": "哼，又一个！（继续）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498422825172.wav"
+        },
+        {
+            "text": "哼，真正的对决（是与自我作战）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498423002403.wav"
+        },
+        {
+            "text": "没有一种未来是从想象中诞生的（她的意思是，你最好立刻行动）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498423394834.wav"
+        },
+        {
+            "text": "即刻执行",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498423787810.wav"
+        },
+        {
+            "text": "我亦非我",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498423911117.wav"
+        },
+        {
+            "text": "这几个人的实力，还算可靠（嗯，值得结盟的队友）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500167197989.wav"
+        },
+        {
+            "text": "哦？是吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880334445434.mp3"
+        },
+        {
+            "text": "哦？我看它是为了了解这些家伙的弱点。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940565827260.mp3"
+        }
+    ]
+}

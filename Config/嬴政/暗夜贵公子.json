@@ -1,0 +1,63 @@
+{
+    "name": "暗夜贵公子",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498471349847.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498471383620.jpg",
+    "voice_clips": [
+        {
+            "text": "与时光共存。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493232549176.wav"
+        },
+        {
+            "text": "无法进入世界的轮回……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493232774307.wav"
+        },
+        {
+            "text": "夜场电影是唯一爱好。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493232906365.wav"
+        },
+        {
+            "text": "你又是哪个百年的过客？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493233426514.wav"
+        },
+        {
+            "text": "长寿的秘诀，少管闲事。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493234504498.wav"
+        },
+        {
+            "text": "何必追忆过往，一切都成过往。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493234623925.wav"
+        },
+        {
+            "text": "蝙蝠侠？我需要认识吗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493234829075.wav"
+        },
+        {
+            "text": "我的传记足够写几部世纪编年史~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493234951226.wav"
+        },
+        {
+            "text": "解脱了，永生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493235348749.wav"
+        },
+        {
+            "text": "灵魂的收割！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493236344090.wav"
+        },
+        {
+            "text": "聆听午夜钟声~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493236526405.wav"
+        },
+        {
+            "text": "暗夜，不可逃离！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493236635225.wav"
+        },
+        {
+            "text": "生命倒数！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493236855211.wav"
+        },
+        {
+            "text": "记住，我终究是个贵族！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493236978388.wav"
+        }
+    ]
+}

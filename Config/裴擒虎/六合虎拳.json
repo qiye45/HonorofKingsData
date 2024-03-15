@@ -1,0 +1,139 @@
+{
+    "name": "六合虎拳",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498354049422.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498354072398.jpg",
+    "voice_clips": [
+        {
+            "text": "震惊长安第一拳！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496715808539.wav"
+        },
+        {
+            "text": "等俺这拳头砸下去，有人可能会变废柴哦~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496716043589.mp3"
+        },
+        {
+            "text": "会牵挂的叫亲人，会回去的是故乡。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496716226463.mp3"
+        },
+        {
+            "text": "怕死，怕回不去，怕忘记长城下等着俺的兄弟",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496716979009.mp3"
+        },
+        {
+            "text": "输了就得认，挨打要立正！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496717114588.wav"
+        },
+        {
+            "text": "你的骄傲不堪一击",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496717272144.wav"
+        },
+        {
+            "text": "俺这样的废柴，也懂得有所为有所不为",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496717455050.mp3"
+        },
+        {
+            "text": "谁建造它？谁守望它？谁在它身畔长眠？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496717623390.mp3"
+        },
+        {
+            "text": "俺……终究太无能……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496718122682.wav"
+        },
+        {
+            "text": "祖传一套",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498344235094.wav"
+        },
+        {
+            "text": "超凶的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496721134633.wav"
+        },
+        {
+            "text": "以恶制恶",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496721466158.wav"
+        },
+        {
+            "text": "老虎不发威，当俺是病猫吗！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496721791985.wav"
+        },
+        {
+            "text": "同情很廉价，别用可怜的眼神瞧俺",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496722695793.wav"
+        },
+        {
+            "text": "可你连做饭都不会呀……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499329226873.mp3"
+        },
+        {
+            "text": "哇，这堪比老姐的黑暗料理，拿俺试毒吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496723112030.mp3"
+        },
+        {
+            "text": "比你的料理更恐怖，比明的占卜更致命，比星的棋盘更惊天动地，唯有俺老姐",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496724719593.mp3"
+        },
+        {
+            "text": "梦想什么的，不重要了。那里还有等着俺的兄弟！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496724931588.mp3"
+        },
+        {
+            "text": "连厨子都没有，真是个冷漠的组织",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496725107986.wav"
+        },
+        {
+            "text": "胜负心强烈的家伙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496725357029.wav"
+        },
+        {
+            "text": "眼泪，不知不觉流下来……琴声里燃烧着的，是长城的篝火",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496725707973.mp3"
+        },
+        {
+            "text": "打个赌，你将后悔自己的无能，后悔无法拯救长城",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496726656389.mp3"
+        },
+        {
+            "text": "打个赌，阴险的敌人永远不敢来场堂堂正正的对决",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496726854848.mp3"
+        },
+        {
+            "text": "打个赌，小矮子通常都扮演领便当的龙套",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496727078568.mp3"
+        },
+        {
+            "text": "打个赌，这家伙做饭贼难吃",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496727241720.wav"
+        },
+        {
+            "text": "打个赌，你的人生观会被俺的拳头颠覆！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496727432480.mp3"
+        },
+        {
+            "text": "打个赌，俺们从来没见过，俺不是你认识的那个人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496727668941.mp3"
+        },
+        {
+            "text": "有人还能理直气壮的生存，因为缺少灵魂。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496727869685.mp3"
+        },
+        {
+            "text": "哇，简直就是在违法的边缘试探嘛",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496728027123.wav"
+        },
+        {
+            "text": "今天输了，明天也要卷土重来",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220427/16510542877657.mp3"
+        },
+        {
+            "text": "刚出锅的包子！给你买了10个，接着",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511351533043.mp3"
+        },
+        {
+            "text": "小星子！再遇到这种事，俺们男子汉可得一起承担！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511352106263.mp3"
+        },
+        {
+            "text": "哎哎，这步俺下错了，重来一次！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511352359910.mp3"
+        }
+    ]
+}

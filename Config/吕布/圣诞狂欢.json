@@ -1,0 +1,43 @@
+{
+    "name": "圣诞狂欢",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16500049148036.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498332502935.jpg",
+    "voice_clips": [
+        {
+            "text": "看你孤单寂寞冷，就勉强陪你过个节！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497723435836.wav"
+        },
+        {
+            "text": "圣诞快乐！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497723578219.wav"
+        },
+        {
+            "text": "哟，又一个没收到圣诞卡片的可怜家伙",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497723729358.wav"
+        },
+        {
+            "text": "叮叮当叮叮当 铃儿响叮……啊，作为酷男牺牲很大！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497723874937.wav"
+        },
+        {
+            "text": "放心吧，貂蝉，我的心还是属于你的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724003503.wav"
+        },
+        {
+            "text": "嗯~这棵圣诞树很称手哈哈哈！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724128545.wav"
+        },
+        {
+            "text": "喂！对面的电灯泡~你们就羡慕嫉妒恨吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724311439.wav"
+        },
+        {
+            "text": "为什么，一个人……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724477492.wav"
+        },
+        {
+            "text": "和小婵的自拍，就是在这种时候秀的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724697994.wav"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "天才门将",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498190599011.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498190531995.jpg",
+    "voice_clips": [
+        {
+            "text": "最坚实的防守屏障！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497753194612.wav"
+        },
+        {
+            "text": "喊一声必胜，你敢追随吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497753323702.wav"
+        },
+        {
+            "text": "千万人中，我听见你的声音在呼唤！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497753449498.wav"
+        },
+        {
+            "text": "我和你，如同梦想与梦想的相遇~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497753619391.wav"
+        },
+        {
+            "text": "随着年岁，由小变大。他的烦恼增加啦~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497753743809.mp3"
+        },
+        {
+            "text": "决胜时刻，取决于啦啦队的BGM！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497753883324.mp3"
+        },
+        {
+            "text": "最近的球场很怪，有人踢着球就变成了狮子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754001612.mp3"
+        },
+        {
+            "text": "有点包袱的偶像，才会有点重量。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754143242.mp3"
+        },
+        {
+            "text": "我，就是球门的第四堵墙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754328596.wav"
+        },
+        {
+            "text": "精准拦截！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754445478.wav"
+        },
+        {
+            "text": "热身而已！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754604640.wav"
+        },
+        {
+            "text": "都冲着我来，是要签名吗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754747361.wav"
+        },
+        {
+            "text": "今后....只能拍电影了.....",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754893934.mp3"
+        }
+    ]
+}

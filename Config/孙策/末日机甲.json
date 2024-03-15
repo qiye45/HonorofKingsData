@@ -1,0 +1,119 @@
+{
+    "name": "末日机甲",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498192779559.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498192804939.jpg",
+    "voice_clips": [
+        {
+            "text": "一些人想改变世界，而另一些人想守护她——所以我们跨越星河。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499326849450.mp3"
+        },
+        {
+            "text": "追踪目标——“魔神”机甲已标记，回收程序随时待命。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499326948483.mp3"
+        },
+        {
+            "text": "我们既是机甲，也是人类——新的未来，正在无限星光中闪烁！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499327062564.mp3"
+        },
+        {
+            "text": "毁灭与新生，总是并存。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497686405613.wav"
+        },
+        {
+            "text": "在银河系面前，我们还只是个孩子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497686548182.wav"
+        },
+        {
+            "text": "不要惧怕风暴，它终将过去。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497686674892.wav"
+        },
+        {
+            "text": "当光无处不在，阴影就无所遁形。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497686799930.wav"
+        },
+        {
+            "text": "宇宙中的事，总是知道越多，不知也就越多。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497686929865.wav"
+        },
+        {
+            "text": "明天或许会变糟，但也可能更好，一切取决于现在。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497687083744.wav"
+        },
+        {
+            "text": "有人想获得永恒，可就连恒星，也不曾永恒。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497687216060.wav"
+        },
+        {
+            "text": "我们曾失去故乡，那样的景象，不会再重现。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497687361955.wav"
+        },
+        {
+            "text": "这座城市在吞噬我们的意志",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497687998555.wav"
+        },
+        {
+            "text": "粒子对撞",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497688364373.wav"
+        },
+        {
+            "text": "错误指令，清除",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497688729363.wav"
+        },
+        {
+            "text": "推进器点火",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497688894333.wav"
+        },
+        {
+            "text": "光速脉冲",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497689014895.wav"
+        },
+        {
+            "text": "向太空前进",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497689141496.wav"
+        },
+        {
+            "text": "调整轨道",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497689268801.wav"
+        },
+        {
+            "text": "达到逃逸速度",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497689382345.wav"
+        },
+        {
+            "text": "穿越银河",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497689504983.wav"
+        },
+        {
+            "text": "你脑子里的代码，已经全乱了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497689665645.wav"
+        },
+        {
+            "text": "永别了，末日！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497689951738.wav"
+        },
+        {
+            "text": "星变的真相，就在这里。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500154426428.mp3"
+        },
+        {
+            "text": "就算忘却也没关系，你依旧是你，我依旧守护你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497691775217.wav"
+        },
+        {
+            "text": "快跳出死循环，找回真正的你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497691966814.wav"
+        },
+        {
+            "text": "在星河的两端，我们将为同一个信念而战！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940672759249.mp3"
+        },
+        {
+            "text": "好消息是我已抵达终点，坏消息是魔神机甲也在终点。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940673006876.mp3"
+        },
+        {
+            "text": "也许你曾经不是，但现在是了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940673233059.mp3"
+        }
+    ]
+}

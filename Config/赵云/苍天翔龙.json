@@ -1,0 +1,63 @@
+{
+    "name": "苍天翔龙",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498367494409.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498367529452.jpg",
+    "voice_clips": [
+        {
+            "text": "赵子龙，参见！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497655863918.wav"
+        },
+        {
+            "text": "枪如惊雷，照一身肝胆!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497656148340.wav"
+        },
+        {
+            "text": "一鼓作气，进击！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497665306312.wav"
+        },
+        {
+            "text": "勇者之誓甚于生死！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497665579052.wav"
+        },
+        {
+            "text": "心怀不惧，方能翱翔于天际。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497665735202.wav"
+        },
+        {
+            "text": "看清楚了吗？这贯穿乱世的雷霆",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497668681903.wav"
+        },
+        {
+            "text": "枪尖在燃烧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497669108554.wav"
+        },
+        {
+            "text": "阁下的首级，我收下了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497669869235.wav"
+        },
+        {
+            "text": "拜托……各位了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497670111657.wav"
+        },
+        {
+            "text": "龙枪乱舞，万夫莫敌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497670756294.wav"
+        },
+        {
+            "text": "七进七出！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497670956253.wav"
+        },
+        {
+            "text": "雷霆万钧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497671215752.wav"
+        },
+        {
+            "text": "胜负已分！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497671632343.wav"
+        },
+        {
+            "text": "抱歉，你挡住路了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497672817688.wav"
+        }
+    ]
+}

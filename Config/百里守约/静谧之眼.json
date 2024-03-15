@@ -1,0 +1,107 @@
+{
+    "name": "静谧之眼",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498388062256.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498386379370.jpg",
+    "voice_clips": [
+        {
+            "text": "暗中观察！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496453578859.wav"
+        },
+        {
+            "text": "给我一个目标，还你一片寂静",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496459267014.wav"
+        },
+        {
+            "text": "今天的长城也很和平",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496459724620.wav"
+        },
+        {
+            "text": "没有想保护的人，枪就成了无用的玩具",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496460132889.wav"
+        },
+        {
+            "text": "无论何时，何地，都会遵守约定。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496461124464.wav"
+        },
+        {
+            "text": "关于取下敌人性命这件事，也从不失约",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496461497522.wav"
+        },
+        {
+            "text": "路过草丛的熟人，以子弹礼貌招呼",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496462213727.wav"
+        },
+        {
+            "text": "准备篝火旁的晚餐，庆祝又活过一天",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496462499467.wav"
+        },
+        {
+            "text": "最后一次失约……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496462981260.wav"
+        },
+        {
+            "text": "你自己闯进来的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496464211135.wav"
+        },
+        {
+            "text": "击穿盲点",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496464539409.wav"
+        },
+        {
+            "text": "奋力逃吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496464922948.wav"
+        },
+        {
+            "text": "从狙击镜里，捕捉到了你整套表情包。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496465233381.wav"
+        },
+        {
+            "text": "玄策，长身体的年龄不许挑食哦",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496465598213.wav"
+        },
+        {
+            "text": "做指引你的双眼，看清险阻",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496466377792.wav"
+        },
+        {
+            "text": "兄弟，就该永远在一起。那是和母亲的约定。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496466668572.wav"
+        },
+        {
+            "text": "至亲之血，胜于虚名",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496466995892.wav"
+        },
+        {
+            "text": "身为兄长，都会以自己的方式，去爱血脉相连的那个人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496467423236.wav"
+        },
+        {
+            "text": "在保护弟弟，就不会",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499944593439.mp3"
+        },
+        {
+            "text": "现实冷酷，我们则相依取暖",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496468383673.wav"
+        },
+        {
+            "text": "人生的理想吗？做饭，打扫，照顾弟弟",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496468627016.wav"
+        },
+        {
+            "text": "牛肉是大叔和阿铠的，木兰姐爱粥，蔬菜留给玄策",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496469037941.wav"
+        },
+        {
+            "text": "准备晚餐，也是重要的工作",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496469408282.wav"
+        },
+        {
+            "text": "眼神……充满羡慕的样子……还是装作没看到吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496469724372.wav"
+        },
+        {
+            "text": "感谢对玄策的照顾，但仍不许踏入长城半步。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496470089191.wav"
+        }
+    ]
+}

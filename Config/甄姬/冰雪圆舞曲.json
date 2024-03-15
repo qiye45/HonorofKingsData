@@ -1,0 +1,71 @@
+{
+    "name": "冰雪圆舞曲",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498467753168.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498467789132.jpg",
+    "voice_clips": [
+        {
+            "text": "这颗心，曾因冰封而不朽",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499307442535.mp3"
+        },
+        {
+            "text": "最后一支舞，献给名为冬日的告别",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499307566948.mp3"
+        },
+        {
+            "text": "要再次触碰那朵被冻结的玫瑰吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499307678152.mp3"
+        },
+        {
+            "text": "凡人生命短暂，却轻易许诺永恒",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498427267602.wav"
+        },
+        {
+            "text": "我将赐还你们爱的能力，痛苦是它的附赠品",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498427384030.wav"
+        },
+        {
+            "text": "万物瞬变，冰霜弥久",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498427521122.wav"
+        },
+        {
+            "text": "在属于人间的童话中，神不会感到孤独",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498427645548.wav"
+        },
+        {
+            "text": "来吧，陪我共舞此曲，直到寒夜尽头",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498427789384.wav"
+        },
+        {
+            "text": "当誓言破灭……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498427951269.wav"
+        },
+        {
+            "text": "凛冬降临！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498428137328.wav"
+        },
+        {
+            "text": "去最寒冷的地方绽放！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498428271607.wav"
+        },
+        {
+            "text": "留在冰雪的国度！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498428416517.wav"
+        },
+        {
+            "text": "刺伤你的，正是你所追求的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498428564175.wav"
+        },
+        {
+            "text": "赐你灵魂永生！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498428715056.wav"
+        },
+        {
+            "text": "记忆中的旋律，再度响起……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498428855040.wav"
+        },
+        {
+            "text": "没有什么能融化爱，除了爱本身",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498429001043.wav"
+        }
+    ]
+}

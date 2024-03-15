@@ -1,0 +1,63 @@
+{
+    "name": "遇见飞天",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498473146520.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498473174325.jpg",
+    "voice_clips": [
+        {
+            "text": "和光同尘，结缘之始。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497329517622.wav"
+        },
+        {
+            "text": "凝视我，记住我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497329665411.wav"
+        },
+        {
+            "text": "看一眼月牙泉就回头。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497329754649.wav"
+        },
+        {
+            "text": "人人都途经历史。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497330027190.wav"
+        },
+        {
+            "text": "有谁回应了，关于幸福的祈愿",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497330132554.wav"
+        },
+        {
+            "text": "我见到了你，现在，还有色彩。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497330222807.wav"
+        },
+        {
+            "text": "事物一旦褪色，便属于永恒。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497330324422.wav"
+        },
+        {
+            "text": "我并未离去……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497330537767.wav"
+        },
+        {
+            "text": "若问前事，皆在风中……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497330708800.wav"
+        },
+        {
+            "text": "听，我的第一个梦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497330817090.wav"
+        },
+        {
+            "text": "踏跃九霄，此亦人间",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497331145731.wav"
+        },
+        {
+            "text": "去吧，无名之魂。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497331259124.wav"
+        },
+        {
+            "text": "我的天空比你更深远。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497331359541.wav"
+        },
+        {
+            "text": "你从哪处世界来",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511341793096.mp3"
+        }
+    ]
+}

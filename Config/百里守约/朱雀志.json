@@ -1,0 +1,63 @@
+{
+    "name": "朱雀志",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498381548164.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498327607312.jpg",
+    "voice_clips": [
+        {
+            "text": "辟邪恶，调阴阳！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496593647750.wav"
+        },
+        {
+            "text": "列阵在南！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496593999445.wav"
+        },
+        {
+            "text": "朱雀听命！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496594235089.wav"
+        },
+        {
+            "text": "队长好像又要发言了，先走一步咯~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496594488789.wav"
+        },
+        {
+            "text": "淡定……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496594725529.wav"
+        },
+        {
+            "text": "向导先行~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496594961626.wav"
+        },
+        {
+            "text": "告诉你个秘密，我仍是队里唯一一个会做饭的人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496595218606.wav"
+        },
+        {
+            "text": "决不会在这一刻发出悲鸣。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496599904922.wav"
+        },
+        {
+            "text": "别出声。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496600186394.wav"
+        },
+        {
+            "text": "螳螂捕蝉，朱雀在后咯~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496600431426.wav"
+        },
+        {
+            "text": "保持分寸，就是保持美感~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496600714251.wav"
+        },
+        {
+            "text": "无人可见，无人能敌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496601005402.wav"
+        },
+        {
+            "text": "捕捉我吧，我会属于你~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496601288614.wav"
+        },
+        {
+            "text": "子弹上膛的声音，是我唱歌的先兆。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496615274617.wav"
+        }
+    ]
+}

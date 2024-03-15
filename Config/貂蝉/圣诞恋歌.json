@@ -1,0 +1,115 @@
+{
+    "name": "圣诞恋歌",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16500047085018.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16500048659212.jpg",
+    "voice_clips": [
+        {
+            "text": "今夜，我就是你的圣诞礼物，喜欢吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495476316.wav"
+        },
+        {
+            "text": "平安夜，想要和你一起度过~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495618002.wav"
+        },
+        {
+            "text": "圣诞快乐！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495747102.wav"
+        },
+        {
+            "text": "糖果和我，谁更甜蜜~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495982548.wav"
+        },
+        {
+            "text": "叮叮当叮叮当 铃儿响叮当",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497496152457.wav"
+        },
+        {
+            "text": "来打雪仗吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497496283260.wav"
+        },
+        {
+            "text": "有你的陪伴，一点都不冷哟",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497496403520.wav"
+        },
+        {
+            "text": "啊，又欺负人家",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497496778408.wav"
+        },
+        {
+            "text": "呵呵，呵呵呵，啊，下雪了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497496958761.wav"
+        },
+        {
+            "text": "圣诞夜..不要留我一个人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497497108901.wav"
+        },
+        {
+            "text": "大雪，掩埋了过去的痕迹。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497497227674.wav"
+        },
+        {
+            "text": "哼，居然欺负人家。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497497358592.wav"
+        },
+        {
+            "text": "呵呵呵呵呵呵，你的雪人太好笑了，呵呵呵呵。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497497491059.wav"
+        },
+        {
+            "text": "呵，太好了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497497624566.wav"
+        },
+        {
+            "text": "我在这哟。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497497745348.wav"
+        },
+        {
+            "text": "小蝉不要这种礼物。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497497877558.wav"
+        },
+        {
+            "text": "来打雪仗呀！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497498005750.wav"
+        },
+        {
+            "text": "化个圣诞妆！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497498144049.wav"
+        },
+        {
+            "text": "礼物太多拆的手痛，让我活动活动。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497498285961.wav"
+        },
+        {
+            "text": "让我为你跳支舞吧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497498412764.wav"
+        },
+        {
+            "text": "冷艳如我",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497498563834.wav"
+        },
+        {
+            "text": "礼物，喜欢吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497498688999.wav"
+        },
+        {
+            "text": "好一朵白莲花",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497498824360.wav"
+        },
+        {
+            "text": "纯洁雪花，像我一样",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497498931214.wav"
+        },
+        {
+            "text": "来个飞吻",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497499087655.wav"
+        },
+        {
+            "text": "用生命送礼，蛮拼的哟",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497499246570.wav"
+        },
+        {
+            "text": "平安夜的邂逅，哦，可怜的家伙，果然一生孤独",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497499395622.wav"
+        }
+    ]
+}

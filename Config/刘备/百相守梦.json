@@ -1,0 +1,147 @@
+{
+    "name": "百相守梦",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230510/16837002928830.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230510/16837002742764.jpg",
+    "voice_clips": [
+        {
+            "text": "我是守梦司主，我会穿过废墟与沉寂，重建守护之地",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837128271441.mp3"
+        },
+        {
+            "text": "循青鸟为引，绘脸谱为形，守护信念和传承，就是守梦司",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837128382951.mp3"
+        },
+        {
+            "text": "烟花短暂，却将最美的时刻，映照心间",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837128497342.mp3"
+        },
+        {
+            "text": "守梦司传承千年，映照了梦境与现实",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837004353255.mp3"
+        },
+        {
+            "text": "青鸟落下魂光，指引我们，望见传承之人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837004521924.mp3"
+        },
+        {
+            "text": "人间传承，本有起落，而今，正是复起之时",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837004941510.mp3"
+        },
+        {
+            "text": "昨夜没睡大好，可别遇到什么太麻烦的大家伙",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837005119457.mp3"
+        },
+        {
+            "text": "小的时候，每逢佳节，桃花巷处处都会升起烟花",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837005288471.mp3"
+        },
+        {
+            "text": "街道川流不息，每个人，都可能是觉醒者",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837005456823.mp3"
+        },
+        {
+            "text": "青鸟，就是人间掠过的千百代光阴",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837005648929.mp3"
+        },
+        {
+            "text": "人间无梦，犹如山川失丘壑，该少多少乐趣",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837005794962.mp3"
+        },
+        {
+            "text": "人有千百相，个个皆不同",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837005965422.mp3"
+        },
+        {
+            "text": "危难当头，唤我名字便是",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837006127016.mp3"
+        },
+        {
+            "text": "梦，该醒了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837006326251.mp3"
+        },
+        {
+            "text": "你这样就放弃了，是在和谁比谦让吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837006502710.mp3"
+        },
+        {
+            "text": "哎，消消气——和气生财，气坏伤身。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837006686909.mp3"
+        },
+        {
+            "text": "晌午当时，不如，你也眯一会儿",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837006835476.mp3"
+        },
+        {
+            "text": "烟霭散",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837007174860.mp3"
+        },
+        {
+            "text": "火树银花",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837007342781.mp3"
+        },
+        {
+            "text": "长空破",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837007505487.mp3"
+        },
+        {
+            "text": "驱散梦魇",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837007669172.mp3"
+        },
+        {
+            "text": "于风暴中，照千光",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837007954543.mp3"
+        },
+        {
+            "text": "兄弟们，一起上",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837008149588.mp3"
+        },
+        {
+            "text": "华焰明错",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837008308542.mp3"
+        },
+        {
+            "text": "笔力点透眉心，神面绘制于身",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837008586116.mp3"
+        },
+        {
+            "text": "桃源不在梦中，就在当下",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837008791913.mp3"
+        },
+        {
+            "text": "桃园一拜，风雨不改",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837009021610.mp3"
+        },
+        {
+            "text": "我本孤儿，是桃爷爷在大雪中救了我",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837009457243.mp3"
+        },
+        {
+            "text": "守梦司推门而出，就是川流不息的闹市",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837009663872.mp3"
+        },
+        {
+            "text": "得尽快找到其他传承者",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837009906340.mp3"
+        },
+        {
+            "text": "夜色降临，桃源便民访就变成了守梦司",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837010119726.mp3"
+        },
+        {
+            "text": "二弟，再强大的守梦人，也需要休息",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837010282752.mp3"
+        },
+        {
+            "text": "所以找到他们，就需要你这双明亮的眼",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837010487888.mp3"
+        },
+        {
+            "text": "只要不出去惹麻烦，就随它们去吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837010604235.mp3"
+        },
+        {
+            "text": "你到底给大猫吃了什么，怎么越来越胖",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230510/16837010838355.mp3"
+        }
+    ]
+}

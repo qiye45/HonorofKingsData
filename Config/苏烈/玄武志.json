@@ -1,0 +1,63 @@
+{
+    "name": "玄武志",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498338017077.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498338041541.jpg",
+    "voice_clips": [
+        {
+            "text": "辟邪恶，调阴阳！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496657436362.mp3"
+        },
+        {
+            "text": "列阵在北！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496658046528.wav"
+        },
+        {
+            "text": "玄武听命！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496658249232.wav"
+        },
+        {
+            "text": "誓与小队共存亡！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496658961669.wav"
+        },
+        {
+            "text": "有些灵魂……长如千年。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496659153288.mp3"
+        },
+        {
+            "text": "能柔能刚~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496659389811.wav"
+        },
+        {
+            "text": "不修行的，都是脆皮。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496659658894.mp3"
+        },
+        {
+            "text": "独自沉默。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496659872711.wav"
+        },
+        {
+            "text": "死亡，即是蛰伏~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496660383940.mp3"
+        },
+        {
+            "text": "扫孤蜮！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496661062225.wav"
+        },
+        {
+            "text": "除方良！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496661226378.wav"
+        },
+        {
+            "text": "动苍穹！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496661403465.wav"
+        },
+        {
+            "text": "无人可见，无人能敌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496661944655.wav"
+        },
+        {
+            "text": "来，看谁活得久。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496662369525.wav"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "name": "超时空战士",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20221021/16663370937503.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20221021/16663370757053.jpg",
+    "voice_clips": [
+        {
+            "text": "这是来自时空管理局的通缉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654602376824.mp3"
+        },
+        {
+            "text": "我的时间线里可从没有漏网之鱼。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654602278441.mp3"
+        },
+        {
+            "text": "不属于你们的科技只会带来毁灭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654602153956.mp3"
+        },
+        {
+            "text": "放心，我可不会把时光机塞进狭窄的抽屉。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636714279922.mp3"
+        },
+        {
+            "text": "回到过去的基本原则，不要接触另一个自己。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636714422335.mp3"
+        },
+        {
+            "text": "未来并不可怕，可怕的是沉溺于过去的错误。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636714588384.mp3"
+        },
+        {
+            "text": "有人负责修补这种精细活儿，而我则负责敲扁时间犯的脑袋。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636714726018.mp3"
+        },
+        {
+            "text": "加入我们之前，你得先回答出三种不同的穿越方式~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636714867077.mp3"
+        },
+        {
+            "text": "搞事儿的家伙，不管逃到哪条时间线，我都会亲自捉他归案！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636715021729.mp3"
+        },
+        {
+            "text": "收起你的穿越计划吧，不要再给我们增加工作量了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636715259174.mp3"
+        },
+        {
+            "text": "我们未来再见！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636716311667.mp3"
+        },
+        {
+            "text": "时间没有终点，但……你有！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636716476728.mp3"
+        },
+        {
+            "text": "没错，我又穿越回去欣赏了一遍你的黑历史~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636716642184.mp3"
+        },
+        {
+            "text": "飞出个未来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636717335300.mp3"
+        },
+        {
+            "text": "和时间竞速！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636717474599.mp3"
+        },
+        {
+            "text": "超载跃迁！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636717614035.mp3"
+        },
+        {
+            "text": "我锁定你了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636717889219.mp3"
+        },
+        {
+            "text": "超光速！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636718032393.mp3"
+        },
+        {
+            "text": "收到，请总部同意这次跨时空追捕！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636718267906.mp3"
+        },
+        {
+            "text": "下次擅自行动时记得叫上我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636718427783.mp3"
+        },
+        {
+            "text": "回头得跟那个救了你的小家伙问声好~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636719114437.mp3"
+        },
+        {
+            "text": "你已经有了加入我们小队的潜力~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636719264992.mp3"
+        }
+    ]
+}

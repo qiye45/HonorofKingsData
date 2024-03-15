@@ -1,0 +1,63 @@
+{
+    "name": "幻乐之宴",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498337943880.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498337995310.jpg",
+    "voice_clips": [
+        {
+            "text": "万物皆可摇滚~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494184671232.wav"
+        },
+        {
+            "text": "世界运行的规律，藏在音乐里~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494184816939.wav"
+        },
+        {
+            "text": "献上你的听觉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494184932892.wav"
+        },
+        {
+            "text": "在你心中烧一把火~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494185199468.wav"
+        },
+        {
+            "text": "头上有犄角，为了和缪斯女神连线~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494185335292.wav"
+        },
+        {
+            "text": "今天的心情是重金属质感的~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494185471669.wav"
+        },
+        {
+            "text": "跟紧我的节拍~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494185614793.wav"
+        },
+        {
+            "text": "老派的浪漫~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494185826655.wav"
+        },
+        {
+            "text": "被麦克风…绊倒了…",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494185978764.wav"
+        },
+        {
+            "text": "大隐隐于舞台~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494186143957.wav"
+        },
+        {
+            "text": "开场了，我的乐队！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494186272732.wav"
+        },
+        {
+            "text": "乐我合一！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494186462828.wav"
+        },
+        {
+            "text": "闭嘴吧，跑调的家伙~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494186665205.wav"
+        },
+        {
+            "text": "老头子都玩摇滚，你却还在听古典乐？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494186857384.wav"
+        }
+    ]
+}

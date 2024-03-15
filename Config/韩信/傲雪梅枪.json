@@ -1,0 +1,131 @@
+{
+    "name": "傲雪梅枪",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498396781203.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498396819288.jpg",
+    "voice_clips": [
+        {
+            "text": "此际梅下小睡，竟如百年梦破。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499211972711.mp3"
+        },
+        {
+            "text": "我敬明月与寒梅。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499212119042.mp3"
+        },
+        {
+            "text": "浮花过眼～功名虚幻。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499212265367.mp3"
+        },
+        {
+            "text": "吾胸有数万甲兵，名存天地之间，何憾之有？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493877771814.wav"
+        },
+        {
+            "text": "何来真英雄，唯一穷豪杰在此。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493877953410.wav"
+        },
+        {
+            "text": "飞鸟尽，良弓藏，狡兔死，走狗烹……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493878103793.wav"
+        },
+        {
+            "text": "与其一世供人闲话，不若半生任我逍遥～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493878263868.wav"
+        },
+        {
+            "text": "吾欲行天地～指青霄作阵，列星野为军！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493878398561.wav"
+        },
+        {
+            "text": "功如何？过如何？天地俯仰皆任我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493878513332.wav"
+        },
+        {
+            "text": "管他世情冷眼，无向此间低眉。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493878669508.wav"
+        },
+        {
+            "text": "天下已定，我固当烹......",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493878961752.wav"
+        },
+        {
+            "text": "功易得，命难改。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493879217828.wav"
+        },
+        {
+            "text": "声东击西而已～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493879362785.wav"
+        },
+        {
+            "text": "退而方能进！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493879518544.wav"
+        },
+        {
+            "text": "背水一战！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493879667193.wav"
+        },
+        {
+            "text": "凌险必夷！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493879805200.wav"
+        },
+        {
+            "text": "处变之际，决胜之间！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493879951935.wav"
+        },
+        {
+            "text": "枪雄万敌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493880141811.wav"
+        },
+        {
+            "text": "神枪知我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493880286071.wav"
+        },
+        {
+            "text": "无敌天下！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499891739652.mp3"
+        },
+        {
+            "text": "战必胜，攻必取！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493880833613.wav"
+        },
+        {
+            "text": "游四海，荡千山！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493881126670.wav"
+        },
+        {
+            "text": "来～和这梅花山雪，与我作个闲伴。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493881301276.wav"
+        },
+        {
+            "text": "哈哈哈哈哈哈，阁下武功甚是精妙~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493881463487.wav"
+        },
+        {
+            "text": "嗯~荣枯得丧，天意安排～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493881689258.wav"
+        },
+        {
+            "text": "位极人臣，已是封无再封。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493881879499.wav"
+        },
+        {
+            "text": "欲加之罪，何患无辞！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493882031444.wav"
+        },
+        {
+            "text": "与君一别，恐无再见之时……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493882185752.wav"
+        },
+        {
+            "text": "非我之志，非我之志啊~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499891503720.mp3"
+        },
+        {
+            "text": "今日少年明日老……（选自陈草庵《山坡羊·晨鸡初叫》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493882577337.wav"
+        },
+        {
+            "text": "哈哈哈哈，君可为吾四海之友！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511347425415.wav"
+        }
+    ]
+}

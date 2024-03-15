@@ -1,0 +1,99 @@
+{
+    "name": "音你心动",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498478099913.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498478132996.jpg",
+    "voice_clips": [
+        {
+            "text": "你听到了吗？是我们~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499909255227.mp3"
+        },
+        {
+            "text": "看完这场演出，就去告白好吗！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499909351623.mp3"
+        },
+        {
+            "text": "爱与理想，从不辜负！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499909504488.mp3"
+        },
+        {
+            "text": "音乐，唱出我的力量~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497469064479.wav"
+        },
+        {
+            "text": "去追梦吧，总有一天会遇见对的人~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497469183314.wav"
+        },
+        {
+            "text": "相信天意，更相信不肯放弃的心！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497469304115.wav"
+        },
+        {
+            "text": "尽情演奏，哪怕明天不会来~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497470807489.wav"
+        },
+        {
+            "text": "唱想唱的歌，见想见的人~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497471059073.wav"
+        },
+        {
+            "text": "永远年轻，永远一往无前！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497471173804.wav"
+        },
+        {
+            "text": "五点二十分，时间在相遇那刻静止~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497471303333.wav"
+        },
+        {
+            "text": "是谁弹出了我的夏日前奏？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497471462725.wav"
+        },
+        {
+            "text": "把他的每个侧脸，写进五线谱里~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497471591308.wav"
+        },
+        {
+            "text": "假如，我们不曾相遇…..",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497471757473.wav"
+        },
+        {
+            "text": "歌颂爱情！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497471977065.wav"
+        },
+        {
+            "text": "乐海回声！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497472104077.wav"
+        },
+        {
+            "text": "演出开场~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497472223610.wav"
+        },
+        {
+            "text": "完美合奏！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497472365069.wav"
+        },
+        {
+            "text": "拨动恋爱弦声~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497472497371.wav"
+        },
+        {
+            "text": "加油，音乐是不会抛弃任何人的~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497472657713.wav"
+        },
+        {
+            "text": "是双人乐队的力量哦~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497472861763.wav"
+        },
+        {
+            "text": "在全场欢呼声中牵你的手！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499909666073.mp3"
+        },
+        {
+            "text": "早安，用吉他开启新的一天~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499909846871.mp3"
+        },
+        {
+            "text": "嘿~我只因你心动，耶！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497473388694.wav"
+        }
+    ]
+}

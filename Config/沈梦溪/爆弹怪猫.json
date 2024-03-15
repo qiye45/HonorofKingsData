@@ -1,0 +1,179 @@
+{
+    "name": "爆弹怪猫",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498407849750.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498407883909.jpg",
+    "voice_clips": [
+        {
+            "text": "没人能在喵的暴躁节奏里战胜本猫！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496674046888.mp3"
+        },
+        {
+            "text": "长城之子，归于长城",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496674234449.mp3"
+        },
+        {
+            "text": "今天的本猫，依旧是易燃易爆炸的喵！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496674461874.mp3"
+        },
+        {
+            "text": "本猫守望的长城，屹立不倒",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496675396809.mp3"
+        },
+        {
+            "text": "一硫二硝三木炭，解构你轰轰烈烈的人生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496675567059.mp3"
+        },
+        {
+            "text": "爆炸就像孤独，不是你想停，想停就能停",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496675724297.mp3"
+        },
+        {
+            "text": "让本猫示范下，动口又动手的输出！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496675928269.mp3"
+        },
+        {
+            "text": "即便三分钟热度，也足以穿透次元壁",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496676119140.mp3"
+        },
+        {
+            "text": "生活，终于对本猫动手了吗……？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496676723317.mp3"
+        },
+        {
+            "text": "制造真正的爆款！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496677241888.wav"
+        },
+        {
+            "text": "保护我方队喵！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496677462920.wav"
+        },
+        {
+            "text": "定义下震撼两个字",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496677613090.wav"
+        },
+        {
+            "text": "又多了颗哑炮，喵喵喵",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496678133135.mp3"
+        },
+        {
+            "text": "崩塌的不止防御塔，还有你最后的倔强",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496678599332.mp3"
+        },
+        {
+            "text": "本猫有小情绪啦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496679411791.mp3"
+        },
+        {
+            "text": "惊不惊喜，意不意外。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496679876824.wav"
+        },
+        {
+            "text": "哈哈哈，这是要上天啊。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496680302325.wav"
+        },
+        {
+            "text": "呜啊，老鼠！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496680676638.wav"
+        },
+        {
+            "text": "本猫表演个上天的姿势，嗷呜~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496681207181.mp3"
+        },
+        {
+            "text": "我不是，我没有，我拒绝",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496681693759.wav"
+        },
+        {
+            "text": "哭的这么努力了，还不原谅吗",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496682154784.mp3"
+        },
+        {
+            "text": "长城风景很棒哟~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496682563156.wav"
+        },
+        {
+            "text": "现在的本猫非常不冷静",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496683076906.mp3"
+        },
+        {
+            "text": "本猫的舞蹈~喵~长城的课间操~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496683597258.mp3"
+        },
+        {
+            "text": "人有人设，猫当然有猫设，维持猫设很重要的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496684376999.mp3"
+        },
+        {
+            "text": "勇士之地也存在吸猫势力吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496684576531.mp3"
+        },
+        {
+            "text": "不接受对立物种的投喂，乃基本尊严……真香！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496685031005.mp3"
+        },
+        {
+            "text": "…能打能扛能热锅……嗯，值得深入拆解",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496685591009.mp3"
+        },
+        {
+            "text": "第一百二十八次拆解……失败",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496686113714.mp3"
+        },
+        {
+            "text": "太古有士，姓薛名定谔，为云中漠地猫系混血魔种的先祖。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496686691603.mp3"
+        },
+        {
+            "text": "没有好好研究过猫奴的自我修养，怎么养我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496686912408.mp3"
+        },
+        {
+            "text": "冤冤相报何时了……要善良！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496687515994.mp3"
+        },
+        {
+            "text": "放下仇恨的小本本，否则很容易长皱纹！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496687673885.mp3"
+        },
+        {
+            "text": "无拘无束如本猫，哥哥什么的太多余",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496688344033.mp3"
+        },
+        {
+            "text": "有文化的人，连撸猫都更有范儿！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496689114613.mp3"
+        },
+        {
+            "text": "队长，率领我们冲锋吧！本猫很清楚什么是值得做的事",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496689667760.mp3"
+        },
+        {
+            "text": "如果不能给女孩子留下好印象，那么，留下表情包也是可以的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496690154887.mp3"
+        },
+        {
+            "text": "听过那个传说吗？抛弃长城的人，会一去不返",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496690814366.mp3"
+        },
+        {
+            "text": "方士，你寻求到了吗？梦寐以求的幸福",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496691791104.mp3"
+        },
+        {
+            "text": "停止你对哥哥的炫耀！嫉妒令本猫提前引爆！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496692483672.mp3"
+        },
+        {
+            "text": "失败者连喵都没得撸！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496692898596.wav"
+        },
+        {
+            "text": "惨无人道的猫薄荷投喂……真……香……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496693719601.mp3"
+        },
+        {
+            "text": "你失败的这片地盘，都由本猫承包了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496694324403.mp3"
+        }
+    ]
+}

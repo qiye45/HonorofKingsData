@@ -1,0 +1,107 @@
+{
+    "name": "追逃游戏",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230629/16880214829956.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230629/16880214957206.jpg",
+    "voice_clips": [
+        {
+            "text": "离她最近的一刻，就是离真相最近的一刻！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880237889523.mp3"
+        },
+        {
+            "text": "不必恐慌，如你所见，我是一位遵纪守法的巫师。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880238206598.mp3"
+        },
+        {
+            "text": "请放弃无谓的抵抗，你已经被我包围了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880238563586.mp3"
+        },
+        {
+            "text": "为善恶划分边界，为魔法设定规则，这就是管理员的日常工作。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880223243870.mp3"
+        },
+        {
+            "text": "魔法部安全出行手册提醒，警惕附近出没的双马尾。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880223769093.mp3"
+        },
+        {
+            "text": "禁止随地滥用魔法，除非你想上黑名单的话。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880224054900.mp3"
+        },
+        {
+            "text": "再快点儿！不然嫌疑魔女就要跟丢了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880224602085.mp3"
+        },
+        {
+            "text": "魔女的心思，比中古咒语更难理解的存在。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880224916642.mp3"
+        },
+        {
+            "text": "秩序之内，魔法构筑均衡。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880225215175.mp3"
+        },
+        {
+            "text": "滥用魔法的恶果！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880225903527.mp3"
+        },
+        {
+            "text": "嫌疑巫师已逮捕！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880226328985.mp3"
+        },
+        {
+            "text": "尽快通知... 其他管理员...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880226614414.mp3"
+        },
+        {
+            "text": "放下武器，我将保留你与魔法部申诉的权利。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880226897391.mp3"
+        },
+        {
+            "text": "紧急出勤！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880227246152.mp3"
+        },
+        {
+            "text": "前方锁定——黑名单人员",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880227522039.mp3"
+        },
+        {
+            "text": "魔盾护身！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880227806494.mp3"
+        },
+        {
+            "text": "秩序，予你自由！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880228096943.mp3"
+        },
+        {
+            "text": "最后通牒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880228356549.mp3"
+        },
+        {
+            "text": "总部禁令，不容挑衅！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880228656385.mp3"
+        },
+        {
+            "text": "以管理员的名义，奉劝阁下放弃针对魔法部的恶作剧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880228944310.mp3"
+        },
+        {
+            "text": "这一次，一定不会让你再逃掉了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880229314611.mp3"
+        },
+        {
+            "text": "你确定这次真的是惊喜不是惊吓……？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880229642899.mp3"
+        },
+        {
+            "text": "这次的目标——抓住一个爱捣蛋的小魔女。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880229939839.mp3"
+        },
+        {
+            "text": "敬告诸位，不要靠近我的皮箱！额啊啊啊啊啊",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880230292981.mp3"
+        },
+        {
+            "text": "呃啊啊啊啊……谁能知道让它们听话的咒语？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880230752538.mp3"
+        }
+    ]
+}

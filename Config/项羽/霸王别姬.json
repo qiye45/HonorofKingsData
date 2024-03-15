@@ -1,0 +1,55 @@
+{
+    "name": "霸王别姬",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499982067054.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498340986957.jpg",
+    "voice_clips": [
+        {
+            "text": "力拔山兮气盖世（京剧唱腔版）（选自项羽《垓下歌》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493234165272.wav"
+        },
+        {
+            "text": "四面楚歌起，英雄战末路~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493234325578.wav"
+        },
+        {
+            "text": "天亡我楚，非战之罪也。（选自司马迁《项羽之死》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493234494260.wav"
+        },
+        {
+            "text": "骓不逝兮可奈何，虞兮虞兮奈若何。（选自项羽《垓下歌》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493234662310.wav"
+        },
+        {
+            "text": "八千子弟何在！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493234819383.wav"
+        },
+        {
+            "text": "逐鹿中原，不知鹿死谁手！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493234998711.wav"
+        },
+        {
+            "text": "枪挑了汉营中数员上将，虽英勇怎提防十面埋藏",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493235264996.wav"
+        },
+        {
+            "text": "田园将芜胡不归。虞姬，你可有悔~（选自陶渊明《归去来兮辞·并序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493235446134.wav"
+        },
+        {
+            "text": "今日，你我当别~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493235708310.wav"
+        },
+        {
+            "text": "一人能挡百万军",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493235918872.wav"
+        },
+        {
+            "text": "起兵，破汉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493236088928.wav"
+        },
+        {
+            "text": "尔等，只配随葬！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493236439896.wav"
+        }
+    ]
+}

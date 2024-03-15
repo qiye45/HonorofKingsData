@@ -1,0 +1,127 @@
+{
+    "name": "幻舞玲珑",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230309/16783536522258.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230309/16783536633750.jpg",
+    "voice_clips": [
+        {
+            "text": "红叶最多情，一舞寄相思~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496644424779.wav"
+        },
+        {
+            "text": "念念不忘，必有回响。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496644559164.wav"
+        },
+        {
+            "text": "再多喜欢阿离一点，可以吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496644672589.wav"
+        },
+        {
+            "text": "有缘又有聚~才是阿离的舞台",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496645482461.mp3"
+        },
+        {
+            "text": "谁建造它？谁守望它？谁在枫叶的季节，从它身畔归来？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496645886738.mp3"
+        },
+        {
+            "text": "别离，为了更美妙的重逢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496646044680.mp3"
+        },
+        {
+            "text": "飘零的孤鸟，也有权利寻求幸福呀~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496646218586.mp3"
+        },
+        {
+            "text": "花绽放于长安的春日，温暖又幸福~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496646399249.mp3"
+        },
+        {
+            "text": "要幸福……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496646766795.wav"
+        },
+        {
+            "text": "来如雷霆，罢如江海。（选自杜甫《观公孙大娘弟子舞剑器行》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496647359720.wav"
+        },
+        {
+            "text": "一舞剑器动四方。（选自杜甫《观公孙大娘弟子舞剑器行》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496647508274.wav"
+        },
+        {
+            "text": "霜叶红于二月花。（选自杜牧《山行》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496650559718.wav"
+        },
+        {
+            "text": "你有家吗？有温暖的女孩子在家里等你吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496650873287.wav"
+        },
+        {
+            "text": "初恋的心动，你懂吗？哼，不懂~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496651774617.wav"
+        },
+        {
+            "text": "与崇拜的偶像共舞，仿佛做梦",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496651944673.wav"
+        },
+        {
+            "text": "让恐惧的人勇敢，让痛苦的人坚强，让悲伤的人充满希望",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496652449049.mp3"
+        },
+        {
+            "text": "反复练习的阿离很笨吧。唯有痛苦使人破茧成蝶",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496652662727.mp3"
+        },
+        {
+            "text": "长安，大家拼命努力实现梦想的地方",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496652824751.wav"
+        },
+        {
+            "text": "和心上人享受做饭的乐趣，会是特别的氛围吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496653117126.mp3"
+        },
+        {
+            "text": "果然，想征服爱人的心，就得先征服他的胃。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496653349378.mp3"
+        },
+        {
+            "text": "长，长安城鼎鼎有名的狄大人吗？阿离可是您的粉丝",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496654598952.mp3"
+        },
+        {
+            "text": "阿离，做不到旁观他人的不幸",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496654857170.wav"
+        },
+        {
+            "text": "暗夜里，似乎邂逅过的样子呢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496655054962.mp3"
+        },
+        {
+            "text": "在迷宫般的长安城里，寻求各自认定的幸福",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496655287834.mp3"
+        },
+        {
+            "text": "阿离的热情，不会输给前辈们",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496655446676.wav"
+        },
+        {
+            "text": "琴声里看到了，遗忘在记忆中的模样",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511121426351.mp3"
+        },
+        {
+            "text": "仅仅追逐那个影子，就无比幸福呀",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511339559632.mp3"
+        },
+        {
+            "text": "下棋也不能不顾身体。星儿，我做的饭好吃吗～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511348288146.mp3"
+        },
+        {
+            "text": "小星儿，你是不是长高啦！快过来量一量~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511348532607.mp3"
+        },
+        {
+            "text": "昔我往矣，杨柳依依。今我来思，雨雪霏霏。（选自《采薇》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063383012597.mp3"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "无双福将",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499985624412.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499985662131.jpg",
+    "voice_clips": [
+        {
+            "text": "护国大将军在此！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496581866296.wav"
+        },
+        {
+            "text": "国定民安，此生所愿。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496581999863.wav"
+        },
+        {
+            "text": "听说家家都有我的画像？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496582116597.wav"
+        },
+        {
+            "text": "好男儿当保家卫国，立不二之功！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496582274643.wav"
+        },
+        {
+            "text": "不是神，也能让你怀疑人生！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496582395377.wav"
+        },
+        {
+            "text": "流血流汗流泪的，都是真男儿！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496582503006.wav"
+        },
+        {
+            "text": "身负战功与武艺，绝非徒有虚名。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496582644296.wav"
+        },
+        {
+            "text": "一半靠力气，一半靠运气。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496582793128.wav"
+        },
+        {
+            "text": "一将功成万骨枯！（选自曹松《己亥岁二首·僖宗广明元年》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496583078751.mp3"
+        },
+        {
+            "text": "力劈山河！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496583345452.wav"
+        },
+        {
+            "text": "放心，有本将军在！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496583517414.wav"
+        },
+        {
+            "text": "浴血沙场！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496583658552.wav"
+        },
+        {
+            "text": "再战三百回合",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496586848449.wav"
+        },
+        {
+            "text": "输人不输阵！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587002394.wav"
+        },
+        {
+            "text": "身无寸功，也敢嚣张？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587149174.wav"
+        },
+        {
+            "text": "速速降来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587366780.wav"
+        },
+        {
+            "text": "军法处置！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587557011.wav"
+        }
+    ]
+}

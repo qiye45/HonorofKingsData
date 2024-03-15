@@ -1,0 +1,63 @@
+{
+    "name": "猫影幻舞",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498400922346.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498400944462.jpg",
+    "voice_clips": [
+        {
+            "text": "一舞倾城，一念倾国~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499933313223.mp3"
+        },
+        {
+            "text": "高堂下的目光，一分敬畏，九分欲望",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497521424748.wav"
+        },
+        {
+            "text": "面具之下，是更美的面具~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497521567573.wav"
+        },
+        {
+            "text": "猫有九命，唯独一心",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497521708153.wav"
+        },
+        {
+            "text": "世人不懂，胜负或爱恨，那都不是神灵掌管的范畴",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497521831915.wav"
+        },
+        {
+            "text": "梦里，有人为我唱了支歌",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497522002467.wav"
+        },
+        {
+            "text": "月明星稀，我心…何归…",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497522225237.wav"
+        },
+        {
+            "text": "不必祈祷~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497522501664.wav"
+        },
+        {
+            "text": "河山万里，皆于舞中",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497522639489.wav"
+        },
+        {
+            "text": "会有一星照亮此处~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497522769859.wav"
+        },
+        {
+            "text": "赐福于你~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497522909086.wav"
+        },
+        {
+            "text": "求神不如求己，求己不如求我~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497523042574.wav"
+        },
+        {
+            "text": "永恒荣耀，不灭星辰。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499933445256.mp3"
+        },
+        {
+            "text": "这是我的猫，已经陪了我三年~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497523402345.wav"
+        }
+    ]
+}

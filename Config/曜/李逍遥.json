@@ -1,0 +1,135 @@
+{
+    "name": "李逍遥",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499885172283.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499885245502.jpg",
+    "voice_clips": [
+        {
+            "text": "逍遥江湖，纵横四海！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500035726893.wav"
+        },
+        {
+            "text": "千里崎岖不辞苦，仗剑江湖为红颜。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500035576095.wav"
+        },
+        {
+            "text": "挥剑笑，斩怒风！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500035409442.wav"
+        },
+        {
+            "text": "我李逍遥可以对天发誓，从今以后决不让你一人孤苦伶仃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498449023767.wav"
+        },
+        {
+            "text": "将来，要像我爹娘一样练成绝世武功，成为一代大侠~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498449269613.wav"
+        },
+        {
+            "text": "既不回头，何必不忘……既然无缘，何须誓言……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498449449529.wav"
+        },
+        {
+            "text": "魔非魔，道非道，善恶在人心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498449591839.wav"
+        },
+        {
+            "text": "等一切结束后，我们就去游山玩水，吃遍天下珍味！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498449917435.wav"
+        },
+        {
+            "text": "如果这是场梦……又该如何结束呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498450067042.wav"
+        },
+        {
+            "text": "这位仁兄，不想打架的话，就请让路吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498450217830.wav"
+        },
+        {
+            "text": "一切都是冥冥之中的安排吗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498450458371.wav"
+        },
+        {
+            "text": "今日种种，似水无痕……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498451135169.wav"
+        },
+        {
+            "text": "胜败乃兵家常事，大侠请重新来过~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498451329809.wav"
+        },
+        {
+            "text": "手下败将，还想自讨苦吃？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498451517813.wav"
+        },
+        {
+            "text": "御剑术！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498451679728.wav"
+        },
+        {
+            "text": "天师符法！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498451816961.wav"
+        },
+        {
+            "text": "看招！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498452517984.wav"
+        },
+        {
+            "text": "嘿嘿~虚晃一招！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498452668669.wav"
+        },
+        {
+            "text": "小试身手~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498452823108.wav"
+        },
+        {
+            "text": "仙风云体术！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498452959332.wav"
+        },
+        {
+            "text": "剑神！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498453125493.wav"
+        },
+        {
+            "text": "见人有难，不能不管~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498455261709.wav"
+        },
+        {
+            "text": "酒神咒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498455448267.wav"
+        },
+        {
+            "text": "万剑诀！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498455684051.wav"
+        },
+        {
+            "text": "这叫行侠仗义~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498455988959.wav"
+        },
+        {
+            "text": "你也想成为十里坡剑神？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498456199492.wav"
+        },
+        {
+            "text": "来呀，你打得到我吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498456377950.wav"
+        },
+        {
+            "text": "你这个作恶多端的……啊，婶婶！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498456531428.wav"
+        },
+        {
+            "text": "承让咯~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498456783282.wav"
+        },
+        {
+            "text": "替天行道！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498456997161.wav"
+        },
+        {
+            "text": "路见不平，拔刀相助~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498457222892.wav"
+        },
+        {
+            "text": "你相信时光倒流吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498457404359.wav"
+        }
+    ]
+}

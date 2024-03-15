@@ -1,0 +1,67 @@
+{
+    "name": "机关造物",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498404454805.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498404495301.jpg",
+    "voice_clips": [
+        {
+            "text": "鲁班大师，智商250，膜拜。记得膜拜！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493986652491.wav"
+        },
+        {
+            "text": "有人需要技术支持吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493987159106.wav"
+        },
+        {
+            "text": "哇，漏……漏油了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493987311718.wav"
+        },
+        {
+            "text": "借你们肉体试验下新发明的威力！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493987478203.wav"
+        },
+        {
+            "text": "正在思考如何攻克地心引力。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493987656312.wav"
+        },
+        {
+            "text": "检测了对面的智商，看来无法发挥全部实力了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493987787244.wav"
+        },
+        {
+            "text": "不得不承认，有时候肌肉比头脑管用。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493987969388.wav"
+        },
+        {
+            "text": "相信科学！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493988109363.wav"
+        },
+        {
+            "text": "静静……我想要静静……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493988419136.wav"
+        },
+        {
+            "text": "看，天上有灰机~嘿嘿嘿嘿",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493990321739.wav"
+        },
+        {
+            "text": "刮风了，下蛋了，该收人头了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493990467516.wav"
+        },
+        {
+            "text": "人间大炮，发射！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493990652844.wav"
+        },
+        {
+            "text": "看我嘴炮无敌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493990806802.wav"
+        },
+        {
+            "text": "嘻嘻，你的心脏熄火了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493990951855.wav"
+        },
+        {
+            "text": "来呀，来打我呀，你们抓不到我的嘻嘻~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493991083633.wav"
+        }
+    ]
+}

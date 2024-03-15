@@ -1,0 +1,51 @@
+{
+    "name": "华尔街大亨",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498322587006.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498322637160.jpg",
+    "voice_clips": [
+        {
+            "text": "金钱永不沉睡！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495783383350.wav"
+        },
+        {
+            "text": "我爱金钱，金钱爱我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495783501814.wav"
+        },
+        {
+            "text": "起床！起床！老板叫你加班了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495783642442.wav"
+        },
+        {
+            "text": "挣钱这方面，人人都得尊称我为校长。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495783786856.wav"
+        },
+        {
+            "text": "钱袋和胃口，都是无底洞。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495783914124.wav"
+        },
+        {
+            "text": "嘿嘿嘿~老板我有一千种方法削减你的薪水！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495784049281.wav"
+        },
+        {
+            "text": "人傻钱多，买买买！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495784176394.wav"
+        },
+        {
+            "text": "破产……！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495784326288.wav"
+        },
+        {
+            "text": "砍你预算！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495784474270.wav"
+        },
+        {
+            "text": "大萧条席卷一切！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495784606007.wav"
+        },
+        {
+            "text": "强健的肌肉，今夜让你们无法入睡",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495785022283.wav"
+        }
+    ]
+}

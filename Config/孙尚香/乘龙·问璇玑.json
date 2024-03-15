@@ -1,0 +1,183 @@
+{
+    "name": "乘龙·问璇玑",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240204/17070416407349.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240204/17070416527095.jpg",
+    "voice_clips": [
+        {
+            "text": "究天地之理，志历象千变。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070373583106.mp3"
+        },
+        {
+            "text": "试问天星！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070373785281.mp3"
+        },
+        {
+            "text": "千秋为纪，星历承传！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070373958662.mp3"
+        },
+        {
+            "text": "承千秋之祐，聚万象为龙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070375378145.mp3"
+        },
+        {
+            "text": "列五纬，纪百事之象；张四时，候万物之征。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070375601368.mp3"
+        },
+        {
+            "text": "彗星袭月，荧惑守心……祸福皆由人定，何必附会天机？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070375827910.mp3"
+        },
+        {
+            "text": "凡天文筹算之术，有一问必有一解，有所思必有所得~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070376079747.mp3"
+        },
+        {
+            "text": "乾坤为盘星落子——管它太虚谁御，看我大破此局～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070376278967.mp3"
+        },
+        {
+            "text": "问九重霄天因何运，诸天星斗为谁明！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070376513914.mp3"
+        },
+        {
+            "text": "天行有常，地纪有方，穷观六合，法象八荒~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070376736843.mp3"
+        },
+        {
+            "text": "“七月流火”，天文也；“相其阴阳”，地理也；“四矢反兮”，射也！（选自顾炎武《日知录 · 卷五》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070377136636.mp3"
+        },
+        {
+            "text": "盈盈宇宙，杳杳星芒，我心所向，遥猎天狼！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070377434765.mp3"
+        },
+        {
+            "text": "千载之后，必存我名！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070377675064.mp3"
+        },
+        {
+            "text": "我辈志在寥阔，偏上九重求索！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070377929246.mp3"
+        },
+        {
+            "text": "未尽人事，何谈天命?",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070378235954.mp3"
+        },
+        {
+            "text": "探乾坤，晓四时！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070378454544.mp3"
+        },
+        {
+            "text": "星流如织！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070378668068.mp3"
+        },
+        {
+            "text": "气象万千！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070378849434.mp3"
+        },
+        {
+            "text": "高居北辰！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070379038455.mp3"
+        },
+        {
+            "text": "何须妙手摘星！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070379208977.mp3"
+        },
+        {
+            "text": "众星何历历～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070379386029.mp3"
+        },
+        {
+            "text": "观象察法，藏往知来~（选自《晋书·天文志》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070379643525.mp3"
+        },
+        {
+            "text": "月离于毕，龙尾伏辰！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070380394003.mp3"
+        },
+        {
+            "text": "大衍神机之妙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070380741041.mp3"
+        },
+        {
+            "text": "走，去追上那颗流星！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070381082344.mp3"
+        },
+        {
+            "text": "四时佳节，岁暮当归~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070381298938.mp3"
+        },
+        {
+            "text": "天下十斗英雄气～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070381906521.mp3"
+        },
+        {
+            "text": "你离家的那天，我看见长星坠落……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070382143180.mp3"
+        },
+        {
+            "text": "笨神仙，看好你自己，动手的时候可没人顾得上你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070382389440.mp3"
+        },
+        {
+            "text": "不是我非要拿这金珠，是这金珠偏爱我～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070382583356.mp3"
+        },
+        {
+            "text": "你在写的……是我的名字？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070382819542.mp3"
+        },
+        {
+            "text": "跟你说的那些传奇故事、黄衫红拂相较，姐姐观我如何！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070383002802.mp3"
+        },
+        {
+            "text": "都说钟鼎年寿悠长，过了今朝你岂不又添春秋千岁？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070383354777.mp3"
+        },
+        {
+            "text": "这就是和你同来的小家伙？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070383594582.mp3"
+        },
+        {
+            "text": "盈虚有数，何况人乎？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070383879457.mp3"
+        },
+        {
+            "text": "本小姐何须借日月之光？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070384075250.mp3"
+        },
+        {
+            "text": "天生万物，惟人最灵～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070384254519.mp3"
+        },
+        {
+            "text": "天曰：不可说，不可说啊！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070384436621.mp3"
+        },
+        {
+            "text": "谁造万象神工！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070384665498.mp3"
+        },
+        {
+            "text": "非我毁弃，乃是此物天年已尽……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070384867974.mp3"
+        },
+        {
+            "text": "大鹏叱起，飞佩八极！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070385076615.mp3"
+        },
+        {
+            "text": "来！与我直下看山河！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070385277963.mp3"
+        },
+        {
+            "text": "星汉常熠熠，我道自昭昭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070385495481.mp3"
+        },
+        {
+            "text": "乘云去，步天歌~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070385703274.mp3"
+        }
+    ]
+}

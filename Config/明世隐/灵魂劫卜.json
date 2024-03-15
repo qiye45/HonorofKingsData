@@ -1,0 +1,179 @@
+{
+    "name": "灵魂劫卜",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498361932223.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498361953004.jpg",
+    "voice_clips": [
+        {
+            "text": "花如盛世绽放，以人心培育。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497291175136.wav"
+        },
+        {
+            "text": "心似时光飘零，以生命愉悦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497291748596.wav"
+        },
+        {
+            "text": "乾卦，飞龙在天，宜上分。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497291946161.wav"
+        },
+        {
+            "text": "无妄，天命不佑，小心队友。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497292078335.wav"
+        },
+        {
+            "text": "复卦，万物亨通，逆境可再兴。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497292311084.wav"
+        },
+        {
+            "text": "明夷，晦暗之像，顺风当慎行。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497292489171.wav"
+        },
+        {
+            "text": "福兮祸所伏，祸兮福所倚。（选自贾谊《鵩鸟赋》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497300704907.wav"
+        },
+        {
+            "text": "过度渴望招致完全绝望。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497300879297.wav"
+        },
+        {
+            "text": "大吉大利的卦象，抵不过栩栩如生的愚蠢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497300936408.wav"
+        },
+        {
+            "text": "人生乏味，我欲令之光怪陆离。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497301081413.wav"
+        },
+        {
+            "text": "血管里，流淌着忘川之水",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497301186742.wav"
+        },
+        {
+            "text": "人算不如天算",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497301433508.wav"
+        },
+        {
+            "text": "算无遗策",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497301676221.wav"
+        },
+        {
+            "text": "哈哈哈，小小的推波助澜而已",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497301758673.wav"
+        },
+        {
+            "text": "你果然太年轻",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497302181346.wav"
+        },
+        {
+            "text": "用忘川的水，将你们当作牡丹浇灌",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497302295314.wav"
+        },
+        {
+            "text": "以堕世之神的名义，该去取回我失去的东西了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497302367102.wav"
+        },
+        {
+            "text": "离卦，上九，谊征伐",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497302421850.wav"
+        },
+        {
+            "text": "失去的便应当取回，这没有错",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497302772939.wav"
+        },
+        {
+            "text": "情感囚入牢笼，留下的唯有胜负心",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497302869212.wav"
+        },
+        {
+            "text": "利用或者被利用，人生就这么不平等",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497303391178.wav"
+        },
+        {
+            "text": "冷却的心呐，早已不可能为任何人停留",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497303472262.wav"
+        },
+        {
+            "text": "羌笛何须怨杨柳，春风不度玉门关。（选自王之涣《凉州词二首·其一》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497303538427.wav"
+        },
+        {
+            "text": "一堆无用的热情",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497303666480.wav"
+        },
+        {
+            "text": "卦象说：既曾死而复生，亦将生而复灭",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497303727747.wav"
+        },
+        {
+            "text": "我的就是我的，终究属于我的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497304291325.wav"
+        },
+        {
+            "text": "纵万千国色，也无法与小小的瓣鳞花争艳吗？哼",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497304474833.wav"
+        },
+        {
+            "text": "卦象说：背叛，不会是最后一次",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497304591085.wav"
+        },
+        {
+            "text": "唔，真是……算过的卦里最烂的八字",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497304729388.wav"
+        },
+        {
+            "text": "卦象说：回不来的，永远回不来。得不到的，永远得不到",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497304793015.wav"
+        },
+        {
+            "text": "若牵挂的人只存在于回忆中，才是彻头彻尾的失败",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497304873743.wav"
+        },
+        {
+            "text": "卦象说：以别离始，以别离终",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497304977264.wav"
+        },
+        {
+            "text": "诶呀，卦象说：你会被抛弃三次。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497305617789.wav"
+        },
+        {
+            "text": "兄弟，可笑又可怜的谎言",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497305741493.wav"
+        },
+        {
+            "text": "谁记得你？谁需要你？谁才不会再次离开你？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497305872983.wav"
+        },
+        {
+            "text": "长安和亲人，选哪一个？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497305954053.wav"
+        },
+        {
+            "text": "没有绝对的吉凶，就像没有绝对的正义",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497306156212.wav"
+        },
+        {
+            "text": "什么……都算不出、什么……也看不清",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497306463523.wav"
+        },
+        {
+            "text": "命运会否与卦象如一？拭目以待吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497306663298.wav"
+        },
+        {
+            "text": "卦象说：你承诺的，言出必果；你恐惧的，如约而至",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220427/16510552636009.mp3"
+        },
+        {
+            "text": "星儿，待你解开此局，便是师父归来之日。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511353218556.mp3"
+        },
+        {
+            "text": "昔日云中牡丹客，今朝长安隐世人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511354206797.mp3"
+        },
+        {
+            "text": "没有结局的生命，没有回声的话语。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220915/16632397877786.mp3"
+        }
+    ]
+}

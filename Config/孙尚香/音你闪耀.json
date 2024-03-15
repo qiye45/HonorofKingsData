@@ -1,0 +1,139 @@
+{
+    "name": "音你闪耀",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220805/16597032748049.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220805/16597032923022.jpg",
+    "voice_clips": [
+        {
+            "text": "过往织就梦境，通向城市云端的舞台！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597034769478.mp3"
+        },
+        {
+            "text": "保持气势，再加点放肆~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220808/16599244742737.mp3"
+        },
+        {
+            "text": "韵律平仄起伏，直言挥洒傲骨~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597035017383.mp3"
+        },
+        {
+            "text": "我可以成为任何样子，唯独不是他们想象的样子",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597035576281.mp3"
+        },
+        {
+            "text": "有限的叫音符，无限的才是音乐！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597035709908.mp3"
+        },
+        {
+            "text": "每个人都有过梦，只是一些人选择了遗忘",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597035831106.mp3"
+        },
+        {
+            "text": "拿起麦克风，别让你的声音被世界淹没！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597035971520.mp3"
+        },
+        {
+            "text": "韵脚写着昨日的过往，鼓点构筑明天的锋芒",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597036102474.mp3"
+        },
+        {
+            "text": "曾经的每个我，组成了你面前这个我",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597036231234.mp3"
+        },
+        {
+            "text": "音调必须准确无误，但人生拒绝按部就班！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597036389091.mp3"
+        },
+        {
+            "text": "炫技？即兴说唱而已~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597036522531.mp3"
+        },
+        {
+            "text": "换个节奏继续",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220808/16599238898880.wav"
+        },
+        {
+            "text": "燃爆全场！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597037388889.wav"
+        },
+        {
+            "text": "保持自我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597037538979.wav"
+        },
+        {
+            "text": "服从我的节奏！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597037677151.wav"
+        },
+        {
+            "text": "乖乖听好了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597037833575.wav"
+        },
+        {
+            "text": "漂亮的双押！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597038028130.wav"
+        },
+        {
+            "text": "下面是炸场时间！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597038166944.wav"
+        },
+        {
+            "text": "点睛之笔！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220808/16599239271662.wav"
+        },
+        {
+            "text": "陈词滥调，就此打住！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597038622459.mp3"
+        },
+        {
+            "text": "与其仰望星空，不如直接成为那颗星星！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597038877646.mp3"
+        },
+        {
+            "text": "来场实力派之间的比试吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597039085981.wav"
+        },
+        {
+            "text": "第一张专辑的名字，就叫《大小姐》~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597039266272.mp3"
+        },
+        {
+            "text": "我在哪里，聚光灯就在哪里！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597039401878.wav"
+        },
+        {
+            "text": "从不回避质疑，偶尔主动出击~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597039535416.wav"
+        },
+        {
+            "text": "举起手，和我一起唱~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597039669629.wav"
+        },
+        {
+            "text": "亲手签名的专辑，收好了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597039819300.wav"
+        },
+        {
+            "text": "安可的呼声，我听到了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597039961469.wav"
+        },
+        {
+            "text": "光凭语速快，可赢不了我~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597040109130.wav"
+        },
+        {
+            "text": "任何阻碍，都是无关紧要的杂音！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597040243918.mp3"
+        },
+        {
+            "text": "没胆量的家伙",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220808/16599239533535.wav"
+        },
+        {
+            "text": "灵感跑的太快……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220808/16599239663082.wav"
+        },
+        {
+            "text": "每首歌都是代表作~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220805/16597040694982.wav"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "name": "断案大师",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498391882749.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498391902853.jpg",
+    "voice_clips": [
+        {
+            "text": "真相只有一个！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496547963224.wav"
+        },
+        {
+            "text": "代表法律制裁你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496548101019.wav"
+        },
+        {
+            "text": "现在是逮捕时间！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496548272452.wav"
+        },
+        {
+            "text": "为无辜者代言！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496548453558.wav"
+        },
+        {
+            "text": "以陛下的名义，你被捕了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496548582517.wav"
+        },
+        {
+            "text": "想知道自己怎么死的吗？来，马上就告诉你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496548709878.wav"
+        },
+        {
+            "text": "死者也会开口说话！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496548838153.wav"
+        },
+        {
+            "text": "我就是法律的化身！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496548966732.wav"
+        },
+        {
+            "text": "凶手就在我们中间……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496549977684.wav"
+        },
+        {
+            "text": "斩立决",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496550118087.wav"
+        },
+        {
+            "text": "全面搜查！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496550241625.wav"
+        },
+        {
+            "text": "接受法律制裁！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496550391125.wav"
+        },
+        {
+            "text": "罪犯们，逍遥法外的好日子结束了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496550521087.wav"
+        },
+        {
+            "text": "大理寺的工作量有这么不饱和吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220427/16510536993716.mp3"
+        },
+        {
+            "text": "不可喧哗，不可追逐，不可随意动武……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220427/16510537216732.mp3"
+        },
+        {
+            "text": "律法会消弭世间的不平",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511338233171.mp3"
+        },
+        {
+            "text": "今日无事，不如对弈一局",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511354978298.mp3"
+        },
+        {
+            "text": "两仪门现世，暗中欲借此搅动风云者，又将行动。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221129/16697152344112.mp3"
+        },
+        {
+            "text": "陛下派人驻守玄都观，实为防备外来之敌。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221129/16697152607784.mp3"
+        }
+    ]
+}

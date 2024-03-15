@@ -1,0 +1,147 @@
+{
+    "name": "乘龙·淬吴钩",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240204/17070415114959.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240204/17070415181362.jpg",
+    "voice_clips": [
+        {
+            "text": "固九州志业，筑万里封疆。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070363276852.mp3"
+        },
+        {
+            "text": "烽烟扫尽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070363488718.mp3"
+        },
+        {
+            "text": "千秋为纪，关河永固。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070363703178.mp3"
+        },
+        {
+            "text": "承千秋之祐，聚万象为龙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070364785240.mp3"
+        },
+        {
+            "text": "立中原，戍三边，执矛执殳，为国前驱。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070365043582.mp3"
+        },
+        {
+            "text": "愿得此身安社稷，守我河山日月明。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070365303835.mp3"
+        },
+        {
+            "text": "出其虚，避其实，谋定而后动，操奇而制胜！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070365576873.mp3"
+        },
+        {
+            "text": "火放上风，兵激烟下，锋刃所截，猋火所焚——敌寇，孰能当锋！（改编自《三国志·吴志·孙策传》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070365966313.mp3"
+        },
+        {
+            "text": "尔等前无能争之锐，后无可应之兵，也敢狂言彼我胜败？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070366237577.mp3"
+        },
+        {
+            "text": "鸷鸟将击，卑飞敛翼；猛兽将搏，弭耳俯伏！（选自《六韬》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070366561297.mp3"
+        },
+        {
+            "text": "九州万古英雄气，再一千秋亦凛然！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070366826026.mp3"
+        },
+        {
+            "text": "自古忠烈之志，有如传世星火，焰焰不绝，明光不灭。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070367048332.mp3"
+        },
+        {
+            "text": "大江非我梦……儿郎们，回舻，归家！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070367316545.mp3"
+        },
+        {
+            "text": "来，此战孰胜孰败？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070367873056.mp3"
+        },
+        {
+            "text": "两刃相割，利钝便知，尔等？纸上谈兵之辈。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070368122690.mp3"
+        },
+        {
+            "text": "斩山筑城！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070368403833.mp3"
+        },
+        {
+            "text": "烈火横江！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070368596684.mp3"
+        },
+        {
+            "text": "烽火誓涤荡！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070368793663.mp3"
+        },
+        {
+            "text": "善战者，有何不可！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070369017982.mp3"
+        },
+        {
+            "text": "此战，机不可失！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070369206914.mp3"
+        },
+        {
+            "text": "骏驰千里！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070369418345.mp3"
+        },
+        {
+            "text": "越渡重堑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070369613309.mp3"
+        },
+        {
+            "text": "百战功成开太平！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070369828664.mp3"
+        },
+        {
+            "text": "来镇四方！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070370012830.mp3"
+        },
+        {
+            "text": "随我一战！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070370214445.mp3"
+        },
+        {
+            "text": "全军大捷，吾等当共饮此杯！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070370415810.mp3"
+        },
+        {
+            "text": "旌旗十万，大胜当归！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070370652690.mp3"
+        },
+        {
+            "text": "吾妹与吾占八斗！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070370984183.mp3"
+        },
+        {
+            "text": "那天，我对长星许愿，愿天上最亮的那颗，光耀万年。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070371257650.mp3"
+        },
+        {
+            "text": "你看，这不是梦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070371527773.mp3"
+        },
+        {
+            "text": "世上英雄若无我，春秋写来多逊色～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070371716900.mp3"
+        },
+        {
+            "text": "倾囊相助无以为报，此战大胜我必记你首功！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070371952667.mp3"
+        },
+        {
+            "text": "多谢！吃便不吃了，此去戍鼓正急……若有饷金倒可拿些！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070372194185.mp3"
+        },
+        {
+            "text": "能与如此英雄共挫敌雠，痛快痛快！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070372445022.mp3"
+        },
+        {
+            "text": "所料不错！万里雄关即为坚盾，三军将士便是神兵！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070372677962.mp3"
+        }
+    ]
+}

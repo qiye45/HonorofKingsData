@@ -1,0 +1,107 @@
+{
+    "name": "追逃游戏",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230629/16880203354468.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230629/16880203572899.jpg",
+    "voice_clips": [
+        {
+            "text": "欢乐背后藏着恐惧，恶作剧背后……还是恶作剧～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230630/16881091425490.mp3"
+        },
+        {
+            "text": "欢迎再次来到，魔女的狂欢派对！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230630/16881091752718.mp3"
+        },
+        {
+            "text": "每一场杰出恶作剧的背后，都有一个不可缺少的笨蛋~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230630/16881092168330.mp3"
+        },
+        {
+            "text": "带小精灵出门散步，顺便给大块头加些工作量~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880261896813.mp3"
+        },
+        {
+            "text": "魔法部的家伙，喜欢鼻涕虫变的屋顶，还是南瓜做的车轮？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880262223683.mp3"
+        },
+        {
+            "text": "黑名单，都是吓唬小孩子的废纸～！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880276646239.mp3"
+        },
+        {
+            "text": "走慢点儿～不然大块头可就追不上啦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880276985744.mp3"
+        },
+        {
+            "text": "无趣漫长的魔女生涯，渴望一场刺激的追逃游戏！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880277829977.mp3"
+        },
+        {
+            "text": "秩序之外，魔法绽放可能。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880278125407.mp3"
+        },
+        {
+            "text": "不要窥探魔女的行踪~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880278406786.mp3"
+        },
+        {
+            "text": "是我做的，那又如何？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880278694763.mp3"
+        },
+        {
+            "text": "可恶...被抓包了...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880278972364.mp3"
+        },
+        {
+            "text": "哎……捉弄笨蛋，得不到半点成就感。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880279299543.mp3"
+        },
+        {
+            "text": "嘻嘻~吓你一跳！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880280324561.mp3"
+        },
+        {
+            "text": "砰！璀璨精灵~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880281501668.mp3"
+        },
+        {
+            "text": "哼，发现你了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880281798237.mp3"
+        },
+        {
+            "text": "魔法，生而自由！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880282647838.mp3"
+        },
+        {
+            "text": "来点惊喜吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880282976743.mp3"
+        },
+        {
+            "text": "噼啪噼啪——精灵狂欢派对！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880283356339.mp3"
+        },
+        {
+            "text": "好吧～那下回就只针对管理员本人吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880284767305.mp3"
+        },
+        {
+            "text": "嘻嘻，有本事再来追我呀～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880285081839.mp3"
+        },
+        {
+            "text": "要来点出其不意的小惊喜吗～？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880285363715.mp3"
+        },
+        {
+            "text": "今天的游戏——捉弄一个老古板的大块头～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880285675743.mp3"
+        },
+        {
+            "text": "略略略，拜拜咯各位～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880286296400.mp3"
+        },
+        {
+            "text": "成熟的魔法师从不使用咒语，只要用糖果指挥能干的小精灵～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880286856995.mp3"
+        }
+    ]
+}

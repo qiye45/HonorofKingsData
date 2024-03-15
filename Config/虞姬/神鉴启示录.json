@@ -1,0 +1,135 @@
+{
+    "name": "神鉴启示录",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240307/17097969407631.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240307/17097969423239.jpg",
+    "voice_clips": [
+        {
+            "text": "向吾奉示，你的每一句证词",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240307/17098044178658.mp3"
+        },
+        {
+            "text": "审真判伪，裁善决恶",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240307/17098044525882.mp3"
+        },
+        {
+            "text": "看见，铭记，信奉，名为律法的信仰",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240307/17098044733205.mp3"
+        },
+        {
+            "text": "最初的世界，诞生于规律与法则的交点",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097137401049.mp3"
+        },
+        {
+            "text": "律法产生于过去，比众神时代更遥远的过去",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097137631675.mp3"
+        },
+        {
+            "text": "旧日，罪神侵戮人间，众神却视若无睹",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097137875772.mp3"
+        },
+        {
+            "text": "背负屠神之名的判决，是荣光亦是罪责",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097138116651.mp3"
+        },
+        {
+            "text": "清明者公，无私者正",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097138439253.mp3"
+        },
+        {
+            "text": "弱者对公正的渴望，会化作对抗畏惧的力量",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097138769911.mp3"
+        },
+        {
+            "text": "遮蔽双眼，是为了更好地看清",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097138956831.mp3"
+        },
+        {
+            "text": "手中之剑，斩断的是罪恶，无关身份",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097139166544.mp3"
+        },
+        {
+            "text": "看到剑光所指了吗？那是天平所宣判的罪恶",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097139788392.mp3"
+        },
+        {
+            "text": "弱小与强大，从不是天平的砝码",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097140034958.mp3"
+        },
+        {
+            "text": "当神律的光辉洒向大地，人类，将不再恐惧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097140244690.mp3"
+        },
+        {
+            "text": "愿法度之辉长留",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097140583708.mp3"
+        },
+        {
+            "text": "我，也身负罪名...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097140752570.mp3"
+        },
+        {
+            "text": "审判他人者，亦接受他人审判",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097141204639.mp3"
+        },
+        {
+            "text": "死亡，写在律法的终章",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097141416728.mp3"
+        },
+        {
+            "text": "审判终结！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097141603887.mp3"
+        },
+        {
+            "text": "源自公正之心的力量，永不会消散",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097141791343.mp3"
+        },
+        {
+            "text": "惩处，也是宽恕",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097142033402.mp3"
+        },
+        {
+            "text": "善恶有时只在一念之间",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097142253821.mp3"
+        },
+        {
+            "text": "以神律之名，肃清！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097142976108.mp3"
+        },
+        {
+            "text": "武力，将捍卫公正！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097143245434.mp3"
+        },
+        {
+            "text": "倾听神律！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097144062634.mp3"
+        },
+        {
+            "text": "绝对正义的指引！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097144385994.mp3"
+        },
+        {
+            "text": "笃信我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097144591069.mp3"
+        },
+        {
+            "text": "救赎！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097145015204.mp3"
+        },
+        {
+            "text": "注视我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097145227012.mp3"
+        },
+        {
+            "text": "惩示！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097145422485.mp3"
+        },
+        {
+            "text": "惩治！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097145656435.mp3"
+        },
+        {
+            "text": "秉公心，持正法",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097146082049.mp3"
+        }
+    ]
+}

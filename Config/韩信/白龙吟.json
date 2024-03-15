@@ -1,0 +1,103 @@
+{
+    "name": "白龙吟",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499973732582.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498393027154.jpg",
+    "voice_clips": [
+        {
+            "text": "龙战于野！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493340713235.wav"
+        },
+        {
+            "text": "有种死人，叫屠龙者。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493340848876.wav"
+        },
+        {
+            "text": "纵情山河万里，肆意九州五岳",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493341024036.wav"
+        },
+        {
+            "text": "龙有逆鳞，触之必死",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493341172335.wav"
+        },
+        {
+            "text": "我的就是我的，你的也是我的！记住了，狐狸！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493341305054.wav"
+        },
+        {
+            "text": "通常颜值不合格的龙，才会沦落为野怪",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493341437925.wav"
+        },
+        {
+            "text": "爱恨痴狂，敌不过沧海一笑",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493341548925.wav"
+        },
+        {
+            "text": "破碎的身躯可以修复，友情也是如此吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493341674826.wav"
+        },
+        {
+            "text": "血仍未冷……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493341906666.wav"
+        },
+        {
+            "text": "挥风雨，走雷霆",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493342055217.wav"
+        },
+        {
+            "text": "长枪一动白龙吟",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493342185377.wav"
+        },
+        {
+            "text": "真龙之怒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493342326493.wav"
+        },
+        {
+            "text": "珍惜你剩下的生命",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493342617673.wav"
+        },
+        {
+            "text": "这就是人间吗",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493854885989.wav"
+        },
+        {
+            "text": "龙游浅水遭狭隙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493855004210.wav"
+        },
+        {
+            "text": "人心叵测",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493855141287.wav"
+        },
+        {
+            "text": "哈哈，待我多笑几下，刮刮狂风，落落暴雨。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493855279938.wav"
+        },
+        {
+            "text": "好好好！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493855402166.wav"
+        },
+        {
+            "text": "我等你许久了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493855561647.wav"
+        },
+        {
+            "text": "不可久留",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493855705960.wav"
+        },
+        {
+            "text": "光明磊落，方是赢家。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493855837460.wav"
+        },
+        {
+            "text": "千年往事随潮去。（选自戴复古《满江红·赤壁怀古》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493855977052.wav"
+        },
+        {
+            "text": "来一曲天摇地动",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493856117910.wav"
+        },
+        {
+            "text": "你的屠龙刀是把伪劣品。而且，你也是。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493856447337.wav"
+        }
+    ]
+}

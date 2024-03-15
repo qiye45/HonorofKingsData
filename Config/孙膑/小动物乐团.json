@@ -1,0 +1,95 @@
+{
+    "name": "小动物乐团",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231215/17026342151434.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231215/17026342185016.jpg",
+    "voice_clips": [
+        {
+            "text": "把音乐洒满世界，守护心灵的光亮。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028690881008.mp3"
+        },
+        {
+            "text": "小动物就位~ 小音符准备~ 用希望引领旋律的方向~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028691211080.mp3"
+        },
+        {
+            "text": "接收黑暗为乐团补点养料~释放节奏给生活装点美妙~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028691593611.mp3"
+        },
+        {
+            "text": "发现下一个烦恼，音乐不许它逃跑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028665964802.mp3"
+        },
+        {
+            "text": "小动物乐器的保养秘诀~那就是~收集情绪喂饱他们！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028666233951.mp3"
+        },
+        {
+            "text": "悲伤去哪儿了？啊~他正在和我的音符跳舞呢~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028666452846.mp3"
+        },
+        {
+            "text": "咚、哒、哒～花栗鼠的鼓声～敲开紧闭的心门～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028667679247.mp3"
+        },
+        {
+            "text": "坠落谷底的时刻，会有音乐载你飞翔～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028667953089.mp3"
+        },
+        {
+            "text": "演奏前乐团点名~哆、来、咪、发、唆、拉、西",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028668289336.mp3"
+        },
+        {
+            "text": "交响乐有高音和低音，生活自然也有起起落落~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028668571959.mp3"
+        },
+        {
+            "text": "不按乐谱排练的小音符，总是带来意外的灵感~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028669232908.mp3"
+        },
+        {
+            "text": "调音而已...才不是正式的演出...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028669705036.mp3"
+        },
+        {
+            "text": "用演奏驱散黑暗！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028670012103.mp3"
+        },
+        {
+            "text": "看你灰心丧气的样子~就为你奏响欢乐乐章吧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028670768420.mp3"
+        },
+        {
+            "text": "哒啦啦~快乐不迷路~音符来引路~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028671731727.mp3"
+        },
+        {
+            "text": "羡慕吧~我的超棒动物乐团~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028671955908.mp3"
+        },
+        {
+            "text": "鼓手登场！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028672669357.mp3"
+        },
+        {
+            "text": "节拍舞动!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028672971636.mp3"
+        },
+        {
+            "text": "为开心加速！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028673556942.mp3"
+        },
+        {
+            "text": "跟上心情节奏！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028674579178.mp3"
+        },
+        {
+            "text": "加入乐团派对狂欢！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028675165190.mp3"
+        },
+        {
+            "text": "享受快乐的环绕！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231218/17028675451449.mp3"
+        }
+    ]
+}

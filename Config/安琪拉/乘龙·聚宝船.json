@@ -1,0 +1,143 @@
+{
+    "name": "乘龙·聚宝船",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240204/17070417939919.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240204/17070418017477.jpg",
+    "voice_clips": [
+        {
+            "text": "汇海路奇珍，通万国之商。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070403498255.mp3"
+        },
+        {
+            "text": "驾海相迎～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070403671959.mp3"
+        },
+        {
+            "text": "千秋为纪，海丝肇起。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070403851091.mp3"
+        },
+        {
+            "text": "承千秋之祐，聚万象为龙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070404616005.mp3"
+        },
+        {
+            "text": "满船罗绮，价比明珠千斛；白釉青花，当换异木奇香～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070404979009.mp3"
+        },
+        {
+            "text": "海纳百川容万物，货利万邦通有无！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070405551647.mp3"
+        },
+        {
+            "text": "须知黄金未是宝，机勇情义胜珠珍～（改编自王梵志《黄金未是宝》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070406137903.mp3"
+        },
+        {
+            "text": "呐说好了！且凭螺音为号，承愿必至，应召必来~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070406434804.mp3"
+        },
+        {
+            "text": "荫庇东南，吐纳万里，风泊洪涛，安危所倚～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070406657466.mp3"
+        },
+        {
+            "text": "船行闽水域外，风舶海北天南，四海遍吾相识，万里也是同乡～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070406858597.mp3"
+        },
+        {
+            "text": "宝舟七涉重洋远，沧浪声声渡百年，今朝复相见。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070407075902.mp3"
+        },
+        {
+            "text": "明月光，照四方，枕浪梦乡是故乡～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070407251616.mp3"
+        },
+        {
+            "text": "海角天涯，再来相见吧～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070407443681.mp3"
+        },
+        {
+            "text": "问尔能奈浪涛何～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070407636122.mp3"
+        },
+        {
+            "text": "好一出“卷长波送君千里，遗金匮答谢小可”，朋友多礼啦～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070407868596.mp3"
+        },
+        {
+            "text": "东瞰扶胥！（选自《广东通志》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070408139012.mp3"
+        },
+        {
+            "text": "西望灵洲！（选自《广东通志》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070408601118.mp3"
+        },
+        {
+            "text": "水飞三千里！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070408786307.mp3"
+        },
+        {
+            "text": "浪淘千金！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070408999438.mp3"
+        },
+        {
+            "text": "南风回舶～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070409178070.mp3"
+        },
+        {
+            "text": "流液成珠！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070409352742.mp3"
+        },
+        {
+            "text": "顺风得利，祀海祈祥！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070409536267.mp3"
+        },
+        {
+            "text": "来往任风潮！（改编自孟浩然《舟中晓望》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070409796320.mp3"
+        },
+        {
+            "text": "波涛清晏！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070410009268.mp3"
+        },
+        {
+            "text": "涨海潮声里，会有再相逢！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070410326497.mp3"
+        },
+        {
+            "text": "信风已至，满载当归～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070410621565.mp3"
+        },
+        {
+            "text": "小风小浪而已啦！大小姐～～你不会是，在担心我吧？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070411192040.mp3"
+        },
+        {
+            "text": "喂喂！你这是悄悄藏了什么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070411548317.mp3"
+        },
+        {
+            "text": "人说物老成怪，我观你年寿最少有个……百八千载？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070411905062.mp3"
+        },
+        {
+            "text": "嘿嘿你还有没有什么值得认识的朋友！都为我引荐一下？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070412202982.mp3"
+        },
+        {
+            "text": "什么什么？！可以相助，没说倾囊啊！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070412585748.mp3"
+        },
+        {
+            "text": "所谓拿人手短，吃人嘴软……你、你、还有你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070412795162.mp3"
+        },
+        {
+            "text": "投你以木桃，报我以琼瑶，木桃在此～喵喵喵喵？（改编自《诗经·国风·木瓜》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070413166511.mp3"
+        },
+        {
+            "text": "唔……你看～大海洋萍都能相逢，人世悠长定会再见！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070413716411.mp3"
+        }
+    ]
+}

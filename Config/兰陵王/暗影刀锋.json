@@ -1,0 +1,87 @@
+{
+    "name": "暗影刀锋",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498405473625.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498405491947.jpg",
+    "voice_clips": [
+        {
+            "text": "刀锋所划之地，便是疆土。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497514999905.wav"
+        },
+        {
+            "text": "一直都赢也挺无聊。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497515132406.wav"
+        },
+        {
+            "text": "刀鞘？丢失了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497515259145.wav"
+        },
+        {
+            "text": "我为黑暗服务。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497515396135.wav"
+        },
+        {
+            "text": "所谓武技，不过是遇害者数字的累积而已。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497515589067.wav"
+        },
+        {
+            "text": "好奇心的代价很昂贵。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497515736642.wav"
+        },
+        {
+            "text": "不逃，就不会死！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497515867777.wav"
+        },
+        {
+            "text": "一个人，没有同类。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497515998422.wav"
+        },
+        {
+            "text": "终究，堕入深渊……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497516229429.wav"
+        },
+        {
+            "text": "斩草除根!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497516468232.wav"
+        },
+        {
+            "text": "收割开始！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497516636402.wav"
+        },
+        {
+            "text": "补刀的时刻！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497516767091.wav"
+        },
+        {
+            "text": "替你的生命倒数",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497516916898.wav"
+        },
+        {
+            "text": "死",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497517292314.wav"
+        },
+        {
+            "text": "了无遗憾的离开吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497517454210.wav"
+        },
+        {
+            "text": "在这一点上，你和我，没什么区别。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220915/16632395638554.mp3"
+        },
+        {
+            "text": "管好你自己……开船看路。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230426/16824997973828.mp3"
+        },
+        {
+            "text": "好重……谢了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230426/16824998296447.mp3"
+        },
+        {
+            "text": "嗯。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230426/16824998912677.mp3"
+        },
+        {
+            "text": "我没有同伴",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230720/16898348582860.mp3"
+        }
+    ]
+}

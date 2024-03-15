@@ -1,0 +1,63 @@
+{
+    "name": "摇滚巨星",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498470908241.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498470941693.jpg",
+    "voice_clips": [
+        {
+            "text": "复古青春，永恒传奇~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493224003076.wav"
+        },
+        {
+            "text": "今夜，随我起舞！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493224447407.wav"
+        },
+        {
+            "text": "音乐，是一场冒险！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493224692217.wav"
+        },
+        {
+            "text": "或是现在，或是永不。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493226531196.wav"
+        },
+        {
+            "text": "亲爱的，让我们去看戏~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493226719005.wav"
+        },
+        {
+            "text": "温柔的爱我吧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493227115261.wav"
+        },
+        {
+            "text": "今夜是否孤独？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493227294630.wav"
+        },
+        {
+            "text": "试图靠近你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493227492167.wav"
+        },
+        {
+            "text": "我这个笨蛋……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493227934800.wav"
+        },
+        {
+            "text": "监狱摇滚！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493228643404.wav"
+        },
+        {
+            "text": "无情的心~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493228871843.wav"
+        },
+        {
+            "text": "太多的爱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493229046274.wav"
+        },
+        {
+            "text": "好极了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493229389093.wav"
+        },
+        {
+            "text": "作为一个桀骜不驯的人，你可套路不住我~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493229511788.wav"
+        }
+    ]
+}

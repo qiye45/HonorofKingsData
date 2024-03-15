@@ -1,0 +1,71 @@
+{
+    "name": "驯魔猎人",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498406007892.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498406027744.jpg",
+    "voice_clips": [
+        {
+            "text": "我有一双看透迷雾的眼睛。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497518478838.wav"
+        },
+        {
+            "text": "越矛盾，越真实。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497518596910.wav"
+        },
+        {
+            "text": "猛兽只与猛兽同行。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497518761886.wav"
+        },
+        {
+            "text": "世界运行于盲目的热情，唯我崇尚理性。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497519006139.mp3"
+        },
+        {
+            "text": "有人称魔物啸聚之地为混沌，如无混沌，何来邪魔？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497519234134.mp3"
+        },
+        {
+            "text": "趋吉避凶，那是弱者的本能。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497519408543.wav"
+        },
+        {
+            "text": "无论哪个世界，都不缺乏源自无知的恶念。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497519533445.wav"
+        },
+        {
+            "text": "照见了魔鬼，烧毁了自己。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497519665928.wav"
+        },
+        {
+            "text": "沉沦此间……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497519894308.wav"
+        },
+        {
+            "text": "该你了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497520095031.wav"
+        },
+        {
+            "text": "醒醒吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497520233732.wav"
+        },
+        {
+            "text": "击碎黑夜的幻象！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497520362722.wav"
+        },
+        {
+            "text": "痛苦，很快会结束。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497520507894.wav"
+        },
+        {
+            "text": "行强者驱恶之道！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497520709530.wav"
+        },
+        {
+            "text": "狂热而无用的斗志。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497520845582.wav"
+        },
+        {
+            "text": "失礼了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497521009648.wav"
+        }
+    ]
+}

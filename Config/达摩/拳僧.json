@@ -1,0 +1,55 @@
+{
+    "name": "拳僧",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498370347342.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240116/17053747681120.jpg",
+    "voice_clips": [
+        {
+            "text": "肩挑凡世，拳握初心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496589207809.wav"
+        },
+        {
+            "text": "健美的身材？来自持久不懈的锻炼！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496589329610.wav"
+        },
+        {
+            "text": "人生是场穷游，偶尔也需要暴走。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496589511940.wav"
+        },
+        {
+            "text": "死亡面前，众生平等。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496589642863.wav"
+        },
+        {
+            "text": "道路很远，脚步更长。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496589771866.wav"
+        },
+        {
+            "text": "阿弥陀佛，贫僧这就超度施主。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496589901848.wav"
+        },
+        {
+            "text": "走不通的路，就用拳头来打开！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496590025620.wav"
+        },
+        {
+            "text": "苦海无边，回头是岸！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496590266089.wav"
+        },
+        {
+            "text": "我佛慈悲！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496590464559.wav"
+        },
+        {
+            "text": "顿悟吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496592149527.wav"
+        },
+        {
+            "text": "放下屠刀，立地成佛！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496592317551.wav"
+        },
+        {
+            "text": "你的心已偏离正道，走在了通往西天的捷径上。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496592469525.wav"
+        }
+    ]
+}

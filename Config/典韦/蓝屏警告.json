@@ -1,0 +1,59 @@
+{
+    "name": "蓝屏警告",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499966804602.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498328498882.jpg",
+    "voice_clips": [
+        {
+            "text": "额...你们总能想出一千种改需求的理由！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497743635288.wav"
+        },
+        {
+            "text": "额！是谁动了我的代码？？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497743808743.wav"
+        },
+        {
+            "text": "可以否认我的方案，不能否认我的时尚。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497743922087.wav"
+        },
+        {
+            "text": "试过重启了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497744083226.wav"
+        },
+        {
+            "text": "枸杞养生之道，程序员的自我修养。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497744239835.wav"
+        },
+        {
+            "text": "你懂什么！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497744383232.wav"
+        },
+        {
+            "text": "谁还没点小爱好？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497744524830.wav"
+        },
+        {
+            "text": "hello，world……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497744686771.wav"
+        },
+        {
+            "text": "打卡时间到！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497744889726.wav"
+        },
+        {
+            "text": "开工了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497745038627.wav"
+        },
+        {
+            "text": "绝对不改！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497745141442.wav"
+        },
+        {
+            "text": "bug一个不留！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497745302805.wav"
+        },
+        {
+            "text": "来，比比发量！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497745422679.wav"
+        }
+    ]
+}

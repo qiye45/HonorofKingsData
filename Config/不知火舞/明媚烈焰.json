@@ -1,0 +1,43 @@
+{
+    "name": "明媚烈焰",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498409718771.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498409745849.jpg",
+    "voice_clips": [
+        {
+            "text": "放马过来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499312319021.mp3"
+        },
+        {
+            "text": "安迪~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499312521160.mp3"
+        },
+        {
+            "text": "来啊，加油~！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497342098720.wav"
+        },
+        {
+            "text": "龙炎舞！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497342319735.wav"
+        },
+        {
+            "text": "风车崩！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497342528711.wav"
+        },
+        {
+            "text": "梦樱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497342713599.wav"
+        },
+        {
+            "text": "花蝶扇！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497345502828.wav"
+        },
+        {
+            "text": "忍蜂——！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497345695585.wav"
+        },
+        {
+            "text": "不知火究極奥義！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497346872893.wav"
+        }
+    ]
+}

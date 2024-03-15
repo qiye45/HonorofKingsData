@@ -1,0 +1,171 @@
+{
+    "name": "孙行者",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498359644304.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498359327436.jpg",
+    "voice_clips": [
+        {
+            "text": "俺老孙来也！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499942058129.mp3"
+        },
+        {
+            "text": "嘿嘿！我乃五百年前大闹天宫的齐天大圣，孙悟空！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499942357118.mp3"
+        },
+        {
+            "text": "俺老孙身在水帘洞，心随取经僧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499942169809.mp3"
+        },
+        {
+            "text": "这里山势险峻只怕藏有妖精。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497501075647.mp3"
+        },
+        {
+            "text": "我叫你们看着师父。你们都干什么去了？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497501272519.mp3"
+        },
+        {
+            "text": "土地山神，都出来见俺！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497501457361.mp3"
+        },
+        {
+            "text": "你们几个打累了，该俺老孙耍耍了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497501637307.mp3"
+        },
+        {
+            "text": "你辈无能，待俺叫来！风雨雷电四神，快快显身出来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497501801145.mp3"
+        },
+        {
+            "text": "我问你们，此处可有什么妖怪不成？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497501996370.mp3"
+        },
+        {
+            "text": "俺老孙神通广大，就是玉皇大帝的凌霄宝殿，俺也去坐过！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497502244493.mp3"
+        },
+        {
+            "text": "我若走了，谁来降妖……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497502499844.mp3"
+        },
+        {
+            "text": "今儿你这妖精不除，俺就难取真经！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497502714393.mp3"
+        },
+        {
+            "text": "你这妖怪，瞒得过俺师父却瞒不过俺。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497502952138.mp3"
+        },
+        {
+            "text": "何方妖孽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497503175660.wav"
+        },
+        {
+            "text": "嘿嘿，有俺老孙在，怕什么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497503557425.wav"
+        },
+        {
+            "text": "一个筋斗云，俺就能十万八千里！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497503881982.mp3"
+        },
+        {
+            "text": "妖怪，哪里逃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497504049434.wav"
+        },
+        {
+            "text": "妖精，看打！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497504227580.wav"
+        },
+        {
+            "text": "吃俺老孙一棒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497504577841.wav"
+        },
+        {
+            "text": "嘿嘿，这宝贝五百年来不曾用过，今天用你来开张！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497504905102.mp3"
+        },
+        {
+            "text": "俺老孙去去就来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497505137210.wav"
+        },
+        {
+            "text": "俺老孙去也。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497505266234.wav"
+        },
+        {
+            "text": "知道了知道了。絮絮叨叨。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497505888447.mp3"
+        },
+        {
+            "text": "我说呆子，人参果都吃了，还饿着呢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497506318171.mp3"
+        },
+        {
+            "text": "诶我说呆子，我来问你还去不去高老庄啦？啊？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497506563497.mp3"
+        },
+        {
+            "text": "哦？你抬起头来让俺瞧瞧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497507634530.mp3"
+        },
+        {
+            "text": "八戒，快去探路，快，快去吧，啊！去吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497507959856.mp3"
+        },
+        {
+            "text": "八戒，快去探路，快去！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497508248987.wav"
+        },
+        {
+            "text": "二位师弟，好生保护师父。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497508573970.wav"
+        },
+        {
+            "text": "二位师弟，露一手给他们瞧瞧！啊哈！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497510232400.mp3"
+        },
+        {
+            "text": "额，想必是过路的妖怪。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497510454862.wav"
+        },
+        {
+            "text": "妖怪，上次让你给溜了，这次你休想逃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497510682842.mp3"
+        },
+        {
+            "text": "好，我走，我走……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497511263547.mp3"
+        },
+        {
+            "text": "吃桃，吃桃，嘿嘿吃桃了嘿嘿嘿嘿。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500033957024.mp3"
+        },
+        {
+            "text": "要大就大，要小就小！嘿嘿！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497511674903.mp3"
+        },
+        {
+            "text": "俺不是野猴，俺是石猴——嘿嘿",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500033818452.mp3"
+        },
+        {
+            "text": "师父，莫念了，莫念了，哎呀....师父...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497512099115.mp3"
+        },
+        {
+            "text": "快来，快来啊~哈哈哈哈",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497512362153.mp3"
+        },
+        {
+            "text": "好，好，好极了，嘿嘿！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497512651528.mp3"
+        },
+        {
+            "text": "啊？中计了！呔——",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497513203151.wav"
+        },
+        {
+            "text": "哈哈哈，我看倒不如师父留下来就此成亲。嘿嘿嘿，那女王还不快快倒放官文，放俺们西去吧，啊？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511345647936.mp3"
+        }
+    ]
+}

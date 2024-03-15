@@ -1,0 +1,139 @@
+{
+    "name": "寅虎·御盾",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499954717611.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498331616144.jpg",
+    "voice_clips": [
+        {
+            "text": "年兽出现，猛虎也该苏醒了，同此心，共此力！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499320567628.mp3"
+        },
+        {
+            "text": "武馆传承的，不只有一招一式，还有虎神的精神。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499320651320.mp3"
+        },
+        {
+            "text": "习武不是争强，而是立一道门，护一方人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499320751871.mp3"
+        },
+        {
+            "text": "要练拳，先练心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497469708385.wav"
+        },
+        {
+            "text": "我的武道守则，茶泡七分好，劲发九分妙。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497469893833.wav"
+        },
+        {
+            "text": "武者虽强，但以武服人，却非真正的武道。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497470115985.wav"
+        },
+        {
+            "text": "武馆授徒，只在心诚。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497470234062.wav"
+        },
+        {
+            "text": "不管任何时候，都不可放弃必胜的信念！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497470369633.wav"
+        },
+        {
+            "text": "叫一声师父，以后这里就是你家了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497470538042.wav"
+        },
+        {
+            "text": "英雄，不分年纪。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497470677771.wav"
+        },
+        {
+            "text": "虎神街的安宁，由我们守护。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497470841451.wav"
+        },
+        {
+            "text": "唉...这套功法，还差些火候……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497471193155.wav"
+        },
+        {
+            "text": "对练结束，下次要动真格了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497471355528.wav"
+        },
+        {
+            "text": "哦，听说你想来踢馆？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497471678953.wav"
+        },
+        {
+            "text": "休想越过此门！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497471909531.wav"
+        },
+        {
+            "text": "以和为贵，承让承让。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497472038277.wav"
+        },
+        {
+            "text": "拳如风",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497472348003.wav"
+        },
+        {
+            "text": "崩山裂",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497472547438.wav"
+        },
+        {
+            "text": "气沉丹田",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497472795071.wav"
+        },
+        {
+            "text": "神虎踞此！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497472945628.wav"
+        },
+        {
+            "text": "虎啸山林！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497473089704.wav"
+        },
+        {
+            "text": "扬寅虎之威！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497473209104.wav"
+        },
+        {
+            "text": "闲了大半辈子，也该活动活动筋骨了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497473411068.wav"
+        },
+        {
+            "text": "神虎一跃，威震天地！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497473583055.wav"
+        },
+        {
+            "text": "习武三要义：神要定，眼要准，招要稳。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497473774539.wav"
+        },
+        {
+            "text": "让人飞翔的不是翅膀，而是一颗想飞的心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497473986667.wav"
+        },
+        {
+            "text": "傻小子，武馆欢迎所有喜欢他的人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497474461146.wav"
+        },
+        {
+            "text": "这首入阵曲，又令我想起了当年的日子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497474735192.wav"
+        },
+        {
+            "text": "这音乐，让整个虎神街都神采奕奕。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497475038293.wav"
+        },
+        {
+            "text": "嘿嘿，小家伙活泼好动，最适合神虎腿法",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220426/16509689632140.mp3"
+        },
+        {
+            "text": "我相信你，虎神大将军",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220426/16509689853664.mp3"
+        },
+        {
+            "text": "呵呵，小虎正年轻，老虎也正当年！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511361431371.mp3"
+        },
+        {
+            "text": "好啊，你啊还要多多努力。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511361701196.mp3"
+        }
+    ]
+}

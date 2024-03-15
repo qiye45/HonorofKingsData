@@ -1,0 +1,67 @@
+{
+    "name": "纤云弄巧",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16500068336572.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498366636071.jpg",
+    "voice_clips": [
+        {
+            "text": "人世流传，自有天定，那仙人，是否也在这天定中？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500038465193.wav"
+        },
+        {
+            "text": "我从风中听见星流，听见云动，听见……呦呦？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500038791552.wav"
+        },
+        {
+            "text": "万千星河，化作这世间因缘际会",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500038644056.mp3"
+        },
+        {
+            "text": "噢，人间又起风了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495770618280.wav"
+        },
+        {
+            "text": "除了星光，我什么也看不见",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495770735102.wav"
+        },
+        {
+            "text": "羽毛或许会污秽，但心，永远不会",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495770907819.wav"
+        },
+        {
+            "text": "人间遍地的灯火，那是他们的星夜吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495771046008.wav"
+        },
+        {
+            "text": "天上没有过去，因为过去的每一日，都如今日",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495771174014.wav"
+        },
+        {
+            "text": "影子……终将回到天上……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495771331330.wav"
+        },
+        {
+            "text": "用利爪，刺破虚妄",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495771543318.wav"
+        },
+        {
+            "text": "以风翱翔",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495771687338.wav"
+        },
+        {
+            "text": "金羽天来",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495771822196.wav"
+        },
+        {
+            "text": "千羽尽落，诛无生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495772003572.wav"
+        },
+        {
+            "text": "尔等虚伪之人，注定被星海遗弃",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495772204619.wav"
+        },
+        {
+            "text": "今日星轨，并无异动。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495772359479.wav"
+        }
+    ]
+}

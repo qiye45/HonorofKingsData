@@ -1,0 +1,67 @@
+{
+    "name": "桀骜炎枪",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230309/16783571256352.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230309/16783571287371.jpg",
+    "voice_clips": [
+        {
+            "text": "我可是突破常理的存在！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496756224681.wav"
+        },
+        {
+            "text": "谁是敌人，由我决定",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496756357380.wav"
+        },
+        {
+            "text": "嘿，有兴趣搞点大事吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496756474580.wav"
+        },
+        {
+            "text": "你的空手，接不住我的白刃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496757032024.wav"
+        },
+        {
+            "text": "我只在站在我这边！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496757162091.wav"
+        },
+        {
+            "text": "不能击败我的，会让我更强大",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496757276514.wav"
+        },
+        {
+            "text": "舍弃所能舍弃的，改变我要改变的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496757408421.wav"
+        },
+        {
+            "text": "我自由，我选择！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496757526286.wav"
+        },
+        {
+            "text": "懦夫！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496758056541.wav"
+        },
+        {
+            "text": "桀骜如我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496758681023.wav"
+        },
+        {
+            "text": "战个痛快！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496758805589.wav"
+        },
+        {
+            "text": "我很强，比你们更强！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496759338129.wav"
+        },
+        {
+            "text": "弱小的令人无法直视~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496759453425.wav"
+        },
+        {
+            "text": "顽劣无边，为世不容？然后嘛……就和某个没趣的家伙一样，在一瞬间忽然长大。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065208381131.mp3"
+        },
+        {
+            "text": "哈真有趣！交过手后，我和你，竟然在这里比谁飞得更快！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065208652770.mp3"
+        }
+    ]
+}

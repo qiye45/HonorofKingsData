@@ -1,0 +1,55 @@
+{
+    "name": "舞动绿茵",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498332178309.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498331239681.jpg",
+    "voice_clips": [
+        {
+            "text": "你负责征服赛场~我为你沸腾舞台。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497712881437.wav"
+        },
+        {
+            "text": "喊一声加油，你敢答应吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497713028323.wav"
+        },
+        {
+            "text": "生命这样热烈，不投入怎么行。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497713204625.wav"
+        },
+        {
+            "text": "我和你，如同梦想和梦想的相遇。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497713322718.wav"
+        },
+        {
+            "text": "没有人是天生的失败者！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497713496732.wav"
+        },
+        {
+            "text": "啦啦队之间的最终差距，在于bgm！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497713623679.wav"
+        },
+        {
+            "text": "最强门神也无法抵挡的热情冲击！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497713753595.wav"
+        },
+        {
+            "text": "为你呐喊的声音，不因输赢而停止。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497713889891.wav"
+        },
+        {
+            "text": "不被需要的加油……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497714034111.wav"
+        },
+        {
+            "text": "助威的艺术！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497714718581.wav"
+        },
+        {
+            "text": "跟上节拍，律动起来~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497714833122.wav"
+        },
+        {
+            "text": "压轴表演！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497715001297.wav"
+        }
+    ]
+}

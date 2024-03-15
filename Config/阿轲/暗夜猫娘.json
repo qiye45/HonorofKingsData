@@ -1,0 +1,143 @@
+{
+    "name": "暗夜猫娘",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220630/16565802372373.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220630/16565802401524.jpg",
+    "voice_clips": [
+        {
+            "text": "猫，有九条命哦",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565809411980.wav"
+        },
+        {
+            "text": "下一个，就轮到你了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565809649158.mp3"
+        },
+        {
+            "text": "收割你们的心~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565809796571.wav"
+        },
+        {
+            "text": "要面子还是要命呢？对面的汪星人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565810144695.mp3"
+        },
+        {
+            "text": "人家的爪子，也不是用来挠痒痒的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565810382304.mp3"
+        },
+        {
+            "text": "没错，这是个看脸的时代",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565810775633.wav"
+        },
+        {
+            "text": "猫和女人，同样善变",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565810977891.wav"
+        },
+        {
+            "text": "猫只会在愿意的时候接近你，而不是被命令",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565811197448.mp3"
+        },
+        {
+            "text": "对不起，你是一个好人~~可惜最好的都是死人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565811414061.mp3"
+        },
+        {
+            "text": "面具下是谁可一点儿也不重要~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565811596547.mp3"
+        },
+        {
+            "text": "这座城市的聚光灯永远不会照向真正的黑暗",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565811902891.mp3"
+        },
+        {
+            "text": "记得藏好那些见不得光的东西，我稍后来取~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565812126568.mp3"
+        },
+        {
+            "text": "被拒绝了喵~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565812409274.wav"
+        },
+        {
+            "text": "身份……暴露",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565812552626.wav"
+        },
+        {
+            "text": "九条命都用光了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565812717137.wav"
+        },
+        {
+            "text": "融于黑夜",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565812954417.wav"
+        },
+        {
+            "text": "猫，很有耐心",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565813113659.wav"
+        },
+        {
+            "text": "只会在你大意时露出爪子~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565813294474.wav"
+        },
+        {
+            "text": "信不信我咬你呀",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565813488313.wav"
+        },
+        {
+            "text": "你们个个都是好人，而我是个颜控",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565814756554.mp3"
+        },
+        {
+            "text": "总能得到最爱~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565815111456.wav"
+        },
+        {
+            "text": "猫拿耗子~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565815335329.wav"
+        },
+        {
+            "text": "清算时间",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565815485645.wav"
+        },
+        {
+            "text": "第一条抓痕，特别的礼物~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565815688234.wav"
+        },
+        {
+            "text": "记住我迷人的样子~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565815899371.wav"
+        },
+        {
+            "text": "过街老鼠~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565816099591.wav"
+        },
+        {
+            "text": "为我倾倒吧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565816336345.wav"
+        },
+        {
+            "text": "最好的留在最后~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565816509417.wav"
+        },
+        {
+            "text": "我知道你不会怕输，你只会怕我",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565816875053.mp3"
+        },
+        {
+            "text": "长得漂亮不如干得漂亮，而你两样都做到了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565817077912.mp3"
+        },
+        {
+            "text": "别打这主意，谢谢了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565818213790.wav"
+        },
+        {
+            "text": "包容失败，却不会包容轻率的失败",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565818405750.wav"
+        },
+        {
+            "text": "没哭，眼睛里进沙子了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565818567171.wav"
+        },
+        {
+            "text": "藏起刀来，重要的是节奏",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220630/16565818766617.wav"
+        }
+    ]
+}

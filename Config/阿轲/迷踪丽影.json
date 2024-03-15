@@ -1,0 +1,63 @@
+{
+    "name": "迷踪丽影",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498390653056.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498390695825.jpg",
+    "voice_clips": [
+        {
+            "text": "优秀的探险家，从不空手而归~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499315866463.mp3"
+        },
+        {
+            "text": "拒绝真心话，所以选了大冒险~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499316064388.mp3"
+        },
+        {
+            "text": "不冒高风险，哪有高回报？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499316202782.mp3"
+        },
+        {
+            "text": "我有特别的生存技巧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496491432558.wav"
+        },
+        {
+            "text": "探险家总得钻钻草丛~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496491555137.wav"
+        },
+        {
+            "text": "切记，不要背对野兽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496492175304.wav"
+        },
+        {
+            "text": "现在，我来教教你丛林法则！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496492652398.wav"
+        },
+        {
+            "text": "直觉告诉我……这个峡谷没宝藏",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496492774779.wav"
+        },
+        {
+            "text": "该买份意外险的……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496492926315.wav"
+        },
+        {
+            "text": "你找到的，是条死路！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496493091489.wav"
+        },
+        {
+            "text": "寻寻觅觅~是为你找处葬身之地！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496493329087.wav"
+        },
+        {
+            "text": "送死，可不算什么历险！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496493434199.wav"
+        },
+        {
+            "text": "留意身后噢~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496493712999.wav"
+        },
+        {
+            "text": "偶尔玩玩失踪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496497252719.wav"
+        }
+    ]
+}

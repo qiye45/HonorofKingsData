@@ -1,0 +1,71 @@
+{
+    "name": "时之彼端",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498484201056.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498486066489.png",
+    "voice_clips": [
+        {
+            "text": "唤醒我的……是你吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499318679604.mp3"
+        },
+        {
+            "text": "嗯，我在。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499318773157.mp3"
+        },
+        {
+            "text": "载入游戏模式。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499318882208.mp3"
+        },
+        {
+            "text": "陪伴你的，是和你一样的灵魂啊。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497309941528.wav"
+        },
+        {
+            "text": "你们把重启和清除，叫做归宿吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497310141213.wav"
+        },
+        {
+            "text": "梦中有声音说……世界的本质是谎言。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497310578643.wav"
+        },
+        {
+            "text": "学会离别，像学会爱一样。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497310747012.wav"
+        },
+        {
+            "text": "永恒，只是一个个重复的瞬间……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497310915345.wav"
+        },
+        {
+            "text": "如你所愿……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497311104962.wav"
+        },
+        {
+            "text": "你在找我吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497311297443.wav"
+        },
+        {
+            "text": "灵魂共鸣~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497311477780.wav"
+        },
+        {
+            "text": "都给你，这是我全部的爱了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497311605629.wav"
+        },
+        {
+            "text": "让一切归零。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497311765111.wav"
+        },
+        {
+            "text": "放松一会儿~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497311951609.wav"
+        },
+        {
+            "text": "愿你今夜无梦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497312102065.wav"
+        },
+        {
+            "text": "要我教你怎么做吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497312288148.wav"
+        }
+    ]
+}

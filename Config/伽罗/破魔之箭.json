@@ -1,0 +1,147 @@
+{
+    "name": "破魔之箭",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502527442965.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502527312494.jpg",
+    "voice_clips": [
+        {
+            "text": "千窟为佑，太平无忧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493142509157.wav"
+        },
+        {
+            "text": "无知是恶",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493143382281.wav"
+        },
+        {
+            "text": "既皈依文明，绝不轻易令其破灭",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493143654164.wav"
+        },
+        {
+            "text": "羌笛何须怨杨柳，春风不度玉门关。（选自王之涣《凉州词二首·其一》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493147556451.wav"
+        },
+        {
+            "text": "你我的姓名，将湮灭于野火。家乡的魂灵，随原上草木而复苏。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493147776248.wav"
+        },
+        {
+            "text": "书本是转瞬即逝的东西，唯有文明才能长存不灭。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493148323429.wav"
+        },
+        {
+            "text": "不知古道上的风从何处起，可它去往的是故里。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493148594029.wav"
+        },
+        {
+            "text": "当学问走过漫漫古道凿刻入千窟，心也从愚昧中苏醒。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493151395635.wav"
+        },
+        {
+            "text": "千窟为佑，万代千秋",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493162772193.wav"
+        },
+        {
+            "text": "学识告诉你何谓不可触碰",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493163278249.wav"
+        },
+        {
+            "text": "消散愚昧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493163571615.wav"
+        },
+        {
+            "text": "不学无术的悲哀",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493169619972.wav"
+        },
+        {
+            "text": "读过六道的文字，才能安心抵达彼岸净土",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493170029704.wav"
+        },
+        {
+            "text": "寻回典籍是我的责任，就像寻回长城是你的责任。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493182234710.wav"
+        },
+        {
+            "text": "每个人从出生起，就走上自己的归乡路。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493182489800.wav"
+        },
+        {
+            "text": "典籍记载着血脉中的故里。忘不掉，抹不去。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493182737908.wav"
+        },
+        {
+            "text": "也想走马看一次长安的花，要为我引路吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493182987830.wav"
+        },
+        {
+            "text": "瓣鳞花凋零又盛开，有人却一去不再来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493183157063.wav"
+        },
+        {
+            "text": "多多读书，你的偶像才会欣赏你呢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493183629866.wav"
+        },
+        {
+            "text": "古道是树，典籍和学问就是树上的繁花。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493183867416.wav"
+        },
+        {
+            "text": "若你的心需要安放，去把它刻在长城上吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493184335904.wav"
+        },
+        {
+            "text": "何不执笔写下菜谱，千百年后人们仍会热爱你的味道。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493184734408.wav"
+        },
+        {
+            "text": "做不到自律，就等于自我放弃。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493185132944.wav"
+        },
+        {
+            "text": "真正的真理不让你因执着而狂热",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493185472082.wav"
+        },
+        {
+            "text": "起一声羌笛，在长城远眺瓣鳞花，没有比这更美好的风景",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493185989363.wav"
+        },
+        {
+            "text": "若学会文字，机关也会拥有人性吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493186574180.wav"
+        },
+        {
+            "text": "长安路远，遥望的恐怕不过旧梦一场",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493186971969.wav"
+        },
+        {
+            "text": "你血管里流淌着的就是黑火药吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493187379824.wav"
+        },
+        {
+            "text": "胡乱的狂热，嗯，需要罚抄一百遍经文来冷静呢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493187852668.wav"
+        },
+        {
+            "text": "想挽留的，已渐行渐远。犹如被抛弃的故土。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493188257163.wav"
+        },
+        {
+            "text": "千窟不会偏信任何人，历史自有他的判断。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220915/16632394985046.mp3"
+        },
+        {
+            "text": "云中生乱，多年平静，又起风云",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221109/16679868075473.mp3"
+        },
+        {
+            "text": "这里，少了一撇。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230426/16824995587763.mp3"
+        },
+        {
+            "text": "昨天教你的那几个字写会了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230426/16824996158307.mp3"
+        },
+        {
+            "text": "戈娅，晓月学宫已经修好了，我在考虑是不是该邀请你去晓月学宫待一阵。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230426/16824996886224.mp3"
+        }
+    ]
+}

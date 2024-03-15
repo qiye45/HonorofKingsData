@@ -1,0 +1,75 @@
+{
+    "name": "无忧猛士",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498388275254.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498388299844.jpg",
+    "voice_clips": [
+        {
+            "text": "心中乾坤大……地上……有西瓜。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500159729168.mp3"
+        },
+        {
+            "text": "我不累！我不饿！我……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497493908487.mp3"
+        },
+        {
+            "text": "看我……看我……不收拾了你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497494073082.mp3"
+        },
+        {
+            "text": "天寒地冻，不长点脂肪怎么行？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497494277034.mp3"
+        },
+        {
+            "text": "什么都吃，就是不吃兔子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497494442298.wav"
+        },
+        {
+            "text": "胖是工伤……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497494574470.wav"
+        },
+        {
+            "text": "除了我，猴子是世界第一。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497494749644.wav"
+        },
+        {
+            "text": "稳住，反正我们也赢不了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497494955156.wav"
+        },
+        {
+            "text": "西瓜山……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495087784.wav"
+        },
+        {
+            "text": "鉴赏下肥肉的价值！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495252682.wav"
+        },
+        {
+            "text": "赖你赖你都赖你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495389197.wav"
+        },
+        {
+            "text": "尝尝岩浆吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495518486.wav"
+        },
+        {
+            "text": "吃了你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495774071.wav"
+        },
+        {
+            "text": "看俺来……毁天灭日！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495941590.wav"
+        },
+        {
+            "text": "猴哥，要不你回你的日之塔，我也回我的日之塔。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497496193062.mp3"
+        },
+        {
+            "text": "牛哥，你去哪了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497496457209.wav"
+        },
+        {
+            "text": "正面打不过这破塔，俺还有背面呢，欸。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497496979700.mp3"
+        }
+    ]
+}

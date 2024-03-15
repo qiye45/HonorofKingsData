@@ -1,0 +1,67 @@
+{
+    "name": "魅力之狐",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498388444243.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498390701320.jpg",
+    "voice_clips": [
+        {
+            "text": "请尽情吩咐妲己，主人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497297006650.wav"
+        },
+        {
+            "text": "妲己，一直爱主人，因为被设定成这样。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497297177986.wav"
+        },
+        {
+            "text": "尾巴，不止能用来挠痒痒哦~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497297347764.wav"
+        },
+        {
+            "text": "努力做主人喜欢的事。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497297529788.wav"
+        },
+        {
+            "text": "没有心，就不会受伤。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497297677904.wav"
+        },
+        {
+            "text": "羁绊是什么意思？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497297816867.wav"
+        },
+        {
+            "text": "为什么会痛苦？一直微笑就好了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497297962225.wav"
+        },
+        {
+            "text": "主人的命令，是绝对的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497298109263.wav"
+        },
+        {
+            "text": "啊，被玩坏了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497298262162.wav"
+        },
+        {
+            "text": "妲己，陪你玩~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497298459175.wav"
+        },
+        {
+            "text": "来和妲己玩耍吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497298597812.wav"
+        },
+        {
+            "text": "让妲己看看你的心~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497298766279.wav"
+        },
+        {
+            "text": "你的主人制造你时，好像有偷工减料也。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497298971023.wav"
+        },
+        {
+            "text": "主人的敌人，就是妲己的敌人！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497299143695.wav"
+        },
+        {
+            "text": "主人讨厌你呢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497529679321.wav"
+        }
+    ]
+}

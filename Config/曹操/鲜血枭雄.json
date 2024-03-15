@@ -1,0 +1,51 @@
+{
+    "name": "鲜血枭雄",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16500042156168.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230309/16783542964235.jpg",
+    "voice_clips": [
+        {
+            "text": "宁教我负天下人 ！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497644778123.wav"
+        },
+        {
+            "text": "仁义，多么奢侈！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497664406265.wav"
+        },
+        {
+            "text": "忠诚，美妙的谎言！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497664714789.wav"
+        },
+        {
+            "text": "这就是炼狱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497664994822.wav"
+        },
+        {
+            "text": "力量也会臣服我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497665441169.wav"
+        },
+        {
+            "text": "别低估了霸道的力量！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497673557435.wav"
+        },
+        {
+            "text": "最后品尝一下，生命的滋味。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497673698212.wav"
+        },
+        {
+            "text": "你对我的价值决定我对你的估值。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497673796150.wav"
+        },
+        {
+            "text": "啊，愚蠢的时代！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497673942782.wav"
+        },
+        {
+            "text": "挑衅的下场！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497674178077.wav"
+        },
+        {
+            "text": "没用的你们就像没用的道义。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497674295616.wav"
+        }
+    ]
+}

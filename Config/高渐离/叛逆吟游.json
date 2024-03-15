@@ -1,0 +1,63 @@
+{
+    "name": "叛逆吟游",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498396142937.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498395259949.jpg",
+    "voice_clips": [
+        {
+            "text": "该我上场表演了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496443599562.wav"
+        },
+        {
+            "text": "来，听离哥替对面奏响离歌。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496466744137.wav"
+        },
+        {
+            "text": "原谅我一生，放浪不羁爱自由~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496467112803.wav"
+        },
+        {
+            "text": "狂热节拍！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496467336016.wav"
+        },
+        {
+            "text": "鬼哭狼嚎，绝妙的五重奏！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496467548020.wav"
+        },
+        {
+            "text": "动起来，心花会为你开~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496467824970.wav"
+        },
+        {
+            "text": "我们的灵魂总算起共鸣了，虽说偶尔还是有点跑调。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496467924610.wav"
+        },
+        {
+            "text": "加点尖叫和哀嚎，新曲子会让你泪流满面的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496468097744.wav"
+        },
+        {
+            "text": "好像……真的跑调了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496468506602.wav"
+        },
+        {
+            "text": "天天爱摇滚",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496469393889.wav"
+        },
+        {
+            "text": "rock you",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496469597335.wav"
+        },
+        {
+            "text": "没挂？还有安可~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496469741309.wav"
+        },
+        {
+            "text": "hold住全场！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496469879425.wav"
+        },
+        {
+            "text": "哎，魅力值再高，也hold不住你的车祸现场。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496470022532.wav"
+        }
+    ]
+}

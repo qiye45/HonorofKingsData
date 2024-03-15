@@ -1,0 +1,147 @@
+{
+    "name": "匿光侦查者",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230907/16940545126415.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230907/16940545166360.jpg",
+    "voice_clips": [
+        {
+            "text": "目标已确认，追踪行动开始！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940694327748.mp3"
+        },
+        {
+            "text": "不放过任何蛛丝马迹，从不可能中寻找可能。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940694515208.mp3"
+        },
+        {
+            "text": "指纹能被擦除，但真相永远无法被掩藏。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940694652040.mp3"
+        },
+        {
+            "text": "光，也有它的影子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940548036068.mp3"
+        },
+        {
+            "text": "委托目标，名为Z的武器和无法无天的黑客。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940548345778.mp3"
+        },
+        {
+            "text": "缺少睡眠是侦探的常态，谁叫坏人老在夜里出没。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940548637289.mp3"
+        },
+        {
+            "text": "躺在安乐椅上可不是我的风格！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940549253688.mp3"
+        },
+        {
+            "text": "你问委托人是谁？对不起，无可奉告！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940549502941.mp3"
+        },
+        {
+            "text": "对侦探而言，头脑是最原始但也是最有效的工具。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940550247924.mp3"
+        },
+        {
+            "text": "迄今为止共完成115次委托，希望这次能更有趣些。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940550491674.mp3"
+        },
+        {
+            "text": "黑夜中的独行者，偶尔也想拥有能够共患难的队友。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940551521972.mp3"
+        },
+        {
+            "text": "在场各位都有嫌疑……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940551769826.mp3"
+        },
+        {
+            "text": "你笑不到最后……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940552027127.mp3"
+        },
+        {
+            "text": "步法追踪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940552266735.mp3"
+        },
+        {
+            "text": "我找到你了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940552486517.mp3"
+        },
+        {
+            "text": "电磁索敌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940552735065.mp3"
+        },
+        {
+            "text": "无人机升空！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940552986154.mp3"
+        },
+        {
+            "text": "哨兵出动！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940553217103.mp3"
+        },
+        {
+            "text": "回旋拦击！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940553595215.mp3"
+        },
+        {
+            "text": "真相大白！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940554043512.mp3"
+        },
+        {
+            "text": "你的不在场证明不成立！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940554332796.mp3"
+        },
+        {
+            "text": "当侦探嘛，智慧必不可少……看来你没法成为我的同行了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940554746320.mp3"
+        },
+        {
+            "text": "目标嫌疑人已锁定，请指示。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940555898502.mp3"
+        },
+        {
+            "text": "就目前的危害性而言，他的确可以被无视。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940558536000.mp3"
+        },
+        {
+            "text": "他想知道匿光会不会威胁到城市的安宁。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940559176097.mp3"
+        },
+        {
+            "text": "为了真相，我答应你的条件。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940559423661.mp3"
+        },
+        {
+            "text": "再轻悄的脚步都逃不过本侦探的耳朵！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940559668098.mp3"
+        },
+        {
+            "text": "首先你得洗清自己的嫌疑。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940560013883.mp3"
+        },
+        {
+            "text": "再说一遍，它们是无人机，不是蝙蝠！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940560434966.mp3"
+        },
+        {
+            "text": "无人机的修复与护理……我也有这本书！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940560916769.mp3"
+        },
+        {
+            "text": "不好意思，你认错人了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940561273426.mp3"
+        },
+        {
+            "text": "他隶属于名为匿光的组织……具体情报尚待调查。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940561557283.mp3"
+        },
+        {
+            "text": "我已经以个人身份加入匿光，但答应你的委托还是会继续完成。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940561794830.mp3"
+        },
+        {
+            "text": "他让我转告你一句话，二十年前的危机并未解除。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940562086376.mp3"
+        },
+        {
+            "text": "放心吧，他已经在做准备了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940562549826.mp3"
+        }
+    ]
+}

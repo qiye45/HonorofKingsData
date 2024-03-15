@@ -1,0 +1,115 @@
+{
+    "name": "地狱燃心",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230920/16951778809277.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230920/16951778858841.jpg",
+    "voice_clips": [
+        {
+            "text": "寄希望于神明，不如亲手撕碎这黑夜！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951805244632.mp3"
+        },
+        {
+            "text": "地火煅体，天雷淬身，凭我残躯，洞穿地狱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951805575612.mp3"
+        },
+        {
+            "text": "地狱不空，心火不休。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951805928910.mp3"
+        },
+        {
+            "text": "高高在上的地狱之主，也是被神明遗弃的可怜虫。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951783554130.mp3"
+        },
+        {
+            "text": "在世人眼中，此地囚禁的都是十恶不赦之徒……包括我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951783903749.mp3"
+        },
+        {
+            "text": "这方天地倒也有些铁骨铮铮的汉子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951784252521.mp3"
+        },
+        {
+            "text": "欲盖弥彰，抑焰弥旺。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951784554323.mp3"
+        },
+        {
+            "text": "自谓终天路，忽然下沉渊。（选自曹植《吁嗟篇》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951784821255.mp3"
+        },
+        {
+            "text": "焚尽旧日，方能迎来新生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951785065125.mp3"
+        },
+        {
+            "text": "烈火不能带来真正的光明，但至少能让它来得早一些。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951785302011.mp3"
+        },
+        {
+            "text": "我为柴薪……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951786367508.mp3"
+        },
+        {
+            "text": "一往无前！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951786728755.mp3"
+        },
+        {
+            "text": "如火掠行！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951786927412.mp3"
+        },
+        {
+            "text": "没有退路可言！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951789462698.mp3"
+        },
+        {
+            "text": "火趁风威，遄遄疾行！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951789715803.mp3"
+        },
+        {
+            "text": "诸行无常！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951790183343.mp3"
+        },
+        {
+            "text": "摧烧之！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951790394916.mp3"
+        },
+        {
+            "text": "生死寂灭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951790648506.mp3"
+        },
+        {
+            "text": "当风扬其灰！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951791071446.mp3"
+        },
+        {
+            "text": "万物燃尽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951791356847.mp3"
+        },
+        {
+            "text": "灼灼地火，煌煌其雷！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951791655874.mp3"
+        },
+        {
+            "text": "登临绝顶，日月齐光！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951791934477.mp3"
+        },
+        {
+            "text": "扑火飞蛾。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951792556883.mp3"
+        },
+        {
+            "text": "抱薪救焚，扇火止沸。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951792875373.mp3"
+        },
+        {
+            "text": "长夜漫漫，我自持火前行。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951793203226.mp3"
+        },
+        {
+            "text": "好一个野火烧不尽，春风吹又生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951793634535.mp3"
+        },
+        {
+            "text": "他们畏惧的是你的灵魂。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230920/16951793924173.mp3"
+        }
+    ]
+}

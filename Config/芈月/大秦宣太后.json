@@ -1,0 +1,67 @@
+{
+    "name": "大秦宣太后",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498336448490.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498336478816.jpg",
+    "voice_clips": [
+        {
+            "text": "秦之崛起，如日初升。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493874797379.wav"
+        },
+        {
+            "text": "王权在握，自是一种风采",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493874967991.wav"
+        },
+        {
+            "text": "大争之世，唯论强弱存亡",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493875113800.wav"
+        },
+        {
+            "text": "不是灭了六国，便是为六国所灭",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493875251468.wav"
+        },
+        {
+            "text": "知道吗？女子桀骜起来，亦可扫六合，主天下",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493876843741.wav"
+        },
+        {
+            "text": "岂曰无衣？与子同袍。王于兴师，修我戈矛。（选自《秦风·无衣》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493877572533.wav"
+        },
+        {
+            "text": "若有利，自当图之",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493877699198.wav"
+        },
+        {
+            "text": "哈哈，青史评说，与我有什么干系？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493877804644.wav"
+        },
+        {
+            "text": "不死，不休……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493877952081.wav"
+        },
+        {
+            "text": "一寸疆土，一寸血。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493878161137.wav"
+        },
+        {
+            "text": "真是失态啊哈哈哈",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493878698850.wav"
+        },
+        {
+            "text": "不要放肆",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493878856870.wav"
+        },
+        {
+            "text": "有凤来仪，天下安宁",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493879553724.wav"
+        },
+        {
+            "text": "哼，世道如此",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493898228443.wav"
+        },
+        {
+            "text": "活着，是失败者；死了，是史书上的失败者。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493883014692.wav"
+        }
+    ]
+}

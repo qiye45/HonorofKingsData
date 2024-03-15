@@ -1,0 +1,375 @@
+{
+    "name": "天元之弈",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499898176474.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498396779441.jpg",
+    "voice_clips": [
+        {
+            "text": "不得贪胜，不可不胜。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498512243549.mp3"
+        },
+        {
+            "text": "纵横十九道内的，是无穷宇宙。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498512399337.mp3"
+        },
+        {
+            "text": "若世有神明，亦会胜他半子！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498512591129.mp3"
+        },
+        {
+            "text": "棋盘上栖息的除却输赢，还有阴阳",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497518046267.wav"
+        },
+        {
+            "text": "黑子深邃，为长夜苍茫莫测。白子耀眼，若恒星亘古不变",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497518168410.wav"
+        },
+        {
+            "text": "人穷其一生，都在世间寻找容身之处",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497518362778.wav"
+        },
+        {
+            "text": "家……代表着什么呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497518517317.wav"
+        },
+        {
+            "text": "总有些抉择无关胜负。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497518677154.wav"
+        },
+        {
+            "text": "让天下一先",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497518834749.wav"
+        },
+        {
+            "text": "棋逢对手乃是弈者之幸~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497520231881.wav"
+        },
+        {
+            "text": "天道无情，棋道却非如是。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497520379812.wav"
+        },
+        {
+            "text": "落子……无悔……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497520529661.wav"
+        },
+        {
+            "text": "死生一劫",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497520684406.wav"
+        },
+        {
+            "text": "即便是棋子，也该清楚自己的价值",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497520928112.wav"
+        },
+        {
+            "text": "算得清每颗棋子的价值吗？对你是件过于困难的事吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497521458242.wav"
+        },
+        {
+            "text": "你算得清每颗棋子的价值吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497521687412.wav"
+        },
+        {
+            "text": "没有对胜利的渴求，很快将百无一用",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497521774996.wav"
+        },
+        {
+            "text": "可以投子认输了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497521963917.wav"
+        },
+        {
+            "text": "自知者明",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497522075037.wav"
+        },
+        {
+            "text": "逢危需弃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497523538514.wav"
+        },
+        {
+            "text": "此身为......弃子......",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497523726419.wav"
+        },
+        {
+            "text": "入界宜缓",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497523874580.wav"
+        },
+        {
+            "text": "计定，势成于外",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497524113808.wav"
+        },
+        {
+            "text": "隐隐雷鸣，长安似要落雨",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497524412865.wav"
+        },
+        {
+            "text": "顺势，攻无不取",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497525096911.wav"
+        },
+        {
+            "text": "此局当以百坊为枰",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497525292715.wav"
+        },
+        {
+            "text": "收官，毫厘不可相让",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497525638023.wav"
+        },
+        {
+            "text": "长安棋局之上，是万家灯火",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497526052453.wav"
+        },
+        {
+            "text": "飞攻！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497526574983.wav"
+        },
+        {
+            "text": "动须相应！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497526705404.wav"
+        },
+        {
+            "text": "连月！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497526831979.wav"
+        },
+        {
+            "text": "连击！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497527037348.wav"
+        },
+        {
+            "text": "飞星！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497527288670.wav"
+        },
+        {
+            "text": "聚风！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497527443201.wav"
+        },
+        {
+            "text": "镇神！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497528184728.wav"
+        },
+        {
+            "text": "征",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497528435366.wav"
+        },
+        {
+            "text": "天元之弈！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497528609879.wav"
+        },
+        {
+            "text": "攻彼顾我，先行一步",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497528801023.wav"
+        },
+        {
+            "text": "此为万变之局！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497528971083.wav"
+        },
+        {
+            "text": "阴阳纵横！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497529129770.wav"
+        },
+        {
+            "text": "方寸棋盘，便是我的天地！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497529288385.wav"
+        },
+        {
+            "text": "胜负，半目足矣",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497529609125.wav"
+        },
+        {
+            "text": "敌行，逢机当断！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497529708331.wav"
+        },
+        {
+            "text": "我众彼寡，务张其势",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497530702261.wav"
+        },
+        {
+            "text": "初次见面，在下弈星",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497530872751.wav"
+        },
+        {
+            "text": "明两作，离；大人以继明照于四方",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497531112485.wav"
+        },
+        {
+            "text": "一子定乾坤",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497531331937.wav"
+        },
+        {
+            "text": "早在计算之中",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497531728789.wav"
+        },
+        {
+            "text": "绝境亦蕴含生路",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497532062118.wav"
+        },
+        {
+            "text": "彼众我寡，先谋其生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497532169913.wav"
+        },
+        {
+            "text": "嗯……好吃。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497533275687.wav"
+        },
+        {
+            "text": "棋之道，像四季和舞姿，变化万千",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497541681060.wav"
+        },
+        {
+            "text": "棋道精深，一日不可懈怠",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497545455189.wav"
+        },
+        {
+            "text": "除了被保护，弈星也可以守护大家。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497545629721.wav"
+        },
+        {
+            "text": "下雪了，冬至当吃饺子",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497545771813.wav"
+        },
+        {
+            "text": "这件新披风，送我的吗？谢谢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497545987174.wav"
+        },
+        {
+            "text": "卦辞为吉",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497546337696.wav"
+        },
+        {
+            "text": "难得一见的孤本",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497546505781.wav"
+        },
+        {
+            "text": "除了棋谱之外，我也有些别的收藏",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497546669939.wav"
+        },
+        {
+            "text": "师父此次留下的，是一局无解残棋",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497547426794.wav"
+        },
+        {
+            "text": "日落下的牡丹，甚是好看",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497547601374.wav"
+        },
+        {
+            "text": "没有生气……我已计算好对面的败局",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497548006152.wav"
+        },
+        {
+            "text": "太极宫一局，此书有所记载",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497551687802.wav"
+        },
+        {
+            "text": "带着面具生活，并不会更容易。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497551877159.wav"
+        },
+        {
+            "text": "别紧张，泰然处之即可",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497552145661.wav"
+        },
+        {
+            "text": "过去的我……输掉的话，会难过到哭泣吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497552575337.wav"
+        },
+        {
+            "text": "子弹也无法触及的，唯有星辰大海",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497552844972.wav"
+        },
+        {
+            "text": "棋是活的，铠也是活的。狭路相逢勇者胜",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497553033494.wav"
+        },
+        {
+            "text": "逃不开星空的辽阔，自然逃不出棋子的气场",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497553618735.wav"
+        },
+        {
+            "text": "这，不必了吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497554003014.wav"
+        },
+        {
+            "text": "棋之道，像四季和舞姿，变化万千",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497556627967.wav"
+        },
+        {
+            "text": "玉环姐姐，师父的花……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497557568497.wav"
+        },
+        {
+            "text": "琴声里，久久听不到落子的动静。然听到此琴已是幸福所在。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497557831641.wav"
+        },
+        {
+            "text": "虎子，我……谢谢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497558329231.wav"
+        },
+        {
+            "text": "好，男子汉间的约定",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497558712415.wav"
+        },
+        {
+            "text": "一力降十会",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497558924625.wav"
+        },
+        {
+            "text": "在我这里，可没有悔棋的规矩啊",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497559348795.wav"
+        },
+        {
+            "text": "残局无解，师父亦无归期，是吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497559885162.wav"
+        },
+        {
+            "text": "师父有所求的天地，弈星亦有想守护的盈尺",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497560122424.wav"
+        },
+        {
+            "text": "舍弃是一种取胜之道，但我不会舍弃家人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497560601723.wav"
+        },
+        {
+            "text": "师父留下牡丹玉佩，将我们视作与过往同等重要的存在",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497563329393.wav"
+        },
+        {
+            "text": "会一直胜下去，为了属于我的棋道",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497563865522.wav"
+        },
+        {
+            "text": "乐意奉陪。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497564148239.wav"
+        },
+        {
+            "text": "善弈者谋势,不善弈者谋子",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497565838804.wav"
+        },
+        {
+            "text": "弈星告辞",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497567463119.wav"
+        },
+        {
+            "text": "元芳大人，关于师父的过往线索，弈星无以言谢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497567841887.wav"
+        },
+        {
+            "text": "棋子会决定谁才是活到最后的存在",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497567978479.wav"
+        },
+        {
+            "text": "陛下，这次请做弈星的棋子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497568282546.wav"
+        },
+        {
+            "text": "血脉相连，却并不能称之为家人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497569181309.wav"
+        },
+        {
+            "text": "此生未尝一败。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497569518584.wav"
+        },
+        {
+            "text": "云姑娘，人各有所长。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497570044864.wav"
+        },
+        {
+            "text": "承让。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497570429846.wav"
+        }
+    ]
+}

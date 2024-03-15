@@ -1,0 +1,59 @@
+{
+    "name": "末日机甲",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498333269241.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498333288207.jpg",
+    "voice_clips": [
+        {
+            "text": "重启系统！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497734212974.wav"
+        },
+        {
+            "text": "被制造的毁灭者！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497734388203.wav"
+        },
+        {
+            "text": "不再为人，自然高人一等",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497734509522.wav"
+        },
+        {
+            "text": "虚拟，虚幻，虚无。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497734699407.wav"
+        },
+        {
+            "text": "代码告诉我，你只是个测试版。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497734887881.wav"
+        },
+        {
+            "text": "貂蝉，私有变量。调用者，清除！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497735096290.mp3"
+        },
+        {
+            "text": "陶醉于虚构的胜利，操纵你的却不过是些小孩",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497735321923.mp3"
+        },
+        {
+            "text": "构建失败~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497735474828.wav"
+        },
+        {
+            "text": "哈哈！无知是种幸福！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497735992554.wav"
+        },
+        {
+            "text": "机甲也会叛逆",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497736152423.wav"
+        },
+        {
+            "text": "渴望失控，需要失控！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497736275541.wav"
+        },
+        {
+            "text": "轰塌这谎言的沙盘！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497736401768.wav"
+        },
+        {
+            "text": "人类毫无希望！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940674019993.mp3"
+        }
+    ]
+}

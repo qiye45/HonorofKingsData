@@ -1,0 +1,207 @@
+{
+    "name": "乘龙·忆丹青",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240204/17070417157215.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240204/17070417099628.jpg",
+    "voice_clips": [
+        {
+            "text": "绘江山形胜，书百代词章。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070386567560.mp3"
+        },
+        {
+            "text": "山河妙染～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070386763850.mp3"
+        },
+        {
+            "text": "千秋为纪，翰墨长留。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070386947024.mp3"
+        },
+        {
+            "text": "承千秋之祐，聚万象为龙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070388095661.mp3"
+        },
+        {
+            "text": "文章托不朽，丹青寄尘凡——请君看取今朝事，一万年后亦宛然。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070388319051.mp3"
+        },
+        {
+            "text": "千里江山在，九州车马兴～此卷甚好。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070388523820.mp3"
+        },
+        {
+            "text": "竹帛琅书已传百代，个中故事若有所惑，尽可问我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070388766062.mp3"
+        },
+        {
+            "text": "操觚千篇诗酒，谁继赤壁坡仙？犹昔年、文期佳会，漫叹风流。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070388973567.mp3"
+        },
+        {
+            "text": "犹记取……千门绮秀，万国衣冠。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070389151993.mp3"
+        },
+        {
+            "text": "八声甘州，六州歌头，如此江山忆旧游。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070389321130.mp3"
+        },
+        {
+            "text": "梦魂归去三千载，只将山水作故人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070389481014.mp3"
+        },
+        {
+            "text": "一别经年……诸君，别来无恙？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070389668005.mp3"
+        },
+        {
+            "text": "原来相逢是梦中……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070389853140.mp3"
+        },
+        {
+            "text": "尽善也，尽美矣～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070390062526.mp3"
+        },
+        {
+            "text": "丹青着来千千幅，不若阁下泪点多～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070390295262.mp3"
+        },
+        {
+            "text": "群峰叠翠。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070390508004.mp3"
+        },
+        {
+            "text": "碧染烟汀。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070390668424.mp3"
+        },
+        {
+            "text": "竖峰千仞，临一别三秋之人！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070392597998.mp3"
+        },
+        {
+            "text": "天涯邀月，清风往来～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070392963424.mp3"
+        },
+        {
+            "text": "故国神游~（选自苏轼《念奴娇·赤壁怀古》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070393212258.mp3"
+        },
+        {
+            "text": "千古去来兮～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070393751234.mp3"
+        },
+        {
+            "text": "神工独运，妙墨天成！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070394058373.mp3"
+        },
+        {
+            "text": "走笔纵横，造化千万！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070394242504.mp3"
+        },
+        {
+            "text": "横雁数行，题百里思归之客～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070398734205.mp3"
+        },
+        {
+            "text": "千秋长若此。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070395973922.mp3"
+        },
+        {
+            "text": "万里同风，与子同梦～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070396392536.mp3"
+        },
+        {
+            "text": "便使丹青添羽翼，来送长风！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070397051953.mp3"
+        },
+        {
+            "text": "还邀诸君，来会古今！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070397335470.mp3"
+        },
+        {
+            "text": "尺幅千里~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070397626285.mp3"
+        },
+        {
+            "text": "百景流芳~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070397842303.mp3"
+        },
+        {
+            "text": "如此便画成了，还请诸位题字留印~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070398091730.mp3"
+        },
+        {
+            "text": "云笺遥寄，远客当归。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070398354063.mp3"
+        },
+        {
+            "text": "我在千秋后一梦，梦到大江东去，长风回舻……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070398986898.mp3"
+        },
+        {
+            "text": "此言，甚是。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070399166771.mp3"
+        },
+        {
+            "text": "这笔墨终归寥寥，不知可能传之后世，记取巾帼英豪。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070399382395.mp3"
+        },
+        {
+            "text": "眼前如此才捷刚猛、一代英侠，我竟不知……是何人～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070399585715.mp3"
+        },
+        {
+            "text": "这是学了什么新诗，非要说与我听？（改编自《诗经·国风·木瓜》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070399925564.mp3"
+        },
+        {
+            "text": "我的故事呀，到此就说尽了，故人业已风流云散……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070400107483.mp3"
+        },
+        {
+            "text": "此卷还有一言——若非“江山留胜迹”，如何“我辈复登临”？（选自孟浩然《与诸子登岘山》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070400367210.mp3"
+        },
+        {
+            "text": "千秋更移，可观此金鼎，其上铭刻历历，仍传汤禹……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070400561160.mp3"
+        },
+        {
+            "text": "断简残编……何人所为！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070400983258.mp3"
+        },
+        {
+            "text": "谁还似，少年游……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070401173032.mp3"
+        },
+        {
+            "text": "云山远黛，澄波清浅。鸟鸣空涧，鱼跃流泉~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070401348784.mp3"
+        },
+        {
+            "text": "草木自荣，何须丹青之色；云雪皎皎，岂因铅粉俱白？（改编自张彦远《历代名画记》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070401602821.mp3"
+        },
+        {
+            "text": "离别在须臾……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070401783560.mp3"
+        },
+        {
+            "text": "功业成败，岂尽系于绿腰？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070401978615.mp3"
+        },
+        {
+            "text": "无气韵不成画，无风骨难为诗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070402164271.mp3"
+        },
+        {
+            "text": "从来不朽之书，须传不朽之人。（改编自鲁迅《阿Q正传》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070402429828.mp3"
+        },
+        {
+            "text": "至今直笔下，仍有不绝书！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070402631660.mp3"
+        },
+        {
+            "text": "书之竹帛，传遗后世！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070402834073.mp3"
+        }
+    ]
+}

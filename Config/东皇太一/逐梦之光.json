@@ -1,0 +1,63 @@
+{
+    "name": "逐梦之光",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498328813313.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498328839076.jpg",
+    "voice_clips": [
+        {
+            "text": "万物皆可辅~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493947739431.wav"
+        },
+        {
+            "text": "发光吧，成为众星仰望的名字。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493947866388.wav"
+        },
+        {
+            "text": "用对面的buff开局，才是精髓！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493948001991.wav"
+        },
+        {
+            "text": "载入星际史的第一条件：要么超纪录连胜，要么终结连胜~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493948184153.wav"
+        },
+        {
+            "text": "你的对局时长，是本裁判官的最大苦恼。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493948331319.wav"
+        },
+        {
+            "text": "和平法警告！击败队友乃无效战绩。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493948477625.wav"
+        },
+        {
+            "text": "冠军魔咒，最可怕的星际玄学。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493948649020.wav"
+        },
+        {
+            "text": "授予本届超级兵，星球最强称号！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493991408599.wav"
+        },
+        {
+            "text": "别轻易预测胜利……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493991705476.wav"
+        },
+        {
+            "text": "暴击，是看脸的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493991897702.wav"
+        },
+        {
+            "text": "检索你的灵魂……果然空无一物。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493992086982.wav"
+        },
+        {
+            "text": "你飞不出我的宇宙。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493992245910.wav"
+        },
+        {
+            "text": "完美的收官之战！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493992617294.wav"
+        },
+        {
+            "text": "真是罕见的黑洞，刷新了操作的下限~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493992806885.wav"
+        }
+    ]
+}

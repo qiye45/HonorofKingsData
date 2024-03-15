@@ -1,0 +1,63 @@
+{
+    "name": "梅西",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498354539385.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498354568446.jpg",
+    "voice_clips": [
+        {
+            "text": "所选之路，为足球而生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496729406544.wav"
+        },
+        {
+            "text": "成为最好的梅西，不是任何人的影子",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496729577482.wav"
+        },
+        {
+            "text": "历史对我紧追不舍，但我速度更快",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496729707652.wav"
+        },
+        {
+            "text": "为球衣胸前的名字而战，人们会记住它。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496729924571.mp3"
+        },
+        {
+            "text": "这片绿茵从不缺乏天才，努力才是最终入场券",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496730098319.mp3"
+        },
+        {
+            "text": "仍然记得我第一个足球的样子",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496730265143.wav"
+        },
+        {
+            "text": "延续的，不止自己的足球梦",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496730874937.wav"
+        },
+        {
+            "text": "踢球，可不是为了成为历史上最棒的球衣",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496731052268.wav"
+        },
+        {
+            "text": "乌龙球？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496731269807.wav"
+        },
+        {
+            "text": "完美的帽子戏法！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496731491322.wav"
+        },
+        {
+            "text": "你能看清我的跑位吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496731712780.wav"
+        },
+        {
+            "text": "临门一脚！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496731833864.wav"
+        },
+        {
+            "text": "哈哈，制胜金球！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496732056035.wav"
+        },
+        {
+            "text": "终场哨声是对你最美妙的解脱",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496732198979.wav"
+        }
+    ]
+}

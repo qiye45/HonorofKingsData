@@ -1,0 +1,55 @@
+{
+    "name": "魔术师",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502894755519.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502894725327.jpg",
+    "voice_clips": [
+        {
+            "text": "你真的看仔细了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496551486903.wav"
+        },
+        {
+            "text": "下注吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496551601533.wav"
+        },
+        {
+            "text": "化腐朽为神奇！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496551724871.wav"
+        },
+        {
+            "text": "小鸟们，纸牌的魔术会偷走生命哟~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496551868357.wav"
+        },
+        {
+            "text": "看得出来，对面的筹码不多了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496552001428.wav"
+        },
+        {
+            "text": "为我的手速来点掌声好嘛！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496552121733.wav"
+        },
+        {
+            "text": "这不是魔术，是现实。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496552249038.wav"
+        },
+        {
+            "text": "连胜利女神都在对你的人品吐槽",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496552373386.wav"
+        },
+        {
+            "text": "发牌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496552659503.wav"
+        },
+        {
+            "text": "变",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496553086641.wav"
+        },
+        {
+            "text": "看好咯",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496553227722.wav"
+        },
+        {
+            "text": "想找出秘诀？办不到。因为你就是这么好骗！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496553428838.wav"
+        }
+    ]
+}

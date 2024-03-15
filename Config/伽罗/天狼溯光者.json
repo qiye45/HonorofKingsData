@@ -1,0 +1,123 @@
+{
+    "name": "天狼溯光者",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498391342540.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498391384988.jpg",
+    "voice_clips": [
+        {
+            "text": "这里有我，并且不止有我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499939005837.mp3"
+        },
+        {
+            "text": "追溯至暗之夜，方见至明之光！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499939142696.mp3"
+        },
+        {
+            "text": "过往，给予我们向前的力量！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499939284040.mp3"
+        },
+        {
+            "text": "一座城市的消亡，大多从遗忘开始",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493230466520.wav"
+        },
+        {
+            "text": "超越历史，天狼守则第三条",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493231425705.wav"
+        },
+        {
+            "text": "重要的不是传说讲述的年代，而是讲述传说的年代",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493231643471.wav"
+        },
+        {
+            "text": "选题天马行空，研究脚踏实地",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493231886510.wav"
+        },
+        {
+            "text": "必要的感性，也是理性的一部分",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493232076971.wav"
+        },
+        {
+            "text": "从不相信幸运日，但1号的确常有好事发生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493232319461.wav"
+        },
+        {
+            "text": "我所信仰的唯一科学，叫做历史学",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493233023951.wav"
+        },
+        {
+            "text": "从来都不止有…...我们……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493238936775.wav"
+        },
+        {
+            "text": "召唤曙光！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493239605566.wav"
+        },
+        {
+            "text": "信仰，永不磨灭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493239823208.wav"
+        },
+        {
+            "text": "罪恶，在有效射程之内！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493240054027.wav"
+        },
+        {
+            "text": "分析结果表明，你的历史价值是负数~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493240443493.wav"
+        },
+        {
+            "text": "清除错误数据！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493240877668.wav"
+        },
+        {
+            "text": "计划编码5358，你准备好了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493241263919.wav"
+        },
+        {
+            "text": "主宰变迁史，学术报告的首个课题~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493241648457.wav"
+        },
+        {
+            "text": "计划代号“天狼星”，进度一切顺利",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493243918222.wav"
+        },
+        {
+            "text": "这次干的漂亮，老虎！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493245042086.wav"
+        },
+        {
+            "text": "某个画家，答应过我一幅生日礼物哦~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493247018600.wav"
+        },
+        {
+            "text": "辛苦啦，我们的小朋友~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493248333000.wav"
+        },
+        {
+            "text": "别误会，我为信仰工作，可不是为了老板",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493250336191.wav"
+        },
+        {
+            "text": "老虎，至今无法用科学解释的生物",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493251416941.wav"
+        },
+        {
+            "text": "当心些，作画者最容易忘记自己的样子",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493251848547.wav"
+        },
+        {
+            "text": "聪明的小朋友更需要多读书哦~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493252213957.wav"
+        },
+        {
+            "text": "天狼星小队集结完毕，行动开始！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499249798870.wav"
+        },
+        {
+            "text": "如果能突破我的底层程序，它们随你调取。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230629/16880337939738.mp3"
+        },
+        {
+            "text": "如果你遇到小黑客，可以告诉他我期待下一场较量。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940569826382.mp3"
+        }
+    ]
+}

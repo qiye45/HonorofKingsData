@@ -1,0 +1,115 @@
+{
+    "name": "时之祈愿",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498366861322.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498366895815.jpg",
+    "voice_clips": [
+        {
+            "text": "嗯....以守护者之名，桎梏于传说中的魔法禁地……\n我是否，也曾许下愿望？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500039618139.mp3"
+        },
+        {
+            "text": "她是…穿越无尽迷雾……所有偶遇，皆为重逢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500039811011.mp3"
+        },
+        {
+            "text": "嗯...仿佛一个似曾相识的梦……危险！……过往会被封印，但未来不会",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500039407752.mp3"
+        },
+        {
+            "text": "我似乎，遗忘了一个很重要的约定……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496470875383.wav"
+        },
+        {
+            "text": "在梦里没有禁地守护者，我只是个寻找四叶草的普通人……为了，什么愿望呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496471036924.wav"
+        },
+        {
+            "text": "但凡存在，必有迹可循",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496471197184.wav"
+        },
+        {
+            "text": "偶尔，天空也会看向吵闹的大地",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496471329238.wav"
+        },
+        {
+            "text": "魔法没有想到，有的东西可以藏这么深",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496471476013.wav"
+        },
+        {
+            "text": "来路与归途，有时比想象中更接近",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496471622082.wav"
+        },
+        {
+            "text": "许愿的法则是，说出来才能实现",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496471753583.wav"
+        },
+        {
+            "text": "或许我们，可以创造全新的过去",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496472056230.wav"
+        },
+        {
+            "text": "记忆被封印在……看不见的风里……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496472253405.wav"
+        },
+        {
+            "text": "不要，再一次遗忘……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496472368667.wav"
+        },
+        {
+            "text": "这里不是属于你的世界，速速离开",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496472577426.wav"
+        },
+        {
+            "text": "以宿命终结宿命！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496472729733.wav"
+        },
+        {
+            "text": "风随心动！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496472898906.wav"
+        },
+        {
+            "text": "与天空同行！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496473066412.wav"
+        },
+        {
+            "text": "向远方看！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496473252929.wav"
+        },
+        {
+            "text": "冲破 记忆枷锁",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496473395201.wav"
+        },
+        {
+            "text": "如约而来~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496473601809.wav"
+        },
+        {
+            "text": "再无拘束！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496473742080.wav"
+        },
+        {
+            "text": "……咒语解除",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500039225532.wav"
+        },
+        {
+            "text": "这是我所守卫的领域",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496474442265.wav"
+        },
+        {
+            "text": "有些东西，用眼睛是看不到的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496475054389.wav"
+        },
+        {
+            "text": "一个……已经实现的愿望。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496523619036.mp3"
+        },
+        {
+            "text": "嗯，相信",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496523788242.wav"
+        },
+        {
+            "text": "他们一起找到了它。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496523916172.wav"
+        }
+    ]
+}

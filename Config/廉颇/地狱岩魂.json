@@ -1,0 +1,79 @@
+{
+    "name": "地狱岩魂",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498331385177.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498331411990.jpg",
+    "voice_clips": [
+        {
+            "text": "来啊，看看谁打败谁！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499319698147.mp3"
+        },
+        {
+            "text": "尝尝深渊下的恶火！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499319785855.mp3"
+        },
+        {
+            "text": "向死而生！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499319888203.mp3"
+        },
+        {
+            "text": "在人间千百代的传说里，我…都只是个怪物。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497462244857.wav"
+        },
+        {
+            "text": "天底下最坏的，全都关在我们这。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497462463593.wav"
+        },
+        {
+            "text": "代价？除了这躯壳还有什么可失去的吗！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497462641660.wav"
+        },
+        {
+            "text": "你在问我……这副身躯被锻铸时的痛苦吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497462889424.wav"
+        },
+        {
+            "text": "隔壁烤火的猴子和我一样，也是个硬骨头。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497463128935.wav"
+        },
+        {
+            "text": "呵呵呵呵，这就去会会阎王。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497463323335.wav"
+        },
+        {
+            "text": "试试这个力道。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497463528978.wav"
+        },
+        {
+            "text": "千锤百炼！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497463656941.wav"
+        },
+        {
+            "text": "铸火为魂！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497463843024.wav"
+        },
+        {
+            "text": "来吧……来吧……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497464012644.wav"
+        },
+        {
+            "text": "烧得更猛烈些！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499319993851.mp3"
+        },
+        {
+            "text": "这是熔岩给的力量！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499320119129.mp3"
+        },
+        {
+            "text": "怕吗！烫吗！敢堂堂正正与我一战吗！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497464961933.wav"
+        },
+        {
+            "text": "想诛灭我？就凭你么！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497465248295.wav"
+        },
+        {
+            "text": "即使只剩这魂灵，也要向天地讨个结果！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497465552269.wav"
+        }
+    ]
+}

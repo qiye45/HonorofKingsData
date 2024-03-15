@@ -1,0 +1,171 @@
+{
+    "name": "碎月剑心",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240201/17067741516289.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240201/17067741597377.jpg",
+    "voice_clips": [
+        {
+            "text": "不朽造物？形存神灭，不过死物。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068678784843.mp3"
+        },
+        {
+            "text": "何为天下至美？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068678994741.mp3"
+        },
+        {
+            "text": "非景、非物、更非不灭幻境，唯世间情、心中意！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068679133400.mp3"
+        },
+        {
+            "text": "此赴长安，只求逢遇至美之物，至强之剑，至高之诗，增益自身……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068679294237.mp3"
+        },
+        {
+            "text": "浮华三千，虚妄过眼！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068679458249.mp3"
+        },
+        {
+            "text": "一山一月总关情。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068561589745.mp3"
+        },
+        {
+            "text": "流萤易灭，心火长明。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068561734585.mp3"
+        },
+        {
+            "text": "唯有人心存千古！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068561874399.mp3"
+        },
+        {
+            "text": "桃花潭水深千尺，不及汪伦送我情。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068562028055.mp3"
+        },
+        {
+            "text": "无令长相思，折断杨柳枝。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068562226068.mp3"
+        },
+        {
+            "text": "千金不换腰间壶！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068562383235.mp3"
+        },
+        {
+            "text": "水云长天处，迢迢游子心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068562771688.mp3"
+        },
+        {
+            "text": "月出峨眉照沧海，与人万里长相随。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068562932065.mp3"
+        },
+        {
+            "text": "碧水浩浩云茫茫，美人不来空断肠。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068563095934.mp3"
+        },
+        {
+            "text": "浮云游子意，落日故人情。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068563247837.mp3"
+        },
+        {
+            "text": "万里送行舟！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068563495281.mp3"
+        },
+        {
+            "text": "我醉欲眠卿且去……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068563654155.mp3"
+        },
+        {
+            "text": "美则美矣，了无生气~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068565753132.mp3"
+        },
+        {
+            "text": "世间好物，过我眼，即我有。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068565943252.mp3"
+        },
+        {
+            "text": "似真似幻，皆为大梦一场！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068566147944.mp3"
+        },
+        {
+            "text": "如坠梦中……方觉醒。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068566328362.mp3"
+        },
+        {
+            "text": "此情此景，当赋诗一首！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068566504085.mp3"
+        },
+        {
+            "text": "雨打灯难灭，风吹色更明。若飞天上去，定作月边星。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068566725245.mp3"
+        },
+        {
+            "text": "寄情天地间。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068566956387.mp3"
+        },
+        {
+            "text": "来去皆留意。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068567108201.mp3"
+        },
+        {
+            "text": "曲水记流觞。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068567299704.mp3"
+        },
+        {
+            "text": "浮光山水乱人心！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068567444070.mp3"
+        },
+        {
+            "text": "此间久莫留！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068567947182.mp3"
+        },
+        {
+            "text": "一剑破幻相！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068568169743.mp3"
+        },
+        {
+            "text": "莫使尘心恋虚华。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068568328607.mp3"
+        },
+        {
+            "text": "此剑……千人同心而铸。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068568829721.mp3"
+        },
+        {
+            "text": "莫怪无心恋清境！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068569014058.mp3"
+        },
+        {
+            "text": "长歌当哭，远望当归。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068569199128.mp3"
+        },
+        {
+            "text": "此情依依待追忆！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068569354802.mp3"
+        },
+        {
+            "text": "与尔同销万古愁！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068569524811.mp3"
+        },
+        {
+            "text": "不惜草木，何怜众生？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068569739752.mp3"
+        },
+        {
+            "text": "天下至美，在天下，不在方外。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068569894799.mp3"
+        },
+        {
+            "text": "欲上青天——揽明月！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068570066266.mp3"
+        },
+        {
+            "text": "尽美尽善，当如此！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068570223770.mp3"
+        },
+        {
+            "text": "壶中自有天地长！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068570384597.mp3"
+        },
+        {
+            "text": "惊波动连山，拔剑曳雷电。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068570561290.mp3"
+        }
+    ]
+}

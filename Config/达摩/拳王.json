@@ -1,0 +1,47 @@
+{
+    "name": "拳王",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499969105794.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498327309495.jpg",
+    "voice_clips": [
+        {
+            "text": "我来演示下击倒的艺术！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496596284911.wav"
+        },
+        {
+            "text": "肩膀放松，脚跟上！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496596433532.wav"
+        },
+        {
+            "text": "金腰带，新的记录！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496596821523.wav"
+        },
+        {
+            "text": "像我这么伟大的拳手，谦虚是很难的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496596972118.wav"
+        },
+        {
+            "text": "爬起来比跌倒多一次，就是成功！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496597088338.wav"
+        },
+        {
+            "text": "我的工作就是痛打对面！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496597201198.wav"
+        },
+        {
+            "text": "想怎么击倒就怎么击倒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496597445751.wav"
+        },
+        {
+            "text": "你的攻击缺乏欲望！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496597573076.wav"
+        },
+        {
+            "text": "我是……打不倒的……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496597755911.wav"
+        },
+        {
+            "text": "哈哈哈，成功的秘诀，是大量的沙袋大量的吊打。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496597915348.wav"
+        }
+    ]
+}

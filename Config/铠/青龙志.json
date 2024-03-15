@@ -1,0 +1,63 @@
+{
+    "name": "青龙志",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498329688088.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240116/17053750474277.jpg",
+    "voice_clips": [
+        {
+            "text": "辟邪恶，调阴阳！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497722534815.wav"
+        },
+        {
+            "text": "列阵在东！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497722622345.wav"
+        },
+        {
+            "text": "青龙听命！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497722701143.wav"
+        },
+        {
+            "text": "长得帅有什么用，还不得听女孩子的话。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497723243748.wav"
+        },
+        {
+            "text": "这颗心，像青天一样恢弘。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497723409841.wav"
+        },
+        {
+            "text": "威泽四方~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497723507048.wav"
+        },
+        {
+            "text": "有些事……就不告诉你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497723586002.wav"
+        },
+        {
+            "text": "听，我的回音！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497723712712.wav"
+        },
+        {
+            "text": "到深渊里找我……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724122109.wav"
+        },
+        {
+            "text": "腾空出海！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724224341.wav"
+        },
+        {
+            "text": "雷电风云！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724395092.wav"
+        },
+        {
+            "text": "飞龙在天！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724545338.wav"
+        },
+        {
+            "text": "来，看谁变幻莫测。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724764052.wav"
+        },
+        {
+            "text": "无人可见，无人能敌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497725061326.wav"
+        }
+    ]
+}

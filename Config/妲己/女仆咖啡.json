@@ -1,0 +1,75 @@
+{
+    "name": "女仆咖啡",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498486932037.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240116/17053749357776.jpg",
+    "voice_clips": [
+        {
+            "text": "总有一款甜品，能疗愈你生活的苦味。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497316127776.mp3"
+        },
+        {
+            "text": "围绕我们的世界，一定比想象的更温柔一些。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497316308086.mp3"
+        },
+        {
+            "text": "让你留恋的是甜点，还是那些与甜蜜有关的瞬间？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497316496964.mp3"
+        },
+        {
+            "text": "这间咖啡屋，会为需要的人而存在。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497316693200.wav"
+        },
+        {
+            "text": "生日蛋糕就选自己喜欢的吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497316821944.wav"
+        },
+        {
+            "text": "这就是……让人牵挂的味道？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497316982700.mp3"
+        },
+        {
+            "text": "期待……下次再见。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497317162864.wav"
+        },
+        {
+            "text": "尽情享用~甜蜜续杯！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497317341674.wav"
+        },
+        {
+            "text": "完美的拉花~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497317474666.wav"
+        },
+        {
+            "text": "味蕾绽放！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497317614368.wav"
+        },
+        {
+            "text": "试试招牌蛋糕~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497317757312.wav"
+        },
+        {
+            "text": "啊！这里~不欢迎奇怪的家伙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497317924522.mp3"
+        },
+        {
+            "text": "欢迎再来~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497318088596.wav"
+        },
+        {
+            "text": "欢迎回家，希望您今天也有愉快的心情~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497318233893.wav"
+        },
+        {
+            "text": "独一无二的故事，调配专属于你的美味~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499318035641.mp3"
+        },
+        {
+            "text": "给回忆加糖~客人，请用心品尝。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499318176548.mp3"
+        },
+        {
+            "text": "展示一下，让咖啡变美味的魔法！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497536167191.wav"
+        }
+    ]
+}

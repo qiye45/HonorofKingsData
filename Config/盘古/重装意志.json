@@ -1,0 +1,71 @@
+{
+    "name": "重装意志",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498353528694.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498353551139.jpg",
+    "voice_clips": [
+        {
+            "text": "勇者无惧，仁者无敌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497340843616.wav"
+        },
+        {
+            "text": "吾之领域！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497340969715.wav"
+        },
+        {
+            "text": "做好了，和一切交手的准备！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497341083768.wav"
+        },
+        {
+            "text": "最高的科技始于最高的爱。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497341226943.wav"
+        },
+        {
+            "text": "人类使用语言的历史，远超过使用武器。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497341372478.mp3"
+        },
+        {
+            "text": "勇气可以转化为搏倒一切的力量。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497341558209.mp3"
+        },
+        {
+            "text": "战争，灾难的开端。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497341698885.wav"
+        },
+        {
+            "text": "永别了，武器。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497341876740.wav"
+        },
+        {
+            "text": "扳倒罪恶的权柄！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497342051520.wav"
+        },
+        {
+            "text": "哼，亡命之徒。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497342239709.wav"
+        },
+        {
+            "text": "这是，捍卫和平的铁臂。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497342388708.wav"
+        },
+        {
+            "text": "重装出战！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497342515441.wav"
+        },
+        {
+            "text": "不会让灾难重演。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497342658328.wav"
+        },
+        {
+            "text": "万劫不复！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497342785786.wav"
+        },
+        {
+            "text": "自取灭亡！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497342938214.wav"
+        },
+        {
+            "text": "派你来的，是什么低级指挥终端？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497343115659.mp3"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "name": "蔬乡物语",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240313/17103022048495.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240313/17103022072827.jpg",
+    "voice_clips": [
+        {
+            "text": "哼哼~大功告成！小小故障，难不倒本匠！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240313/17103023181868.mp3"
+        },
+        {
+            "text": "冬寒到夏暑，修修又补补，生活安心~又舒服~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240313/17103023659343.mp3"
+        },
+        {
+            "text": "秋风凉爽，果蔬香。正适合修护农庄！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240313/17103023438452.mp3"
+        },
+        {
+            "text": "尝过漂泊的滋味，就会更懂安定的珍贵",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102288254993.mp3"
+        },
+        {
+            "text": "白菜白，辣椒红，我是庄园的修理工~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102288472874.mp3"
+        },
+        {
+            "text": "哎！你有见过一只绿油油，圆滚滚，长在土里的小狗吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102288745364.mp3"
+        },
+        {
+            "text": "时光在田埂间流淌。你看，那就是心安的模样",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102288984093.mp3"
+        },
+        {
+            "text": "心有所依，才会看风是风，看雨是雨~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102289217535.mp3"
+        },
+        {
+            "text": "等我修好这套扩音设备，大家就可以听麦浪的秋日之歌了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102289476013.mp3"
+        },
+        {
+            "text": "乌云正当头，本匠要午休...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102290639706.mp3"
+        },
+        {
+            "text": "爆破拆除，也是我的职责~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102290924930.mp3"
+        },
+        {
+            "text": "本匠只修理器械！不修理脑袋！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102291983006.mp3"
+        },
+        {
+            "text": "蒜头爆破！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102292353486.mp3"
+        },
+        {
+            "text": "这里需要重建！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102292583150.mp3"
+        },
+        {
+            "text": "定位瞄准~预备开工！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102292851793.mp3"
+        },
+        {
+            "text": "秘密武器！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102293115792.mp3"
+        },
+        {
+            "text": "检修小队，出动！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102293388718.mp3"
+        },
+        {
+            "text": "让一让，排查故障！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102293593172.mp3"
+        },
+        {
+            "text": "摸摸脑袋，欢迎回家~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102294343818.mp3"
+        },
+        {
+            "text": "穿过那片河道，就是我们的庄园啦",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102294106653.mp3"
+        },
+        {
+            "text": "新型洒水枪，想试试吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102294611147.mp3"
+        },
+        {
+            "text": "太阳落山啦！收工吃饭喽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102294845030.mp3"
+        },
+        {
+            "text": "本年度最伟大的建造，完工！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102295064910.mp3"
+        },
+        {
+            "text": "你好呀，新伙伴~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102295356072.mp3"
+        },
+        {
+            "text": "啊啊啊啊！要爆炸啦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102295608515.mp3"
+        },
+        {
+            "text": "装置维修中，禁止使用！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102295826229.mp3"
+        },
+        {
+            "text": "修理老旧物件的最好办法，就是用力拍打！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102296036434.mp3"
+        },
+        {
+            "text": "灵活的身体是建造的一级必要~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102296263456.mp3"
+        },
+        {
+            "text": "呜呜呜~有没有人看到我最爱的扳手",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240312/17102296554905.mp3"
+        }
+    ]
+}

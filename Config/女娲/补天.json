@@ -1,0 +1,111 @@
+{
+    "name": "补天",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498494956418.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498494998224.jpg",
+    "voice_clips": [
+        {
+            "text": "水火二神相争，天倾地覆，凝群生之力，再定乾坤。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499932859335.wav"
+        },
+        {
+            "text": "天柱折，地维绝，炼五色石，补天缺。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499932994835.wav"
+        },
+        {
+            "text": "洪水归道，天火止熄，巍巍河山，于霞光中新生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499933138733.wav"
+        },
+        {
+            "text": "昔红云万朵，天地清安，众仙神俱在。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497384717241.mp3"
+        },
+        {
+            "text": "今神灵皆隐，宫阙千重，无往也。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497385069714.mp3"
+        },
+        {
+            "text": "天倾西北，日月星辰移，地不满东南，水潦尘埃归。（改编自《淮南子·天文训·共工怒触不周山》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497385321252.mp3"
+        },
+        {
+            "text": "正共工与祝融不周山之过。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497385533540.mp3"
+        },
+        {
+            "text": "赐予这片土地永久的安宁。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497385774476.mp3"
+        },
+        {
+            "text": "浊骨并非凡胎，仙神亦是众生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497386036876.mp3"
+        },
+        {
+            "text": "天地初开，山泽沉寂，拓土造人，万物化生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497393328162.mp3"
+        },
+        {
+            "text": "与大道同行。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497393494683.wav"
+        },
+        {
+            "text": "神明终将隐去……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497393641306.wav"
+        },
+        {
+            "text": "愚夫俗子，妄议天道！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497394103542.mp3"
+        },
+        {
+            "text": "还尘世清净！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497394333259.wav"
+        },
+        {
+            "text": "万灵之终，绝非此时！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497394482771.wav"
+        },
+        {
+            "text": "凝五方",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497394751643.wav"
+        },
+        {
+            "text": "五色蕴华",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497394924282.wav"
+        },
+        {
+            "text": "归于尘",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497395105086.wav"
+        },
+        {
+            "text": "天地永固",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497395262858.wav"
+        },
+        {
+            "text": "行无常",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497395499482.wav"
+        },
+        {
+            "text": "瞬息千里",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497395685518.wav"
+        },
+        {
+            "text": "山河万卷",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497395862140.wav"
+        },
+        {
+            "text": "百川归位",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497396008669.wav"
+        },
+        {
+            "text": "黄泥削作骨，吹气以为神。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497396323743.mp3"
+        },
+        {
+            "text": "千载之后，复有人记，仙神之名。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497396556806.mp3"
+        },
+        {
+            "text": "非神作万物，乃万物假神而生也",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497396746862.mp3"
+        }
+    ]
+}

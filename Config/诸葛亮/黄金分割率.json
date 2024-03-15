@@ -1,0 +1,63 @@
+{
+    "name": "黄金分割率",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16500059925899.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498486931700.jpg",
+    "voice_clips": [
+        {
+            "text": "开始证明！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497714143400.wav"
+        },
+        {
+            "text": "发明了一种美妙的证法，可惜这里空白太小写不下",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497714313388.mp3"
+        },
+        {
+            "text": "彻夜深思熟虑，但！依然不知道答案",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497714493073.mp3"
+        },
+        {
+            "text": "一条线分为两段，其中一部分对于全部之比，等于另一部分对于该部分之比，这就是黄金分割",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497715057760.mp3"
+        },
+        {
+            "text": "维特鲁威人，至高的美学",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497715259888.mp3"
+        },
+        {
+            "text": "完美的几何学者，以斐波那契数列分割战场",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497715391197.mp3"
+        },
+        {
+            "text": "世上最浪漫的联谊，是与你共同解答微分几何题",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497715557515.mp3"
+        },
+        {
+            "text": "缺乏逻辑、演绎和归纳，你证明不了自己的可爱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497715711905.mp3"
+        },
+        {
+            "text": "让我再讲两分钟……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497716077010.wav"
+        },
+        {
+            "text": "几何，美丽绝伦",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497716475641.wav"
+        },
+        {
+            "text": "弧度，顶点和坐标系",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497716612378.wav"
+        },
+        {
+            "text": "这是道送分题！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497716771892.wav"
+        },
+        {
+            "text": "不许作弊！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497717104521.wav"
+        },
+        {
+            "text": "你们是我教过最差的一届！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497717603013.mp3"
+        }
+    ]
+}

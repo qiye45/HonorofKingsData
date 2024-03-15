@@ -1,0 +1,155 @@
+{
+    "name": "落雪白狼",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240307/17098042721839.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240307/17098042741054.jpg",
+    "voice_clips": [
+        {
+            "text": "踏寒，凝思，劲飞霜！ 松月有灵，正待旧时人归",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240307/17098045525289.mp3"
+        },
+        {
+            "text": "一念成花，落雪为狼！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240307/17098045751346.mp3"
+        },
+        {
+            "text": "啸尽寒梢月，试以此剑扫岚烟",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240307/17098045962454.mp3"
+        },
+        {
+            "text": "族人尚有残息存世，所以...我大概不算孤儿吧...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097117331641.mp3"
+        },
+        {
+            "text": "那年疾风骤雪，星光破空而至。从此天地之间多了一处属于我的归宿。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097117836525.mp3"
+        },
+        {
+            "text": "师尊说，众生芸芸皆在星图之中。可星河浮霁，我又该去哪里寻找族亲们呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097118105292.mp3"
+        },
+        {
+            "text": "此身此力，为护一魂，为助一人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097118418899.mp3"
+        },
+        {
+            "text": "天枢戒律...禁止露出尾巴、獠牙...禁止卧地打滚儿...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097118616517.mp3"
+        },
+        {
+            "text": "身外剑，此中心，因守而刚，无惧则利",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097118866141.mp3"
+        },
+        {
+            "text": "山雪自清清，我剑恒如峰石金",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097119397648.mp3"
+        },
+        {
+            "text": "此生，一愿风舒月朗照安平，二愿亲族无恙重相见",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097119585802.mp3"
+        },
+        {
+            "text": "饕雪遥遥，锋刃不销",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097119879194.mp3"
+        },
+        {
+            "text": "念与钦，皆化飞雪与晨星...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097122268726.mp3"
+        },
+        {
+            "text": "抱歉...无心之失",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097123492999.mp3"
+        },
+        {
+            "text": "师尊喜静，烦请阁下莫再喧哗",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097123971995.mp3"
+        },
+        {
+            "text": "流云！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097124754095.mp3"
+        },
+        {
+            "text": "飞烟！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097124964474.mp3"
+        },
+        {
+            "text": "折枝！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097125234885.mp3"
+        },
+        {
+            "text": "碎影！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097125665726.mp3"
+        },
+        {
+            "text": "破苍玄！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097125982718.mp3"
+        },
+        {
+            "text": "踏雪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097126256127.mp3"
+        },
+        {
+            "text": "引露！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097126535597.mp3"
+        },
+        {
+            "text": "抚月！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097127179872.mp3"
+        },
+        {
+            "text": "逐华！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097127396383.mp3"
+        },
+        {
+            "text": "擒风",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097127699618.mp3"
+        },
+        {
+            "text": "落莲！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097127934013.mp3"
+        },
+        {
+            "text": "惊琼",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097128388181.mp3"
+        },
+        {
+            "text": "生花！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097128703194.mp3"
+        },
+        {
+            "text": "揽霜入怀",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097128944081.mp3"
+        },
+        {
+            "text": "日月清！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097129618828.mp3"
+        },
+        {
+            "text": "枕星耳夜",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097129844258.mp3"
+        },
+        {
+            "text": "盼归来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097130207947.mp3"
+        },
+        {
+            "text": "“折枝”听召！起！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097130685645.mp3"
+        },
+        {
+            "text": "师尊，这柄剑是送给我的吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097131267140.mp3"
+        },
+        {
+            "text": "天枢剑法我已牢记！请师尊指正！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097131636279.mp3"
+        },
+        {
+            "text": "出来吧，我已经看到你了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097131876995.mp3"
+        },
+        {
+            "text": "师尊说，世间善恶无关族身，三千大道自有方圆",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097132189797.mp3"
+        }
+    ]
+}

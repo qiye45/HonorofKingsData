@@ -1,0 +1,123 @@
+{
+    "name": "乒乓小将",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502902254397.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502902201376.jpg",
+    "voice_clips": [
+        {
+            "text": "一号种子选手就位！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499900246863.mp3"
+        },
+        {
+            "text": "快、转、狠、准！我的战术训练有进步了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499900356694.mp3"
+        },
+        {
+            "text": "出色的核心竞技能力！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499900497002.mp3"
+        },
+        {
+            "text": "别紧张，这只是普通的直线长球~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499900794218.mp3"
+        },
+        {
+            "text": "是时候探索新的攻防技术了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499901181999.mp3"
+        },
+        {
+            "text": "给命运一记反手扣杀！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499291679244.wav"
+        },
+        {
+            "text": "站在赛场上的初心...我和所有人都一样呐！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499291912686.wav"
+        },
+        {
+            "text": "来不及思考就凭反应吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499292214445.wav"
+        },
+        {
+            "text": "速度就是我的技术优势~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499292379279.wav"
+        },
+        {
+            "text": "球不落地...永不放弃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499292633805.wav"
+        },
+        {
+            "text": "输......掉..了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499292928461.wav"
+        },
+        {
+            "text": "高抛发球！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499293192619.wav"
+        },
+        {
+            "text": "降维打击！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499293371724.wav"
+        },
+        {
+            "text": "预判你的预判！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499293545996.wav"
+        },
+        {
+            "text": "落点，敌方水晶！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499293991425.wav"
+        },
+        {
+            "text": "听说你们都是慕名而来，要和我乒乓球对打？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499294155743.wav"
+        },
+        {
+            "text": "直接得分！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499294311718.wav"
+        },
+        {
+            "text": "让你的咯~我怕你接不住！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499294535905.wav"
+        },
+        {
+            "text": "技巧比蛮力更管用~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499295016697.wav"
+        },
+        {
+            "text": "一切就位，随时奉陪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499295199289.wav"
+        },
+        {
+            "text": "那就约好下次再战咯~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499295365549.wav"
+        },
+        {
+            "text": "为我欢呼，为我鼓掌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499295537851.wav"
+        },
+        {
+            "text": "火力全开，停不下来——",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499295904465.wav"
+        },
+        {
+            "text": "喔~哇~好棒啊——",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499296085627.wav"
+        },
+        {
+            "text": "稳住，稳住——稳不住啦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499296824492.wav"
+        },
+        {
+            "text": "不行，不行，这不合规定。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499296981207.wav"
+        },
+        {
+            "text": "挑衅，挑衅，赤裸裸的挑衅！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499297126868.wav"
+        },
+        {
+            "text": "猛烈旋转！接住，接住啦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499297284316.wav"
+        },
+        {
+            "text": "不服，不服，再来嘛，再来嘛~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499297436709.wav"
+        }
+    ]
+}

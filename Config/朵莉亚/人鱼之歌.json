@@ -1,0 +1,287 @@
+{
+    "name": "人鱼之歌",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231031/16987185873424.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231031/16987185914535.jpg",
+    "voice_clips": [
+        {
+            "text": "海风和浪花协奏着小人鱼动听的一天~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986604737909.mp3"
+        },
+        {
+            "text": "要藏好我的鱼尾巴，别被人类发现啦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986605021802.mp3"
+        },
+        {
+            "text": "我会唱的人鱼祝歌可多啦，总有一首能帮上你的忙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986605224475.mp3"
+        },
+        {
+            "text": "搞不懂为什么每次上岸都要被猫追啊？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986514074799.mp3"
+        },
+        {
+            "text": "我的伙伴可多啦，海鸥、海参、海星、海豚、海诺……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986514337002.mp3"
+        },
+        {
+            "text": "你听，大海与夕阳之间藏着许多金色的旋律~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986514601453.mp3"
+        },
+        {
+            "text": "好奇妙！人类世界的水竟然会从天上掉下来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986514896145.mp3"
+        },
+        {
+            "text": "外祖母说，最完美的天籁，用热忱和爱才能唱出来",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986515213373.mp3"
+        },
+        {
+            "text": "送你“珍珠”，我的手也会闪闪发亮",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986515544160.mp3"
+        },
+        {
+            "text": "别害怕，黑夜只是白天的前奏",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986515785163.mp3"
+        },
+        {
+            "text": "哪儿有新奇宝贝？我要用它给人鱼族带去一点小小的海都震撼！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986516049902.mp3"
+        },
+        {
+            "text": "传说中，不该这样被搁浅吧……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986517676869.mp3"
+        },
+        {
+            "text": "童话书的结尾，好像不是这么写的……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986517935810.mp3"
+        },
+        {
+            "text": "我可不会变成海上的泡沫，我是可以“再来一次”的人鱼朵朵！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986518292794.mp3"
+        },
+        {
+            "text": "别担心，我只是做了个关于大海的梦",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986518547009.mp3"
+        },
+        {
+            "text": "准备迎接人鱼的变身吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986519398636.mp3"
+        },
+        {
+            "text": "呼~~~还是躲在水里最自在~~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986519807480.mp3"
+        },
+        {
+            "text": "再见了大海，我会早日回家的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986520063454.mp3"
+        },
+        {
+            "text": "哇~上岸成功！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986520357401.mp3"
+        },
+        {
+            "text": "给我一首歌的时间",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986520654279.mp3"
+        },
+        {
+            "text": "为你歌唱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986520964848.mp3"
+        },
+        {
+            "text": "时间赏赐的奇迹",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986521187713.mp3"
+        },
+        {
+            "text": "一起合唱火鹰之歌吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986521505047.mp3"
+        },
+        {
+            "text": "送你一朵蓝色波纹",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986571376783.mp3"
+        },
+        {
+            "text": "涟漪荡漾，歌声闪亮",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986523716998.mp3"
+        },
+        {
+            "text": "水，也是我的领域！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986524355962.mp3"
+        },
+        {
+            "text": "跳跃旋转，碧波闪闪",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986527029373.mp3"
+        },
+        {
+            "text": "再来一次！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986528543666.mp3"
+        },
+        {
+            "text": "无畏战斗吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986532581689.mp3"
+        },
+        {
+            "text": "再接再厉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986532952862.mp3"
+        },
+        {
+            "text": "加油呀！朵朵！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986537619625.mp3"
+        },
+        {
+            "text": "在歌声里，做一朵凋谢的小浪花吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986538854564.mp3"
+        },
+        {
+            "text": "请休息吧，在潮汐的怀抱里小憩一下",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986539138300.mp3"
+        },
+        {
+            "text": "想听天籁之歌么？可惜外祖母说你的耳朵没有这个福分",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986539446027.mp3"
+        },
+        {
+            "text": "想唱就唱咯~~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986539743329.mp3"
+        },
+        {
+            "text": "浪花是海的笑声，星星是天空的梦，这首是人鱼的歌",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986543644602.mp3"
+        },
+        {
+            "text": "带着歌声，我们一起去往星辰大海吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986544123863.mp3"
+        },
+        {
+            "text": "陌生人，我好像在哪儿见过你？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986544573423.mp3"
+        },
+        {
+            "text": "咦，这张冰块儿脸，总有些面熟呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986544949154.mp3"
+        },
+        {
+            "text": "唔，虽然你看上去冷冷的，但大概率应该不是个坏人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986545214194.mp3"
+        },
+        {
+            "text": "呼~冰块儿脸，怎么又是跟你一块儿行动",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986545525012.mp3"
+        },
+        {
+            "text": "你小时候都一个人长大，没有伙伴儿么，我都有两条小鱼呢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986545751986.mp3"
+        },
+        {
+            "text": "虽然没能找回记忆，但我在海都交了好多朋友，也包括你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986546139189.mp3"
+        },
+        {
+            "text": "这条古怪的海螺手链，是小蓝从海底叼来的，好看吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986546498959.mp3"
+        },
+        {
+            "text": "对不起，小鱼太热情了，它们平常也不这么样，没打扰到你吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986546815112.mp3"
+        },
+        {
+            "text": "海螺，海诺，唔，这个小海螺你要收好咯，能听到我隐藏版的歌声唷",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986547199232.mp3"
+        },
+        {
+            "text": "印象中，似乎有谁答应过，要带我一起去看烟火大会呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986547504690.mp3"
+        },
+        {
+            "text": "虽然你脸上没什么表情，但命运之线编织的东西，可暴露了你的想法。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986548042140.mp3"
+        },
+        {
+            "text": "哇，那个家族以月亮为标志，似乎比命运家族的好看呢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986548677548.mp3"
+        },
+        {
+            "text": "船长先生，我能用这些闪闪的贝壳换一张船票么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986549073284.mp3"
+        },
+        {
+            "text": "你的航海日志里有没有记录人鱼族可是很厉害的唷！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986549381073.mp3"
+        },
+        {
+            "text": "才不会告诉你，我在火鹰号的木桶里偷偷藏了什么",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986549671788.mp3"
+        },
+        {
+            "text": "小满，果酱分我一点嘛，人类的食物可太好吃了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986549963617.mp3"
+        },
+        {
+            "text": "先拉钩，如果是人类的下雨天，我们就不要出去逛街！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986550341676.mp3"
+        },
+        {
+            "text": "你，你在看哪里？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986550731117.mp3"
+        },
+        {
+            "text": "作为海都酒馆的常客，不如你叫上大伙儿带我一起去开开眼界",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986551328193.mp3"
+        },
+        {
+            "text": "你们海都的路实在太多啦，根本不知道该走哪条……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986551577136.mp3"
+        },
+        {
+            "text": "先说好，我可不是有意偷吃船上东西的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986551816798.mp3"
+        },
+        {
+            "text": "哇！世上真有沙粒聚成的海么？好想去那里游泳！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986552167574.mp3"
+        },
+        {
+            "text": "咦？难道，你也来自海底？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986552505537.mp3"
+        },
+        {
+            "text": "你就是传说中喵喵叫的四脚小怪兽么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986552757693.mp3"
+        },
+        {
+            "text": "咦？你也一样有尾巴呀？但我的好看多啦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986553192496.mp3"
+        },
+        {
+            "text": "什么声音？嘘，暂时留在词语或宁静里吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986553657553.mp3"
+        },
+        {
+            "text": "还来不及看一眼最后的海滩呢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986554228997.mp3"
+        },
+        {
+            "text": "要下雨啦，我得快回去，一不留神尾巴可就要露馅儿啦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986554489117.mp3"
+        },
+        {
+            "text": "嘘，说不定我能听懂这些小家伙在说些什么",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986554882778.mp3"
+        },
+        {
+            "text": "这条小河会通向大海么？那是回家的路！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986555111143.mp3"
+        },
+        {
+            "text": "哇，这算是人类的魔法吗！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986555319135.mp3"
+        },
+        {
+            "text": "投身入海洋的睡梦，再苏醒过来",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986555572906.mp3"
+        },
+        {
+            "text": "非得穿鞋不可吗？我们人鱼族可没有这样的规定。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986555779622.mp3"
+        }
+    ]
+}

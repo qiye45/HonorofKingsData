@@ -1,0 +1,103 @@
+{
+    "name": "猫狗日记",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498334519463.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498334541890.jpg",
+    "voice_clips": [
+        {
+            "text": "我的猫像我，我像我的猫。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497746999050.mp3"
+        },
+        {
+            "text": "向罗西尼致敬~向艾略特致敬~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497747137989.mp3"
+        },
+        {
+            "text": "猫不是狗~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497747315893.wav"
+        },
+        {
+            "text": "啊，原谅我今天铲得不尽心吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497747899234.wav"
+        },
+        {
+            "text": "别人家的猫，怎么什么都会啊。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497748049759.mp3"
+        },
+        {
+            "text": "又把家里搞得乱糟糟！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497748199797.wav"
+        },
+        {
+            "text": "我不需要社交，铲屎让我快乐。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497748342999.wav"
+        },
+        {
+            "text": "跟着拍子，对，就是这样。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497748504506.wav"
+        },
+        {
+            "text": "吃完就没了，看我也没用。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497748674453.wav"
+        },
+        {
+            "text": "我真的再也不管你们了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497748814165.wav"
+        },
+        {
+            "text": "发粮了，快来吃。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497748965762.wav"
+        },
+        {
+            "text": "凡夫俗子，不能体会宅女的圆满。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497749152421.mp3"
+        },
+        {
+            "text": "我有民间舞十级证书，我的猫也有。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497749314864.mp3"
+        },
+        {
+            "text": "有一个人类研究发现不到的名字……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497749879605.wav"
+        },
+        {
+            "text": "嗯~天气真好，适合再睡一觉~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497750027032.mp3"
+        },
+        {
+            "text": "有只狗像他主人一样傻。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497750191264.wav"
+        },
+        {
+            "text": "什么声音？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497750347560.wav"
+        },
+        {
+            "text": "生活终于对我这只可怜的小猫咪下手了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497751385672.mp3"
+        },
+        {
+            "text": "让开，愚蠢的人类！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497751734770.wav"
+        },
+        {
+            "text": "回家吃粮~miao~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497751874745.wav"
+        },
+        {
+            "text": "我的地盘，别过来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497752001330.wav"
+        },
+        {
+            "text": "喵星召唤！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497752165833.wav"
+        },
+        {
+            "text": "畏惧这只小爪子！喵~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497752584532.mp3"
+        },
+        {
+            "text": "请到杰里科舞会来~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497752711603.wav"
+        }
+    ]
+}

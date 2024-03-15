@@ -1,0 +1,439 @@
+{
+    "name": "武道奇才",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230410/16811140873030.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230410/16811140949222.jpg",
+    "voice_clips": [
+        {
+            "text": "武道没有定式，人生亦是如此。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807687931438.mp3"
+        },
+        {
+            "text": "天塌了，总有想当英雄的家伙顶着。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807710731724.mp3"
+        },
+        {
+            "text": "变则万物恒通，通则武道长存，小满独家。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807711271597.mp3"
+        },
+        {
+            "text": "别羡慕，我可是凭本事摸鱼的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807711865636.mp3"
+        },
+        {
+            "text": "生于小满，小满即安。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807712362745.mp3"
+        },
+        {
+            "text": "对自己严苛的人，怎么可能对他人宽容。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807713021523.mp3"
+        },
+        {
+            "text": "不是偷懒，这叫做……灵活变通地努力。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807713544811.mp3"
+        },
+        {
+            "text": "人生很长，遇事莫慌。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807714549146.mp3"
+        },
+        {
+            "text": "做自己内心的君主，胜过众望所归的英雄。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807715124646.mp3"
+        },
+        {
+            "text": "海都确实热闹，但稷下学院是家——人总是要回家的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807716045984.mp3"
+        },
+        {
+            "text": "拯救天下别找我，我的心太小，只够照见身边的人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807716759407.mp3"
+        },
+        {
+            "text": "到此为止了吗……嘎",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807717603044.mp3"
+        },
+        {
+            "text": "下次争取演得更像一点……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807718826112.mp3"
+        },
+        {
+            "text": "不愧是你……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807719565813.mp3"
+        },
+        {
+            "text": "演技，是摆脱比武的最佳手段。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807720803979.mp3"
+        },
+        {
+            "text": "很好，夫子不在，可以为所欲为了?",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807722757626.mp3"
+        },
+        {
+            "text": "日朗风清，正好结束后去庄周老师家摸鱼吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807723416096.mp3"
+        },
+        {
+            "text": "和风细雨，正适合结束后去庄周老师家摸鱼。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807723865678.mp3"
+        },
+        {
+            "text": "又解决一个麻烦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807725708068.mp3"
+        },
+        {
+            "text": "承让了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807726218807.mp3"
+        },
+        {
+            "text": "休息一会，应该不会被发现吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807726976002.mp3"
+        },
+        {
+            "text": "你的存在，甚至无法让我认真起来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807727868001.mp3"
+        },
+        {
+            "text": "让你两只手，行了吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807728317723.mp3"
+        },
+        {
+            "text": "起势！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807729489670.mp3"
+        },
+        {
+            "text": "小试一记！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807729908453.mp3"
+        },
+        {
+            "text": "遇弱则进！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807731055906.mp3"
+        },
+        {
+            "text": "有机会！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807734349244.mp3"
+        },
+        {
+            "text": "露破绽了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807734981701.mp3"
+        },
+        {
+            "text": "武无常势！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807735302490.mp3"
+        },
+        {
+            "text": "水无常形！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807735722487.mp3"
+        },
+        {
+            "text": "你以为呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807736116739.mp3"
+        },
+        {
+            "text": "走！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807736751992.mp3"
+        },
+        {
+            "text": "凌空！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807739528111.mp3"
+        },
+        {
+            "text": "借势而为！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807739877332.mp3"
+        },
+        {
+            "text": "以小博大！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807740674445.mp3"
+        },
+        {
+            "text": "别走神。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807740958052.mp3"
+        },
+        {
+            "text": "进退有度！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807741452733.mp3"
+        },
+        {
+            "text": "风紧扯呼！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807742293207.mp3"
+        },
+        {
+            "text": "没想到吧？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807742599444.mp3"
+        },
+        {
+            "text": "千变万化，归于一心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807743174636.mp3"
+        },
+        {
+            "text": "稍微认真一点。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807743706700.mp3"
+        },
+        {
+            "text": "一味趋吉避凶，心又何处安放？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807744395548.mp3"
+        },
+        {
+            "text": "啧，真麻烦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807745132484.mp3"
+        },
+        {
+            "text": "速战速决。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807745573996.mp3"
+        },
+        {
+            "text": "对面餐吧的躺椅配上太阳就很不错。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807754855209.mp3"
+        },
+        {
+            "text": "诶？这海螺里没有肉啊……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807755304322.mp3"
+        },
+        {
+            "text": "不愧是你铁子，扬帆的姿势充满了力量，顺便把甲板刷了再把食材搬到厨房吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807755992388.mp3"
+        },
+        {
+            "text": "那我就研究一下重要的钓鱼工作吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807756466403.mp3"
+        },
+        {
+            "text": "唉，笨手笨脚。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807758671323.mp3"
+        },
+        {
+            "text": "小鱼干？嗯，比稷下的味道好~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807759453243.mp3"
+        },
+        {
+            "text": "这个世界稀少而珍贵的勇气与善良，值得一个嘉奖。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807760865640.mp3"
+        },
+        {
+            "text": "海都可太远了，真希望回去的时候能一路睡到家……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807761373456.mp3"
+        },
+        {
+            "text": "你的存在让我理解母亲为何逃离。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807762479392.mp3"
+        },
+        {
+            "text": "夫子夫子，您和姜子牙最后谁赢了？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807762988911.mp3"
+        },
+        {
+            "text": "那就是您赢了嘛，活到最后的就是赢家。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807763726260.mp3"
+        },
+        {
+            "text": "唉……是夫子的麻烦吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807764399801.mp3"
+        },
+        {
+            "text": "麻烦，不去",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807764882127.mp3"
+        },
+        {
+            "text": "那……去海都找火鹰大伯是母亲的遗愿，谁都不能阻止我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807765415087.mp3"
+        },
+        {
+            "text": "夫子，这招如何？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807766476460.mp3"
+        },
+        {
+            "text": "您也没说报谁的名字嘛。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807766958670.mp3"
+        },
+        {
+            "text": "我是没下，夫子您不也没上嘛。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807767552980.mp3"
+        },
+        {
+            "text": "嗨~阿鲲，还是这么好摸。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807769261990.mp3"
+        },
+        {
+            "text": "听说母亲请您封印了我的魔道能力，为什么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807769683351.mp3"
+        },
+        {
+            "text": "好远，忽然不太想知道了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807770099248.mp3"
+        },
+        {
+            "text": "墨子老师消消气，以和为贵以和为贵。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807770784279.mp3"
+        },
+        {
+            "text": "不愧是你！很能干嘛，那我的作业就交给你了！大天才~！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807771981988.mp3"
+        },
+        {
+            "text": "哦，你更厉害。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807773218669.mp3"
+        },
+        {
+            "text": "这是上次作业的酬劳。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807773919953.mp3"
+        },
+        {
+            "text": "好麻烦，不如愉快地停更吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807774543597.mp3"
+        },
+        {
+            "text": "考试啊，随意发挥一下就好啦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807775204625.mp3"
+        },
+        {
+            "text": "任教稷下，当场退休，二十岁过上拿退休金的平凡生活。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807776344451.mp3"
+        },
+        {
+            "text": "不试试蒙叔没有尝试过的新解法吗？这可是证明自己的好机会。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807777295766.mp3"
+        },
+        {
+            "text": "蒙小犽，创造出让蒙叔大吃一惊的东西吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807777664858.mp3"
+        },
+        {
+            "text": "听说小烦是大师的杰作，功能不错，就是有点……聒噪，帮我改改嘛。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807778813331.mp3"
+        },
+        {
+            "text": "那算了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807779252573.mp3"
+        },
+        {
+            "text": "丑是丑点，管用就行。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807779792962.mp3"
+        },
+        {
+            "text": "别提我爹，蒙叔。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807780279941.mp3"
+        },
+        {
+            "text": "蒙叔，今年生日，我爹又食言了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807780577836.mp3"
+        },
+        {
+            "text": "故事不会说，英雄拯救了家乡，却没见到妻子最后一面。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807781494043.mp3"
+        },
+        {
+            "text": "长安城的大英雄？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807782607098.mp3"
+        },
+        {
+            "text": "说说您和夫子之间相爱相杀的故事呗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807783107351.mp3"
+        },
+        {
+            "text": "不想。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807783606097.mp3"
+        },
+        {
+            "text": "啊，莫非您就是传说中比夫子还要变态的那个朋友？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807784026781.mp3"
+        },
+        {
+            "text": "还没结束。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807788456824.mp3"
+        },
+        {
+            "text": "意外吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807788691636.mp3"
+        },
+        {
+            "text": "人生不是独木桥，每个人有自己的步调。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807789235320.mp3"
+        },
+        {
+            "text": "没有什么比小鱼干更令人心情愉悦了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807789741215.mp3"
+        },
+        {
+            "text": "喝足吃饱，阳光正好。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807790081196.mp3"
+        },
+        {
+            "text": "稍微认真了一点。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807791101531.mp3"
+        },
+        {
+            "text": "啊是是是，不愧是您，天下无敌。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807791607130.mp3"
+        },
+        {
+            "text": "勉为其难帮你解决这个麻烦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807792414906.mp3"
+        },
+        {
+            "text": "哦？那你可得更努力一点。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807792693307.mp3"
+        },
+        {
+            "text": "当然是，收工，风紧扯呼。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807793081510.mp3"
+        },
+        {
+            "text": "有椒盐味的小鱼干卖吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807794527459.mp3"
+        },
+        {
+            "text": "好重，非得拿这个吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230406/16807794766664.mp3"
+        },
+        {
+            "text": "安静，这可是人生最重要的零食时间！……算了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230407/16808381389739.mp3"
+        },
+        {
+            "text": "我们走，皮皮烦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230407/16808382041773.mp3"
+        },
+        {
+            "text": "化万物变法，我自成武道。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230407/16808389016112.mp3"
+        },
+        {
+            "text": "强弱柔刚，变化无常。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230407/16808389392574.mp3"
+        },
+        {
+            "text": "秉性而行，所欲随心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230407/16808389754415.mp3"
+        },
+        {
+            "text": "刀疤仔，我来教你这两把剑的绝妙用法——炸鱼一击！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871606649436.mp3"
+        },
+        {
+            "text": "船上的西瓜已经吃完了，而学会此招，小鱼干要多少有多少。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871606857688.mp3"
+        },
+        {
+            "text": "绝对不要得罪佣兵协会的人，他们的执着超乎想象……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871643734879.mp3"
+        },
+        {
+            "text": "哦？你知道果酱配小鱼干更美味吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986557265653.mp3"
+        },
+        {
+            "text": "我建议晴天也别去，相信我，躺椅和桅杆更适合你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986557601947.mp3"
+        },
+        {
+            "text": "想吃小鱼干，哼哼~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231030/16986557972339.mp3"
+        },
+        {
+            "text": "隐者家族的事，你知道多少？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011452669983.mp3"
+        },
+        {
+            "text": "我听刀疤仔说人们对你有很多误解，特别是海都的贵族。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011533833043.mp3"
+        }
+    ]
+}

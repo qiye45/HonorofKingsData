@@ -1,0 +1,59 @@
+{
+    "name": "狂战士",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498327048495.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498327077675.jpg",
+    "voice_clips": [
+        {
+            "text": "身体里沉睡的野兽，觉醒了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497734054995.wav"
+        },
+        {
+            "text": "你能感觉到痛楚吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497734218071.wav"
+        },
+        {
+            "text": "离我远点！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497734345939.wav"
+        },
+        {
+            "text": "求求你，阻止我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497734486738.wav"
+        },
+        {
+            "text": "战斗，让我忘记疯狂。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497735072000.wav"
+        },
+        {
+            "text": "一个人的血是不够偿还债务的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497736217875.wav"
+        },
+        {
+            "text": "疯狂的是我，还是整个世界！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497736398272.wav"
+        },
+        {
+            "text": "啊~不是故意要伤害你的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497736568783.wav"
+        },
+        {
+            "text": "永远……追随……啊……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497737177655.wav"
+        },
+        {
+            "text": "彻底疯狂！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497737403363.wav"
+        },
+        {
+            "text": "不疯魔，不成活",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497737549797.wav"
+        },
+        {
+            "text": "解脱吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497737651246.wav"
+        },
+        {
+            "text": "先解脱的人会是谁？你，还是我？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497737817312.wav"
+        }
+    ]
+}

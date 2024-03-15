@@ -1,0 +1,203 @@
+{
+    "name": "九霄神辉",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220627/16563253946063.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220627/16563253872007.jpg",
+    "voice_clips": [
+        {
+            "text": "天命玄鸟，灵泽八方！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563254406946.wav"
+        },
+        {
+            "text": "尽销九州兵甲，铸作天地明光！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563254624084.wav"
+        },
+        {
+            "text": "止戈为武，四海承平。神辉所至，福佑生人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563254864475.wav"
+        },
+        {
+            "text": "剑出破混沌，剑落定乾坤",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563255675352.wav"
+        },
+        {
+            "text": "一问为天命，二问为苍生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563256036157.wav"
+        },
+        {
+            "text": "但见沙场功勋，转瞬化做尘与土",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563256281681.wav"
+        },
+        {
+            "text": "历数兵家胜负，不过逐水东流去",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563256518872.wav"
+        },
+        {
+            "text": "日月经天，河海带地",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563256867851.wav"
+        },
+        {
+            "text": "人心和气，天地莫及",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563257115547.wav"
+        },
+        {
+            "text": "宁焚此心，以耀千秋之义",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563257322102.wav"
+        },
+        {
+            "text": "愿舍此身，镇守万岁太平",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563257496166.wav"
+        },
+        {
+            "text": "于诸般私念之外，立人间正道",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563257664195.wav"
+        },
+        {
+            "text": "悬寂寂长夜之中，渡征人归途",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563257852444.wav"
+        },
+        {
+            "text": "天理有知……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563258154388.wav"
+        },
+        {
+            "text": "众生何辜……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563258348426.wav"
+        },
+        {
+            "text": "金羽 焚火！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220628/16563847098941.wav"
+        },
+        {
+            "text": "裂空！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563259751069.wav"
+        },
+        {
+            "text": "神辉 普照！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220628/16563847246181.wav"
+        },
+        {
+            "text": "碧翎跃波！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563260195988.wav"
+        },
+        {
+            "text": "诸邪退避！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563260359830.wav"
+        },
+        {
+            "text": "玄鸟来吟！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563260544771.wav"
+        },
+        {
+            "text": "剑指——所向无前！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563260914701.wav"
+        },
+        {
+            "text": "月落九幽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563261195458.wav"
+        },
+        {
+            "text": "皓皓，如朗月之华！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563261392355.wav"
+        },
+        {
+            "text": "昭昭，若炽日之晖！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563261626362.wav"
+        },
+        {
+            "text": "执日月！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563261916022.wav"
+        },
+        {
+            "text": "掌苍冥！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563262102411.wav"
+        },
+        {
+            "text": "荡八方烽火！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563262394508.wav"
+        },
+        {
+            "text": "退四海狼烟！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563262552487.wav"
+        },
+        {
+            "text": "何人，胆敢大动干戈？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563262701222.wav"
+        },
+        {
+            "text": "尔等，当执玉帛再相见！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563262901555.wav"
+        },
+        {
+            "text": "晨昏轮转，焰光不减！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563263323328.wav"
+        },
+        {
+            "text": "一尺寒月碎铁衣！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563263517304.wav"
+        },
+        {
+            "text": "日光所及，皆尊我号令！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563263716656.wav"
+        },
+        {
+            "text": "今日鸣金，再无战事！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563263988529.wav"
+        },
+        {
+            "text": "此夜罢鼓，大可安眠~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563264156060.wav"
+        },
+        {
+            "text": "非不能战，实不应为",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563265005541.wav"
+        },
+        {
+            "text": "犹记人间阵前舞",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563265382726.wav"
+        },
+        {
+            "text": "神兵要诀，不可强求！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563265759876.wav"
+        },
+        {
+            "text": "匹夫之勇！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220628/16563847682756.wav"
+        },
+        {
+            "text": "既有兵戈未止，当思虑不息",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563266193279.wav"
+        },
+        {
+            "text": "水深激激，蒲苇冥冥。（选自《战城南》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563266398551.wav"
+        },
+        {
+            "text": "悠悠羌笛岂忍闻？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563266573073.wav"
+        },
+        {
+            "text": "休兵按甲，天地同愿",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563266748861.wav"
+        },
+        {
+            "text": "平衡之法，亦如日升月落",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563266889227.wav"
+        },
+        {
+            "text": "人间百年，诸事皆安？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563267749763.wav"
+        },
+        {
+            "text": "百川归海，时和岁丰",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563267948001.wav"
+        },
+        {
+            "text": "俯察休明之盛世！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563268098271.wav"
+        },
+        {
+            "text": "双剑凌云，重剑独绝",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220627/16563268256099.wav"
+        }
+    ]
+}

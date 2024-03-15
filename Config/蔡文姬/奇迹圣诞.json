@@ -1,0 +1,55 @@
+{
+    "name": "奇迹圣诞",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498329388391.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498330351136.jpg",
+    "voice_clips": [
+        {
+            "text": "啦啦啦啦啦~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497708726703.wav"
+        },
+        {
+            "text": "相信奇迹~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497708949239.wav"
+        },
+        {
+            "text": "魔法，蕴含于心灵~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497709068795.wav"
+        },
+        {
+            "text": "无人知晓，我的小小冒险~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497709203476.wav"
+        },
+        {
+            "text": "如果你看见戴红帽子的老人，请告诉他，我长大了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497709356793.wav"
+        },
+        {
+            "text": "哇~每个角落都有光~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497709509855.wav"
+        },
+        {
+            "text": "奇迹属于冒险者，可是，注意安全哦~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497709643428.wav"
+        },
+        {
+            "text": "嘻嘻，你能为我寄一张明信片吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497709789081.wav"
+        },
+        {
+            "text": "我会苏醒的，我会复活的……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497709955446.wav"
+        },
+        {
+            "text": "开足马力，一起冒险！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497710144327.wav"
+        },
+        {
+            "text": "这么粗鲁，一定没听过音乐~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497710283204.wav"
+        },
+        {
+            "text": "有我就有夜的平安！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497710415386.wav"
+        }
+    ]
+}

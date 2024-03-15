@@ -1,0 +1,55 @@
+{
+    "name": "猫狗日记",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498192406251.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498192446909.jpg",
+    "voice_clips": [
+        {
+            "text": "向奥维达致敬！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497683171069.wav"
+        },
+        {
+            "text": "不介意自己是谁~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497683297995.wav"
+        },
+        {
+            "text": "她怎么叫我，我就叫什么名字~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497683445898.wav"
+        },
+        {
+            "text": "天气真好，让我继续飞快的跑。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497683583625.wav"
+        },
+        {
+            "text": "那只猫就像她主人那么可爱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497683701736.wav"
+        },
+        {
+            "text": "什么香味儿？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497683867013.wav"
+        },
+        {
+            "text": "纯真得不到回报的世界……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684002480.wav"
+        },
+        {
+            "text": "为什么今天不发粮！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684378747.wav"
+        },
+        {
+            "text": "再陪我玩会儿吧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684526657.wav"
+        },
+        {
+            "text": "还没玩够呢！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684646902.wav"
+        },
+        {
+            "text": "欺负我小猫的下场！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684772278.wav"
+        },
+        {
+            "text": "小心我咬你~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684923096.wav"
+        }
+    ]
+}

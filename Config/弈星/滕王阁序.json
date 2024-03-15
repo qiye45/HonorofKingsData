@@ -1,0 +1,167 @@
+{
+    "name": "滕王阁序",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20221104/16675556092099.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20221104/16675556287884.jpg",
+    "voice_clips": [
+        {
+            "text": "所赖君子见机，达人知命。老当益壮，宁移白首之心？穷且益坚，不坠青云之志。（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221107/16678042286362.wav"
+        },
+        {
+            "text": "云销雨霁，彩彻区明……落霞与孤鹜齐飞，秋水共长天一色。（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221107/16678042521024.wav"
+        },
+        {
+            "text": "闲云潭影日悠悠，物换星移几度秋。阁中帝子今何在？槛外长江空自流。（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221107/16678042837385.wav"
+        },
+        {
+            "text": "天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675558707958.wav"
+        },
+        {
+            "text": "北海虽赊，扶摇可接；东隅已逝，桑榆非晚。（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675559033206.wav"
+        },
+        {
+            "text": "君子以立言见志。（选自王勃《上吏部裴侍郎启》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675559285729.wav"
+        },
+        {
+            "text": "关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675559567594.wav"
+        },
+        {
+            "text": "落霞与孤鹜齐飞，秋水共长天一色。（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675559884898.wav"
+        },
+        {
+            "text": "穷且益坚，不坠青云之志。（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675560187271.wav"
+        },
+        {
+            "text": "三尺微命，一介书生。（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675560421772.wav"
+        },
+        {
+            "text": "杨意不逢，抚凌云而自惜；钟期既遇，奏流水以何惭？（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675560723190.wav"
+        },
+        {
+            "text": "豫章故郡，洪都新府。星分翼轸，地接衡庐。（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675561027895.wav"
+        },
+        {
+            "text": "潦水尽而寒潭清，烟光凝而暮山紫。（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675561281392.wav"
+        },
+        {
+            "text": "蓬莱有召…吾去矣…",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675561608152.wav"
+        },
+        {
+            "text": "三分逊吾。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675561863084.wav"
+        },
+        {
+            "text": "与吾对文吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675562169470.wav"
+        },
+        {
+            "text": "我命在天，岂在龙神！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675562703874.wav"
+        },
+        {
+            "text": "时运不齐，命途多舛……（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675562968014.wav"
+        },
+        {
+            "text": "神风相随！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675563171172.wav"
+        },
+        {
+            "text": "遍阅，物华天宝。（改编自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675564202751.wav"
+        },
+        {
+            "text": "洪都登临，收揽一目胜景",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675564472168.wav"
+        },
+        {
+            "text": "文传，人杰地灵。（改编自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675564956661.wav"
+        },
+        {
+            "text": "挹翠揽香，舀取三千潘江",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675565266749.wav"
+        },
+        {
+            "text": "笔走，风云逸气",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675565798168.wav"
+        },
+        {
+            "text": "思绪云骞，直上九重霄天",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675566125370.wav"
+        },
+        {
+            "text": "争雄笔阵！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675567167958.wav"
+        },
+        {
+            "text": "决胜词锋！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675567474089.wav"
+        },
+        {
+            "text": "气凌云汉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675567693165.wav"
+        },
+        {
+            "text": "字挟风霜！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675567954562.wav"
+        },
+        {
+            "text": "春霆既来!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675568354096.wav"
+        },
+        {
+            "text": "长风一振！（选自杨炯《王勃集序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675568599851.wav"
+        },
+        {
+            "text": "心寄天涯！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675568801616.wav"
+        },
+        {
+            "text": "吾才天赋！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675569036708.wav"
+        },
+        {
+            "text": "来",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675569559450.wav"
+        },
+        {
+            "text": "去来无迹，动息有情！（改编自王勃《咏风》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675570538079.wav"
+        },
+        {
+            "text": "大则用之以时，小则施之有序。（选自杨炯《王勃集序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675570866316.wav"
+        },
+        {
+            "text": "上出重霄，下临无地！（改编自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675571159130.wav"
+        },
+        {
+            "text": "方寸之间，收揽九州宇内！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675571436968.wav"
+        },
+        {
+            "text": "雄州雾列，俊采星驰！（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675571699980.wav"
+        },
+        {
+            "text": "雁阵惊寒，声断衡阳之浦。（选自王勃《滕王阁序》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221104/16675572286638.wav"
+        }
+    ]
+}

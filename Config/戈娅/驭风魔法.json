@@ -1,0 +1,155 @@
+{
+    "name": "驭风魔法",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230628/16879378298662.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230628/16879378328299.jpg",
+    "voice_clips": [
+        {
+            "text": "月色真美……要是没那几个跟屁虫就更美了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877629667237.mp3"
+        },
+        {
+            "text": "追上我就算你们赢！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877629865121.mp3"
+        },
+        {
+            "text": "身为庇护之地的引路人，我的飞天扫帚水平是公认的第一名。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877630046447.mp3"
+        },
+        {
+            "text": "有些家伙天生高人一等？我可不这么认为。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877610404516.mp3"
+        },
+        {
+            "text": "要我说嘛，会不会飞才是魔法师和其他人的唯一区别。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877613014627.mp3"
+        },
+        {
+            "text": "魔法失控，战火蔓延，庇护之地的和平来之不易。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877613961128.mp3"
+        },
+        {
+            "text": "铁匠朋友帮我改造了武器，它们现在可比魔杖好用多了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877614404718.mp3"
+        },
+        {
+            "text": "平时多夸夸自己的扫帚，你就能和我一样快。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877614787081.mp3"
+        },
+        {
+            "text": "除了不怀好意的家伙和黑森林的食木巨蜥，这里欢迎任何人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877615105266.mp3"
+        },
+        {
+            "text": "黑魔法不是最大的敌人，偏见才是。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877615415633.mp3"
+        },
+        {
+            "text": "这回你总能追上我了吧？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877615831532.mp3"
+        },
+        {
+            "text": "卑鄙的停滞咒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877616177395.mp3"
+        },
+        {
+            "text": "示范完毕，该你表演了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877616465740.mp3"
+        },
+        {
+            "text": "保管好我的扫帚",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877616847417.mp3"
+        },
+        {
+            "text": "下次再快点儿~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877617303028.mp3"
+        },
+        {
+            "text": "呃，该夸就夸，该修理时还是得好好修理",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877617602465.mp3"
+        },
+        {
+            "text": "跑都还没学会，就想学飞？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877618903749.mp3"
+        },
+        {
+            "text": "秘术飞弹！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877619329659.mp3"
+        },
+        {
+            "text": "烫手吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877619654495.mp3"
+        },
+        {
+            "text": "让你一个身位！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877620077432.mp3"
+        },
+        {
+            "text": "飞行咒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877620404142.mp3"
+        },
+        {
+            "text": "魔力充沛！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877620762651.mp3"
+        },
+        {
+            "text": "速速行！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877621061998.mp3"
+        },
+        {
+            "text": "扫帚戏法！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877621454675.mp3"
+        },
+        {
+            "text": "飞星横扫！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877621814207.mp3"
+        },
+        {
+            "text": "没有对手？真无趣。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877622166023.mp3"
+        },
+        {
+            "text": "接好这个小家伙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877622454668.mp3"
+        },
+        {
+            "text": "魔龙卷！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877623176634.mp3"
+        },
+        {
+            "text": "直面风暴吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877623487756.mp3"
+        },
+        {
+            "text": "摧枯拉朽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877629451281.mp3"
+        },
+        {
+            "text": "魔力激荡，狂风回响！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877624841608.mp3"
+        },
+        {
+            "text": "魔法嘛，难免有些小意外~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877625179016.mp3"
+        },
+        {
+            "text": "还是别了，我的扫帚可不喜欢黑魔法的尾气。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877625703577.mp3"
+        },
+        {
+            "text": "随身携带锅炉的女巫？来魔法学院你一定能考第一名！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877627018544.mp3"
+        },
+        {
+            "text": "咳咳，吟游诗人干什么不好，偏偏向黑魔法投怀送抱……是这样唱的吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877627362158.mp3"
+        },
+        {
+            "text": "停手吧，这场战争已经牵扯到了太多无辜的人！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877627751396.mp3"
+        },
+        {
+            "text": "你的扫帚看起来不赖，来比比谁更快？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240116/17053763217329.mp3"
+        }
+    ]
+}

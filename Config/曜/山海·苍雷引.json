@@ -1,0 +1,167 @@
+{
+    "name": "山海·苍雷引",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230215/16764509582998.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230215/16764414658771.jpg",
+    "voice_clips": [
+        {
+            "text": "九河沧，四野茫，珍灵助，祐一方！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765297693720.mp3"
+        },
+        {
+            "text": "倒排山岳，阖辟云雷！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765298288362.mp3"
+        },
+        {
+            "text": "挥雷电，运玄星！凝瑞气，定山海！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765298622015.mp3"
+        },
+        {
+            "text": "山海有灵，天地共生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764511895272.mp3"
+        },
+        {
+            "text": "曾去山海三万里，长锋斩断九天雷～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764512173440.mp3"
+        },
+        {
+            "text": "天降大任，舍我其谁～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764512362261.mp3"
+        },
+        {
+            "text": "赤山破，耶溪涸，铸吾锋刃斩天壑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764512591771.mp3"
+        },
+        {
+            "text": "既领天命之名，必行天命之事！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764512836196.mp3"
+        },
+        {
+            "text": "千里乘风去，飞刃斩鸣雷！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764512992633.mp3"
+        },
+        {
+            "text": "星河在天，曾照少时心言。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764513163222.mp3"
+        },
+        {
+            "text": "我有一宝剑，出自昆吾溪，照人如照水，切玉如切泥～（选自吴均《咏宝剑》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764513363548.mp3"
+        },
+        {
+            "text": "别人靠运气，本人靠实力～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764513566312.mp3"
+        },
+        {
+            "text": "来如光电，逝如飞尘……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764521799657.mp3"
+        },
+        {
+            "text": "追电，我们...可以回家了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764522039899.mp3"
+        },
+        {
+            "text": "朋友，后会有期～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764522302984.mp3"
+        },
+        {
+            "text": "让你几招也无妨～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764522894497.mp3"
+        },
+        {
+            "text": "追电！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764523234592.mp3"
+        },
+        {
+            "text": "接剑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764523717350.mp3"
+        },
+        {
+            "text": "你接得住嘛～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764524031509.mp3"
+        },
+        {
+            "text": "雷鸣大泽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764524658550.mp3"
+        },
+        {
+            "text": "电彻重云！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764524881763.mp3"
+        },
+        {
+            "text": "烁金为刃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764525166153.mp3"
+        },
+        {
+            "text": "奇气通灵！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764525432900.mp3"
+        },
+        {
+            "text": "（诶~）先礼后兵～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764525685039.mp3"
+        },
+        {
+            "text": "白虹切玉！/紫气干星！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764525951143.mp3"
+        },
+        {
+            "text": "此一时，彼一时～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764526195206.mp3"
+        },
+        {
+            "text": "紫电冲霄！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764526458288.mp3"
+        },
+        {
+            "text": "捷足先登，快你一步～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764526804993.mp3"
+        },
+        {
+            "text": "来而不往非礼也～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764527038923.mp3"
+        },
+        {
+            "text": "看这～追电，看这！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764527425376.mp3"
+        },
+        {
+            "text": "喂，喂！你这个坏家伙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764527805694.mp3"
+        },
+        {
+            "text": "朋友，你的运气可真不赖！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764528534435.mp3"
+        },
+        {
+            "text": "看我大展身手！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764528839453.mp3"
+        },
+        {
+            "text": "我和追电可是很不错的帮手！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764529128684.mp3"
+        },
+        {
+            "text": "心游四海，精鹜八极～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764529343162.mp3"
+        },
+        {
+            "text": "追电，你这个偷懒的大猫咪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764529586016.mp3"
+        },
+        {
+            "text": "来来来，听我继续讲大战雷云的故事。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764529949565.mp3"
+        },
+        {
+            "text": "我穿越过雷霆，还拯救了山海，厉害吧？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764530196786.mp3"
+        },
+        {
+            "text": "整个山海之界，也只有你的剑术能和我一较高低了～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764530457022.mp3"
+        },
+        {
+            "text": "白民之国果然阔绰～嘿嘿多谢款待！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764530725641.mp3"
+        }
+    ]
+}

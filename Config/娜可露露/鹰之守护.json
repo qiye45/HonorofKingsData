@@ -1,0 +1,47 @@
+{
+    "name": "鹰之守护",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498406847380.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498406862860.jpg",
+    "voice_clips": [
+        {
+            "text": "谢谢你，玛玛哈哈",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497759425854.wav"
+        },
+        {
+            "text": "来吧 站起来",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497759536476.wav"
+        },
+        {
+            "text": "这是来自大自然的惩罚",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497759662828.wav"
+        },
+        {
+            "text": "接受自然的报应吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497759821846.wav"
+        },
+        {
+            "text": "我们走 玛玛哈哈",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497759985152.wav"
+        },
+        {
+            "text": "这样如何呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497760127565.wav"
+        },
+        {
+            "text": "玛玛哈哈",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497760305841.wav"
+        },
+        {
+            "text": "风之刃",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497760478949.wav"
+        },
+        {
+            "text": "天空之牙",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497760656905.wav"
+        },
+        {
+            "text": "感受自然的痛楚吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497760862350.wav"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "name": "筑城者",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498405441344.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498405486497.jpg",
+    "voice_clips": [
+        {
+            "text": "世界是我的意志，机关为我的表象",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497540046198.mp3"
+        },
+        {
+            "text": "作为你至高无上的主人，你无权拒绝我的命令",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497540317642.mp3"
+        },
+        {
+            "text": "进步的终极，是连物质与自然一并掌握！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497540529266.mp3"
+        },
+        {
+            "text": "神的礼物，附带有昂贵的价格",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497540934595.mp3"
+        },
+        {
+            "text": "热情、梦想、希望统统转化为发电的动力",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497541137305.mp3"
+        },
+        {
+            "text": "微笑这种表情，太多余",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497541287943.mp3"
+        },
+        {
+            "text": "留恋感情，会让人永远徘徊于神域之外",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497541443317.mp3"
+        },
+        {
+            "text": "所触及过的星空，乃牺牲所有也竭力想要抵达的地方",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497541625912.mp3"
+        },
+        {
+            "text": "终于连心也被污染",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497541802718.wav"
+        },
+        {
+            "text": "能源，永不枯竭",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497542453391.wav"
+        },
+        {
+            "text": "绝对正确的理性",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497542598264.wav"
+        },
+        {
+            "text": "我领先时代太远！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497542729996.wav"
+        },
+        {
+            "text": "折断你的发条",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497542871208.wav"
+        },
+        {
+            "text": "你的幸福来自服从",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497543017943.wav"
+        },
+        {
+            "text": "成为机关实验里最棒的收藏品吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497543447765.wav"
+        },
+        {
+            "text": "与机关共生，不是很棒的体验吗",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497543552875.wav"
+        },
+        {
+            "text": "既然面对共同宿命，何不结为盟友",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497543715646.wav"
+        },
+        {
+            "text": "站在故事尽头，领悟起源的本义。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497543909429.mp3"
+        },
+        {
+            "text": "能力越强，责任越大",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497544076592.wav"
+        },
+        {
+            "text": "机械也会拥有生命、成长以及自我思考的能力",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497544241345.mp3"
+        },
+        {
+            "text": "我讨厌半途而废的家伙",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497545227762.wav"
+        },
+        {
+            "text": "你死我活，必然的结果",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497545359406.wav"
+        },
+        {
+            "text": "看起来，你和那个佣兵一样愚蠢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722967936135.wav"
+        },
+        {
+            "text": "我所俯视的领域，并非你们这些人可以企及。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722968143964.wav"
+        },
+        {
+            "text": "你果然很像你的母亲，总喜欢跟外城区的平民混在一起。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230411/16812086335391.mp3"
+        },
+        {
+            "text": "知道了，退下吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871608069058.mp3"
+        },
+        {
+            "text": "我所需要的，仅仅是一把利刃。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871608563837.mp3"
+        },
+        {
+            "text": "海诺，不，命运执掌，恭喜你，重回议会。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011438525221.mp3"
+        },
+        {
+            "text": "不过区区数年，你就远比你的父亲，更强大。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011438725027.mp3"
+        },
+        {
+            "text": "没有我想要的，只有我必将得到的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011438965720.mp3"
+        }
+    ]
+}

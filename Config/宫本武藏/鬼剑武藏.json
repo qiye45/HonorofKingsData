@@ -1,0 +1,71 @@
+{
+    "name": "鬼剑武藏",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498330673874.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240220/17084142782827.jpeg",
+    "voice_clips": [
+        {
+            "text": "超越轮回，只为找到你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497491589252.wav"
+        },
+        {
+            "text": "徐福！做鬼也不会放过！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497491844487.wav"
+        },
+        {
+            "text": "这种黑化的造型……阿通，可千万别嫌弃啊……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497492041498.wav"
+        },
+        {
+            "text": "阿通，暂且等等。一定……拯救你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497492952009.wav"
+        },
+        {
+            "text": "胜利，是在向你报告平安。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497493122900.wav"
+        },
+        {
+            "text": "天下间岂有长生不灭者。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497493323993.wav"
+        },
+        {
+            "text": "剑的意义，在于守护想要守护的人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497493532956.wav"
+        },
+        {
+            "text": "灭绝血族，乃吾重生之使命。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497493694952.wav"
+        },
+        {
+            "text": "阿通！！！！！！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497494232910.wav"
+        },
+        {
+            "text": "奇袭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495337770.wav"
+        },
+        {
+            "text": "邪魔退散！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495499450.wav"
+        },
+        {
+            "text": "狩猎血族！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495667321.wav"
+        },
+        {
+            "text": "要活下去！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497495878067.wav"
+        },
+        {
+            "text": "守护你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497496063645.wav"
+        },
+        {
+            "text": "不会放手！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497496257923.wav"
+        },
+        {
+            "text": "看起来，你们腐烂的比我还要快！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497496967066.mp3"
+        }
+    ]
+}

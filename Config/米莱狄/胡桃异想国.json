@@ -1,0 +1,83 @@
+{
+    "name": "胡桃异想国",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498492504920.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498492533126.jpg",
+    "voice_clips": [
+        {
+            "text": "欢迎来到，我的王国",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499330487710.mp3"
+        },
+        {
+            "text": "胡桃本没有生命，直到我拨动发条",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499330757666.mp3"
+        },
+        {
+            "text": "在这里，你只需听见一个声音",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499330863310.mp3"
+        },
+        {
+            "text": "齿轮转动，生命消逝，这就是胡桃",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497547289176.mp3"
+        },
+        {
+            "text": "行动的勇气，是来自永恒停止的督促",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497547695617.mp3"
+        },
+        {
+            "text": "行动的勇气，是来自死亡的督促",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497547851034.mp3"
+        },
+        {
+            "text": "异想国最大的秘密，藏在你我的诅咒中",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497548074870.mp3"
+        },
+        {
+            "text": "羡慕，无知的你们",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497548225822.wav"
+        },
+        {
+            "text": "就算是木头，也想打破它的宿命",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497548666383.mp3"
+        },
+        {
+            "text": "我的齿轮……停止了吗",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497548964992.mp3"
+        },
+        {
+            "text": "越过高塔，追寻真相",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497549311451.wav"
+        },
+        {
+            "text": "谁敢冒犯，我的领地",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497549607781.wav"
+        },
+        {
+            "text": "想续命的，就上吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497549759411.wav"
+        },
+        {
+            "text": "胡桃士兵，战时指令",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497549978868.wav"
+        },
+        {
+            "text": "统统听从，我的号令",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497550113960.wav"
+        },
+        {
+            "text": "来吧诅咒，打破它",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497550242920.wav"
+        },
+        {
+            "text": "承认我的正确，是你唯一的选择",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497550571108.mp3"
+        },
+        {
+            "text": "你的未来，由我掌控",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497550763940.mp3"
+        },
+        {
+            "text": "束手就擒吧，王国会缅怀你的功绩",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497550965578.mp3"
+        }
+    ]
+}

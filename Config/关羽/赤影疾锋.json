@@ -1,0 +1,151 @@
+{
+    "name": "赤影疾锋",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230823/16927715536799.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230823/16927715573126.jpg",
+    "voice_clips": [
+        {
+            "text": "保持敬意，同时保持约束 ……力量，那是责任的另一个名字",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927806776170.mp3"
+        },
+        {
+            "text": "前往有所需要的地方……遵从公理的召唤，誓为光明而战！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927807036180.mp3"
+        },
+        {
+            "text": "我并非某些人口中的“暗夜”，那只是恐惧在他们身上投下的阴影",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927807306160.mp3"
+        },
+        {
+            "text": "在混乱与守序之间，开辟一条新的道路！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927720027003.mp3"
+        },
+        {
+            "text": "天地间行事，总得有始有终，来去明白",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927720331784.mp3"
+        },
+        {
+            "text": "直面罪恶！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927720703114.mp3"
+        },
+        {
+            "text": "如果正义走得太慢，就由我来载它一程！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927720997022.mp3"
+        },
+        {
+            "text": "故人的意志，以烈焰铭刻于刀锋",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927721339495.mp3"
+        },
+        {
+            "text": "嘿，桃园巷怎么去？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927721671978.mp3"
+        },
+        {
+            "text": "既肩负他人的希望，便不必称我为独行者",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927721974182.mp3"
+        },
+        {
+            "text": "无声战斗的人，从前不止一个，今后也不会只剩一个",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927722265266.mp3"
+        },
+        {
+            "text": "正义，是终身职业",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927722677245.mp3"
+        },
+        {
+            "text": "只可战，不可退！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927723003450.mp3"
+        },
+        {
+            "text": "前行，以点燃黑夜的意志！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927723454241.mp3"
+        },
+        {
+            "text": "烈火之下，罪恶无所遁形!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927724003090.mp3"
+        },
+        {
+            "text": "黑夜里驰行，千万别选错了路",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927724489458.mp3"
+        },
+        {
+            "text": "定义你的不是能力，而是所作所为",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927724833203.mp3"
+        },
+        {
+            "text": "斩恶！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927725408963.mp3"
+        },
+        {
+            "text": "战栗吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927725719584.mp3"
+        },
+        {
+            "text": "势不可挡！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927734799687.mp3"
+        },
+        {
+            "text": "全面清除！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927735167414.mp3"
+        },
+        {
+            "text": "速战速决！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927736078249.mp3"
+        },
+        {
+            "text": "向着极限追击！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927740454049.mp3"
+        },
+        {
+            "text": "风驰电掣！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927741675981.mp3"
+        },
+        {
+            "text": "铁血已然沸腾！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927741983110.mp3"
+        },
+        {
+            "text": "震慑黑夜！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927742865803.mp3"
+        },
+        {
+            "text": "燃爆引擎！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927743715969.mp3"
+        },
+        {
+            "text": "邪不压正！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927744637304.mp3"
+        },
+        {
+            "text": "是时候收网了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927745137288.mp3"
+        },
+        {
+            "text": "长驱千里，何人能敌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927748424528.mp3"
+        },
+        {
+            "text": "燃烧共同的信念！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927748724309.mp3"
+        },
+        {
+            "text": "长刀尚在！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927749584444.mp3"
+        },
+        {
+            "text": "老搭档，该出发了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927750045318.mp3"
+        },
+        {
+            "text": "哼，还不到要倒下的时候",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927750361127.mp3"
+        },
+        {
+            "text": "电光石火之间！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927750718523.mp3"
+        },
+        {
+            "text": "至暗时刻，就此终结",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230823/16927751033119.mp3"
+        }
+    ]
+}

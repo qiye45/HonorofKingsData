@@ -1,0 +1,151 @@
+{
+    "name": "青莲剑仙",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498407928283.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498407944543.jpg",
+    "voice_clips": [
+        {
+            "text": "大河之剑天上来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496561406679.wav"
+        },
+        {
+            "text": "来，干！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496561521974.wav"
+        },
+        {
+            "text": "今朝有酒今朝醉！（选自罗隐《自遣》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496561646160.wav"
+        },
+        {
+            "text": "一篇诗，一斗酒，一曲长歌，一剑天涯。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496562244315.wav"
+        },
+        {
+            "text": "大河之剑天上来！（改编自李白《将进酒·君不见》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496562382229.wav"
+        },
+        {
+            "text": "情怀，懂不懂？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496562521530.wav"
+        },
+        {
+            "text": "哈哈哈~你的顽抗让我诗兴大发！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496563318222.wav"
+        },
+        {
+            "text": "十步杀一人，千里不留行。（选自李白《侠客行》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496563505225.wav"
+        },
+        {
+            "text": "啊，也是醉了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496564245503.wav"
+        },
+        {
+            "text": "将进酒，杯莫停！（选自李白《将进酒·君不见》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496564839325.wav"
+        },
+        {
+            "text": "看剑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496564962713.wav"
+        },
+        {
+            "text": "谁能接我一剑？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496565098899.wav"
+        },
+        {
+            "text": "神来之笔！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496565229049.wav"
+        },
+        {
+            "text": "新的灵感！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496565698982.wav"
+        },
+        {
+            "text": "来干！来干！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496566649551.wav"
+        },
+        {
+            "text": "来干！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496566777946.wav"
+        },
+        {
+            "text": "金发少女们的梦啊，就要碎在我的剑下",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496574662833.mp3"
+        },
+        {
+            "text": "战争就是这样，不是你死就是我活",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496574834835.mp3"
+        },
+        {
+            "text": "我和我的剑，到此一游！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496575231066.wav"
+        },
+        {
+            "text": "在我手里，正义从不会迟到半秒",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496575869448.wav"
+        },
+        {
+            "text": "谁与和平为敌，谁先与我一战。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496575976205.wav"
+        },
+        {
+            "text": "奇迹之旅，永无止境。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496577028172.wav"
+        },
+        {
+            "text": "逍遥半生酒中意，  一剑碎影向征程",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496577177201.wav"
+        },
+        {
+            "text": "浮生若梦，为欢几何？（选自李白《春夜宴桃李园序 / 春夜宴从弟桃花园序）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221129/16697153476504.mp3"
+        },
+        {
+            "text": "大道如青天，我独不得出。（选自李白《行路难·其二》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221129/16697153697921.mp3"
+        },
+        {
+            "text": "天山三丈雪，岂是远行时。（选自李白《独不见》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063256708543.mp3"
+        },
+        {
+            "text": "平生不下泪，于此泣无穷。（选自李白《江夏别宋之悌》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063256941949.mp3"
+        },
+        {
+            "text": "乱我心者，今日之日多烦忧！（选自李白《宣州谢朓楼饯别校书叔云》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063257322180.mp3"
+        },
+        {
+            "text": "白日何短短，百年苦易满。苍穹浩茫茫，万劫太极长。（选自李白《短歌行》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063257727930.mp3"
+        },
+        {
+            "text": "骝马新跨白玉鞍，战罢沙场月色寒。城头铁鼓声犹振，匣里金刀血未干。（选自王昌龄《出塞二首》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063258278423.mp3"
+        },
+        {
+            "text": "不如早还家……（选自李白《蜀道难》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063258588440.mp3"
+        },
+        {
+            "text": "茫茫大梦中，惟我独先觉。（选自李白《与元丹丘方城寺谈玄作》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063258979562.mp3"
+        },
+        {
+            "text": "仙人如爱我，举手来相招。（选自李白《焦山望寥山》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063259287394.mp3"
+        },
+        {
+            "text": "若无云间月，谁可比光辉。（选自李白《赠裴司马》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063259609402.mp3"
+        },
+        {
+            "text": "山高水长，物象千万，非有老笔，清壮可穷。（选自李白《上阳台帖》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063259968983.mp3"
+        },
+        {
+            "text": "六龙所舍安在哉？其始与终古不息！（选自李白《日出行》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065205204109.mp3"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "name": "国士无双",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498391483240.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498391527499.jpg",
+    "voice_clips": [
+        {
+            "text": "到达胜利之前，无法回头。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493306288094.wav"
+        },
+        {
+            "text": "必将百倍奉还！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493306456390.wav"
+        },
+        {
+            "text": "不做无法实现的梦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493306585673.wav"
+        },
+        {
+            "text": "垫背的，怎么都不嫌多。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493306735858.wav"
+        },
+        {
+            "text": "各取所需而已。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493306869603.wav"
+        },
+        {
+            "text": "人，总得有个活着的理由。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493307002906.wav"
+        },
+        {
+            "text": "你的脑袋里好像少了些什么。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493307131129.wav"
+        },
+        {
+            "text": "正义，不过是胜利的又一个别称。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493307278399.wav"
+        },
+        {
+            "text": "还没有输……呃啊~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493310121148.wav"
+        },
+        {
+            "text": "忍无可忍，无须再忍",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493310852264.wav"
+        },
+        {
+            "text": "哼~弱者才在乎耻辱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493310996390.wav"
+        },
+        {
+            "text": "举世无双",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493311124979.wav"
+        },
+        {
+            "text": "颠覆无趣的世道！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493311256548.wav"
+        },
+        {
+            "text": "雕虫小技而已！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493311398034.wav"
+        },
+        {
+            "text": "不当赢家，就只有死路一条",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493311803811.wav"
+        }
+    ]
+}

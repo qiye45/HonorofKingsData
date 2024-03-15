@@ -1,0 +1,251 @@
+{
+    "name": "鲨之猎刃",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498387025959.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498386508228.jpg",
+    "voice_clips": [
+        {
+            "text": "确认目标，出发。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500166229236.mp3"
+        },
+        {
+            "text": "潜行于黑暗，游猎于光明",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500166381476.mp3"
+        },
+        {
+            "text": "习惯于黑暗，如同习惯于孤独",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500166596501.mp3"
+        },
+        {
+            "text": "鲨鱼无需同伴",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500166832071.mp3"
+        },
+        {
+            "text": "“澜”，只是个代号",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497548394827.wav"
+        },
+        {
+            "text": "狩猎目标的鲨鱼，会追索血的滋味",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497548542262.wav"
+        },
+        {
+            "text": "血的滋味",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497550168890.wav"
+        },
+        {
+            "text": "朋友？抱歉，我没有",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497550464399.wav"
+        },
+        {
+            "text": "无需代价",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497550785804.wav"
+        },
+        {
+            "text": "痛苦会让恐惧离开身体",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497551034856.wav"
+        },
+        {
+            "text": "过去属于死神，未来属于自己",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497551215293.wav"
+        },
+        {
+            "text": "生存比死亡更艰难",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497551419437.wav"
+        },
+        {
+            "text": "雨……好像停了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497551921637.wav"
+        },
+        {
+            "text": "雨……停了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497552104774.wav"
+        },
+        {
+            "text": "噩梦如影随形",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497552497080.wav"
+        },
+        {
+            "text": "锁定目标",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497552716790.wav"
+        },
+        {
+            "text": "水，是我的领域",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497552905087.wav"
+        },
+        {
+            "text": "水，是我擅长的领域",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497553223188.wav"
+        },
+        {
+            "text": "猎物的味道",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497553505672.wav"
+        },
+        {
+            "text": "一击毙命。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497553702722.wav"
+        },
+        {
+            "text": "破浪一击。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497553897223.wav"
+        },
+        {
+            "text": "致命伤口",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497554084921.wav"
+        },
+        {
+            "text": "鲨之猎刃",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497554349698.wav"
+        },
+        {
+            "text": "血的滋味",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497554543401.wav"
+        },
+        {
+            "text": "杀手本能",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497554757875.wav"
+        },
+        {
+            "text": "牙齿，是鲨鱼的武器",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497554953199.wav"
+        },
+        {
+            "text": "最干脆的路径",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497555096943.wav"
+        },
+        {
+            "text": "说了多少次，别往一个杀手头上随便插小花",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500167127460.mp3"
+        },
+        {
+            "text": "别担心，之前我只是睡了一觉",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500167308851.mp3"
+        },
+        {
+            "text": "赶紧回去，这里很不安全。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500167443775.mp3"
+        },
+        {
+            "text": "少吃点儿烤鱼，会坏肚子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500167576758.mp3"
+        },
+        {
+            "text": "不要跟着我，你的家人呢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500167771081.mp3"
+        },
+        {
+            "text": "小鬼别怕，我在这儿。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500168444661.mp3"
+        },
+        {
+            "text": "鲨鱼，可能不喜欢吃小孩儿",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500168772010.mp3"
+        },
+        {
+            "text": "小鬼，躲在我身后。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497562504517.wav"
+        },
+        {
+            "text": "别担心，鲨鱼不会轻易受伤",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497562648446.wav"
+        },
+        {
+            "text": "小鬼，谢谢你的治疗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497562979138.wav"
+        },
+        {
+            "text": "刀刃只听命于我",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497564164465.wav"
+        },
+        {
+            "text": "深不可测的海与人心",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497564339913.wav"
+        },
+        {
+            "text": "从不失手",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497564524460.wav"
+        },
+        {
+            "text": "好，下一个目标。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497564732773.wav"
+        },
+        {
+            "text": "下一个任务。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497564866956.wav"
+        },
+        {
+            "text": "许多人曾倒在我面前，你也不会是例外",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497565118780.wav"
+        },
+        {
+            "text": "没有特例",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497565248315.wav"
+        },
+        {
+            "text": "所谓杀手的基本操作",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497565731883.wav"
+        },
+        {
+            "text": "基本操作",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497568075457.wav"
+        },
+        {
+            "text": "只是小憩了一下",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497568305884.wav"
+        },
+        {
+            "text": "任务以外的目标",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497568422209.wav"
+        },
+        {
+            "text": "猎杀开始。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497568596873.wav"
+        },
+        {
+            "text": "这把刀让我记起一些往事",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497568787225.wav"
+        },
+        {
+            "text": "曾经，差点死在一座孤岛",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497569053847.wav"
+        },
+        {
+            "text": "两把武器更适合杀手",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497569196666.wav"
+        },
+        {
+            "text": "刀上有鲨鱼喜欢的味道",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497569364369.wav"
+        },
+        {
+            "text": "这件装备送给小鬼比较好",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497569505949.wav"
+        },
+        {
+            "text": "成为鲨鱼的猎物",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497569729602.wav"
+        },
+        {
+            "text": "目标只剩一个",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497569947507.wav"
+        },
+        {
+            "text": "任务完成",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497570093881.wav"
+        },
+        {
+            "text": "误伤",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497570314981.wav"
+        },
+        {
+            "text": "这条命还你",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497570462292.wav"
+        },
+        {
+            "text": "过往早该被埋葬",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497570667646.wav"
+        },
+        {
+            "text": "黑色的梦魇",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497570801297.wav"
+        }
+    ]
+}

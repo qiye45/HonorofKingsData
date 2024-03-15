@@ -1,0 +1,143 @@
+{
+    "name": "时雨天司",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498487735588.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498487787842.jpg",
+    "voice_clips": [
+        {
+            "text": "百厄除尽，万象更新！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499852381170.mp3"
+        },
+        {
+            "text": "时雨降世，泽被百川！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499852505378.mp3"
+        },
+        {
+            "text": "甘霖滂沱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499852621167.mp3"
+        },
+        {
+            "text": "计算每一滴雨落下的轨迹~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724516247.mp3"
+        },
+        {
+            "text": "好雨知时节~（选自杜甫《春夜喜雨》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724664250.mp3"
+        },
+        {
+            "text": "听我的，今日出行记得带伞~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724824866.mp3"
+        },
+        {
+            "text": "涓涓细雨，终汇为浩浩长波！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497724996277.mp3"
+        },
+        {
+            "text": "及时一日雨，终岁饱丰穰。（选自欧阳修《喜雨》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497725149173.mp3"
+        },
+        {
+            "text": "础润知雨，方可先上苍一步！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497725298604.mp3"
+        },
+        {
+            "text": "来见证凡人的神话！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497725426767.mp3"
+        },
+        {
+            "text": "妖火湮灭……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497725766690.wav"
+        },
+        {
+            "text": "化雨！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497726519103.wav"
+        },
+        {
+            "text": "雨阵！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497726664196.wav"
+        },
+        {
+            "text": "穿林打叶！（选自苏轼《定风波·莫听穿林打叶声》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497726862526.wav"
+        },
+        {
+            "text": "山雨欲来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497727038463.wav"
+        },
+        {
+            "text": "天河赐福！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497727186983.wav"
+        },
+        {
+            "text": "龙润之祥！（选自陶谷《清异录》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497727804745.wav"
+        },
+        {
+            "text": "八方疾雨来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497728172746.wav"
+        },
+        {
+            "text": "镇收邪祟，荡尽魑魅！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497728612207.mp3"
+        },
+        {
+            "text": "瑞象在此，灾祸退散！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497728759430.mp3"
+        },
+        {
+            "text": "未雨绸缪，无用之举~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497729252689.wav"
+        },
+        {
+            "text": "道是无晴却有晴~（选自刘禹锡《竹枝词二首·其一》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497729891799.mp3"
+        },
+        {
+            "text": "兴云布阵！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497730785839.mp3"
+        },
+        {
+            "text": "青冥浩荡，怎能吝惜甘霖！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497731028398.mp3"
+        },
+        {
+            "text": "细雨需伴春风，良辰得轻摇扇",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497731266589.wav"
+        },
+        {
+            "text": "有时也会怀恋云上的日子~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497731531582.wav"
+        },
+        {
+            "text": "唤雨的正确姿势~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497731845515.mp3"
+        },
+        {
+            "text": "我不要 再看见荒芜的大地",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497732113767.mp3"
+        },
+        {
+            "text": "既定的雨量，一毫不能多，一厘不能少~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497732331545.mp3"
+        },
+        {
+            "text": "此处，是万物新生的天地！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497732632062.mp3"
+        },
+        {
+            "text": "最好的东西，总能来对时候~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497732963731.mp3"
+        },
+        {
+            "text": "苍天朗朗，草木葱葱",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497733157689.mp3"
+        },
+        {
+            "text": "或许，你需要我们的助力~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511327551287.mp3"
+        },
+        {
+            "text": "何必分你我，天下本一源",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511334814748.mp3"
+        }
+    ]
+}

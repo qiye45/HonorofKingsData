@@ -1,0 +1,211 @@
+{
+    "name": "星域神启",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498488162650.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498488226737.jpg",
+    "voice_clips": [
+        {
+            "text": "过去，宇宙的秘密由历史、神话和魔法构成……为了解答它的迷题，我们建立观测之塔。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499852937693.mp3"
+        },
+        {
+            "text": "人类灵魂最璀璨的部分，在对无限未知的探求中……去无尽时空，将现世重建。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499853115707.mp3"
+        },
+        {
+            "text": "星群降临之前，也许有一个答案能够改变过去或未来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499853302012.mp3"
+        },
+        {
+            "text": "第260天，观测塔发现未知星体。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498353747849.wav"
+        },
+        {
+            "text": "已知是有限的，未知才是无限的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498357953998.wav"
+        },
+        {
+            "text": "我并不擅长写诗，最浪漫的语言都写在宇宙魔法里。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498358714953.wav"
+        },
+        {
+            "text": "黑魔法过时了，现在是科技魔法时代。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498358855527.wav"
+        },
+        {
+            "text": "宇宙引领我们，向高处看。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498359021241.wav"
+        },
+        {
+            "text": "能够丈量宇宙的人，身没尘土，魂归天穹。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498359177460.wav"
+        },
+        {
+            "text": "又做噩梦了……我的研究手稿去哪了？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498359933987.wav"
+        },
+        {
+            "text": "带我去，我存在的世界！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498360132745.wav"
+        },
+        {
+            "text": "4，7，10，16……之后的数字是？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498370758099.wav"
+        },
+        {
+            "text": "第365天观测显示，星体相撞的可能性极大。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498370969904.wav"
+        },
+        {
+            "text": "时空镜向我展示诸世界的变迁。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498371189758.wav"
+        },
+        {
+            "text": "有人在由神所创的宇宙里，争论中心位置的星体……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498371346431.wav"
+        },
+        {
+            "text": "有人在形似盾牌的时空，谈论众神之父和万物的源起……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498371506616.wav"
+        },
+        {
+            "text": "有的世界，人们自苍穹之上的船舶，驶达彼岸……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498371667160.wav"
+        },
+        {
+            "text": "有的世界被痛苦包拢，只能靠抛弃过去向前走。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498371824757.wav"
+        },
+        {
+            "text": "我睡着了吗？研究手稿可还没完成……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498372101377.wav"
+        },
+        {
+            "text": "回到正确的时间！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498372427277.wav"
+        },
+        {
+            "text": "嗯？不是走神……很多伟大的想法，都来自于沉思的瞬间。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498372619407.wav"
+        },
+        {
+            "text": "第584天……找到通往未知的路。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498374124166.wav"
+        },
+        {
+            "text": "有人给我讲了一个关于井底观星师的故事。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498374292098.wav"
+        },
+        {
+            "text": "他们说，过分的执着会带来毁灭。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498374544665.wav"
+        },
+        {
+            "text": "……也许创造与毁灭，本就在构成更大的循环。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498374757518.wav"
+        },
+        {
+            "text": "生命自身就是种循环。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498374943958.wav"
+        },
+        {
+            "text": "就算真的存在，某种要将我们毁掉的规则，终极智慧会引我去打破。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498375361907.wav"
+        },
+        {
+            "text": "我是不是忘记了，一些重要的事……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498375573523.wav"
+        },
+        {
+            "text": "研究手稿损毁，真的还有“可能”吗……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498375808587.wav"
+        },
+        {
+            "text": "你有没有想过，天空是从哪里开始的？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498375971371.wav"
+        },
+        {
+            "text": "和这个世界说再见吧～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498376185382.wav"
+        },
+        {
+            "text": "无知真是无所不在。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498376393324.wav"
+        },
+        {
+            "text": "一览寰宇！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498376745615.wav"
+        },
+        {
+            "text": "去观察，去触碰！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498377009348.wav"
+        },
+        {
+            "text": "溯洄时间！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498377153557.wav"
+        },
+        {
+            "text": "超越永恒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498379532586.wav"
+        },
+        {
+            "text": "识过去，见未来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498379707348.wav"
+        },
+        {
+            "text": "引力奇点！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498379883804.wav"
+        },
+        {
+            "text": "魔法变量～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498380096365.wav"
+        },
+        {
+            "text": "在“过去”和“未来”中，没有一个飞跃是会停止的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498380279343.wav"
+        },
+        {
+            "text": "我总能回到正确的起点，不是吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498380503687.wav"
+        },
+        {
+            "text": "有的世界，人们不再彼此相信和承诺。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498380867712.wav"
+        },
+        {
+            "text": "有的世界，人们苦于没有船只去探索苍穹上的大海。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498381066384.wav"
+        },
+        {
+            "text": "向真理致敬。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498381219726.wav"
+        },
+        {
+            "text": "要一起时空旅行吗？上来吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498381399281.wav"
+        },
+        {
+            "text": "有人教会了我这支舞，也是我唯一会跳的舞。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498381583564.wav"
+        },
+        {
+            "text": "有的世界被未知的力量崩裂成碎片……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498381761557.wav"
+        },
+        {
+            "text": "有的世界，人们只愿意相信谎言。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498381933665.wav"
+        },
+        {
+            "text": "75年或者76年，星体将在他推演的时间再次出现。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498382096460.wav"
+        },
+        {
+            "text": "你让我看到了一种可能。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498382259438.wav"
+        },
+        {
+            "text": "让你看到这样的我……也代表认可。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498382446106.wav"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "云端筑梦师",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498345028911.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498345056920.jpg",
+    "voice_clips": [
+        {
+            "text": "见过云端上的幻想之城吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496585895332.wav"
+        },
+        {
+            "text": "千年梦境，合而为一。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496586008948.wav"
+        },
+        {
+            "text": "神说要有光，于是就诞生了我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496586183975.wav"
+        },
+        {
+            "text": "自以为是的真实，比无药可救的幻想，更可怕。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496586789066.wav"
+        },
+        {
+            "text": "若世上还有成为废墟的心血，请以你的名字呼唤我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496586908712.wav"
+        },
+        {
+            "text": "火柴点燃的希望，有的熄灭在街头，有的显露于苍穹。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587038245.wav"
+        },
+        {
+            "text": "他们看见星星，我看见城；他们看见城，我看见的是鲲。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587219015.wav"
+        },
+        {
+            "text": "不曾看低这个世界，只是眼光有点高。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587379756.wav"
+        },
+        {
+            "text": "此处入眠……他处醒来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587507900.wav"
+        },
+        {
+            "text": "伟大的白日梦",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587663341.wav"
+        },
+        {
+            "text": "没有人能逃出我的脑洞。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587789106.wav"
+        },
+        {
+            "text": "入梦为安吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587924955.wav"
+        },
+        {
+            "text": "让我来替你结束现实吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496588041646.wav"
+        }
+    ]
+}

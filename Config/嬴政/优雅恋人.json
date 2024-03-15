@@ -1,0 +1,59 @@
+{
+    "name": "优雅恋人",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498471674347.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498471711005.jpg",
+    "voice_clips": [
+        {
+            "text": "人生苦短，及时寻乐~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493238454674.wav"
+        },
+        {
+            "text": "口袋里揣着把戏，袖子里藏着花招~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493238629232.wav"
+        },
+        {
+            "text": "邂逅就像电影，每出都不一样~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493238737505.wav"
+        },
+        {
+            "text": "熄灭你的蜡烛吧，这个世界是用闪电照明的~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493238937620.wav"
+        },
+        {
+            "text": "人一到深夜，就酸不拉几。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493239111552.wav"
+        },
+        {
+            "text": "最讨厌看编年史。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493239248002.wav"
+        },
+        {
+            "text": "想认识蝙蝠侠~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493239378838.wav"
+        },
+        {
+            "text": "死于……多情……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493239611466.wav"
+        },
+        {
+            "text": "送你一支蓝玫瑰~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493239784051.wav"
+        },
+        {
+            "text": "自我保护~永恒的人生哲理~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493239948992.wav"
+        },
+        {
+            "text": "感受下我的追求！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493240074097.wav"
+        },
+        {
+            "text": "爱情，有时候很锋利！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493240237386.wav"
+        },
+        {
+            "text": "我可记不住你是谁~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493240351545.wav"
+        }
+    ]
+}

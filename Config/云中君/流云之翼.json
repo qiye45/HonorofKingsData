@@ -1,0 +1,283 @@
+{
+    "name": "流云之翼",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231229/17038476957471.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231229/17038476999767.jpg",
+    "voice_clips": [
+        {
+            "text": "光明源自阴影~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495752742868.wav"
+        },
+        {
+            "text": "记忆触手可及，蓝天延绵不绝。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495752903643.wav"
+        },
+        {
+            "text": "黑夜苏醒盲目，东边归去飞鸟~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495755901273.wav"
+        },
+        {
+            "text": "世上所有不可爱的人，都归我云中神君管。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495756114224.wav"
+        },
+        {
+            "text": "我梳过头了，还吹过了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495756241648.wav"
+        },
+        {
+            "text": "把每片叶子从头到脚搜一遍。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495756381189.wav"
+        },
+        {
+            "text": "隔开云梦泽的不是东边和西边，而是规则与偏见。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495756532874.wav"
+        },
+        {
+            "text": "有的神明，住在你我的目光中。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495756673685.wav"
+        },
+        {
+            "text": "传闻有种鸟属于天空，一生只落地一次",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041659129943.mp3"
+        },
+        {
+            "text": "梦见过流云，又怎能安然栖居于大地",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041660104206.mp3"
+        },
+        {
+            "text": "闭上双眼，才能看清世间",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041661639830.mp3"
+        },
+        {
+            "text": "当森林开始歌唱，清晨便降临了……听，声声鹿鸣",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041662221373.mp3"
+        },
+        {
+            "text": "总有人死于灵魂过低~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495758084752.wav"
+        },
+        {
+            "text": "不如随风归去，自由无羁",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041663505893.mp3"
+        },
+        {
+            "text": "这不是死……是回天上。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240104/17043507953087.mp3"
+        },
+        {
+            "text": "孤云只影…向谁去……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041664195208.mp3"
+        },
+        {
+            "text": "光脚的不怕穿鞋的~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495758375931.wav"
+        },
+        {
+            "text": "有些人空有一双好眼睛，心却是盲的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041669073875.mp3"
+        },
+        {
+            "text": "归云之高，楚天遥遥",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041784154836.mp3"
+        },
+        {
+            "text": "久困樊笼，终返自然",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041784456467.mp3"
+        },
+        {
+            "text": "横四海",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240104/17043506493710.mp3"
+        },
+        {
+            "text": "眼明心亮",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240104/17043506966126.mp3"
+        },
+        {
+            "text": "凭清气",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041671635226.mp3"
+        },
+        {
+            "text": "与日月齐光~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240104/17043507337740.mp3"
+        },
+        {
+            "text": "逐流云",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041672495779.mp3"
+        },
+        {
+            "text": "至天隙展翼~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041672919016.mp3"
+        },
+        {
+            "text": "轻盈的东西最锋利。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240104/17043508902299.mp3"
+        },
+        {
+            "text": "我下雪了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240104/17043509133449.mp3"
+        },
+        {
+            "text": "飞羽化风",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041673801897.mp3"
+        },
+        {
+            "text": "来，美丑共舞~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495757412062.wav"
+        },
+        {
+            "text": "起，风卷残影~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041675248587.mp3"
+        },
+        {
+            "text": "号天地之气！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041675482680.mp3"
+        },
+        {
+            "text": "御疾风而行！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041675804359.mp3"
+        },
+        {
+            "text": "直入天穹深处",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041677574996.mp3"
+        },
+        {
+            "text": "听见歌声了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240104/17043509649554.mp3"
+        },
+        {
+            "text": "小鸟，你也有一颗渴望翱翔的心吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041678593883.mp3"
+        },
+        {
+            "text": "又一个捣乱的家伙",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041678985666.mp3"
+        },
+        {
+            "text": "今日琐事处理完毕",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041679481204.mp3"
+        },
+        {
+            "text": "为何重返天穹的心，依旧牵挂着大地？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041679932539.mp3"
+        },
+        {
+            "text": "在天最自由，在地最守序，这便是人们期望的“神巫云中君”",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041680899279.mp3"
+        },
+        {
+            "text": "羽毛有些脏了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041682324224.mp3"
+        },
+        {
+            "text": "终将向上飞去！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041683305694.mp3"
+        },
+        {
+            "text": "云中白羽，哪怕以天地为网，亦不可罗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041776082272.mp3"
+        },
+        {
+            "text": "没有过去之人，是否真正拥有现在？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041689991286.mp3"
+        },
+        {
+            "text": "小鹿女么，是个最诚实的孩子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041690711487.mp3"
+        },
+        {
+            "text": "我说过，阿瑶从不在正经事上捣乱",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041691497805.mp3"
+        },
+        {
+            "text": "在森林里，没有比小鹿更可靠的伙伴",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041763606772.mp3"
+        },
+        {
+            "text": "水穷处听风，云深时见鹿",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041764107616.mp3"
+        },
+        {
+            "text": "从未消逝的贪婪，诞生一如既往的悲剧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041764906920.mp3"
+        },
+        {
+            "text": "云上寂静，只得风声。不过更多时候，风也是安静的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041765671458.mp3"
+        },
+        {
+            "text": "上次有人对我说，暗影是光芒万丈，黑色是五彩斑斓",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041766184179.mp3"
+        },
+        {
+            "text": "或许寻回记忆，才能寻回自己",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041766487900.mp3"
+        },
+        {
+            "text": "梦里，天穹毁于战火，至爱终于离散……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041766817202.mp3"
+        },
+        {
+            "text": "东神说，谁再捣蛋就把她的鹿角割下来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495758564769.wav"
+        },
+        {
+            "text": "在背后吓人，总要先把自己的心跳收好",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240104/17043510383141.mp3"
+        },
+        {
+            "text": "……想让我帮你保住诚实的话，最近别去东神面前乱晃",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041768292241.mp3"
+        },
+        {
+            "text": "前日是虎、昨日是豹、今日是狼……我竟不知，东神城何时变得这样热闹？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041768559665.mp3"
+        },
+        {
+            "text": "嗯，现在不怕了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041769069637.mp3"
+        },
+        {
+            "text": "如果…有谁特别想讲给我听的话",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041769404151.mp3"
+        },
+        {
+            "text": "但获得这份自由的代价，是被神巫与全知者身份束缚，对吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041770239140.mp3"
+        },
+        {
+            "text": "天缺之祸时，上一代神巫之间到底发生了什么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041770835135.mp3"
+        },
+        {
+            "text": "但东神你……似乎也不是第一代？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041771261280.mp3"
+        },
+        {
+            "text": "窗户已经派人在修了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495758701734.wav"
+        },
+        {
+            "text": "没有，她很好",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041771708800.mp3"
+        },
+        {
+            "text": "听说你是个需要仰视的男人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495758871925.wav"
+        },
+        {
+            "text": "它也永远不会停止追寻自由的答案",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041772869449.mp3"
+        },
+        {
+            "text": "东神说，那职责的名字不叫“宿命”，叫“巫神祝的虚伪”。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041773127452.mp3"
+        },
+        {
+            "text": "在天之外，你来的那个世界是什么样？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065214993938.mp3"
+        },
+        {
+            "text": "在找什么？在东神城，不是所有地方都隐藏你以为的真相。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065215277877.mp3"
+        }
+    ]
+}

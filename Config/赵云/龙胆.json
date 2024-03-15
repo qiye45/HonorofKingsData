@@ -1,0 +1,71 @@
+{
+    "name": "龙胆",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498368409454.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498368449744.jpg",
+    "voice_clips": [
+        {
+            "text": "常山赵子龙在此！谁敢与我一战！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956248904841.mp3"
+        },
+        {
+            "text": "五虎之志未已！再战百世轮回！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956249354028.mp3"
+        },
+        {
+            "text": "战魂不灭！仁者，无敌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956250166899.mp3"
+        },
+        {
+            "text": "龙战于野，迅疾如风。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956139207062.mp3"
+        },
+        {
+            "text": "吾视百万大军，亦不过草荠。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956139565454.mp3"
+        },
+        {
+            "text": "蛰龙已惊眠，一啸动千山。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956140526900.mp3"
+        },
+        {
+            "text": "乱世之中，我来守护仁德。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956140883834.mp3"
+        },
+        {
+            "text": "长枪所向，横扫八方。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956141626610.mp3"
+        },
+        {
+            "text": "主角光环，是天生的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956141925368.mp3"
+        },
+        {
+            "text": "意志，会就此终结吗...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956142449467.mp3"
+        },
+        {
+            "text": "破岩而出",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956224548010.mp3"
+        },
+        {
+            "text": "所向无前",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956227056886.mp3"
+        },
+        {
+            "text": "五虎上将，参见！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956227357068.mp3"
+        },
+        {
+            "text": "身经百战，未尝一败！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956227705749.mp3"
+        },
+        {
+            "text": "无所不克",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956228004620.mp3"
+        },
+        {
+            "text": "我的枪不杀无名之辈",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230925/16956228335276.mp3"
+        }
+    ]
+}

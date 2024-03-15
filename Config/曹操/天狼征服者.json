@@ -1,0 +1,103 @@
+{
+    "name": "天狼征服者",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498326099247.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498326135373.jpg",
+    "voice_clips": [
+        {
+            "text": "危机潜伏于黑夜——各位，准备好了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497695155046.mp3"
+        },
+        {
+            "text": "热血不止于怀旧——各位，准备好了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497695273486.mp3"
+        },
+        {
+            "text": "音乐是对历史的纪念——各位，准备好了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497695381076.mp3"
+        },
+        {
+            "text": "这里有我，并且不只有我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497695502908.wav"
+        },
+        {
+            "text": "时隔477天，我的唱片仍是畅销经典。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497695612612.wav"
+        },
+        {
+            "text": "五把剑出场是惯例，打败你只需要其中之一。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497695729478.wav"
+        },
+        {
+            "text": "代号5709，行动理由…周三也是幸运日不行吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497695893904.mp3"
+        },
+        {
+            "text": "哈哈！以一敌三，真英雄本色！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497696019137.wav"
+        },
+        {
+            "text": "这座城市仍然相信奇迹。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497696167954.wav"
+        },
+        {
+            "text": "无解的，亚军魔咒……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497696326768.wav"
+        },
+        {
+            "text": "一触即发！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497696659153.wav"
+        },
+        {
+            "text": "终结乱局！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497696794759.wav"
+        },
+        {
+            "text": "永眠黑夜！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497696919201.wav"
+        },
+        {
+            "text": "你也是来给我打工的吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497697053564.wav"
+        },
+        {
+            "text": "音乐计划，这个不方便透露~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497697268685.wav"
+        },
+        {
+            "text": "勇敢点，老虎。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497697452063.wav"
+        },
+        {
+            "text": "年轻人，别因为头脑发热站错队。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497697606245.wav"
+        },
+        {
+            "text": "天狼星小队集结完毕，行动开始！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497698384558.wav"
+        },
+        {
+            "text": "乐意之至，小朋友。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499309739661.wav"
+        },
+        {
+            "text": "有一天，天狼星也会成为历史的一部分。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220427/16510529292478.mp3"
+        },
+        {
+            "text": "你挑朋友的眼光不错，哈哈哈哈",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511125886997.mp3"
+        },
+        {
+            "text": "你找到入侵天狼星的黑客了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940567426340.mp3"
+        },
+        {
+            "text": "期待你的好消息。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940567692845.mp3"
+        },
+        {
+            "text": "听说匿光的头领是我的老朋友？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230907/16940567931738.mp3"
+        }
+    ]
+}

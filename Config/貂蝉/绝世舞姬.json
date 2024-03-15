@@ -1,0 +1,83 @@
+{
+    "name": "绝世舞姬",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498485138245.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498485165319.jpg",
+    "voice_clips": [
+        {
+            "text": "不要爱上妾身哟！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497489173283.wav"
+        },
+        {
+            "text": "想欣赏妾身的舞姿吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497489343971.wav"
+        },
+        {
+            "text": "花有再开的那天，人有重逢的时候吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497489502579.wav"
+        },
+        {
+            "text": "华丽又漂亮的生存到最后！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497489651067.wav"
+        },
+        {
+            "text": "无尽的舞蹈，何日方休？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497489792310.wav"
+        },
+        {
+            "text": "一生待一人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490249993.wav"
+        },
+        {
+            "text": "收到的情书太多，也是一种烦恼呢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490137438.wav"
+        },
+        {
+            "text": "非……非礼呀！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490543969.wav"
+        },
+        {
+            "text": "美貌也是武器",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490822345.wav"
+        },
+        {
+            "text": "不必奢望",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490953654.wav"
+        },
+        {
+            "text": "幸福不属于妾身",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497491081373.wav"
+        },
+        {
+            "text": "爱情不是想要就能有",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497491238488.wav"
+        },
+        {
+            "text": "人家不擅长战斗呢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497491432804.wav"
+        },
+        {
+            "text": "品味和智商令人同情的你们注定孤独一生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497491594890.wav"
+        },
+        {
+            "text": "去吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497491775554.wav"
+        },
+        {
+            "text": "花开咯",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497491891450.wav"
+        },
+        {
+            "text": "飘啊飘",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497492019371.wav"
+        },
+        {
+            "text": "怒放吧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497492142106.wav"
+        },
+        {
+            "text": "纤手折其枝，花落何飘扬。请谢彼姝子，何为见损伤。（选自宋子侯《董娇饶》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063316715338.mp3"
+        }
+    ]
+}

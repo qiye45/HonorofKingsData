@@ -1,0 +1,55 @@
+{
+    "name": "海滩丽影",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220420/16504529349648.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498344379566.jpg",
+    "voice_clips": [
+        {
+            "text": "女神和女汉子，只隔着一个夏天",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496601109470.wav"
+        },
+        {
+            "text": "惊不惊喜，意不意外",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496601482771.wav"
+        },
+        {
+            "text": "骄阳似我~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496601618682.wav"
+        },
+        {
+            "text": "爱美之心，人皆有之",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496601784698.wav"
+        },
+        {
+            "text": "身心沉浸于自然，这是人生的假期",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496601976257.wav"
+        },
+        {
+            "text": "魅力源自自信，而非美图滤镜",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496602085352.wav"
+        },
+        {
+            "text": "说走就走的旅行，焕然一新的热情",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496602212693.wav"
+        },
+        {
+            "text": "沙滩很适合思考哲学：我是谁，我在哪，我去往何处",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496602358554.wav"
+        },
+        {
+            "text": "锤你胸口！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496602539572.wav"
+        },
+        {
+            "text": "感受热夏的气场",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496602644407.wav"
+        },
+        {
+            "text": "你中暑了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496602787943.wav"
+        },
+        {
+            "text": "想凉快凉快吗~泉水是个适合你的度假地点",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496602895276.wav"
+        }
+    ]
+}

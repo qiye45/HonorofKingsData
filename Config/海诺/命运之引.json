@@ -1,0 +1,447 @@
+{
+    "name": "命运之引",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231128/17011390385756.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231128/17011390402238.jpg",
+    "voice_clips": [
+        {
+            "text": "凌驾于命运之上的，从不是神明，而是决心",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011532775721.mp3"
+        },
+        {
+            "text": "冰冷无情，那就是吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011532904006.mp3"
+        },
+        {
+            "text": "不要伤及无辜",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011533097193.mp3"
+        },
+        {
+            "text": "不要成为任何人的附庸",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011392235943.mp3"
+        },
+        {
+            "text": "我不相信既定的命运",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011392383417.mp3"
+        },
+        {
+            "text": "站在瞭望星塔的顶端，窥见整个城市的可能",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011392798124.mp3"
+        },
+        {
+            "text": "逆境，更折射人心",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011393063599.mp3"
+        },
+        {
+            "text": "高傲自大的家族，终散于尘埃",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011393222455.mp3"
+        },
+        {
+            "text": "转机藏纳一瞬",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011393458739.mp3"
+        },
+        {
+            "text": "透过厄运看到奇迹",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011393614456.mp3"
+        },
+        {
+            "text": "不到绝境，怎知全力",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011395104507.mp3"
+        },
+        {
+            "text": "“命运有定，勿行歧路”，哼，过时的忠告",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011396055386.mp3"
+        },
+        {
+            "text": "命运所见并非真实，亲身接触，才是真相。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011396551008.mp3"
+        },
+        {
+            "text": "月亮，高塔，哪一个阿尔卡纳，不曾伤痕累累",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011396744036.mp3"
+        },
+        {
+            "text": "真理，总藏在谎言之中",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011396904583.mp3"
+        },
+        {
+            "text": "夜夜失眠，也好过长睡不醒",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011397097821.mp3"
+        },
+        {
+            "text": "命运无端，亦是命运有端",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011397276682.mp3"
+        },
+        {
+            "text": "又一场无端的厄运",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011397741662.mp3"
+        },
+        {
+            "text": "你的挣扎，无济于事",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011397985279.mp3"
+        },
+        {
+            "text": "无需多言",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011398234980.mp3"
+        },
+        {
+            "text": "命运无端，抉择在我",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011398489309.mp3"
+        },
+        {
+            "text": "辉煌，终将落幕……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011399451417.mp3"
+        },
+        {
+            "text": "终局已至……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011399637055.mp3"
+        },
+        {
+            "text": "寒夜将临……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011399887859.mp3"
+        },
+        {
+            "text": "无聊",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011400149131.mp3"
+        },
+        {
+            "text": "行为愚蠢，毫不可取。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011400325196.mp3"
+        },
+        {
+            "text": "命运之线，听我指令",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011400654926.mp3"
+        },
+        {
+            "text": "观群星",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011400834919.mp3"
+        },
+        {
+            "text": "洞察无穷",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011401193806.mp3"
+        },
+        {
+            "text": "击破宿命枷锁",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011401366150.mp3"
+        },
+        {
+            "text": "舍身一搏",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011401709351.mp3"
+        },
+        {
+            "text": "不坠命运之名",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011401927823.mp3"
+        },
+        {
+            "text": "别错失先机",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011402087415.mp3"
+        },
+        {
+            "text": "命运如线，皆在掌中",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011402599509.mp3"
+        },
+        {
+            "text": "开始收拾残局",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011402762358.mp3"
+        },
+        {
+            "text": "跨过生死边缘",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011402959732.mp3"
+        },
+        {
+            "text": "无限遨游",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011403168429.mp3"
+        },
+        {
+            "text": "瞭望未来",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011403335128.mp3"
+        },
+        {
+            "text": "置身命运洪流",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011403524246.mp3"
+        },
+        {
+            "text": "行无穷命途",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011404226112.mp3"
+        },
+        {
+            "text": "见万千命运",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011404521841.mp3"
+        },
+        {
+            "text": "超越终焉，尘世回转",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011404765989.mp3"
+        },
+        {
+            "text": "终局亦可逆转",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011404958312.mp3"
+        },
+        {
+            "text": "将既定颠覆",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011405385355.mp3"
+        },
+        {
+            "text": "现在，让我们绝地反击",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011405604601.mp3"
+        },
+        {
+            "text": "此际，力挽狂澜",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011405791787.mp3"
+        },
+        {
+            "text": "命运转动",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011406148721.mp3"
+        },
+        {
+            "text": "宿命回响，万物凝滞",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011406488284.mp3"
+        },
+        {
+            "text": "命运重奏，未来由我执掌。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011406727216.mp3"
+        },
+        {
+            "text": "我是，命运之引",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011406932825.mp3"
+        },
+        {
+            "text": "拦在面前的就算是神明，也让祂低头",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011408234359.mp3"
+        },
+        {
+            "text": "命运家族，不会消亡",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011408504488.mp3"
+        },
+        {
+            "text": "预言已经打破，新的未来正在开启",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011408742018.mp3"
+        },
+        {
+            "text": "有的胜利靠刀刃，有的靠脑子",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011408984717.mp3"
+        },
+        {
+            "text": "无尽的欲望，会燃尽一切",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011409208195.mp3"
+        },
+        {
+            "text": "比起曾经的辉煌，我们已十不存一",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011409471377.mp3"
+        },
+        {
+            "text": "光辉的咒刃，真是和阿尔卡纳相称的东西",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011409781296.mp3"
+        },
+        {
+            "text": "凝视命运的眼睛，踏出自己的路",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011410666005.mp3"
+        },
+        {
+            "text": "过去与未来，皆被命运交缠",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011411034606.mp3"
+        },
+        {
+            "text": "掷地，要有声",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011411324472.mp3"
+        },
+        {
+            "text": "不会再失手了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011411543194.mp3"
+        },
+        {
+            "text": "利刃常用，才不生锈",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011411736175.mp3"
+        },
+        {
+            "text": "命运轮转，终有所终",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011411962047.mp3"
+        },
+        {
+            "text": "这日落的景象，就像家族破落的那日……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011412176195.mp3"
+        },
+        {
+            "text": "谁又知道这平静的海面下，藏着多少波涛……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011412325912.mp3"
+        },
+        {
+            "text": "命运不是枷锁，而是启示",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011412603401.mp3"
+        },
+        {
+            "text": "聆听命运的启示，逆流而上",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011412857738.mp3"
+        },
+        {
+            "text": "低谷，让人学会甄别人心",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011413318125.mp3"
+        },
+        {
+            "text": "我亦经历过绝望，但那又如何。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011413533885.mp3"
+        },
+        {
+            "text": "从无既定的命运，只有不屈的反击。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011413763154.mp3"
+        },
+        {
+            "text": "决定我们的不是过去，而是赋予过去的意义。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011413954192.mp3"
+        },
+        {
+            "text": "我没印象。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011420331395.mp3"
+        },
+        {
+            "text": "我不认识这么爱惹麻烦的家伙",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011420443767.mp3"
+        },
+        {
+            "text": "不要这么轻易相信陌生人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011420587050.mp3"
+        },
+        {
+            "text": "这里不像海都，一个人很危险。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011420719367.mp3"
+        },
+        {
+            "text": "冷清一些，也挺好。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011420844512.mp3"
+        },
+        {
+            "text": "真正重要的东西，就算遗忘，也会重逢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011420997262.mp3"
+        },
+        {
+            "text": "总感觉有些……不，我没见过。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011421268157.mp3"
+        },
+        {
+            "text": "无妨，我不讨厌海里的生物。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011421382402.mp3"
+        },
+        {
+            "text": "我收下了，希望听到的，不是你又被猫追的声音。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011421508309.mp3"
+        },
+        {
+            "text": "想去就去，命运家族有最好的观景位。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011421614440.mp3"
+        },
+        {
+            "text": "从没见过人鱼族用双腿游泳。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011421753508.mp3"
+        },
+        {
+            "text": "很难相信你说的华丽。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011423836219.mp3"
+        },
+        {
+            "text": "无聊之人，真是不少。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011424041432.mp3"
+        },
+        {
+            "text": "想听歌的话，可以去弗伦歌剧院，那里的旋律不错。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011424419505.mp3"
+        },
+        {
+            "text": "在海底的时候，谢谢你救了我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011424714379.mp3"
+        },
+        {
+            "text": "还没落脚之地？命运家族可以让你暂住，但是打坏了东西……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011424989631.mp3"
+        },
+        {
+            "text": "赶紧行动吧，不如把聪明，用在其他地方。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011425853675.mp3"
+        },
+        {
+            "text": "好心提醒你，那家的主人，喜欢养猫。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011426482482.mp3"
+        },
+        {
+            "text": "利刃常有，纯善难得。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011426902400.mp3"
+        },
+        {
+            "text": "沉迷过往，只会遮掩真正的未来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011427157109.mp3"
+        },
+        {
+            "text": "明白自己是谁，才更重要。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011427759596.mp3"
+        },
+        {
+            "text": "命运家族无意争势，只想履行自己的责任。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011428247646.mp3"
+        },
+        {
+            "text": "无须哀告命运的不幸，我们不求怜悯，依靠自己。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011428442514.mp3"
+        },
+        {
+            "text": "每个阿尔卡纳都各怀心思，执政官大人想要的，又是什么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011428901253.mp3"
+        },
+        {
+            "text": "阿尔卡纳早已千疮百孔，月亮如何置身事外。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011429257968.mp3"
+        },
+        {
+            "text": "与其空望过去，不如挥刃而行。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011430816937.mp3"
+        },
+        {
+            "text": "这正是大家喜欢海都的原因。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011431025316.mp3"
+        },
+        {
+            "text": "不过是些稚子之言。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011431217514.mp3"
+        },
+        {
+            "text": "去做你想做的事吧，世界，本就不该困身孤岛。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011431454371.mp3"
+        },
+        {
+            "text": "哼，世界家的笨蛋。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011431829675.mp3"
+        },
+        {
+            "text": "神俯视世间，但人类，已不想再仰视了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011432081919.mp3"
+        },
+        {
+            "text": "神明的时代，早已结束，现在，由人来引领",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011432304983.mp3"
+        },
+        {
+            "text": "腥风血雨人们记得，美好过往，早已无人讴歌。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011432544410.mp3"
+        },
+        {
+            "text": "星辰酒馆的歌声，久已未闻。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011432774153.mp3"
+        },
+        {
+            "text": "知道真相之人，也必将承当这背后的责任",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011433039263.mp3"
+        },
+        {
+            "text": "不论是谁，我都祝愿他成功。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011433282853.mp3"
+        },
+        {
+            "text": "透过伪饰，也能看到另一种事实。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011433503320.mp3"
+        },
+        {
+            "text": "隐者从不彰显，除了他们自己，没人说得清。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011433758366.mp3"
+        },
+        {
+            "text": "无谓的闲言碎语，随它去吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011433983187.mp3"
+        }
+    ]
+}

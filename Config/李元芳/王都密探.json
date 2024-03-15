@@ -1,0 +1,119 @@
+{
+    "name": "王都密探",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230309/16783537859298.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230309/16783537893529.jpg",
+    "voice_clips": [
+        {
+            "text": "秘密的密，探案的探！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499308138503.mp3"
+        },
+        {
+            "text": "做坏蛋，要有结局会悲剧的觉悟。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499308254720.mp3"
+        },
+        {
+            "text": "狄大人，下月的工资评定，请对我温柔点！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499308388769.mp3"
+        },
+        {
+            "text": "暗夜才是密探的主场",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496622703826.wav"
+        },
+        {
+            "text": "在看你，一直在看着你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496622911137.wav"
+        },
+        {
+            "text": "你有权保持沉默，但所说的都将成为呈堂证供！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496623047162.wav"
+        },
+        {
+            "text": "给予破坏者正确的绝望",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496623162316.wav"
+        },
+        {
+            "text": "哎~小本本上八卦羞哒哒……人生太复杂。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496623301714.wav"
+        },
+        {
+            "text": "暂时潜伏",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496623496023.wav"
+        },
+        {
+            "text": "飞刀，又见飞刀！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496623686615.wav"
+        },
+        {
+            "text": "刀刀致命！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496623818305.wav"
+        },
+        {
+            "text": "小李飞刀，例不虚发",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496623949557.wav"
+        },
+        {
+            "text": "证据搜查！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496624062933.wav"
+        },
+        {
+            "text": "反抗，就爆你的料！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496624184363.wav"
+        },
+        {
+            "text": "想逃不等于能逃",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496624337558.wav"
+        },
+        {
+            "text": "路过，顺手咯~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496624553946.wav"
+        },
+        {
+            "text": "略略略~叫我狗仔队的下场",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496624713292.wav"
+        },
+        {
+            "text": "狄大人，我只是秉公处理不要扣我工资",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496624987262.mp3"
+        },
+        {
+            "text": "小本本上，也有狄大人的小秘密哦",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496625462698.mp3"
+        },
+        {
+            "text": "狄大人，就算在河道，我也不会摸鱼的哦",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496625653126.mp3"
+        },
+        {
+            "text": "狄大人，今天一起加班吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496625827128.mp3"
+        },
+        {
+            "text": "英雄，就是守护自己能够守护的人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496625991838.mp3"
+        },
+        {
+            "text": "这个月的工资评定又完了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220427/16510537852564.mp3"
+        },
+        {
+            "text": "这句话应该是我说吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220427/16510538025218.mp3"
+        },
+        {
+            "text": "小本本上没有姓名的男人……让我想办法挖点料！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511355753070.mp3"
+        },
+        {
+            "text": "早就说了，包打听就找我~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511356046865.mp3"
+        },
+        {
+            "text": "好好的院门不走，你俩为何总是翻墙。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221129/16697154593802.mp3"
+        },
+        {
+            "text": "哎，以后少了个免费打手。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221129/16697154803628.mp3"
+        }
+    ]
+}

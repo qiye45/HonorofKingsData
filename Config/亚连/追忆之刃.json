@@ -1,0 +1,307 @@
+{
+    "name": "追忆之刃",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230620/16872547466889.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230620/16872547508917.jpg",
+    "voice_clips": [
+        {
+            "text": "需要我解决什么？什么都可以。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871641555282.mp3"
+        },
+        {
+            "text": "做守护的剑鞘，不做夺命的锋刀。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871641804377.mp3"
+        },
+        {
+            "text": "双剑，出鞘！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871641931172.mp3"
+        },
+        {
+            "text": "我的名字，大概是叫亚连吧……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871567941489.mp3"
+        },
+        {
+            "text": "努力完成任务才能有钱赚，有钱赚了，才能吃饱饭。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871568125785.mp3"
+        },
+        {
+            "text": "佣兵协会说我适合钱少事多的顾客。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871568291647.mp3"
+        },
+        {
+            "text": "交给我吧！这次绝不搞砸。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871568464235.mp3"
+        },
+        {
+            "text": "鸽子把我当同伴了，大概是因为我的肚子总是咕咕叫。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871568645705.mp3"
+        },
+        {
+            "text": "我是来抓你的，请不要乱跑。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871568826247.mp3"
+        },
+        {
+            "text": "收手吧，你会受伤的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871569028161.mp3"
+        },
+        {
+            "text": "桥洞通风，船坞挡雨，猎风湾还有很多住宿免费的好地方。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871569205483.mp3"
+        },
+        {
+            "text": "我的记忆有限，不想给仇恨留有空间。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871569454377.mp3"
+        },
+        {
+            "text": "我没有很饿，只是有点，不太饱。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871569677111.mp3"
+        },
+        {
+            "text": "不要没收定金，可以吗……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871569831839.mp3"
+        },
+        {
+            "text": "谨记，任务失败就没有尾款……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871569994256.mp3"
+        },
+        {
+            "text": "请认真一点。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871570487803.mp3"
+        },
+        {
+            "text": "抱歉。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871570716010.mp3"
+        },
+        {
+            "text": "继续。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871570893139.mp3"
+        },
+        {
+            "text": "剑还在，我就不会输。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871571088728.mp3"
+        },
+        {
+            "text": "打扰了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871571261466.mp3"
+        },
+        {
+            "text": "收工。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871571435204.mp3"
+        },
+        {
+            "text": "总算没有搞砸。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230620/16872541242125.mp3"
+        },
+        {
+            "text": "事情总是很多，钱却给的很少。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230620/16872541535955.mp3"
+        },
+        {
+            "text": "虽然你很强，但赢的人只会是我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871572289716.mp3"
+        },
+        {
+            "text": "要不然，你先出招吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871572461552.mp3"
+        },
+        {
+            "text": "疾风！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871572866700.mp3"
+        },
+        {
+            "text": "残影！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871573063456.mp3"
+        },
+        {
+            "text": "日轮！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871573244977.mp3"
+        },
+        {
+            "text": "流星！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871642084541.mp3"
+        },
+        {
+            "text": "流星斩！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871642204127.mp3"
+        },
+        {
+            "text": "找到你了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871573887153.mp3"
+        },
+        {
+            "text": "为什么要逃？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871574061303.mp3"
+        },
+        {
+            "text": "快结束了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871574236381.mp3"
+        },
+        {
+            "text": "进击！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871574462675.mp3"
+        },
+        {
+            "text": "停下！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871574648751.mp3"
+        },
+        {
+            "text": "双剑",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871575043937.mp3"
+        },
+        {
+            "text": "出鞘！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871575299047.mp3"
+        },
+        {
+            "text": "执剑在手",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871575487912.mp3"
+        },
+        {
+            "text": "一往无前！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871575662745.mp3"
+        },
+        {
+            "text": "觉悟吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871575845855.mp3"
+        },
+        {
+            "text": "落日斩！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871576039201.mp3"
+        },
+        {
+            "text": "起",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871576212022.mp3"
+        },
+        {
+            "text": "灭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871576395774.mp3"
+        },
+        {
+            "text": "别害怕，是我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871576564123.mp3"
+        },
+        {
+            "text": "嗯，认真起来了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871577044665.mp3"
+        },
+        {
+            "text": "这次一定能完成任务，嗯，大概。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871577494002.mp3"
+        },
+        {
+            "text": "距离攒够钱买回家的船票，还差233个A级任务。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871577951620.mp3"
+        },
+        {
+            "text": "太阳真好，值得庆祝一下。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871578203689.mp3"
+        },
+        {
+            "text": "今天的晚饭是……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871584471944.mp3"
+        },
+        {
+            "text": "该撤了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871584658273.mp3"
+        },
+        {
+            "text": "曾经……好像有过这样的感受……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871584844874.mp3"
+        },
+        {
+            "text": "亚连，你要争气。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871642403320.mp3"
+        },
+        {
+            "text": "怎么长得比赤影还可怕……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871585281162.mp3"
+        },
+        {
+            "text": "请一定要对得起这个价格。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871585557956.mp3"
+        },
+        {
+            "text": "哈！四刀流！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871589927858.mp3"
+        },
+        {
+            "text": "当心，别离我太近了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871590129373.mp3"
+        },
+        {
+            "text": "这就叫花钱保命吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871590297673.mp3"
+        },
+        {
+            "text": "你最近是不是吃胖了？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871590655779.mp3"
+        },
+        {
+            "text": "你那么瘦，多吃点吧，小红……鹰……鸡……鸟？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871593454065.mp3"
+        },
+        {
+            "text": "请别害怕，我大概是一个好人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871593675072.mp3"
+        },
+        {
+            "text": "好脆弱的生物，剑一碰，就倒下了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871593859299.mp3"
+        },
+        {
+            "text": "好，好多钱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871594042279.mp3"
+        },
+        {
+            "text": "多谢款待！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871594298598.mp3"
+        },
+        {
+            "text": "狂铁前辈，你是怎么成为第一佣兵的呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871595334754.mp3"
+        },
+        {
+            "text": "还是不要了吧，您没有第二条胳膊可以失去了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871595912018.mp3"
+        },
+        {
+            "text": "原来如此，所以你真的是小满的大伯吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871597599718.mp3"
+        },
+        {
+            "text": "船长，炮弹很贵的，狂铁前辈攒钱不容易。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871598855096.mp3"
+        },
+        {
+            "text": "我还没练熟你上次教的切瓜终极技。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871642555657.mp3"
+        },
+        {
+            "text": "执政官大人，初次见面，我的名字是",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871599532713.mp3"
+        },
+        {
+            "text": "热热的很好喝，谢谢你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871600096019.mp3"
+        },
+        {
+            "text": "在海都，有人给我讲了一个幽灵的故事。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871600321190.mp3"
+        },
+        {
+            "text": "你的头发……和我见过的一个人很像。她总是喜欢看着天上的月亮。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871600527027.mp3"
+        },
+        {
+            "text": "为什么会选择我呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011437563812.mp3"
+        },
+        {
+            "text": "过去的记忆真的存在吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011437773880.mp3"
+        },
+        {
+            "text": "我的故乡还会有人记得我吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011437966601.mp3"
+        }
+    ]
+}

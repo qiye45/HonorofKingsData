@@ -1,0 +1,87 @@
+{
+    "name": "功夫炙烤",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240307/17098039052507.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240307/17098039073629.jpg",
+    "voice_clips": [
+        {
+            "text": "肘子、羊肉、鸡翅、肋排……深夜灵魂所在！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240307/17098042448796.mp3"
+        },
+        {
+            "text": "最简单的食材，最极致的享受。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240307/17098042728968.mp3"
+        },
+        {
+            "text": "烹饪无巅峰，厨道无止境！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240307/17098043103640.mp3"
+        },
+        {
+            "text": "松茸鲍翅固然鲜美，但鸡鸭猪牛才是百姓认可的经典主角。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097193757837.mp3"
+        },
+        {
+            "text": "打动舌尖的美食，往往从无数次失败中诞生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097194138333.mp3"
+        },
+        {
+            "text": "炉火炙出人间鲜味，光盘成就厨师幸福。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097194496096.mp3"
+        },
+        {
+            "text": "当年所差的那几分烟火气，原来是这一日三餐，千家万户。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097194826726.mp3"
+        },
+        {
+            "text": "滋味最美妙的调味品，无非一颗百分百的匠心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097195087678.mp3"
+        },
+        {
+            "text": "世、世上竟有如此美味……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097195312050.mp3"
+        },
+        {
+            "text": "抱歉，佐料不小心放多了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097195592813.mp3"
+        },
+        {
+            "text": "不懂得吃的人，又怎么懂得生活？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097195812710.mp3"
+        },
+        {
+            "text": "上菜了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097196411491.mp3"
+        },
+        {
+            "text": "新鲜出炉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097196984985.mp3"
+        },
+        {
+            "text": "翻个面！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097197212304.mp3"
+        },
+        {
+            "text": "烟熏火烤！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097196623572.mp3"
+        },
+        {
+            "text": "轻油慢酱，猛火烹煎！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097197432206.mp3"
+        },
+        {
+            "text": "请好好享用！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097197649903.mp3"
+        },
+        {
+            "text": "那些毛头小子不会明白，年纪就是最好的招牌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097197888163.mp3"
+        },
+        {
+            "text": "这块披萨香酥适口、鲜浓拉丝，你的手艺不错。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097198157399.mp3"
+        },
+        {
+            "text": "厨神大赛上曾略输一筹，今天就以这道秘制烧烤前来请教！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240306/17097198383378.mp3"
+        }
+    ]
+}

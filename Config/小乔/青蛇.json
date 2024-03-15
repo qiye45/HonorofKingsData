@@ -1,0 +1,79 @@
+{
+    "name": "青蛇",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240108/17047057636098.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240108/17047057669004.jpg",
+    "voice_clips": [
+        {
+            "text": "西子湖畔，再续前缘",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499908783837.mp3"
+        },
+        {
+            "text": "因缘而起，因念而生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499908889298.mp3"
+        },
+        {
+            "text": "人间百转，爱你如初~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499908977443.mp3"
+        },
+        {
+            "text": "来吧，了却生生世世的羁绊",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497463684199.wav"
+        },
+        {
+            "text": "爱他，就要一直缠着他、绕着他！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497463822770.mp3"
+        },
+        {
+            "text": "问世间情为何物，不过一物降一物。（部分选自元好问《摸鱼儿·雁丘词》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497463971359.mp3"
+        },
+        {
+            "text": "喜欢一个人，才不要只藏心里！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497464124118.wav"
+        },
+        {
+            "text": "姐姐说，时刻要把尾巴藏好~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497464318523.wav"
+        },
+        {
+            "text": "天大地大，姐妹最大！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497464443423.wav"
+        },
+        {
+            "text": "修炼还不够……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497464601888.wav"
+        },
+        {
+            "text": "吓你一跳~！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497464839388.wav"
+        },
+        {
+            "text": "小心，地上有蛇~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497465119102.wav"
+        },
+        {
+            "text": "雨打荷叶喽~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497465235785.wav"
+        },
+        {
+            "text": "淋雨太多，脑袋会进水噢~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497465356683.wav"
+        },
+        {
+            "text": "你，不懂爱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497465594830.wav"
+        },
+        {
+            "text": "你和胜利，属于有缘无份~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497465728832.wav"
+        },
+        {
+            "text": "起~飞~咯~~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497465866574.wav"
+        },
+        {
+            "text": "只要小青在，就不许别人欺负姐姐！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497466017346.wav"
+        }
+    ]
+}

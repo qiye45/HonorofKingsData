@@ -1,0 +1,59 @@
+{
+    "name": "永曜之星",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498362521147.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240116/17053755103656.jpg",
+    "voice_clips": [
+        {
+            "text": "今夕复何夕，共此明月光。（改编自杜甫《赠卫八处士》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497563196392.mp3"
+        },
+        {
+            "text": "收服一切洪水猛兽！外面的，和心里的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497563427496.mp3"
+        },
+        {
+            "text": "小心点，我的武器长了眼",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497563599397.mp3"
+        },
+        {
+            "text": "与其绝望死去，不如纵情燃烧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497563829665.wav"
+        },
+        {
+            "text": "在活着面前，你的事儿根本就不算事儿",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497563969870.wav"
+        },
+        {
+            "text": "人间是我的，也是你的，但终究是大家的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497564151310.mp3"
+        },
+        {
+            "text": "赢要有气势，输要有气质。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497564343559.wav"
+        },
+        {
+            "text": "你和那个一板一眼的弓箭手一样无聊",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497564473083.wav"
+        },
+        {
+            "text": "何日人间重逢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497564643990.wav"
+        },
+        {
+            "text": "你已经暴露无遗",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497564823233.wav"
+        },
+        {
+            "text": "让人欲罢不能的胜利",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497564971346.wav"
+        },
+        {
+            "text": "又一次意料之中的胜利。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497565185673.wav"
+        },
+        {
+            "text": "你的愚蠢才是这人间最大的祸害",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497565311988.wav"
+        }
+    ]
+}

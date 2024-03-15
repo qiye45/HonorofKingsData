@@ -1,0 +1,55 @@
+{
+    "name": "超时空战士",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502895091741.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502895028664.jpg",
+    "voice_clips": [
+        {
+            "text": "跨时空追捕，出动！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496554449727.wav"
+        },
+        {
+            "text": "这是来自时空管理局的通缉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496554561180.wav"
+        },
+        {
+            "text": "代码什么的，也很擅长！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496554693023.wav"
+        },
+        {
+            "text": "终极大招，断掉对面的WIFI！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496554847991.wav"
+        },
+        {
+            "text": "罪犯们，你们已经被时代抛弃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496554971670.wav"
+        },
+        {
+            "text": "前方，高能预警！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496555134564.wav"
+        },
+        {
+            "text": "能量，源自内心的小宇宙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496555267572.wav"
+        },
+        {
+            "text": "对面的破铜烂铁该升级了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496555387654.wav"
+        },
+        {
+            "text": "I WILL BE BACK!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496555527076.wav"
+        },
+        {
+            "text": "轰趴他们！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496555698717.wav"
+        },
+        {
+            "text": "充能，校准，轰击！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496555841178.wav"
+        },
+        {
+            "text": "漏洞百出的BUG，证明你们的犯罪手法和头脑同样业余。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496556281254.wav"
+        }
+    ]
+}

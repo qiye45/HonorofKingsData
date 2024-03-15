@@ -1,0 +1,115 @@
+{
+    "name": "零号·赤焰",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498358987454.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498359014862.jpg",
+    "voice_clips": [
+        {
+            "text": "我为信仰而生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499941513394.mp3"
+        },
+        {
+            "text": "为了即将到来的最终战！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499941727936.mp3"
+        },
+        {
+            "text": "我们要去的地方不需要路。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499941617219.mp3"
+        },
+        {
+            "text": "永远走在最前线。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497478565395.wav"
+        },
+        {
+            "text": "现实利益远超他们对彼此的恨。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497478736282.mp3"
+        },
+        {
+            "text": "最先进的机甲手术，也无法根除好战基因。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497478918911.mp3"
+        },
+        {
+            "text": "向前所未见的明天疾驶！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497479087113.wav"
+        },
+        {
+            "text": "我们属于比我们自身更伟大的东西。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497479224685.wav"
+        },
+        {
+            "text": "机械生命的未来，决不是战争游戏！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497479456872.mp3"
+        },
+        {
+            "text": "看好，这才是真正的机械舞。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497479942516.mp3"
+        },
+        {
+            "text": "我不对劲，机甲生命不应该被恐惧支配。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497480187200.mp3"
+        },
+        {
+            "text": "可笑，你竟然想让我摆出悲伤姿态，我可是最强机甲。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497480385867.mp3"
+        },
+        {
+            "text": "机械声音或许不能表达我的愤怒，但攻击可以。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497480606407.mp3"
+        },
+        {
+            "text": "警告，处理器过热，兴奋度即将到达阈值。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497480859815.mp3"
+        },
+        {
+            "text": "对一个碳基生物来说，你表现得不错。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497481091042.mp3"
+        },
+        {
+            "text": "我以为一抬手，就能摸得到天。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497481289903.mp3"
+        },
+        {
+            "text": "零号赤焰，拒绝了你的请求。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497481453684.wav"
+        },
+        {
+            "text": "正在扫描目标战斗力，扫描结果：5",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497481637205.mp3"
+        },
+        {
+            "text": "机甲第一准则，不得欺负弱小。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497481814360.mp3"
+        },
+        {
+            "text": "启动，活动活动筋骨。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497482013754.mp3"
+        },
+        {
+            "text": "去所有生命的终点……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497482243260.wav"
+        },
+        {
+            "text": "危机清除。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497482521380.wav"
+        },
+        {
+            "text": "看起来，你的合金大脑出了点问题。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497482683864.wav"
+        },
+        {
+            "text": "无限动能！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497482933825.wav"
+        },
+        {
+            "text": "满功率运行！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497483169973.wav"
+        },
+        {
+            "text": "超聚核心，启动。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497483356264.wav"
+        },
+        {
+            "text": "赤焰雄心！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497483522871.wav"
+        }
+    ]
+}

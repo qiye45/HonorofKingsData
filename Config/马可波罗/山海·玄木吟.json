@@ -1,0 +1,123 @@
+{
+    "name": "山海·玄木吟",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230214/16763653029094.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230214/16763653294159.jpg",
+    "voice_clips": [
+        {
+            "text": "洞天福地，枯木逢春。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765285204423.mp3"
+        },
+        {
+            "text": "汇山海之灵，现往日胜景。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765285472921.mp3"
+        },
+        {
+            "text": "凝瑞气，定山海！（共同台词）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765285717901.mp3"
+        },
+        {
+            "text": "山海有灵，天地共生。（共同台词）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763657023027.mp3"
+        },
+        {
+            "text": "我本远行客，逍遥天地间。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763663514868.mp3"
+        },
+        {
+            "text": "山海风光如卷，怎能只绘一页？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763664159686.mp3"
+        },
+        {
+            "text": "赤华黄实，食之不惑……嗯，记下来了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763664445887.mp3"
+        },
+        {
+            "text": "山海之变，关乎万千。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763664669298.mp3"
+        },
+        {
+            "text": "浪迹天涯的底气？自然是默契绝佳的旅伴。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763665035586.mp3"
+        },
+        {
+            "text": "记诵传奇的旅人，也会成为新的传奇。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763665316079.mp3"
+        },
+        {
+            "text": "灵脉重启后的第一件事嘛……踏上旅途，继续书写我们的故事~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763665568852.mp3"
+        },
+        {
+            "text": "与啸风同行，行至绝处也能逢生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763665843694.mp3"
+        },
+        {
+            "text": "或许……我们真的迷路了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763666637389.mp3"
+        },
+        {
+            "text": "乘兴而来，尽兴而归……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763666921336.mp3"
+        },
+        {
+            "text": "聚木成林！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763677535262.mp3"
+        },
+        {
+            "text": "叶落归秋！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763677792056.mp3"
+        },
+        {
+            "text": "啸风，该上路了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763678749238.mp3"
+        },
+        {
+            "text": "寻踪踏影！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763678973932.mp3"
+        },
+        {
+            "text": "此地别有洞天！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763680044711.mp3"
+        },
+        {
+            "text": "云间长啸，声震大荒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763680314634.mp3"
+        },
+        {
+            "text": "今朝一别，后会无期咯。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763680661452.mp3"
+        },
+        {
+            "text": "总有拦路虎。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763680886674.mp3"
+        },
+        {
+            "text": "井底之物，所见不过方寸天空。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763681126448.mp3"
+        },
+        {
+            "text": "看到那根藤蔓了吗？抓紧它，然后……哟嚯~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763681797592.mp3"
+        },
+        {
+            "text": "喂啸风，来比比脚力，三，二……我先走一步咯！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763682027093.mp3"
+        },
+        {
+            "text": "自上次在白民之国崩了两颗牙，从此敬而远之。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764552306515.mp3"
+        },
+        {
+            "text": "学到什么程度，我才能听懂啸风在说什么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764552536237.mp3"
+        },
+        {
+            "text": "我听过你的传说，祝融族有史以来最年轻的首领！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764552777368.mp3"
+        },
+        {
+            "text": "注意篇幅！我的游记都快写满了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764552995556.mp3"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "绅士熊猫",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498189401996.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498189167180.jpg",
+    "voice_clips": [
+        {
+            "text": "Everybody dance now！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499936808137.mp3"
+        },
+        {
+            "text": "不来个开场舞吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499937025103.mp3"
+        },
+        {
+            "text": "一杯敬今夜，一杯敬老爹~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499937145837.mp3"
+        },
+        {
+            "text": "熊猫号，要学着不再讨厌人群啊。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497760028053.wav"
+        },
+        {
+            "text": "微笑是种风度。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497760158745.wav"
+        },
+        {
+            "text": "展示一下红和蓝的经典配色~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497760315478.wav"
+        },
+        {
+            "text": "绅士守则第一条，不许提身高！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497760485645.wav"
+        },
+        {
+            "text": "朋友再见……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497760697294.wav"
+        },
+        {
+            "text": "别客气，捧场是基本礼仪~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497760998800.wav"
+        },
+        {
+            "text": "party time！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497761134016.wav"
+        },
+        {
+            "text": "恶作剧有时也会失控！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497761272733.wav"
+        },
+        {
+            "text": "少爷我从不给老爹拆台~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497761423562.wav"
+        },
+        {
+            "text": "选一种你喜欢的方式退场吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497761675187.wav"
+        },
+        {
+            "text": "少爷我需要认识你吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497761836507.wav"
+        }
+    ]
+}

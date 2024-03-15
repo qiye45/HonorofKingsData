@@ -1,0 +1,63 @@
+{
+    "name": "蜜橘之夏",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16500064171416.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498393679907.jpg",
+    "voice_clips": [
+        {
+            "text": "闻到夏天的味道了吗~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496656565808.wav"
+        },
+        {
+            "text": "海滩和冰淇淋最配了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496656727163.wav"
+        },
+        {
+            "text": "无忧无虑~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496656848894.wav"
+        },
+        {
+            "text": "我的心，有半个橘子那么甜~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496656973922.wav"
+        },
+        {
+            "text": "在沙滩上画了只猫~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496657096517.wav"
+        },
+        {
+            "text": "这个地方，有人叫它月亮升起之王国~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496657285273.mp3"
+        },
+        {
+            "text": "可以永远不长大吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496657452037.wav"
+        },
+        {
+            "text": "比海更深，比天更蓝，我不会比现在更自由~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496657684734.mp3"
+        },
+        {
+            "text": "啊……想睡会儿……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496657839321.wav"
+        },
+        {
+            "text": "来和我躲猫猫吧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496658005463.wav"
+        },
+        {
+            "text": "火气太大？清凉一下！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496658131847.wav"
+        },
+        {
+            "text": "放空自己~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496658282487.wav"
+        },
+        {
+            "text": "游戏结束咯~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496658467519.wav"
+        },
+        {
+            "text": "舍得打我吗？我也还是个孩子呢~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496658607241.wav"
+        }
+    ]
+}

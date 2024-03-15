@@ -1,0 +1,115 @@
+{
+    "name": "月光之女",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499953005863.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498346804454.jpg",
+    "voice_clips": [
+        {
+            "text": "替月行道",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231201/17014019361826.mp3"
+        },
+        {
+            "text": "今天是对面的坏日子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494894561361.wav"
+        },
+        {
+            "text": "见过我家那只可爱的宠物吗？它的名字叫大白",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494894807155.wav"
+        },
+        {
+            "text": "意识很犀利嘛，可惜比不过我的剑刃。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494895063470.wav"
+        },
+        {
+            "text": "月光映照着我的生命，以及你的死期。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231201/17014019932693.mp3"
+        },
+        {
+            "text": "燃烧的剑，燃烧的心！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494895604837.wav"
+        },
+        {
+            "text": "别在来不及的时候后悔。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494895839604.wav"
+        },
+        {
+            "text": "曾经与我的兄长较量过吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494896068366.wav"
+        },
+        {
+            "text": "黎明，新生……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494896511950.wav"
+        },
+        {
+            "text": "剑随心动！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494897156474.wav"
+        },
+        {
+            "text": "透骨的光辉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494897378238.wav"
+        },
+        {
+            "text": "月光啊，闪爆他们！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231201/17014020737023.mp3"
+        },
+        {
+            "text": "降临，凌冽寒月",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231201/17014020408142.mp3"
+        },
+        {
+            "text": "一点挑战都没有",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494898378104.wav"
+        },
+        {
+            "text": "剑，是用来挑战强者的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494898627754.wav"
+        },
+        {
+            "text": "魔铠让你失去记忆的吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511340102442.mp3"
+        },
+        {
+            "text": "半点值得回忆的也没有吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511340273624.mp3"
+        },
+        {
+            "text": "你超越了魔道",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511340444737.mp3"
+        },
+        {
+            "text": "也让我拥有勇气去超越你",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511340675223.mp3"
+        },
+        {
+            "text": "足够强大到可以挑战你，哥哥，并带你回家。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511340854267.mp3"
+        },
+        {
+            "text": "抱歉，我的猫平时不会这样，突然跳到别人肩上。难道大白认识你？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722968945942.wav"
+        },
+        {
+            "text": "谢谢你送大白回家，火鹰船长。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722969181964.wav"
+        },
+        {
+            "text": "我本以为那艘传说中的“幽灵船”上，会有哥哥的消息。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722969389643.wav"
+        },
+        {
+            "text": "月光映照着大海，也映照着归家的路途。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722969598517.wav"
+        },
+        {
+            "text": "失忆的流浪者，你在寻找自己的家吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871609175833.mp3"
+        },
+        {
+            "text": "漂泊的旅者总是需要一杯热茶。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871609335713.mp3"
+        },
+        {
+            "text": "只要剑锋在，月亮，自会高悬不落。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011439548895.mp3"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "name": "飞衡",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498394819914.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498394834689.jpg",
+    "voice_clips": [
+        {
+            "text": "撼天地，镇乾坤！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500029153834.wav"
+        },
+        {
+            "text": "衡山如飞，俯临万物！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499892201606.mp3"
+        },
+        {
+            "text": "如月之恒，如日之升！（选自《天保》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499892382388.mp3"
+        },
+        {
+            "text": "天塌了，我顶着！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493858387604.wav"
+        },
+        {
+            "text": "我可以失败，但绝不会认输",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493858515320.wav"
+        },
+        {
+            "text": "善守者，藏于九地之下；善攻者，动于九天之上",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493858678075.wav"
+        },
+        {
+            "text": "五岳独尊的感觉，谁不想尝尝啊？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493858826794.wav"
+        },
+        {
+            "text": "乘天地之正，御六气之辨。（改编自庄周《逍遥游·北冥有鱼》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493858961035.wav"
+        },
+        {
+            "text": "再没有反败为胜的机会了吗……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493859158737.wav"
+        },
+        {
+            "text": "观云知变，乘风而动",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493859351085.wav"
+        },
+        {
+            "text": "以正合，以奇胜！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493859562859.wav"
+        },
+        {
+            "text": "命由己造！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493859695289.wav"
+        },
+        {
+            "text": "苍天亦可刺破！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493859843282.wav"
+        },
+        {
+            "text": "君子报仇，十年不晚~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493860119025.wav"
+        },
+        {
+            "text": "天有不测风云，你有祸福旦夕~（改编自《寒窑赋》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493860281500.wav"
+        },
+        {
+            "text": "划星野，破紫冥！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493860493114.wav"
+        },
+        {
+            "text": "既然你的歌声已经响起，那我就开始表演了~！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493860837926.wav"
+        },
+        {
+            "text": "不要总是一副天下第一的自大模样",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493861039239.wav"
+        },
+        {
+            "text": "我们无路可退，因为身后就是故乡",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493861175294.wav"
+        },
+        {
+            "text": "看在曾经并肩战斗的份上，鲲，暂且寄存在你那",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511308979884.mp3"
+        }
+    ]
+}

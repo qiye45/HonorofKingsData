@@ -1,0 +1,63 @@
+{
+    "name": "苍穹之光",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498341185639.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498341205795.jpg",
+    "voice_clips": [
+        {
+            "text": "圣哉，万众之王。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498494329765.mp3"
+        },
+        {
+            "text": "至高的造物",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498494444636.mp3"
+        },
+        {
+            "text": "信仰与光明同长。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498494563896.mp3"
+        },
+        {
+            "text": "预言会对灾难做出判断。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493282387912.wav"
+        },
+        {
+            "text": "时光消亡，灵魂不朽。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493282572285.wav"
+        },
+        {
+            "text": "此处是我唯独钟爱的世界。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493282753943.wav"
+        },
+        {
+            "text": "爱就是生命。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493283003351.wav"
+        },
+        {
+            "text": "你是魔鬼吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493283233534.wav"
+        },
+        {
+            "text": "碎裂苍穹！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493283592013.wav"
+        },
+        {
+            "text": "敬畏光明！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493284036053.wav"
+        },
+        {
+            "text": "扭转命运的走向！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493284291713.wav"
+        },
+        {
+            "text": "审判将至！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493284513622.wav"
+        },
+        {
+            "text": "不知悔改的后果！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493284868873.wav"
+        },
+        {
+            "text": "死亡是你唯一的救赎。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493285123590.wav"
+        }
+    ]
+}

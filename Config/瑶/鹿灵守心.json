@@ -1,0 +1,119 @@
+{
+    "name": "鹿灵守心",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499894635802.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498363502702.jpg",
+    "voice_clips": [
+        {
+            "text": "啊~过去生于未来~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494188774817.wav"
+        },
+        {
+            "text": "羁绊无影无踪，藤蔓一斩就断。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494188925222.wav"
+        },
+        {
+            "text": "神在白天做梦~太阳从西边升起~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494189068758.wav"
+        },
+        {
+            "text": "什么小鹿女呀，一定是世界上最不可爱的孩子吧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494189842957.wav"
+        },
+        {
+            "text": "我已经洗过脸了~真的~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494190019261.wav"
+        },
+        {
+            "text": "要把梦藏在树叶里，不然梦会坏。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494190138819.wav"
+        },
+        {
+            "text": "云梦泽没有东边和西边。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494190257388.wav"
+        },
+        {
+            "text": "有的神住在天上，有的神住在蘑菇里。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494190384035.wav"
+        },
+        {
+            "text": "别难过，我只是睡一觉。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494191035631.wav"
+        },
+        {
+            "text": "看，空气！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494191572472.wav"
+        },
+        {
+            "text": "不是我真的不是我~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494191712420.wav"
+        },
+        {
+            "text": "你为什么粘着我呀~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494191845366.wav"
+        },
+        {
+            "text": "别赖着人家好嘛~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494191982343.wav"
+        },
+        {
+            "text": "狼来啦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494192122020.wav"
+        },
+        {
+            "text": "这是谁的小鹿，真厉害！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494192266376.wav"
+        },
+        {
+            "text": "阿瑶为你痛哭~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494192671274.wav"
+        },
+        {
+            "text": "我们从玄微森林出来的人，一天要吃掉半个大陆呢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494193455571.wav"
+        },
+        {
+            "text": "阿瑶也想成为像老师一样高大的人！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494193768860.wav"
+        },
+        {
+            "text": "你好，小蛇。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500157666132.wav"
+        },
+        {
+            "text": "云中神君呀，他什么都看得见！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041778273246.mp3"
+        },
+        {
+            "text": "昨晚我偷了你的翅膀，在天上玩了一圈~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16494193625359.wav"
+        },
+        {
+            "text": "嘘——悄悄地……悄悄吓他一跳……啊",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041778953490.mp3"
+        },
+        {
+            "text": "我和小蛇打赌说你的羽毛是用云做的，赌上了我的诚实呢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041779204895.mp3"
+        },
+        {
+            "text": "狼来啦——云中神君，让我在你这里躲一下！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041779479681.mp3"
+        },
+        {
+            "text": "我可没有怕黑！你……你别怕啊！有我保护你呢！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041779967479.mp3"
+        },
+        {
+            "text": "老师给我讲了一个关于小鸟的故事，你是不是也特别想听？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240102/17041780288143.mp3"
+        },
+        {
+            "text": "我的角是昨天刚装上去的，让我看看你的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065216043680.mp3"
+        },
+        {
+            "text": "我不会生你的气，云中君说，“他～也还是个小孩子呀”。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065216284042.mp3"
+        }
+    ]
+}

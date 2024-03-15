@@ -1,0 +1,63 @@
+{
+    "name": "精英酋长",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498362342707.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498362351248.jpg",
+    "voice_clips": [
+        {
+            "text": "牛气冲天，纯爷们！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497436807316.wav"
+        },
+        {
+            "text": "磨磨斧头。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497436928642.wav"
+        },
+        {
+            "text": "别老拿红布在俺眼前晃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497437058037.wav"
+        },
+        {
+            "text": "很好，你已经成功引起了我的注意！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497437218828.wav"
+        },
+        {
+            "text": "突进的野兽之道！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497437339863.wav"
+        },
+        {
+            "text": "不是山大王，不是山寨大王，尊称俺酋长好伐！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497437465950.wav"
+        },
+        {
+            "text": "牛角上跳舞的滋味如何！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497437593023.wav"
+        },
+        {
+            "text": "你们这帮磨人的小妖精！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497437725026.wav"
+        },
+        {
+            "text": "被宰了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497437868532.wav"
+        },
+        {
+            "text": "冲垮他们！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497438022338.wav"
+        },
+        {
+            "text": "谁敢与我角力！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497438155405.wav"
+        },
+        {
+            "text": "牛大发了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497438275504.wav"
+        },
+        {
+            "text": "惹我的下场！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497438554004.wav"
+        },
+        {
+            "text": "哼哼，我最喜欢对那些自认为能力出众的人出手！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497438692457.wav"
+        }
+    ]
+}

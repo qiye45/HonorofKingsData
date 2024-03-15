@@ -1,0 +1,163 @@
+{
+    "name": "时之奇旅",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231020/16977699916022.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231020/16977699964552.jpg",
+    "voice_clips": [
+        {
+            "text": "见证过往的印记，在召唤我归去。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977841552891.mp3"
+        },
+        {
+            "text": "谢谢、谢谢……谢谢大家的寄语……我们的故事，不会在这里完结。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977842014225.mp3"
+        },
+        {
+            "text": "还有一个人……在等我实现约定……我回来了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977842329080.mp3"
+        },
+        {
+            "text": "打开番外，续写我们未完结的篇章",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977702005359.mp3"
+        },
+        {
+            "text": "要相信，留在心上的墨印，不会被时间抹去",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977702306804.mp3"
+        },
+        {
+            "text": "自由，像鸟儿的羽翼，只在天空下闪耀光芒",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977702588831.mp3"
+        },
+        {
+            "text": "真正的故事，永远比简介更长",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977702836213.mp3"
+        },
+        {
+            "text": "排行榜之外，还有许多名字不曾被遗忘",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977703115556.mp3"
+        },
+        {
+            "text": "放弃吗？这可不是我们的台词",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977703467194.mp3"
+        },
+        {
+            "text": "所有结局，皆是待定",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977703759942.mp3"
+        },
+        {
+            "text": "命运的轨迹，由自己勾勒",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977704003276.mp3"
+        },
+        {
+            "text": "别担心，我只离开一话的时间",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977704768294.mp3"
+        },
+        {
+            "text": "抱歉，你该退场了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977705048811.mp3"
+        },
+        {
+            "text": "没关系，并非人人都是故事的主角",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977705306099.mp3"
+        },
+        {
+            "text": "没有一种牢笼，可以囚困对天空的向往",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977842616497.mp3"
+        },
+        {
+            "text": "扔纸飞机的家伙……果然是你",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977705924447.mp3"
+        },
+        {
+            "text": "回应读者的期盼",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977706685392.mp3"
+        },
+        {
+            "text": "倾听心底的声音",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977706901720.mp3"
+        },
+        {
+            "text": "推出回忆特刊",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977707185022.mp3"
+        },
+        {
+            "text": "旧刊收录",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977707423965.mp3"
+        },
+        {
+            "text": "连载再开",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977707623982.mp3"
+        },
+        {
+            "text": "解锁番外彩蛋",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977707838122.mp3"
+        },
+        {
+            "text": "冲破命定的枷锁",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977708084543.mp3"
+        },
+        {
+            "text": "开始~全新的起点",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977708321556.mp3"
+        },
+        {
+            "text": "结局，绝不是现在",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977708572811.mp3"
+        },
+        {
+            "text": "共迎休刊风波",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977708816909.mp3"
+        },
+        {
+            "text": "跨越世界，再续新篇~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977709449855.mp3"
+        },
+        {
+            "text": "谢谢你，让我听到了读者的声音。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977710615781.mp3"
+        },
+        {
+            "text": "鲁班，阅稿辛苦，给你带了护眼礼物哦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977710879328.mp3"
+        },
+        {
+            "text": "如果……有下次就好了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977711611696.mp3"
+        },
+        {
+            "text": "真可怜…",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977713666885.mp3"
+        },
+        {
+            "text": "有什么冲我来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977711969123.mp3"
+        },
+        {
+            "text": "真羡慕你，自由自在，想做什么就做什么。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977712735973.mp3"
+        },
+        {
+            "text": "老板我买下了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977713967589.mp3"
+        },
+        {
+            "text": "我做过一个梦，梦里有一只小鸟……它的翅膀......好像是天空的颜色",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977714333123.mp3"
+        },
+        {
+            "text": "再见了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977713412138.mp3"
+        },
+        {
+            "text": "糟了......",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977712246805.mp3"
+        },
+        {
+            "text": "对啊，那只鸟最后去了它想去的地方。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977712449705.mp3"
+        },
+        {
+            "text": "谢谢你，我回来了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977713086384.mp3"
+        }
+    ]
+}

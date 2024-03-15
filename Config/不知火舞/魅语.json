@@ -1,0 +1,71 @@
+{
+    "name": "魅语",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16500056875640.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498410159403.jpg",
+    "voice_clips": [
+        {
+            "text": "在哪个月夜……曾相见过吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499313032692.mp3"
+        },
+        {
+            "text": "看着我的眼睛。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499313361463.mp3"
+        },
+        {
+            "text": "来啊~加油",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499313639458.mp3"
+        },
+        {
+            "text": "听到你的心跳了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497350866703.wav"
+        },
+        {
+            "text": "再拒绝的话，就太不解风情咯。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497351039835.wav"
+        },
+        {
+            "text": "传说灵猫会在月夜出没……嘘，她来了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497351263189.wav"
+        },
+        {
+            "text": "分心的下场可是很要命的~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497351484134.wav"
+        },
+        {
+            "text": "失魂之人啊，天地虽大，你又能去哪呀？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497351697919.wav"
+        },
+        {
+            "text": "输点什么？...这可不由你做主。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497351969862.wav"
+        },
+        {
+            "text": "你失礼了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497352143901.wav"
+        },
+        {
+            "text": "九命之猫，亦难逃一死……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497352884965.mp3"
+        },
+        {
+            "text": "龍炎舞！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497353419249.wav"
+        },
+        {
+            "text": "花蝶扇！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497353668933.wav"
+        },
+        {
+            "text": "必殺忍蜂！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497353832581.wav"
+        },
+        {
+            "text": "不知火究極奥義！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497354647050.wav"
+        },
+        {
+            "text": "放马过来",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497355299377.wav"
+        }
+    ]
+}

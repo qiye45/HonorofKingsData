@@ -1,0 +1,55 @@
+{
+    "name": "冰雪之华",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498409888073.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498409921363.jpg",
+    "voice_clips": [
+        {
+            "text": "凛冬已至。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494862069549.wav"
+        },
+        {
+            "text": "故乡的梅花开了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494862792875.wav"
+        },
+        {
+            "text": "心已经融化。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494863009096.wav"
+        },
+        {
+            "text": "白梅落下之日，归去故里之时。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494863231577.wav"
+        },
+        {
+            "text": "身躯已然冰封，灵魂仍旧火热。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494863431267.wav"
+        },
+        {
+            "text": "寒流，无处不在……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494864182769.wav"
+        },
+        {
+            "text": "替你们消消火",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494864427796.wav"
+        },
+        {
+            "text": "美貌是种罪孽。暴雪也无法掩埋。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494864613702.wav"
+        },
+        {
+            "text": "看到了……故乡的春天……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494865011050.wav"
+        },
+        {
+            "text": "绝对零度！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494865322046.wav"
+        },
+        {
+            "text": "寒冰永不腐朽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494865795258.wav"
+        },
+        {
+            "text": "垂涎于我美貌的人，都在冰原下冷静反省。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494866169592.wav"
+        }
+    ]
+}

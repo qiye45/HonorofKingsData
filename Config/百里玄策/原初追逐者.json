@@ -1,0 +1,71 @@
+{
+    "name": "原初追逐者",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498414028636.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498414046449.jpg",
+    "voice_clips": [
+        {
+            "text": "全新的力量！哈哈~我感觉不错！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499942388556.mp3"
+        },
+        {
+            "text": "今天状态极佳！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499942507861.mp3"
+        },
+        {
+            "text": "睁大眼睛~准备迎接全新的我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499942598487.mp3"
+        },
+        {
+            "text": "飞镰说，今天它要打、十、个！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497642452218.wav"
+        },
+        {
+            "text": "现在，轮到我罩着哥哥了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497642574006.wav"
+        },
+        {
+            "text": "武器的颜色不重要，染上你的血才好看。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654065508.wav"
+        },
+        {
+            "text": "打到你了吗？抱歉，我还以为是只野怪。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654252447.wav"
+        },
+        {
+            "text": "最强的猎人，自然要猎取最强的力量！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654404434.wav"
+        },
+        {
+            "text": "行动得比脑子快，才不会错过机会。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654546801.wav"
+        },
+        {
+            "text": "好像有什么东西，消失了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654718363.wav"
+        },
+        {
+            "text": "开启，无敌模式！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654864684.wav"
+        },
+        {
+            "text": "我..控制不住它啦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654997432.wav"
+        },
+        {
+            "text": "见识我的成长吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497656815170.wav"
+        },
+        {
+            "text": "给你十秒钟逃命，最后的两秒用来交代遗言。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497657279912.wav"
+        },
+        {
+            "text": "来~吧，送你回家！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497657453729.wav"
+        },
+        {
+            "text": "让我来保护你吧！这次我会认真听你讲课的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497657603806.wav"
+        }
+    ]
+}

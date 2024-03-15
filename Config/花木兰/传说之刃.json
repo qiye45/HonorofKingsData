@@ -1,0 +1,91 @@
+{
+    "name": "传说之刃",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230309/16783535671017.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230309/16783535713279.jpg",
+    "voice_clips": [
+        {
+            "text": "姐可是传说！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496608319617.wav"
+        },
+        {
+            "text": "谁说女子不如男",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496608582485.wav"
+        },
+        {
+            "text": "姐来展示下高端操作！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496609245940.wav"
+        },
+        {
+            "text": "离家太远会忘记故乡，杀人太多会忘掉自己。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496609458572.wav"
+        },
+        {
+            "text": "逃避解决不了战争，只会解决你自己。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496611016608.wav"
+        },
+        {
+            "text": "想活命吗？紧跟着我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496611324982.wav"
+        },
+        {
+            "text": "抱歉，刚见面就得说再见！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496611578486.wav"
+        },
+        {
+            "text": "永不放弃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496611779886.wav"
+        },
+        {
+            "text": "不会认输！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496612004460.wav"
+        },
+        {
+            "text": "静如影，疾如风！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496612238419.wav"
+        },
+        {
+            "text": "高手的示范！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496615976061.wav"
+        },
+        {
+            "text": "不动如山，迅烈如火！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496616334862.wav"
+        },
+        {
+            "text": "压倒性胜利！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496616581597.wav"
+        },
+        {
+            "text": "干嘛这么想不开，要在脸上贴个输字？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496616837618.wav"
+        },
+        {
+            "text": "回西边做你的贵族少爷吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496617179863.wav"
+        },
+        {
+            "text": "漂亮的双枪，可惜在战争面前一无是处.",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496617391481.wav"
+        },
+        {
+            "text": "不必惋惜，反正失去的东西从未属于你，这次也不会。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496617658495.wav"
+        },
+        {
+            "text": "长城小队三大任务，找到敌人，找到自己，还有，找到钥匙。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496622864067.mp3"
+        },
+        {
+            "text": "打起精神来，现在我们可不是单打独斗了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496623331041.mp3"
+        },
+        {
+            "text": "手中之剑越锋利，越不敢忘却执剑的初心",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511338695386.mp3"
+        },
+        {
+            "text": "为何容忍魔铠",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511339076717.mp3"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "洛神降临",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498394966283.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498394998084.jpg",
+    "voice_clips": [
+        {
+            "text": "真的，会有人选择阿宓吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497738404586.wav"
+        },
+        {
+            "text": "随波逐流的痛苦，你们不懂。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497738656295.wav"
+        },
+        {
+            "text": "人家抒发哀伤时，不要随便破坏氛围好吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497738731930.wav"
+        },
+        {
+            "text": "果然，先爱上的那个人，是输家。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497738954851.wav"
+        },
+        {
+            "text": "明明说好了，要永远在一起……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497739332385.wav"
+        },
+        {
+            "text": "别靠近我！阿宓，不想带来不幸……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497739468146.wav"
+        },
+        {
+            "text": "沦陷在爱情的泡影中。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497739662992.wav"
+        },
+        {
+            "text": "若轻风之蔽月，若流风之回雪。（选自曹植《洛神赋》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497739781946.wav"
+        },
+        {
+            "text": "悲伤...逆流成河...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497739994008.wav"
+        },
+        {
+            "text": "女人，是水做的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497740132743.wav"
+        },
+        {
+            "text": "波涛汹涌",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497740241795.wav"
+        },
+        {
+            "text": "绝望吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497740457951.wav"
+        },
+        {
+            "text": "原来是只旱鸭子……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497740556071.wav"
+        }
+    ]
+}

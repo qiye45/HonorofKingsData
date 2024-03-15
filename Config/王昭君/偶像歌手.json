@@ -1,0 +1,63 @@
+{
+    "name": "偶像歌手",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498495723382.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498495763667.jpg",
+    "voice_clips": [
+        {
+            "text": "羞涩的初次公演，要支持我哟！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494868853640.wav"
+        },
+        {
+            "text": "成为爱豆，因为，想带给大家笑容~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494869079733.wav"
+        },
+        {
+            "text": "夏日阳光，舞台中央，有我才闪亮~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494869273506.wav"
+        },
+        {
+            "text": "努力就会有回报，我，用歌声来证明！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494870132797.wav"
+        },
+        {
+            "text": "早餐~~人生的一半！今天也要元气满满~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494870362391.wav"
+        },
+        {
+            "text": "人家可是很有料的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494870618842.wav"
+        },
+        {
+            "text": "本命是五杀乐队哟~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494870821269.wav"
+        },
+        {
+            "text": "男朋友什么的，哎？不是写歌的素材吗！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494871052529.wav"
+        },
+        {
+            "text": "不想，被讨厌……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494871388851.wav"
+        },
+        {
+            "text": "我的安可曲！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494871834507.wav"
+        },
+        {
+            "text": "跑！调！啦~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494871975294.wav"
+        },
+        {
+            "text": "别欺负我哟，会哭的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494872195394.wav"
+        },
+        {
+            "text": "胜不骄，败不馁~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494872521680.wav"
+        },
+        {
+            "text": "素质呢？拿出素质来！停止广场舞，关掉噪音！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494872833573.wav"
+        }
+    ]
+}

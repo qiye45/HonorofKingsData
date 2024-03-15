@@ -1,0 +1,59 @@
+{
+    "name": "修罗",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499900962272.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498340835944.jpg",
+    "voice_clips": [
+        {
+            "text": "为思念之人，寻最美之花。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499858103980.mp3"
+        },
+        {
+            "text": "前面就是人世和幽冥的境界。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499858294502.mp3"
+        },
+        {
+            "text": "我命但在，我剑永辉。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499858446191.mp3"
+        },
+        {
+            "text": "如你遇见这花，如我遇见你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498222277700.wav"
+        },
+        {
+            "text": "黄昏呵 宛如手心里的曼珠沙华",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498222416425.wav"
+        },
+        {
+            "text": "繁华散尽后，行者徒伤悲。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498222607715.wav"
+        },
+        {
+            "text": "无月虽醉亦易醒，杯中雪花一点红。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498223114414.wav"
+        },
+        {
+            "text": "我和你既然都已经无法回头，那么……抱歉了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498223235932.wav"
+        },
+        {
+            "text": "纵使葬身冬海\n吾亦往矣……看剑。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498223375250.wav"
+        },
+        {
+            "text": "路边花圃乃我葬身之地，六道轮回是君远离之乡。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498223517759.wav"
+        },
+        {
+            "text": "命不久矣……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499879472234.wav"
+        },
+        {
+            "text": "染红自己的手……咳咳。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498224174419.wav"
+        },
+        {
+            "text": "神梦想一刀流，在此……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499880043174.wav"
+        }
+    ]
+}

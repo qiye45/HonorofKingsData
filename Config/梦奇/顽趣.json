@@ -1,0 +1,155 @@
+{
+    "name": "顽趣",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230111/16734063463648.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230111/16734063326025.jpg",
+    "voice_clips": [
+        {
+            "text": "伙伴时间到，和最好的朋友，开启最奇妙的冒险。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734079003160.mp3"
+        },
+        {
+            "text": "与你在一起，就算下雨，也能变成晴朗的乐园。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734306531582.mp3"
+        },
+        {
+            "text": "雨滴里藏着彩虹，泡泡里住着美梦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734307677259.mp3"
+        },
+        {
+            "text": "嘘，不能把朋友的秘密说出来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734309015507.mp3"
+        },
+        {
+            "text": "我看见树叶在喝水。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734309575995.mp3"
+        },
+        {
+            "text": "阳光下的小草，正在偷偷伸懒腰。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734310244681.mp3"
+        },
+        {
+            "text": "它们从高空落下，是为了变成一颗颗珍珠。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734311136047.mp3"
+        },
+        {
+            "text": "像镜子一样的街道，倒映着最美的天空。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734311543837.mp3"
+        },
+        {
+            "text": "踩水小分队集结。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734311933046.mp3"
+        },
+        {
+            "text": "喜欢每一个夏天，和每一个夏天的你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734312406387.mp3"
+        },
+        {
+            "text": "就算闭着眼睛，我也能找到你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734313686832.mp3"
+        },
+        {
+            "text": "不准拽耳朵……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734314094840.mp3"
+        },
+        {
+            "text": "和雨声一起入梦……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734314762655.mp3"
+        },
+        {
+            "text": "泡泡护体",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230111/16734317825013.mp3"
+        },
+        {
+            "text": "水花四溅",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735100102356.wav"
+        },
+        {
+            "text": "打水仗咯",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735102239037.wav"
+        },
+        {
+            "text": "弹弹弹球",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735103089713.wav"
+        },
+        {
+            "text": "自由自在地飞",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735117701599.wav"
+        },
+        {
+            "text": "彩虹旋涡",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735122521367.wav"
+        },
+        {
+            "text": "风车遨游",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735124476560.wav"
+        },
+        {
+            "text": "忘穿雨衣的家伙，小心出洋相哟。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735124814574.wav"
+        },
+        {
+            "text": "原来是个旱鸭子！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735125306213.wav"
+        },
+        {
+            "text": "抓住一只小呆瓜。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735126147762.wav"
+        },
+        {
+            "text": "伙伴相约，如期而至。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735127181972.wav"
+        },
+        {
+            "text": "伙伴相约，如期而至。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735127181972.wav"
+        },
+        {
+            "text": "比永远还要远",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735127658227.wav"
+        },
+        {
+            "text": "抱住大泡泡，飞到天上去。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735128058050.wav"
+        },
+        {
+            "text": "哼，不跟你好了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735143627511.wav"
+        },
+        {
+            "text": "滴滴滴哒。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735144589071.wav"
+        },
+        {
+            "text": "泡泡表演开始。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735145011342.wav"
+        },
+        {
+            "text": "你追不上我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735146197368.wav"
+        },
+        {
+            "text": "这这这，太吓人了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735146527048.wav"
+        },
+        {
+            "text": "我不想听，不想看。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735146909691.wav"
+        },
+        {
+            "text": "见到你，真开心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735149683702.wav"
+        },
+        {
+            "text": "你们真厉害。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735167497190.wav"
+        },
+        {
+            "text": "太好笑了，哈哈哈哈。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230112/16735169708215.wav"
+        },
+        {
+            "text": "叽里咕噜叽里咕噜！布拉布拉布拉布拉！！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065209668957.mp3"
+        }
+    ]
+}

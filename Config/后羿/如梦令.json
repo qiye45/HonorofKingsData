@@ -1,0 +1,83 @@
+{
+    "name": "如梦令",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502897036856.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502897003318.jpg",
+    "voice_clips": [
+        {
+            "text": "故事说，喜鹊在云上架桥，命定之人会从桥的那头奔向你……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500030285454.mp3"
+        },
+        {
+            "text": "就是此刻？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499332407971.mp3"
+        },
+        {
+            "text": "梦到的故事太长……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499332575041.mp3"
+        },
+        {
+            "text": "我在听。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497426131467.wav"
+        },
+        {
+            "text": "人间万古。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497426282105.wav"
+        },
+        {
+            "text": "若前生未果，便重争来世！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497426471024.wav"
+        },
+        {
+            "text": "天地之间，无处不是野草般的生命。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497426637455.wav"
+        },
+        {
+            "text": "遗失的记忆，会以梦的方式重现。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497426801507.wav"
+        },
+        {
+            "text": "咫尺天涯……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497426984695.wav"
+        },
+        {
+            "text": "咫尺，天涯……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497427383248.wav"
+        },
+        {
+            "text": "天涯咫尺！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497427572039.wav"
+        },
+        {
+            "text": "看啊，重逢的预示！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497427728457.wav"
+        },
+        {
+            "text": "找到你了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497427868713.wav"
+        },
+        {
+            "text": "天意如此",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497428069518.wav"
+        },
+        {
+            "text": "我们天作之合，也轮到你这妖怪反对？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497428293148.wav"
+        },
+        {
+            "text": "天上人间，岁岁年年。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497428479597.wav"
+        },
+        {
+            "text": "有什么，被忘记了吗……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499334078892.mp3"
+        },
+        {
+            "text": "这就是，全部的过往？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499333929663.mp3"
+        },
+        {
+            "text": "想象第一个黎明，和最后一个太阳。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500030996278.mp3"
+        }
+    ]
+}

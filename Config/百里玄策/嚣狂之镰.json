@@ -1,0 +1,115 @@
+{
+    "name": "嚣狂之镰",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498412037629.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498412007509.jpg",
+    "voice_clips": [
+        {
+            "text": "请开始你的表演！因为我也要开始了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497578149491.wav"
+        },
+        {
+            "text": "全场醒目担当！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497578382588.wav"
+        },
+        {
+            "text": "我有哥哥，你没有，这就是任性的理由。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497578527100.wav"
+        },
+        {
+            "text": "快，看我真诚的眼神，在替你的生命倒计时",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497578685105.wav"
+        },
+        {
+            "text": "来玩生存游戏吧，很酷的。你来出演生无可恋",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497578836495.wav"
+        },
+        {
+            "text": "答应我，别在飞镰的攻击范围徘徊，他太冲动",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497578989728.wav"
+        },
+        {
+            "text": "飞镰很兴奋，飞镰认为自己可以一挑五",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497579124688.wav"
+        },
+        {
+            "text": "讲道理，有哥哥罩的小疯子简直不讲道理！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497579272179.wav"
+        },
+        {
+            "text": "哇，开玩笑吗",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497579439392.wav"
+        },
+        {
+            "text": "怎么办。我开始失控了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497579581975.wav"
+        },
+        {
+            "text": "警报~开大警报",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497579713404.wav"
+        },
+        {
+            "text": "稳住，你们能赢~~才怪",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497579849935.wav"
+        },
+        {
+            "text": "经历过绝望吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497580171672.wav"
+        },
+        {
+            "text": "你的遗言又长又无聊，需要来段利落的总结。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497580311275.wav"
+        },
+        {
+            "text": "最恐怖的生物……明明是人类",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497580511167.wav"
+        },
+        {
+            "text": "哥哥，如果不能深切感受到自己活着，存在有什么意义",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497580819761.wav"
+        },
+        {
+            "text": "即使哥哥失约，我……也只能选择原谅你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497580962469.wav"
+        },
+        {
+            "text": "做守护你的镰刃，撕裂暗箭",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497581108146.wav"
+        },
+        {
+            "text": "谁偷吃了哥哥给我做的晚餐！剩下的全是草！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497581268703.wav"
+        },
+        {
+            "text": "哥哥不在的时候，看到了修罗场",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497581431665.wav"
+        },
+        {
+            "text": "多么痛恨哥哥的失约，就有多么思念他",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497581574984.wav"
+        },
+        {
+            "text": "无聊又厌烦啊，过时的成年人世界",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497581742641.wav"
+        },
+        {
+            "text": "成、成年人的世界才是最可怕的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497581869985.wav"
+        },
+        {
+            "text": "大叔的朋友，当然也是大叔啦",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497582028842.wav"
+        },
+        {
+            "text": "好的，队长；是的，队长",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497582207232.wav"
+        },
+        {
+            "text": "如果拒绝队长，飞镰会瑟瑟发抖",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497582354495.wav"
+        },
+        {
+            "text": "没有哥哥的人群，那么孤独！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497582514436.wav"
+        }
+    ]
+}

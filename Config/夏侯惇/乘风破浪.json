@@ -1,0 +1,51 @@
+{
+    "name": "乘风破浪",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498339807488.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498339839773.jpg",
+    "voice_clips": [
+        {
+            "text": "演绎极限的定义！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498158846667.mp3"
+        },
+        {
+            "text": "别低估大海，别高估恐惧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498158973279.mp3"
+        },
+        {
+            "text": "感受到俺的帅气了吗？这就对了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498159101932.mp3"
+        },
+        {
+            "text": "自由的心，放飞在风口浪尖",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498159283142.mp3"
+        },
+        {
+            "text": "对海的诱惑缺乏抵抗力",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498159416476.mp3"
+        },
+        {
+            "text": "生活和滔天巨浪，都鞠躬于弄潮儿的冲浪板",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498159543846.mp3"
+        },
+        {
+            "text": "有种无可奈何叫崇拜者太多",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498159698015.mp3"
+        },
+        {
+            "text": "飞越鲨鱼群的头顶，可不是人人都能有的体验",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498159829690.mp3"
+        },
+        {
+            "text": "失手……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498159987257.wav"
+        },
+        {
+            "text": "你犯了个技术错误",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498160241089.wav"
+        },
+        {
+            "text": "嘿，瞧你这笨拙的姿势，把大海当浴缸了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498160379165.mp3"
+        }
+    ]
+}

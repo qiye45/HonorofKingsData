@@ -1,0 +1,131 @@
+{
+    "name": "圣域余晖",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499902184031.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498360441713.jpg",
+    "voice_clips": [
+        {
+            "text": "祈祷无用，战争有理",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497586278242.wav"
+        },
+        {
+            "text": "正视你的邪恶！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497586438132.wav"
+        },
+        {
+            "text": "五小强，曾为她所驱使的五名斗士的合称。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497586647198.wav"
+        },
+        {
+            "text": "荒芜和收割的季节！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497586879534.wav"
+        },
+        {
+            "text": "不要踏入禁域，她会生气！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497587044517.wav"
+        },
+        {
+            "text": "使用过的招数，第二次就不灵了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497587207033.wav"
+        },
+        {
+            "text": "畏惧信仰~畏惧力量~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497587344593.wav"
+        },
+        {
+            "text": "腐朽的心，因她而跳动",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497587492544.wav"
+        },
+        {
+            "text": "我将不朽",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497587876575.wav"
+        },
+        {
+            "text": "委身于时光，制裁以死亡",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497588067269.mp3"
+        },
+        {
+            "text": "破碎生命，提醒你们忘却的记忆",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497588238498.mp3"
+        },
+        {
+            "text": "我，雅典娜，绝对的信仰。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497588399374.mp3"
+        },
+        {
+            "text": "我的岁月，尚未远去。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497588558962.mp3"
+        },
+        {
+            "text": "雅典娜……托付给你了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497588815907.wav"
+        },
+        {
+            "text": "被侵蚀了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497589466287.wav"
+        },
+        {
+            "text": "异端！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497589721716.wav"
+        },
+        {
+            "text": "信仰的敌人！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497589859156.wav"
+        },
+        {
+            "text": "止步吧，罪人！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497590032499.wav"
+        },
+        {
+            "text": "追赶胜利",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497590249298.wav"
+        },
+        {
+            "text": "腐朽在深渊中",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497590386878.wav"
+        },
+        {
+            "text": "我是谁！告诉我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497590563158.wav"
+        },
+        {
+            "text": "她在庇佑我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497590749370.wav"
+        },
+        {
+            "text": "她在呼唤胜利！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497590862661.wav"
+        },
+        {
+            "text": "恐惧盘旋",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497591028650.wav"
+        },
+        {
+            "text": "愚蠢的人类",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497591174349.wav"
+        },
+        {
+            "text": "学会谦卑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497591343839.wav"
+        },
+        {
+            "text": "掐灭你的小宇宙。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497591504312.wav"
+        },
+        {
+            "text": "当弱者燃烧小宇宙，制造出的只有污染和雾霾！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497592087835.wav"
+        },
+        {
+            "text": "保持清醒，才不会妄下决断",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221109/16679866403510.mp3"
+        },
+        {
+            "text": "没想到能再次与你并肩战斗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729897877296.wav"
+        },
+        {
+            "text": "但死亡可以。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729898104578.wav"
+        }
+    ]
+}

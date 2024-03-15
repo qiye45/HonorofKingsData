@@ -1,0 +1,71 @@
+{
+    "name": "雪上飞焰",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499900496908.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498352608311.jpg",
+    "voice_clips": [
+        {
+            "text": "征服天地的一跃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499854071651.mp3"
+        },
+        {
+            "text": "刷新记录，刷新自己～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499876307145.mp3"
+        },
+        {
+            "text": "听从冰雪的召唤！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499854211296.mp3"
+        },
+        {
+            "text": "过去的我，已被我抛在身后！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497325924709.wav"
+        },
+        {
+            "text": "极限，永远比我慢一步~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497326045422.wav"
+        },
+        {
+            "text": "忘掉你自己，然后在全新的世界里，找回它！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497326204821.wav"
+        },
+        {
+            "text": "相信奇迹，是创造奇迹的第一步！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497326327514.wav"
+        },
+        {
+            "text": "冰雪冻不住一颗燃烧的心！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497326455787.wav"
+        },
+        {
+            "text": "巅峰之后，仍是巅峰！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497326679609.wav"
+        },
+        {
+            "text": "好吧，我们山顶再见！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497326867326.wav"
+        },
+        {
+            "text": "历史最佳成绩！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497327045285.wav"
+        },
+        {
+            "text": "遗憾属于你，冠军属于我～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497327178602.wav"
+        },
+        {
+            "text": "极限落差！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497327398237.wav"
+        },
+        {
+            "text": "哇哦～完美的滑降！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497327529736.wav"
+        },
+        {
+            "text": "直面风雪吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497327645602.wav"
+        },
+        {
+            "text": "越纯粹，越缤纷～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497327868239.wav"
+        }
+    ]
+}

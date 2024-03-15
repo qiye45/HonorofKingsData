@@ -1,0 +1,115 @@
+{
+    "name": "深海之息",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220721/16583858311155.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220721/16583858358608.jpg",
+    "voice_clips": [
+        {
+            "text": "抵达最寂静的深海，掀起最狂烈的浪潮",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583863479763.wav"
+        },
+        {
+            "text": "人们擅长禁锢美妙的风景……顺手解救它们则是探险家的爱好之一",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583863718918.wav"
+        },
+        {
+            "text": "重要的不是你来自哪里，而是你将去往哪里",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583864016249.wav"
+        },
+        {
+            "text": "遗迹里未必有宝藏，但一定有传说",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583864267968.wav"
+        },
+        {
+            "text": "一旦被关进收藏柜，再珍稀的珊瑚也会黯然失色",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583864433874.wav"
+        },
+        {
+            "text": "别担心深海不可捉摸，也别自信能将它轻易掌握",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583864677800.wav"
+        },
+        {
+            "text": "黄金城的委托？没兴趣，那艘沉没百年的轮船显然更棒",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583864883644.wav"
+        },
+        {
+            "text": "海妖怒号，鲨鱼微笑，我猜他们在欢迎探险家的来到",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583865118357.wav"
+        },
+        {
+            "text": "时刻遵守探险的基本礼仪：只追寻惊喜，不占有宝藏",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583865311814.wav"
+        },
+        {
+            "text": "够危险，才够迷人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583865512793.wav"
+        },
+        {
+            "text": "利莫里亚从未陷入沉睡，它隐藏在海底熠熠生辉",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583865651778.wav"
+        },
+        {
+            "text": "意外嘛，是人生的魅力所在~！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583868115810.wav"
+        },
+        {
+            "text": "勇气，运气，和伙伴，看上去你一样也没有",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583868306500.wav"
+        },
+        {
+            "text": "你不会以为，这里就是终点吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583868479206.wav"
+        },
+        {
+            "text": "完美合作，值得起个伟大的代号留念",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583868632887.wav"
+        },
+        {
+            "text": "跟随洋流的律动",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583868802114.wav"
+        },
+        {
+            "text": "每枪都在节拍上",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583868967932.wav"
+        },
+        {
+            "text": "漂亮的连击！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583869123469.wav"
+        },
+        {
+            "text": "向未知冲刺",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583869446389.wav"
+        },
+        {
+            "text": "往这儿看",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583869631154.wav"
+        },
+        {
+            "text": "来，与漩涡共舞",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583869785631.wav"
+        },
+        {
+            "text": "老朋友，一起玩个尽兴",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583869941910.wav"
+        },
+        {
+            "text": "别抗拒深海的拥抱",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583870098919.wav"
+        },
+        {
+            "text": "某些时候，耐心和持久更胜于激烈与狂热",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583871412905.wav"
+        },
+        {
+            "text": "探险计划吗？……随机应变吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583870687365.wav"
+        },
+        {
+            "text": "经典探险故事的开篇，主人公准备好了他的双枪与信念",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583870949475.wav"
+        },
+        {
+            "text": "当月光照进海底，我们约好再次相遇",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220721/16583871225844.wav"
+        }
+    ]
+}

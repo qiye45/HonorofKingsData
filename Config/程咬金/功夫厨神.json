@@ -1,0 +1,71 @@
+{
+    "name": "功夫厨神",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498322906918.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498322929343.jpg",
+    "voice_clips": [
+        {
+            "text": "告诉我，香吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495786233569.wav"
+        },
+        {
+            "text": "来自灵魂深处的热辣~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495786366065.wav"
+        },
+        {
+            "text": "唯爱与正义与美食不可辜负。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495786492176.wav"
+        },
+        {
+            "text": "想吃什么，我给你做。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495786644269.wav"
+        },
+        {
+            "text": "人家就想做个安安静静的美厨子~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495786772394.wav"
+        },
+        {
+            "text": "身材和厨艺，都值得信赖~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495786909717.wav"
+        },
+        {
+            "text": "别拍了，先吃吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495787029174.wav"
+        },
+        {
+            "text": "现世安稳，岁月静好",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495787161303.wav"
+        },
+        {
+            "text": "谁朝我伤口撒盐？？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495787337638.wav"
+        },
+        {
+            "text": "砧板让我快乐~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495787487245.wav"
+        },
+        {
+            "text": "轻盈如风！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495787612081.wav"
+        },
+        {
+            "text": "会做饭的人，才会生存！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495787744856.wav"
+        },
+        {
+            "text": "哈哈哈哈哈~做条咸鱼怎么样。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495788804160.wav"
+        },
+        {
+            "text": "嗷~哈哈真香",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495788926813.wav"
+        },
+        {
+            "text": "说我菜？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495789159592.wav"
+        },
+        {
+            "text": "厨神驾到，当心被削！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220410/16495789301995.wav"
+        }
+    ]
+}

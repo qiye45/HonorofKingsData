@@ -1,0 +1,59 @@
+{
+    "name": "曙光守护者",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220420/16504474722179.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498329464109.jpg",
+    "voice_clips": [
+        {
+            "text": "这里有我，并且不止有我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497720188844.wav"
+        },
+        {
+            "text": "未来蕴含于历史。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497720272008.wav"
+        },
+        {
+            "text": "被埋没的，不意味着已毁灭。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497720426845.wav"
+        },
+        {
+            "text": "永远不要嘲弄一个城市的过往",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497720619743.wav"
+        },
+        {
+            "text": "恶作剧可以修正，恶却需要抵制。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497720915926.wav"
+        },
+        {
+            "text": "请不必把我视作天使，因为更多的天使没有翅膀。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497720988475.wav"
+        },
+        {
+            "text": "隔壁老奶奶，能教你什么是正确的人生观。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497721148228.wav"
+        },
+        {
+            "text": "总有一刻，你比自己想象得要善良。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497721271170.wav"
+        },
+        {
+            "text": "记住传说，就能重建信仰。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497721353609.wav"
+        },
+        {
+            "text": "你想知道恶的存在是多么短暂么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497721691501.wav"
+        },
+        {
+            "text": "回到地底下去吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497721921613.wav"
+        },
+        {
+            "text": "光刃啊，请再次庇护这座城！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497722012644.wav"
+        },
+        {
+            "text": "守护者长眠的地方，就是纪念碑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497722124640.wav"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "name": "惊梅引",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231012/16970799959468.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231012/16970799981957.jpg",
+    "voice_clips": [
+        {
+            "text": "以为天下第一，即是剑道之极……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970990428174.mp3"
+        },
+        {
+            "text": "剑道之心如梅峰藏雪，从来寂寞。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970800473914.mp3"
+        },
+        {
+            "text": "师言，剑道之极，天下第一。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970800733842.mp3"
+        },
+        {
+            "text": "吾知天下慕虚名，何如挥剑斩淋漓！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970800981522.mp3"
+        },
+        {
+            "text": "唇枪非吾辈，手底见真章！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970801313586.mp3"
+        },
+        {
+            "text": "吾生有涯，而剑意无极。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970801547782.mp3"
+        },
+        {
+            "text": "未尝一败，但求一败。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970801776726.mp3"
+        },
+        {
+            "text": "独上巅峰，无敌于世，不如生逢一对手。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970801998368.mp3"
+        },
+        {
+            "text": "梅花，落了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970802821608.mp3"
+        },
+        {
+            "text": "剑亡，人亡。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970803078814.mp3"
+        },
+        {
+            "text": "心无杂念，此生唯剑。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970965701679.mp3"
+        },
+        {
+            "text": "何人敢与吾一战？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970804124950.mp3"
+        },
+        {
+            "text": "斩汝，不过一剑。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970804371763.mp3"
+        },
+        {
+            "text": "无敌最是寂寞。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970804658307.mp3"
+        },
+        {
+            "text": "放马过来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970804939337.mp3"
+        },
+        {
+            "text": "斩墨红！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970808526208.mp3"
+        },
+        {
+            "text": "梅影！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970808768885.mp3"
+        },
+        {
+            "text": "飞红！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970809125486.mp3"
+        },
+        {
+            "text": "可闻绯雪香？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970810468192.mp3"
+        },
+        {
+            "text": "剑惟一心！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970810773742.mp3"
+        },
+        {
+            "text": "战至日暮晨昏！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970810984965.mp3"
+        },
+        {
+            "text": "剑伴花影！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970811337284.mp3"
+        },
+        {
+            "text": "逝！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970811568658.mp3"
+        },
+        {
+            "text": "飞红盛景！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970811801394.mp3"
+        },
+        {
+            "text": "尽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970812051397.mp3"
+        },
+        {
+            "text": "剑舞当风！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970812279116.mp3"
+        },
+        {
+            "text": "乱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970812551494.mp3"
+        },
+        {
+            "text": "剑不磨，不成锋。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970965994606.mp3"
+        },
+        {
+            "text": "那便斩汝剑下。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970814279437.mp3"
+        },
+        {
+            "text": "今日未分高下，三年之后，再来拜会！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970814599958.mp3"
+        },
+        {
+            "text": "不甚过瘾。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970989532135.mp3"
+        },
+        {
+            "text": "痛快！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970989763593.mp3"
+        },
+        {
+            "text": "吾此生不知何为后退。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970989983474.mp3"
+        },
+        {
+            "text": "今日剑途，始遇知音。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970990193959.mp3"
+        },
+        {
+            "text": "原道巅峰无行客，斩尽寂寞有痴心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231012/16970990644544.mp3"
+        }
+    ]
+}

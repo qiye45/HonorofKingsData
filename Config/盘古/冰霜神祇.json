@@ -1,0 +1,119 @@
+{
+    "name": "冰霜神祇",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230214/16763684996716.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230214/16763685198106.jpg",
+    "voice_clips": [
+        {
+            "text": "纵使我的存在被冰霜掩埋，终结风雪的使命未曾更改。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765286524975.mp3"
+        },
+        {
+            "text": "为守护而生的意志，不会随时间消亡！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765286702061.mp3"
+        },
+        {
+            "text": "不必害怕，我将击退风雪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765287035979.mp3"
+        },
+        {
+            "text": "神明冰封玫瑰，严寒降临极北。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763692225958.mp3"
+        },
+        {
+            "text": "渺小的生命，因伟大的意志而重生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763692387602.mp3"
+        },
+        {
+            "text": "极北之民，是不屈之民！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763692576308.mp3"
+        },
+        {
+            "text": "绝境随永夜寒冰悄然覆盖，希望也在篝火中重新点燃。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763692764757.mp3"
+        },
+        {
+            "text": "身体困于极寒，意志永不冻结。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763692978849.mp3"
+        },
+        {
+            "text": "我将带领众人穿越凛冬！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763693172693.mp3"
+        },
+        {
+            "text": "越过我的身体，继续向前……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763693502271.mp3"
+        },
+        {
+            "text": "你阻挡不了我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763693823751.mp3"
+        },
+        {
+            "text": "寒冰无法摧毁的意志，必将令我再次归来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763694101410.mp3"
+        },
+        {
+            "text": "你不过是屈从于宿命的棋子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763694394197.mp3"
+        },
+        {
+            "text": "劈开风雪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763697904117.mp3"
+        },
+        {
+            "text": "穿越寒冬！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763698136954.mp3"
+        },
+        {
+            "text": "别怕，我来了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763698944852.mp3"
+        },
+        {
+            "text": "冻结！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763700015681.mp3"
+        },
+        {
+            "text": "冰雪之怒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763700218879.mp3"
+        },
+        {
+            "text": "把握命运的力量！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763700414783.mp3"
+        },
+        {
+            "text": "冰霜绽裂！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763701133651.mp3"
+        },
+        {
+            "text": "终结霜寒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763701312384.mp3"
+        },
+        {
+            "text": "我的身后永无风雪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763701493211.mp3"
+        },
+        {
+            "text": "战至巨斧化为晶屑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763701745939.mp3"
+        },
+        {
+            "text": "双臂的力量因使命而存在。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763702139023.mp3"
+        },
+        {
+            "text": "追寻值得守护的东西，这一点我们一样。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763702389316.mp3"
+        },
+        {
+            "text": "神明为冰封玫瑰而降下冰雪，可曾对极北之民有丝毫怜悯？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763702657717.mp3"
+        },
+        {
+            "text": "极北之民不会屈服于任何人，我也不会。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763702937858.mp3"
+        },
+        {
+            "text": "责任与守护，是我们共同的信念。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763703189715.mp3"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "name": "灼幽烈阳",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230724/16901701316566.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230724/16901701364936.jpg",
+    "voice_clips": [
+        {
+            "text": "永恒荣耀，不灭星辰！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901805823352.mp3"
+        },
+        {
+            "text": "捧星子兮归其天，饲烈阳兮铸龙魂。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901806326088.mp3"
+        },
+        {
+            "text": "向阳而生！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901806589532.mp3"
+        },
+        {
+            "text": "九幽之底，众生蠕行，吾亦曾身列其间。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901807404632.mp3"
+        },
+        {
+            "text": "阳杲杲其未光兮，凌天地以径度。（选自屈原《楚辞·远游》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901807808323.mp3"
+        },
+        {
+            "text": "照杳冥兮还故渊。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901808068999.mp3"
+        },
+        {
+            "text": "吾乃冥冥九幽的第一缕光。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901808301579.mp3"
+        },
+        {
+            "text": "咏颂吾名者，当沐昭昭之光！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901808531543.mp3"
+        },
+        {
+            "text": "蔽日浮云不过须臾，焚身之痛只在刹那……唯吾永恒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901808788103.mp3"
+        },
+        {
+            "text": "冥昭混沌，吾能极之！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901809041795.mp3"
+        },
+        {
+            "text": "惟庸庸虫豸，恒俯首不起。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901809339899.mp3"
+        },
+        {
+            "text": "纵落深渊，吾身弥坚。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901809561898.mp3"
+        },
+        {
+            "text": "日升中天而睨……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901810178956.mp3"
+        },
+        {
+            "text": "天道自然……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901810444388.mp3"
+        },
+        {
+            "text": "九幽夜落！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901810847006.mp3"
+        },
+        {
+            "text": "仰望吾！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901811261571.mp3"
+        },
+        {
+            "text": "腐草生荧光，韧力可嘉。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901811746704.mp3"
+        },
+        {
+            "text": "陨灭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901812116857.mp3"
+        },
+        {
+            "text": "临天渊！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901812399596.mp3"
+        },
+        {
+            "text": "光耀众生！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901812639179.mp3"
+        },
+        {
+            "text": "寰宇入怀！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901812889093.mp3"
+        },
+        {
+            "text": "孤日独明！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901813081821.mp3"
+        },
+        {
+            "text": "天高覆万物！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901814023170.mp3"
+        },
+        {
+            "text": "太阳终会升起，吾从来言而有信。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901817641787.mp3"
+        },
+        {
+            "text": "彼此彼此。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901818582959.mp3"
+        },
+        {
+            "text": "众星高悬天外。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230724/16901818947344.mp3"
+        },
+        {
+            "text": "错了，是高高在上的太阳。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240110/17048715806113.wav"
+        }
+    ]
+}

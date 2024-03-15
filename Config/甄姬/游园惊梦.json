@@ -1,0 +1,63 @@
+{
+    "name": "游园惊梦",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499956895888.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498466185767.jpg",
+    "voice_clips": [
+        {
+            "text": "牡丹亭畔春梦残",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497743894616.wav"
+        },
+        {
+            "text": "徘徊恨叠怯衣单（选自汤显祖《阮郎归·不经人事意相关》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497744024371.wav"
+        },
+        {
+            "text": "春梦暗随三月景",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497744149060.wav"
+        },
+        {
+            "text": "晓寒瘦却一分花",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497744286345.wav"
+        },
+        {
+            "text": "昨日梦里，那书生将柳枝来赠奴，要奴题詠",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497744456526.wav"
+        },
+        {
+            "text": "他年的傍蟾宫客",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497744595605.wav"
+        },
+        {
+            "text": "不在梅边在柳边",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497744756109.wav"
+        },
+        {
+            "text": "趁此悄地无人，正好寻梦也。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497745157879.mp3"
+        },
+        {
+            "text": "漫道柔情著意关",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497745647520.wav"
+        },
+        {
+            "text": "得葬于此，幸矣。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497746098683.wav"
+        },
+        {
+            "text": "池馆苍苔一片青",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497746396499.wav"
+        },
+        {
+            "text": "哪里去",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497746516265.wav"
+        },
+        {
+            "text": "只为痴情慕色，一梦而亡",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497746659241.wav"
+        },
+        {
+            "text": "那牡丹亭，芍药栏，怎生这般凄凉冷落",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497746773871.wav"
+        }
+    ]
+}

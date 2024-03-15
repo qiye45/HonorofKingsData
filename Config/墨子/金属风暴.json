@@ -1,0 +1,63 @@
+{
+    "name": "金属风暴",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498349521843.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498349567145.jpg",
+    "voice_clips": [
+        {
+            "text": "风暴降临！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499906344139.mp3"
+        },
+        {
+            "text": "我的同伴都在哪？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499906443117.mp3"
+        },
+        {
+            "text": "是谁，要将我们毁灭？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499906539378.mp3"
+        },
+        {
+            "text": "汽车人出现的历史，远比你想象得更久。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496795911788.wav"
+        },
+        {
+            "text": "在被审判之前，我也曾是英雄。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496796053045.wav"
+        },
+        {
+            "text": "这是，与星球上所有族群共有的命运。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496796197010.wav"
+        },
+        {
+            "text": "我们，也曾与人类许下约定……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496796375802.wav"
+        },
+        {
+            "text": "要将一切美好的，都毁去吗！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496796521894.wav"
+        },
+        {
+            "text": "无意，伤害你……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496796691068.wav"
+        },
+        {
+            "text": "试试终极力量。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496796879457.wav"
+        },
+        {
+            "text": "无限聚能！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496797006293.wav"
+        },
+        {
+            "text": "我比你更了解死亡。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496797171436.wav"
+        },
+        {
+            "text": "还想重蹈覆辙么！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496797334258.wav"
+        },
+        {
+            "text": "见过我的朋友引擎之心吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496797481394.wav"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "name": "永昼",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502880713817.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502880755715.jpg",
+    "voice_clips": [
+        {
+            "text": "诸神之战的号角已经吹响——战士们，随我前往英灵神殿！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500170008933.mp3"
+        },
+        {
+            "text": "为了世界重生的那天——迎战一切！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500170166400.mp3"
+        },
+        {
+            "text": "以神王奥丁之名，完成最后的使命！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500170305813.mp3"
+        },
+        {
+            "text": "剑带来的荣光，将诸世界震响。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497676388003.wav"
+        },
+        {
+            "text": "从我们之后，再不会有牺牲，也再不会有神。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497676604576.wav"
+        },
+        {
+            "text": "看见夜空中闪耀的极光了吗？那是我的姐妹们在战斗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497677005922.wav"
+        },
+        {
+            "text": "磨光你们的铠甲，擦亮你们的剑",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497677548009.wav"
+        },
+        {
+            "text": "英雄的结局就在这里！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497677735006.wav"
+        },
+        {
+            "text": "黄昏预言，命运挽歌......最后时刻，诸神静默。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497678302882.wav"
+        },
+        {
+            "text": "所有注定毁灭的，都将归于永恒。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497678767002.wav"
+        },
+        {
+            "text": "这个世界......仅有英雄是不够的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497678942877.wav"
+        },
+        {
+            "text": "命运洪流不可阻挡，我的回答是……向前！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497679158960.wav"
+        },
+        {
+            "text": "为阿斯加德！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497679872319.wav"
+        },
+        {
+            "text": "迅光三角剑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497680659969.wav"
+        },
+        {
+            "text": "进攻或灭亡！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497681036779.wav"
+        },
+        {
+            "text": "对抗邪恶！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497681619954.wav"
+        },
+        {
+            "text": "断他们的后路！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497682193584.wav"
+        },
+        {
+            "text": "切断退路！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497682356085.wav"
+        },
+        {
+            "text": "冲力光剑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497682793814.wav"
+        },
+        {
+            "text": "前进喷泉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497683487596.wav"
+        },
+        {
+            "text": "无惧命运！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497683656229.wav"
+        },
+        {
+            "text": "还不回头吗！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684037375.wav"
+        },
+        {
+            "text": "破空光剑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684256234.wav"
+        },
+        {
+            "text": "长夜幽冥！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684472324.wav"
+        },
+        {
+            "text": "留心你的处境！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684688320.wav"
+        },
+        {
+            "text": "七星光芒剑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497685161829.wav"
+        },
+        {
+            "text": "给我力量！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497685439581.wav"
+        },
+        {
+            "text": "终末之战！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497686394041.wav"
+        },
+        {
+            "text": "快逃吧，懦夫。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497686897415.wav"
+        },
+        {
+            "text": "为阿斯加德！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497687303765.wav"
+        },
+        {
+            "text": "见你的造物主去吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497687555086.wav"
+        },
+        {
+            "text": "舒适的风~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497688117731.wav"
+        },
+        {
+            "text": "最后一吻~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497688314629.wav"
+        },
+        {
+            "text": "一剑封喉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497688522837.wav"
+        },
+        {
+            "text": "愿意和我一起，站在火焰的中心而不退却吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497688846060.wav"
+        },
+        {
+            "text": "不要后退，继续冲锋！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497689293468.wav"
+        }
+    ]
+}

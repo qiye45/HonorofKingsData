@@ -1,0 +1,115 @@
+{
+    "name": "月团寄思",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20221021/16663370242475.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20221021/16663370296512.jpg",
+    "voice_clips": [
+        {
+            "text": "海上生明月，天涯共此时！（选自张九龄《望月怀远 / 望月怀古》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654600335371.mp3"
+        },
+        {
+            "text": "新意为皮，传统作馅~铛铛铛铛！~完美出炉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654601174555.mp3"
+        },
+        {
+            "text": "故乡的味道，随秋思飘入千万家！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654600195118.mp3"
+        },
+        {
+            "text": "抓个幸运观众尝尝本喵的手艺！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636702645912.mp3"
+        },
+        {
+            "text": "深夜更新美食视频，嘿嘿，庆祝节日的最佳方式！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636702834381.mp3"
+        },
+        {
+            "text": "天上宫阙~不如人间柴米油盐！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636702982650.mp3"
+        },
+        {
+            "text": "月团寄思，桂花酿情，嗯~，在舌尖上过中秋~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636703327387.mp3"
+        },
+        {
+            "text": "年年岁岁，有如今宵~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636705967990.mp3"
+        },
+        {
+            "text": "小饼如嚼月，滋味~似乡思",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654601039574.mp3"
+        },
+        {
+            "text": "总有阴晴圆缺嘛……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654601432279.mp3"
+        },
+        {
+            "text": "回家吧！异乡人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636707099518.mp3"
+        },
+        {
+            "text": "世界上最遥远的距离——看得见~吃不着！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636707263868.mp3"
+        },
+        {
+            "text": "寄情千里光！（选自《子夜四时歌·秋风入窗里》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636707464981.mp3"
+        },
+        {
+            "text": "礼轻情意重！~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636707617879.mp3"
+        },
+        {
+            "text": "团圆馅儿，尝个鲜~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636707772677.mp3"
+        },
+        {
+            "text": "捉到一只小馋喵！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636707916157.mp3"
+        },
+        {
+            "text": "放飞这轮明月~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654600054408.mp3"
+        },
+        {
+            "text": "开始派发第一份祝福！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654600458688.mp3"
+        },
+        {
+            "text": "哪里来的黑暗口味……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654600565748.mp3"
+        },
+        {
+            "text": "最圆的月亮，我在这里~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654601593859.mp3"
+        },
+        {
+            "text": "这月团，是开心馅儿啊~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654601293720.mp3"
+        },
+        {
+            "text": "本喵的月团绝对是全场最佳！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654599715810.mp3"
+        },
+        {
+            "text": "吃不下了，嗝~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654599938164.mp3"
+        },
+        {
+            "text": "不准乱改配料表！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654599813846.mp3"
+        },
+        {
+            "text": "是思念的味道.....",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654600831506.mp3"
+        },
+        {
+            "text": "难得团聚，我给大家跳个舞吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221011/16654600726438.mp3"
+        },
+        {
+            "text": "最后一道工序~哼，禁止偷吃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220920/16636712055353.mp3"
+        }
+    ]
+}

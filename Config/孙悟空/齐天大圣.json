@@ -1,0 +1,151 @@
+{
+    "name": "齐天大圣",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230215/16764266371208.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230215/16764266295100.jpg",
+    "voice_clips": [
+        {
+            "text": "凭你这破石烂铁，也想只手拦我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765288377469.mp3"
+        },
+        {
+            "text": "往时管他谁是谁，今日方知我是我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765288673225.mp3"
+        },
+        {
+            "text": "群妖又起，大圣重归！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765288933036.mp3"
+        },
+        {
+            "text": "打遍三界棍无双，再战此界又何妨！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764272286647.mp3"
+        },
+        {
+            "text": "老孙我向来自诩铜皮铁骨，不想今日成了真",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764272999841.mp3"
+        },
+        {
+            "text": "七十二般变化，可有机械这一变？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764273187805.mp3"
+        },
+        {
+            "text": "想过去三五步行遍天下，一转眼竟已是沧海桑田",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764273374141.mp3"
+        },
+        {
+            "text": "睡得太久，容易忘了自己是谁",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764273632572.mp3"
+        },
+        {
+            "text": "这年间，魑魅魍魉换了个样，牛鬼蛇神竟也称了霸王",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764273827611.mp3"
+        },
+        {
+            "text": "莫怕，我是来问路的——来问问那上天的路！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764274067944.mp3"
+        },
+        {
+            "text": "且待我砸碎你这新皮囊，看看下面是人是妖！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764274405727.mp3"
+        },
+        {
+            "text": "这随手抄的铁棍，用着倒也顺手",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764274623905.mp3"
+        },
+        {
+            "text": "休提什么斗战名号，自此以后，只称我为齐天大圣！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764274816225.mp3"
+        },
+        {
+            "text": "毁得钢铁躯，毁不得天地心……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764275309673.mp3"
+        },
+        {
+            "text": "躯壳重塑，本心不移",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764275765250.mp3"
+        },
+        {
+            "text": "何处不平？大圣在此！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764454922125.mp3"
+        },
+        {
+            "text": "和你的老祖宗相比，你倒长了不少本事！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764455597291.mp3"
+        },
+        {
+            "text": "你这厮装上个铁心脏，竟真成了铁石心肠！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764455982855.mp3"
+        },
+        {
+            "text": "铮铮铁骨！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764456359303.mp3"
+        },
+        {
+            "text": "金刚不坏之身！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764456678722.mp3"
+        },
+        {
+            "text": "破天",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764457032200.mp3"
+        },
+        {
+            "text": "遁地",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764457213533.mp3"
+        },
+        {
+            "text": "大显神通！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764457573796.mp3"
+        },
+        {
+            "text": "威力不减当年！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764457753573.mp3"
+        },
+        {
+            "text": "齐天大圣，到此一游！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764457945236.mp3"
+        },
+        {
+            "text": "前路晦暗？待我探他一探！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764464794663.mp3"
+        },
+        {
+            "text": "如今这副躯壳，桃子吃起来都没滋味",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764465259947.mp3"
+        },
+        {
+            "text": "适应适应关节会生锈的日子",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764465697816.mp3"
+        },
+        {
+            "text": "飞起来就想装神仙？给我下来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764466004046.mp3"
+        },
+        {
+            "text": "不急，等你准备好我再出手",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764466303839.mp3"
+        },
+        {
+            "text": "让这方天地，再次记住我的名头！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764466568059.mp3"
+        },
+        {
+            "text": "弃恶从善，不错不错",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764466761948.mp3"
+        },
+        {
+            "text": "生来无牵挂，又有何可怕！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764467034875.mp3"
+        },
+        {
+            "text": "不必多问，只管说那妖魔在哪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764467363089.mp3"
+        },
+        {
+            "text": "怎可任由妖邪当道！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765288033864.mp3"
+        },
+        {
+            "text": "遍地不寻花果山",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764468117731.mp3"
+        }
+    ]
+}

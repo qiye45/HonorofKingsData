@@ -1,0 +1,39 @@
+{
+    "name": "神梦一刀",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230515/16841443993488.jpeg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230515/16841443859723.jpeg",
+    "voice_clips": [
+        {
+            "text": "飞燕六连",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497330367361.wav"
+        },
+        {
+            "text": "居合",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497330512600.wav"
+        },
+        {
+            "text": "请原谅",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497330659589.wav"
+        },
+        {
+            "text": "就这样…",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497330776591.wav"
+        },
+        {
+            "text": "决不饶恕！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497330903581.wav"
+        },
+        {
+            "text": "圭小姐——！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497331031183.wav"
+        },
+        {
+            "text": "燕返！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497331184778.wav"
+        },
+        {
+            "text": "去死吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497331715902.wav"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "name": "赏金猎手",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220420/16504431137861.png",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220420/16504431225069.png",
+    "voice_clips": [
+        {
+            "text": "定金到账，行动开始。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504507785514.mp3"
+        },
+        {
+            "text": "赏金榜上最值钱的，就是今晚的猎物。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504507915550.mp3"
+        },
+        {
+            "text": "鲨鱼栖息深海，猎人隐匿黑暗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504507611824.mp3"
+        },
+        {
+            "text": "贪生的困兽，逃不出猎手的伏击。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504371359487.mp3"
+        },
+        {
+            "text": "恐惧的臭味，最好的路标。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504371515024.mp3"
+        },
+        {
+            "text": "弱肉强食，明码标价。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504371661824.mp3"
+        },
+        {
+            "text": "深海的猎手，从不停止游弋。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504371997694.mp3"
+        },
+        {
+            "text": "记忆和猎刃，同样锋利。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504372258981.mp3"
+        },
+        {
+            "text": "从不撒谎的，只有刀锋和赏金。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504372542047.mp3"
+        },
+        {
+            "text": "天……亮了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504411391212.wav"
+        },
+        {
+            "text": "嘘——别怕",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504398975481.mp3"
+        },
+        {
+            "text": "赏金入账",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504399388974.mp3"
+        },
+        {
+            "text": "满载而归",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504399568157.mp3"
+        },
+        {
+            "text": "噤声",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504406558411.mp3"
+        },
+        {
+            "text": "熟悉的水道，通往猎场",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504406862963.mp3"
+        },
+        {
+            "text": "闪电出击！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504407202739.mp3"
+        },
+        {
+            "text": "致命刀锋！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504407374518.mp3"
+        },
+        {
+            "text": "收网了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504407629486.mp3"
+        },
+        {
+            "text": "围猎开始！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504407837509.mp3"
+        },
+        {
+            "text": "精准捕杀！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504408263864.mp3"
+        },
+        {
+            "text": "精准收割！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504408451732.mp3"
+        },
+        {
+            "text": "擅长追猎，更擅长等待时机",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220420/16504508066844.mp3"
+        }
+    ]
+}

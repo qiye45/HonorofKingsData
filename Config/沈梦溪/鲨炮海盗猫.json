@@ -1,0 +1,59 @@
+{
+    "name": "鲨炮海盗猫",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498482045068.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498482076528.jpg",
+    "voice_clips": [
+        {
+            "text": "向大海开炮！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496695388956.wav"
+        },
+        {
+            "text": "和海贼王的距离，也就差了一个眼罩。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496695555540.wav"
+        },
+        {
+            "text": "来吧，风暴！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496695746444.wav"
+        },
+        {
+            "text": "小鱼干一条不留！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496696312027.wav"
+        },
+        {
+            "text": "海风点燃斗志，感受到杀气了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496696499447.wav"
+        },
+        {
+            "text": "自由自在，炸个痛快！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496696663203.wav"
+        },
+        {
+            "text": "有个讨厌鬼，和我瞄上了同一条船。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496696892740.wav"
+        },
+        {
+            "text": "大意失大船……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496697254184.wav"
+        },
+        {
+            "text": "哟嚯~兴风作浪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496697962189.wav"
+        },
+        {
+            "text": "炸鱼咯！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496698973003.wav"
+        },
+        {
+            "text": "你的小鱼干，通通归我啦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496699568306.wav"
+        },
+        {
+            "text": "是咸鱼的味道~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496699936278.wav"
+        },
+        {
+            "text": "最近可不流行鬼故事。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496700347105.wav"
+        }
+    ]
+}

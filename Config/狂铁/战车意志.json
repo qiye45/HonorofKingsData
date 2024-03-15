@@ -1,0 +1,171 @@
+{
+    "name": "战车意志",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231208/17020214721832.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231208/17020214746153.jpg",
+    "voice_clips": [
+        {
+            "text": "越是恐惧，越要战胜它",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494882628529.wav"
+        },
+        {
+            "text": "勇气是唯一的信仰",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494882805752.wav"
+        },
+        {
+            "text": "为何而战的意志，胜于钢铁之躯",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494883778608.wav"
+        },
+        {
+            "text": "做那个挑战风车的傻子，鲁莽也比怯懦更接近勇敢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494884339135.wav"
+        },
+        {
+            "text": "放弃，就等同失败",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494884577813.wav"
+        },
+        {
+            "text": "迄今所有人生都大写着失败，但不妨碍我继续向前",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494884807533.wav"
+        },
+        {
+            "text": "寄望审判干嘛，雷电会劈倒高塔",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494885033660.wav"
+        },
+        {
+            "text": "真理，并不掌握在多数人手中",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494885279522.wav"
+        },
+        {
+            "text": "璀璨的破灭",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494885594053.wav"
+        },
+        {
+            "text": "十万伏特！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494885981564.wav"
+        },
+        {
+            "text": "全力以赴做正确的事！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494886179378.wav"
+        },
+        {
+            "text": "撕裂空间，去看清本源！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494886528280.wav"
+        },
+        {
+            "text": "钢铁怪兽的咆哮，让你深刻体会脆弱和渺小",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494886814573.wav"
+        },
+        {
+            "text": "是你吗？幽灵。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494887306282.wav"
+        },
+        {
+            "text": "找到解除诅咒的方法没？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494887568443.wav"
+        },
+        {
+            "text": "机关与定律之上，还有着对亲人和大地的爱",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494887928193.wav"
+        },
+        {
+            "text": "感受到一股来自东方的神秘力量",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494888273435.wav"
+        },
+        {
+            "text": "对错误的事习以为常，才是真正的卑鄙",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494888653111.wav"
+        },
+        {
+            "text": "以神的代理人自居，却不过是群仿冒品",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494888993884.wav"
+        },
+        {
+            "text": "凯因，被遗忘的名字，我永远记住的友人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494889344939.wav"
+        },
+        {
+            "text": "最佳组合",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722965552583.wav"
+        },
+        {
+            "text": "不可能输",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722965747249.wav"
+        },
+        {
+            "text": "介绍一下，这是我最好的兄弟莱西奥，不过很多人更习惯叫他“火鹰船长”",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722965995997.wav"
+        },
+        {
+            "text": "我的后背和胳膊，全都交给你了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722966227668.wav"
+        },
+        {
+            "text": "本佣兵投资的炮弹，研究得怎么样了？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722966411105.wav"
+        },
+        {
+            "text": "离开的这些年，我从没有放弃找到阻止污染的办法。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722966622787.wav"
+        },
+        {
+            "text": "在米莱狄手里夺回火鹰号，这么刺激的事难道不带上你最好的兄弟吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722966836704.wav"
+        },
+        {
+            "text": "没准儿找到老船长的路上，我们也找到污染线索了呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722967072418.wav"
+        },
+        {
+            "text": "让我带你游览整个海都，想先去哪里？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230411/16812065234939.mp3"
+        },
+        {
+            "text": "送你一个好东西！好运螺，在海都意味着好运。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230411/16812065669375.mp3"
+        },
+        {
+            "text": "力量感吗？哈哈哈哈哈哈哈，包在我身上。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230411/16812066262291.mp3"
+        },
+        {
+            "text": "那天，为什么回来救我？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230411/16812067436987.wav"
+        },
+        {
+            "text": "什么人！……先吃我一锤！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230411/16812068146674.mp3"
+        },
+        {
+            "text": "你们东方来的真奇怪，哼哼哈嘿把人揍了之后还要说什么“承让”。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230411/16812068842606.mp3"
+        },
+        {
+            "text": "挺厉害的嘛，配合默契！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230411/16812070151611.mp3"
+        },
+        {
+            "text": "帅啊，我热血沸腾了！接下来用哪一招？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230411/16812070645930.mp3"
+        },
+        {
+            "text": "怎么样？以后换我来保护你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230411/16812071791857.mp3"
+        },
+        {
+            "text": "那可太简单了，只需要三个步骤，闭嘴，动手，迈开腿。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871603314776.mp3"
+        },
+        {
+            "text": "刀疤仔，我们来比划比划！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230619/16871603536250.mp3"
+        },
+        {
+            "text": "内城区的朋友，外城区，也会拯救这座城市。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011451841006.mp3"
+        },
+        {
+            "text": "内城区的贵族，怎么总是这么言行不一？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011452034392.mp3"
+        }
+    ]
+}

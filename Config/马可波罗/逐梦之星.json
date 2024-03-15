@@ -1,0 +1,59 @@
+{
+    "name": "逐梦之星",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498369572864.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498369618037.jpg",
+    "voice_clips": [
+        {
+            "text": "一个枪法精湛的男人瞄准了荣誉",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494937284498.wav"
+        },
+        {
+            "text": "枪林弹雨，拯救世界",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494937455901.wav"
+        },
+        {
+            "text": "我们习惯在正式决斗前先放几句狠话",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494937611572.wav"
+        },
+        {
+            "text": "你凭本事偷的鲲，在下用枪火的套索收下",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494938016219.wav"
+        },
+        {
+            "text": "荣耀充满价值，胜利无法交易",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494938188930.wav"
+        },
+        {
+            "text": "旋转，跳跃，闭着眼……轰！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494938345718.wav"
+        },
+        {
+            "text": "4587、4819以及4811，神秘的数字，敲开联盟酒吧的密码",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494938539688.wav"
+        },
+        {
+            "text": "不要轻易尝试越塔的滋味",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494938699692.wav"
+        },
+        {
+            "text": "说好的……四保一呢",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494938992477.wav"
+        },
+        {
+            "text": "没错，还有这种操作",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494939302988.wav"
+        },
+        {
+            "text": "眼花吗？缭乱吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494939582499.wav"
+        },
+        {
+            "text": "怕死吗？我也很怕的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494939849691.wav"
+        },
+        {
+            "text": "风里雨里，大招等你",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494940192866.wav"
+        }
+    ]
+}

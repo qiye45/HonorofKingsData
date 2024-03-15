@@ -1,0 +1,107 @@
+{
+    "name": "远游之枪",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498403983655.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498404018777.jpg",
+    "voice_clips": [
+        {
+            "text": "Are you ready?",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494932218191.wav"
+        },
+        {
+            "text": "Let's go,baby~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494932386386.wav"
+        },
+        {
+            "text": "世界那么大，我想来看看~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494932521654.wav"
+        },
+        {
+            "text": "世界不止眼前的苟且，还有诗和远方~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494933074112.wav"
+        },
+        {
+            "text": "让子弹快乐的飞吧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494933247304.wav"
+        },
+        {
+            "text": "行动和欲望决定未来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494933445216.wav"
+        },
+        {
+            "text": "大家先上，我殿后！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494933593662.wav"
+        },
+        {
+            "text": "Show time!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494934233863.wav"
+        },
+        {
+            "text": "摩擦摩擦，是魔鬼的步伐",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494934445777.wav"
+        },
+        {
+            "text": "世界和平~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494934634592.wav"
+        },
+        {
+            "text": "我送你离开，千里之外~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494935014541.wav"
+        },
+        {
+            "text": "哟，躺枪啦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494935182885.wav"
+        },
+        {
+            "text": "高风险，高回报",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494935387407.wav"
+        },
+        {
+            "text": "信仰没有高低贵贱，战争也并非黑白分明。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494936079842.wav"
+        },
+        {
+            "text": "伟大的神明不必征召，他的存在就能引领信徒",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494935967282.wav"
+        },
+        {
+            "text": "Nice to meet you die.",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494936422710.wav"
+        },
+        {
+            "text": "子弹和我的帅气，你都无法抵御！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494936672896.wav"
+        },
+        {
+            "text": "小子，你现在可是站在我父亲——一位魔道贵族老爷打造的火鹰号上。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722970342691.wav"
+        },
+        {
+            "text": "无人生还的迷雾之海，那可是我都没能到达的地方。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722970582952.wav"
+        },
+        {
+            "text": "一路顺风！如果见到老船长，记得帮我问问有没有父亲的消息。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221229/16722970796003.wav"
+        },
+        {
+            "text": "嗯，风暴、危机、怪兽——除了颜色，好像也没有太大差别。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230426/16824988636574.mp3"
+        },
+        {
+            "text": "海都人喜欢冒险，就算风险常伴，却能用一样的生命，活出几倍的人生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011440311300.mp3"
+        },
+        {
+            "text": "哎，我总忘了，你也曾梦想成为领航员，绘制最完整的航海图。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011440461317.mp3"
+        },
+        {
+            "text": "别扯开话题，最近那女孩怎么回事，你对她这么有耐心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011440673200.mp3"
+        },
+        {
+            "text": "哟，命运家乖小子，你敢不敢不用那招，我们再来比试比试。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231128/17011440866769.mp3"
+        }
+    ]
+}

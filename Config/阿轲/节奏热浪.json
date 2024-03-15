@@ -1,0 +1,63 @@
+{
+    "name": "节奏热浪",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498390066891.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498390083330.jpg",
+    "voice_clips": [
+        {
+            "text": "荧光棒，可不只是用来加油的~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496488441744.wav"
+        },
+        {
+            "text": "别爱我，没结果~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496488557327.wav"
+        },
+        {
+            "text": "生而耀眼，我很抱歉~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496488636578.wav"
+        },
+        {
+            "text": "只会弹琴的家伙最讨厌了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496488752933.wav"
+        },
+        {
+            "text": "肉体和灵魂的时差，是四分之一拍~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496488895313.wav"
+        },
+        {
+            "text": "喜欢人家的尾巴？小心，喜欢会致命哦~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496489019406.wav"
+        },
+        {
+            "text": "表面热情似火，内心毫无波动~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496489153653.wav"
+        },
+        {
+            "text": "没有注视我的人，你们的脸，我都记住了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496489303923.wav"
+        },
+        {
+            "text": "音乐…停止了…",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496489428937.wav"
+        },
+        {
+            "text": "一击即中你的心~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496489585750.wav"
+        },
+        {
+            "text": "别跑啊~晚会还没结束呢~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496489709119.wav"
+        },
+        {
+            "text": "完美的偷袭，要踩着节拍来~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496489829873.wav"
+        },
+        {
+            "text": "迷倒的就是你~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496490006345.wav"
+        },
+        {
+            "text": "彩排？我需要吗~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496490122733.wav"
+        }
+    ]
+}

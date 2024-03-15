@@ -1,0 +1,143 @@
+{
+    "name": "乘龙·铭钟鼎",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240204/17070381538821.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240204/17070381514858.jpg",
+    "voice_clips": [
+        {
+            "text": "诏天地为证，镌日月为盟。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070348632475.mp3"
+        },
+        {
+            "text": "立契天地！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070348911474.mp3"
+        },
+        {
+            "text": "千秋为纪，礼乐流风。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070349169834.mp3"
+        },
+        {
+            "text": "承千秋之祐，聚万象为龙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070351403298.mp3"
+        },
+        {
+            "text": "节击钟鼓，约定天地——孚佑一方，百代绵长。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070351958756.mp3"
+        },
+        {
+            "text": "昔者先祖观象于天，问法于地，作书契而名万物。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070352204593.mp3"
+        },
+        {
+            "text": "器以藏礼，铭以传道；青史继绝，钟鼎系之。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070352477753.mp3"
+        },
+        {
+            "text": "吾曾见莽原之上燧石火出……而今竟已遍照九州。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070352738875.mp3"
+        },
+        {
+            "text": "奏黄钟，歌大吕，上祀九霄澄明，下祈四海永清！（改编自《周礼·春官·大司乐》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070353153598.mp3"
+        },
+        {
+            "text": "吉金，我们已被唤做历史，你须得有些长辈的模样。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070353433740.mp3"
+        },
+        {
+            "text": "吾代生民立一言，虽远不废，谓之不朽。（改编自《左传》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070353848161.mp3"
+        },
+        {
+            "text": "先祖法天地之序，定山川水土……千秋往事，山形依旧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070354096377.mp3"
+        },
+        {
+            "text": "无须伤怀，卜年如此，天所命也。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070354425901.mp3"
+        },
+        {
+            "text": "锋刃已砺，后来者谁？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070354871592.mp3"
+        },
+        {
+            "text": "天地有秽，吾扫之而已。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070355124615.mp3"
+        },
+        {
+            "text": "祀社！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070355452678.mp3"
+        },
+        {
+            "text": "祈年！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070355669389.mp3"
+        },
+        {
+            "text": "敬诸天！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070355879976.mp3"
+        },
+        {
+            "text": "四望山川！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070356097554.mp3"
+        },
+        {
+            "text": "和五声，正八风！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070356293078.mp3"
+        },
+        {
+            "text": "玉振金声！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070356574481.mp3"
+        },
+        {
+            "text": "铸鼎象物，以承天休！（选自《左传》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070356885804.mp3"
+        },
+        {
+            "text": "试来挽江河！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070357109361.mp3"
+        },
+        {
+            "text": "誓告山岳，盟同河泽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070357311059.mp3"
+        },
+        {
+            "text": "慎身修永，举止持重。记住了吗……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070357634124.mp3"
+        },
+        {
+            "text": "鸣钟击磬， 礼毕当归。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070357892771.mp3"
+        },
+        {
+            "text": "哦？此言真是新鲜，那不知阁下又是何生辰年月呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070358342415.mp3"
+        },
+        {
+            "text": "有一位老友名唤昆仑，时至今日还在力撑天地，你可自去寻他。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070358686221.mp3"
+        },
+        {
+            "text": "剪恶如草，举手之劳。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070359029192.mp3"
+        },
+        {
+            "text": "今朝英雄辈出，想来神兵坚盾更不知凡几。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070359235938.mp3"
+        },
+        {
+            "text": "多谢诗卷。“登临四望，不见前人”之语……感怀良多。（选自孟浩然《与诸子登岘山》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070359506532.mp3"
+        },
+        {
+            "text": "斯人虽远，斯言当存……吾心金石，永不更移。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070359826989.mp3"
+        },
+        {
+            "text": "……说笑了，今朝一岁大家添，岂是人间独我老。（改编自陆游《木兰花·立春日作》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070360455967.mp3"
+        },
+        {
+            "text": "其名吉金，若论年寿，你当唤它一声……老前辈。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240204/17070360987387.mp3"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "name": "暗渊魔法",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498414134854.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498414187562.jpg",
+    "voice_clips": [
+        {
+            "text": "打开禁典第十三页，你会得到想要的东西",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499327635620.mp3"
+        },
+        {
+            "text": "让我从冬眠中苏醒的，就是你吗？幸运者",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499327742639.mp3"
+        },
+        {
+            "text": "我来收这个世界欠我的债。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499327852910.mp3"
+        },
+        {
+            "text": "恐惧和渴望，多么甜美的食粮",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498193291305.wav"
+        },
+        {
+            "text": "尽情呼唤吧，但会回应你的只有我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498193548110.wav"
+        },
+        {
+            "text": "凝视深渊，你将不再孤独",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498196138205.wav"
+        },
+        {
+            "text": "逃无可逃的，不妨称之为“宿命”吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498196295637.wav"
+        },
+        {
+            "text": "羊皮纸上的灵魂，总在阴雨天哀鸣。啧，真吵",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498196564870.wav"
+        },
+        {
+            "text": "黑魔法可是这世上难得公平的交易",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498196738041.wav"
+        },
+        {
+            "text": "期待下一个幸运者",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498196887062.wav"
+        },
+        {
+            "text": "我无处不在！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498197068761.wav"
+        },
+        {
+            "text": "焚烧殆尽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498198309416.wav"
+        },
+        {
+            "text": "复仇冥火！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498198481394.wav"
+        },
+        {
+            "text": "迅速，就不会痛苦",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498198819658.wav"
+        },
+        {
+            "text": "听到了，你内心的召唤",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498198981734.wav"
+        },
+        {
+            "text": "哦~你躲在这里！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498199111967.wav"
+        },
+        {
+            "text": "神偏爱美丽的礼物，你落选了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498199278255.wav"
+        },
+        {
+            "text": "汝愿必偿！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498199494519.wav"
+        },
+        {
+            "text": "亲眼见证所有颠覆~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498199666809.wav"
+        },
+        {
+            "text": "哦，一对可怜的后辈。需要我把你一起变成锅炉吗，小女巫？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498199938119.wav"
+        },
+        {
+            "text": "你许下愿望，我将它实现，双赢的交易。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230626/16877512717953.mp3"
+        },
+        {
+            "text": "哦？是你在呼唤深渊？如此大胆的灵魂，已经许久未见了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240116/17053768118045.mp3"
+        }
+    ]
+}

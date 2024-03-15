@@ -1,0 +1,103 @@
+{
+    "name": "遇见神鹿",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499894071642.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240116/17053751575706.jpg",
+    "voice_clips": [
+        {
+            "text": "万物有灵，生生不息",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220418/16502900279770.mp3"
+        },
+        {
+            "text": "由画而生，随心而为",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500158948908.wav"
+        },
+        {
+            "text": "要变成光~因为有怕黑的人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500158517237.wav"
+        },
+        {
+            "text": "欸~你也是来找小鹿的呀？~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496485647725.wav"
+        },
+        {
+            "text": "唔~没见过什么小鹿呀！~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496485759449.wav"
+        },
+        {
+            "text": "除了我以外，好看的人都从云上来~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496485878405.wav"
+        },
+        {
+            "text": "树林是红色，小山是绿色，你猜…小鹿是什么颜色？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496486005421.wav"
+        },
+        {
+            "text": "月牙泉昨晚被我喝光啦!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496486131222.wav"
+        },
+        {
+            "text": "听，沙子在唱歌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496486254621.wav"
+        },
+        {
+            "text": "我会换一种方式陪着你",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496486445920.wav"
+        },
+        {
+            "text": "你在看哪儿~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496486695017.wav"
+        },
+        {
+            "text": "嘘！别说话！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496486877275.wav"
+        },
+        {
+            "text": "欸~我也会飞啦~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496486991868.wav"
+        },
+        {
+            "text": "喂，你就是我在等的人吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496487119394.wav"
+        },
+        {
+            "text": "哼~等我很久了吧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496487281534.wav"
+        },
+        {
+            "text": "呀~有一头会开花的鹿~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496487475760.wav"
+        },
+        {
+            "text": "嗨，峡谷还是要靠我来守护！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496487628665.wav"
+        },
+        {
+            "text": "下次还要来陪我呀！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496488102054.wav"
+        },
+        {
+            "text": "哼~下次还要来陪我玩呀",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496488233631.wav"
+        },
+        {
+            "text": "想去云的那端看看吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496488573605.wav"
+        },
+        {
+            "text": "嗯~这里以前光秃秃的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496488749636.wav"
+        },
+        {
+            "text": "这棵树比天还高，你猜猜是谁种的？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496488896692.wav"
+        },
+        {
+            "text": "嗯~想起了很久很久以前的故事~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496489188915.wav"
+        },
+        {
+            "text": "峡谷西边数第二朵蓝色的花，我从那里来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220418/16502900115305.mp3"
+        }
+    ]
+}

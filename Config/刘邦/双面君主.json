@@ -1,0 +1,59 @@
+{
+    "name": "双面君主",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498383367013.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498383381525.jpg",
+    "voice_clips": [
+        {
+            "text": "不客观的说，我是个好人！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493884775591.wav"
+        },
+        {
+            "text": "从不 伤天害理，偶尔拆塔收割",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493885135490.wav"
+        },
+        {
+            "text": "没有永恒的朋友，只有永恒的利益！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493885418709.wav"
+        },
+        {
+            "text": "个子矮就别怪我多踩两脚！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493885576896.wav"
+        },
+        {
+            "text": "良心是什么，能吃吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493885708445.wav"
+        },
+        {
+            "text": "能群殴，何必单挑呢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493897581858.wav"
+        },
+        {
+            "text": "有时候想活命，就得以毒攻毒。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493897708169.wav"
+        },
+        {
+            "text": "唉，简直无情……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493898415798.wav"
+        },
+        {
+            "text": "春风吹又生，斩草要除根~（选自白居易《赋得古原草送别》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493899547409.wav"
+        },
+        {
+            "text": "认命吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493899701805.wav"
+        },
+        {
+            "text": "哈哈，尖叫，不要停",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493899824536.wav"
+        },
+        {
+            "text": "出局~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493901306909.wav"
+        },
+        {
+            "text": "哟 好人一路平安~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493901427952.wav"
+        }
+    ]
+}

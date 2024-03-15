@@ -1,0 +1,155 @@
+{
+    "name": "天鹅之梦",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498477448505.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498477487403.jpg",
+    "voice_clips": [
+        {
+            "text": "一半高贵，一半纯情",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499908236603.mp3"
+        },
+        {
+            "text": "真爱，有毒哟。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499908326281.mp3"
+        },
+        {
+            "text": "黑暗而优雅！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499908444723.mp3"
+        },
+        {
+            "text": "来曲开场舞，至死方休！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497453425461.mp3"
+        },
+        {
+            "text": "啊，叫爱情的传染病，在王者世界蔓延。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497453603630.mp3"
+        },
+        {
+            "text": "我是天鹅公主，其余家伙都在为我跑龙套",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497453786439.mp3"
+        },
+        {
+            "text": "叫声青蛙，真把自己当王子？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497453931093.mp3"
+        },
+        {
+            "text": "这支舞结束后，我们就道别。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497454208742.mp3"
+        },
+        {
+            "text": "最美的舞，要献给最爱的人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497454386616.mp3"
+        },
+        {
+            "text": "呵呵，真是让人愉快呢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497454584638.mp3"
+        },
+        {
+            "text": "我的王子，人家好怕。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497454735753.wav"
+        },
+        {
+            "text": "天鹅的眼泪。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497454921248.mp3"
+        },
+        {
+            "text": "惹怒我的后果，很严重哦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497455041512.mp3"
+        },
+        {
+            "text": "好开心，想要旋转跳跃一整天。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497455172904.mp3"
+        },
+        {
+            "text": "不错不错",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497455336779.wav"
+        },
+        {
+            "text": "优雅的挥手",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497455466706.wav"
+        },
+        {
+            "text": "大写的拒绝。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497455581843.wav"
+        },
+        {
+            "text": "画个圈圈祝福你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497455729110.mp3"
+        },
+        {
+            "text": "见过天鹅跳小草舞吗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497455861448.mp3"
+        },
+        {
+            "text": "美妙的魔法，要试试吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497455989757.mp3"
+        },
+        {
+            "text": "天鹅之舞，永不落幕。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497456125104.mp3"
+        },
+        {
+            "text": "诅咒，解除……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497457306994.mp3"
+        },
+        {
+            "text": "优雅的落幕",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497457516119.wav"
+        },
+        {
+            "text": "旋转，华尔兹",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497458017771.wav"
+        },
+        {
+            "text": "无法停止的飞翔",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497458166278.wav"
+        },
+        {
+            "text": "飞翔圆舞曲。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497458344309.wav"
+        },
+        {
+            "text": "绽放生命，旋转不停。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497458498912.mp3"
+        },
+        {
+            "text": "拥抱自由",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497458684169.wav"
+        },
+        {
+            "text": "张开双翼！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497459095712.wav"
+        },
+        {
+            "text": "释放天性！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497459224699.wav"
+        },
+        {
+            "text": "超越完美！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497459343260.wav"
+        },
+        {
+            "text": "愿望成真",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497459525780.wav"
+        },
+        {
+            "text": "真爱降临",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497470539954.wav"
+        },
+        {
+            "text": "来个吻别~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497460295677.wav"
+        },
+        {
+            "text": "死神缺个舞伴",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497460837515.wav"
+        },
+        {
+            "text": "哇，癞蛤蟆想吃天鹅肉~~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497461031579.mp3"
+        },
+        {
+            "text": "你就是，他们说的那只丑小鸭？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497461224471.mp3"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "name": "山海·琳琅生",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230215/16764282222496.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230215/16764281963599.jpg",
+    "voice_clips": [
+        {
+            "text": "凝瑞气，定山海。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765293555339.mp3"
+        },
+        {
+            "text": "但与玲珑相携手，不信山海越不得！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765293788289.mp3"
+        },
+        {
+            "text": "事在人为，行者终至。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765293998958.mp3"
+        },
+        {
+            "text": "纵使山高路远，莫道止步不前！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764290263804.mp3"
+        },
+        {
+            "text": "以温养之玉，击碎蔽日之石！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764290537720.mp3"
+        },
+        {
+            "text": "孤勇不及之地，且须借力而行。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764290758885.mp3"
+        },
+        {
+            "text": "白民与灵兽以《国书》立约，山海不枯，誓约不负。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764291046925.mp3"
+        },
+        {
+            "text": "逆湍流，跨千山，众人止步却向前。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764291378042.mp3"
+        },
+        {
+            "text": "续灵脉以永固，振山海之晴明。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764291583071.mp3"
+        },
+        {
+            "text": "玲珑伴我，吾道不孤。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764292017034.mp3"
+        },
+        {
+            "text": "山海有灵，天地共生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764292486421.mp3"
+        },
+        {
+            "text": "我将带着灵脉佳音归来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764292879503.mp3"
+        },
+        {
+            "text": "未至终点，不可轻言放弃……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764293184996.mp3"
+        },
+        {
+            "text": "畏惧不前的懦夫，不会拥有伙伴。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764293562260.mp3"
+        },
+        {
+            "text": "完美配合！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764294039431.mp3"
+        },
+        {
+            "text": "腾空而起！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764294459864.mp3"
+        },
+        {
+            "text": "玲珑一跃山海！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764294686282.mp3"
+        },
+        {
+            "text": "我有灵兽同行！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765294392748.mp3"
+        },
+        {
+            "text": "击玉碎金！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764295791344.mp3"
+        },
+        {
+            "text": "国书起，玉叶琼花落满地！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764295959604.mp3"
+        },
+        {
+            "text": "灵脉之上，玉花绽放！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764296157071.mp3"
+        },
+        {
+            "text": "手持玉花，飞黄腾达。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765293074383.mp3"
+        },
+        {
+            "text": "玉花重开之日！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764299314244.wav"
+        },
+        {
+            "text": "玲珑，在何处？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764299562397.wav"
+        },
+        {
+            "text": "玉花零落，不见白国……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764299812871.mp3"
+        },
+        {
+            "text": "玲珑一怒，巨石崩碎。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764300086838.mp3"
+        },
+        {
+            "text": "（轻笑）跨越山海，永固灵脉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764300386460.mp3"
+        },
+        {
+            "text": "不启灵脉，不言归家。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764301069065.mp3"
+        },
+        {
+            "text": "乘黄之上，远眺故乡。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764301405299.mp3"
+        },
+        {
+            "text": "道远何妨？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764301612537.mp3"
+        },
+        {
+            "text": "白民之国在龙鱼北。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764302156578.mp3"
+        },
+        {
+            "text": "以国书立约。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764302355246.mp3"
+        },
+        {
+            "text": "白民以玉花为食。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764302709182.mp3"
+        },
+        {
+            "text": "给，玉花！玲珑与我最爱的零食。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764303901034.mp3"
+        },
+        {
+            "text": "难怪玲珑刚来向我告状，总有个家伙来蹭吃蹭喝。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764305709693.mp3"
+        },
+        {
+            "text": "不知何时才能肩负起王女的责任……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764306479879.mp3"
+        },
+        {
+            "text": "真的吗？但玲珑提醒我，别轻信你的话……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230215/16764306907430.mp3"
+        }
+    ]
+}

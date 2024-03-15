@@ -1,0 +1,203 @@
+{
+    "name": "绝代智谋",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498391931133.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498391958763.jpg",
+    "voice_clips": [
+        {
+            "text": "天下如棋，一步三算！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497672945562.wav"
+        },
+        {
+            "text": "静以修身，俭以养德。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497692419226.wav"
+        },
+        {
+            "text": "聪明人的游戏，有进有退。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497692608800.wav"
+        },
+        {
+            "text": "运筹帷幄之中，决胜千里之外！（选自司马迁《史记·高祖本纪》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497693226607.wav"
+        },
+        {
+            "text": "一切都在计算中！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497693529606.wav"
+        },
+        {
+            "text": "不做没有绝对胜算的事！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497693711190.wav"
+        },
+        {
+            "text": "当心那些无知的人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497694185266.wav"
+        },
+        {
+            "text": "有时也想做个无知无虑的傻瓜。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497694376180.wav"
+        },
+        {
+            "text": "神机天赋，莫要强求。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497694603178.wav"
+        },
+        {
+            "text": "战争并不只像物理上的打击。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497694815477.wav"
+        },
+        {
+            "text": "知识赐予我答案，以及更多无从解答的难题。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497695242272.wav"
+        },
+        {
+            "text": "啊，起风了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497698545582.wav"
+        },
+        {
+            "text": "撤退也是战略，喂，那怀疑的眼光是怎么回事。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497698889804.wav"
+        },
+        {
+            "text": "希望就藏在十二奇迹之中。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497699375632.mp3"
+        },
+        {
+            "text": "暗影，阴谋，又是硝烟的滋味。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497699583196.mp3"
+        },
+        {
+            "text": "踏入我的棋局。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497699939381.wav"
+        },
+        {
+            "text": "这是不可逃避的一战，亦是我所寻求之答案。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497700434823.wav"
+        },
+        {
+            "text": "我为一个书里没有的答案而来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497700901376.wav"
+        },
+        {
+            "text": "东风破！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497701383317.wav"
+        },
+        {
+            "text": "赤壁风暴！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497701617960.wav"
+        },
+        {
+            "text": "陨落吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497701836822.wav"
+        },
+        {
+            "text": "将军！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497702077138.wav"
+        },
+        {
+            "text": "是时候结束了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497702726846.wav"
+        },
+        {
+            "text": "你命数已尽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497703102467.wav"
+        },
+        {
+            "text": "推演开始。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497703582421.wav"
+        },
+        {
+            "text": "还可以更完美一点。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497704424683.wav"
+        },
+        {
+            "text": "这就是天意！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497705161131.wav"
+        },
+        {
+            "text": "就这样吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497705956103.wav"
+        },
+        {
+            "text": "乌合之众。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497706207409.wav"
+        },
+        {
+            "text": "意料之中。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497706414244.wav"
+        },
+        {
+            "text": "智商太低会传染，离我远点。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497706949689.wav"
+        },
+        {
+            "text": "我从未见过有如此..战力低下之人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497707336627.wav"
+        },
+        {
+            "text": "是的，这也是计划中的一环。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497707666606.wav"
+        },
+        {
+            "text": "还想来第八次吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499852084586.mp3"
+        },
+        {
+            "text": "好好学习",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497708575903.wav"
+        },
+        {
+            "text": "听说你也很会下棋。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497708753849.wav"
+        },
+        {
+            "text": "别做任何人的傀儡，",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497709518398.wav"
+        },
+        {
+            "text": "制造炮灰，而不是污染",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497709907574.wav"
+        },
+        {
+            "text": "再次强调，我可不是什么算命先生！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497710279469.wav"
+        },
+        {
+            "text": "聆听你的胡笳琴，错乱音符在演奏真实",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497710613660.wav"
+        },
+        {
+            "text": "高估霸道的力量，只会让自己沦为一场幻觉",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497711359142.wav"
+        },
+        {
+            "text": "该出戏了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497711741022.wav"
+        },
+        {
+            "text": "战术如此拙劣，你的老师知道吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497712128050.wav"
+        },
+        {
+            "text": "你是来送东风的吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497712468229.wav"
+        },
+        {
+            "text": "战场需要脑子，而不是旅行家。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497712859931.wav"
+        },
+        {
+            "text": "你来送死之前，没给自己算过一卦吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497713362348.wav"
+        },
+        {
+            "text": "我能指挥你吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511317529323.mp3"
+        },
+        {
+            "text": "看你的枪术，一定有个好老师。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511326269634.mp3"
+        },
+        {
+            "text": "臣本布衣，躬耕于南阳，苟全性命于乱世，不求闻达于诸侯。（选自诸葛亮《出师表》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240127/17063275742692.mp3"
+        }
+    ]
+}

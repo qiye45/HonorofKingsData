@@ -1,0 +1,135 @@
+{
+    "name": "幻阙歌",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230214/16763560989536.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230214/16763561273977.jpg",
+    "voice_clips": [
+        {
+            "text": "霓为衣兮霞为裳，蜃楼起兮海雾茫……前梦宛然，去者犹在。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765280298783.mp3"
+        },
+        {
+            "text": "呵云气兮成万象，筑高台兮凌穹苍……月照天门，蜃境始开。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765280678397.mp3"
+        },
+        {
+            "text": "天上宫阙无处归……莫回首，梦觉已千秋。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230216/16765281023965.mp3"
+        },
+        {
+            "text": "梦中有人间，海上有云烟。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763570619575.mp3"
+        },
+        {
+            "text": "“船过沧浪，骤起蜃楼；客行广漠，忽现海市……”这就是凡世中，关于我们的记述？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763571002637.mp3"
+        },
+        {
+            "text": "见过万物易碎，就见过了我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763571381541.mp3"
+        },
+        {
+            "text": "比月华兮短年光，比昙华兮朝暮亡……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763574653422.mp3"
+        },
+        {
+            "text": "他人笑尔频说梦，（轻笑）焉知彼亦非梦中？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763574899692.mp3"
+        },
+        {
+            "text": "愚人一做梦，他者遍体鳞伤。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763575451116.mp3"
+        },
+        {
+            "text": "似假似幻，非雾非烟～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763575714604.mp3"
+        },
+        {
+            "text": "从来好物不坚牢，彩云易散琉璃碎。（改编自白居易《简简吟》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763576031881.mp3"
+        },
+        {
+            "text": "让故人魂梦，不再四处漂泊。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763576301236.mp3"
+        },
+        {
+            "text": "都化作，片羽浮光……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763576938357.mp3"
+        },
+        {
+            "text": "凡所有相，皆是虚妄。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763577459878.mp3"
+        },
+        {
+            "text": "若非痴人，何以说梦？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763577845169.mp3"
+        },
+        {
+            "text": "天人栩栩来～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763578268826.mp3"
+        },
+        {
+            "text": "魂牵旧影～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763578707616.mp3"
+        },
+        {
+            "text": "斯人出没水云间。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763579003324.mp3"
+        },
+        {
+            "text": "氤氲蜃气，吁成天阙～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763579851837.mp3"
+        },
+        {
+            "text": "蜃楼如故，昨梦已非……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763580142428.mp3"
+        },
+        {
+            "text": "千年旧影，筑作刹那绮境！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763580416386.mp3"
+        },
+        {
+            "text": "景色如旧，何须再三观赏？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763580817078.mp3"
+        },
+        {
+            "text": "水中捞月，徒然而已。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763581286421.mp3"
+        },
+        {
+            "text": "剪明月为蚀，戴天穹之上。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763581685789.mp3"
+        },
+        {
+            "text": "珠宫贝阙，一如当年。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763581973279.mp3"
+        },
+        {
+            "text": "重到旧时蜃气楼～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763582356985.mp3"
+        },
+        {
+            "text": "看取繁华几千重。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763582663962.mp3"
+        },
+        {
+            "text": "世情多变幻，流水迢无返。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763582975898.mp3"
+        },
+        {
+            "text": "妄念起，罪孽生。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763583288334.mp3"
+        },
+        {
+            "text": "幽昙梦短，月明他乡。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763583541270.mp3"
+        },
+        {
+            "text": "未竟之舞，不可再得。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763583891667.mp3"
+        },
+        {
+            "text": "牵云以为衣，曳露举作佩。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230214/16763584311110.mp3"
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "name": "妄想食味",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240201/17067744113541.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240201/17067744192780.jpg",
+    "voice_clips": [
+        {
+            "text": "嗯？ 披萨、寿司和烧卖？ 烧烤、夹馍、关东煮，布丁、蛋挞、羊角酥！——脑洞代替脚步，香味突破屏幕！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068676733583.mp3"
+        },
+        {
+            "text": "味蕾不受局限，美食随心而变。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068676877612.mp3"
+        },
+        {
+            "text": "想象无边，化滋味万千。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068677012637.mp3"
+        },
+        {
+            "text": "食材是自然的语言，风味是文明的历史。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068456983679.mp3"
+        },
+        {
+            "text": "无法保鲜的食物，可以打包到胃里。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068457636280.mp3"
+        },
+        {
+            "text": "吃饭喝汤，生活不忙。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068457804827.mp3"
+        },
+        {
+            "text": "再高端的食材，一口也能吃掉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068459609561.mp3"
+        },
+        {
+            "text": "深刻大道理，不如小板栗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068459771481.mp3"
+        },
+        {
+            "text": "晚餐加宵夜，是解决烦恼的最佳组合。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068459935894.mp3"
+        },
+        {
+            "text": "随机抽取十条弹幕，送出直播间排行前十的新奇料理！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068460349354.mp3"
+        },
+        {
+            "text": "助理小饭罢工，请假一天。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068461075251.mp3"
+        },
+        {
+            "text": "小助理修理完毕，直播继续。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068461408495.mp3"
+        },
+        {
+            "text": "人类驯服食物名场面！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068461795326.mp3"
+        },
+        {
+            "text": "春困秋乏，不如躺在家里喝奶茶。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068462087687.mp3"
+        },
+        {
+            "text": "夏倦冬困，正好窝在家中吃火锅。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068462259671.mp3"
+        },
+        {
+            "text": "古今内外，最爱中华烧卖！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068462597068.mp3"
+        },
+        {
+            "text": "鱼肉可口，冷食略逊一筹。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068462756577.mp3"
+        },
+        {
+            "text": "芝士虽好，不如家乡味道。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068462916683.mp3"
+        },
+        {
+            "text": "电饭煲烫屁股了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068463088432.mp3"
+        },
+        {
+            "text": "弹幕可以作证，是食物先动的手。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068463356877.mp3"
+        },
+        {
+            "text": "食物界的未解之谜——鱼香肉丝为什么没有鱼？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068463594025.mp3"
+        },
+        {
+            "text": "开播！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068541317220.mp3"
+        },
+        {
+            "text": "上菜！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068541468350.mp3"
+        },
+        {
+            "text": "葱爆牛柳！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068541775201.mp3"
+        },
+        {
+            "text": "剁椒鱼头！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068541921623.mp3"
+        },
+        {
+            "text": "鲜嫩爆汁！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068542084836.mp3"
+        },
+        {
+            "text": "豚骨拉面！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068542247257.mp3"
+        },
+        {
+            "text": "羊肉抓饭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068542407123.mp3"
+        },
+        {
+            "text": "征服味蕾！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068542553235.mp3"
+        },
+        {
+            "text": "借力而为！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068542931640.mp3"
+        },
+        {
+            "text": "平稳落地！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068543099198.mp3"
+        },
+        {
+            "text": "开饭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068543304784.mp3"
+        },
+        {
+            "text": "尝尝？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068543465949.mp3"
+        },
+        {
+            "text": "水滑肉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068543687915.mp3"
+        },
+        {
+            "text": "油封鸭腿！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068543846082.mp3"
+        },
+        {
+            "text": "外酥里嫩！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068544008396.mp3"
+        },
+        {
+            "text": "佛跳墙！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068544181604.mp3"
+        },
+        {
+            "text": "菠萝飞饼！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068544353652.mp3"
+        },
+        {
+            "text": "口感轻盈！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068544619083.mp3"
+        },
+        {
+            "text": "勺筷碗杯，各就各位。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068544818575.mp3"
+        },
+        {
+            "text": "饭后活动时间。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068544979607.mp3"
+        },
+        {
+            "text": "足不出户的美食，如何走向世界？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068545238460.mp3"
+        },
+        {
+            "text": "无限追求不如原地退休。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068546087606.mp3"
+        },
+        {
+            "text": "红烧牛肉、蜜汁烧鸡、糖醋排骨……紧张刺激的报菜名游戏吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068546429456.mp3"
+        },
+        {
+            "text": "三十年芥末味老鲱鱼拌咸辣海胆冰淇淋！隔壁主播都馋哭了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068546809529.mp3"
+        },
+        {
+            "text": "吃的不多不少，生活不急不躁。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068547063113.mp3"
+        }
+    ]
+}

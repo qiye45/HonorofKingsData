@@ -1,0 +1,55 @@
+{
+    "name": "冰锋战神",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498333227765.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498333258899.jpg",
+    "voice_clips": [
+        {
+            "text": "征服，以凛冬的名义！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497762311345.wav"
+        },
+        {
+            "text": "暴风雪的远征者，君临北地的灾厄之王！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497762723901.wav"
+        },
+        {
+            "text": "长夜与我同在！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497762925325.wav"
+        },
+        {
+            "text": "奉上领地，或者化为冻土的尘埃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497765735027.wav"
+        },
+        {
+            "text": "不过丧失些许记忆，我对此毫不留恋！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497765941877.wav"
+        },
+        {
+            "text": "向那位顽抗的公主致敬！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497766147325.wav"
+        },
+        {
+            "text": "为我们的永生而战！为我们的不朽而战！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497766914086.wav"
+        },
+        {
+            "text": "我的大刀冰冷如雪",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497767098252.wav"
+        },
+        {
+            "text": "回想起……最后的人性。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497767273727.wav"
+        },
+        {
+            "text": "践踏他们！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497767472938.wav"
+        },
+        {
+            "text": "粉碎所有的抵抗！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497767653910.wav"
+        },
+        {
+            "text": "噢，杂耍小队，你们自愿的牺牲是在为我加冕！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497767867896.wav"
+        }
+    ]
+}

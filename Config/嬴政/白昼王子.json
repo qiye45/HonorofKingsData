@@ -1,0 +1,63 @@
+{
+    "name": "白昼王子",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498471966251.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498472004645.jpg",
+    "voice_clips": [
+        {
+            "text": "凡人之上，众神之下！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493250176313.wav"
+        },
+        {
+            "text": "刺痛陨落的灵魂！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493250437226.wav"
+        },
+        {
+            "text": "勇者无畏！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493250635434.wav"
+        },
+        {
+            "text": "觉醒，还是沉沦？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493265638772.wav"
+        },
+        {
+            "text": "点亮早起者的希望~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493265891704.wav"
+        },
+        {
+            "text": "这才是真正的你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493266014974.wav"
+        },
+        {
+            "text": "失去一切之后，不要失去自己",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493266178882.wav"
+        },
+        {
+            "text": "露出你原本的样子！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493266652293.wav"
+        },
+        {
+            "text": "约好了，下次再战！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493266797470.wav"
+        },
+        {
+            "text": "曾有人用此剑阵，教我成长！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493266969386.wav"
+        },
+        {
+            "text": "信仰，就是我的护盾！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493267088401.wav"
+        },
+        {
+            "text": "你的逃避无路可走！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493267215135.wav"
+        },
+        {
+            "text": "叫我夜王子的白天~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493267379788.wav"
+        },
+        {
+            "text": "你一定是个天生的失败者~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493267481115.wav"
+        }
+    ]
+}

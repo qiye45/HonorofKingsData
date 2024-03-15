@@ -1,0 +1,63 @@
+{
+    "name": "逐浪之夏",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502891533862.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502891491792.jpg",
+    "voice_clips": [
+        {
+            "text": "夏天的味道？甜腻腻的……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499308743919.mp3"
+        },
+        {
+            "text": "大海和游泳圈最搭了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499308871459.mp3"
+        },
+        {
+            "text": "我的水枪和眼睛，都在瞄准你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499309003630.mp3"
+        },
+        {
+            "text": "你！兔子！举起手来！Biubiubiu~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496627728528.wav"
+        },
+        {
+            "text": "用沙子堆了个防御塔~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496627845814.wav"
+        },
+        {
+            "text": "这次的对手，是个偷心贼！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496627964317.wav"
+        },
+        {
+            "text": "可以永远玩扮演游戏吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496628084057.wav"
+        },
+        {
+            "text": "小心点儿！这片海滩都被我占领了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496628222253.wav"
+        },
+        {
+            "text": "糟糕，子弹用光了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496628408253.wav"
+        },
+        {
+            "text": "抗拒从严，坦白也从严~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496628988915.wav"
+        },
+        {
+            "text": "犯困了吗？清醒一下！Bong~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496628878492.mp3"
+        },
+        {
+            "text": "海风送来了你心里的小秘密~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496629167190.mp3"
+        },
+        {
+            "text": "哈哈，你输了！不要偷偷哭鼻子哦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496629328299.wav"
+        },
+        {
+            "text": "交出冰淇淋，我可以考虑放你一马~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496629478802.wav"
+        }
+    ]
+}

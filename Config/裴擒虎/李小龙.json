@@ -1,0 +1,147 @@
+{
+    "name": "李小龙",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498355168360.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498355191035.jpg",
+    "voice_clips": [
+        {
+            "text": "以无限为有限，以无法为有法",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499328398196.mp3"
+        },
+        {
+            "text": "化于无形，万法归一！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499328509745.mp3"
+        },
+        {
+            "text": "真理，存在于所有招式之外！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499328273821.mp3"
+        },
+        {
+            "text": "我不怕练过一万种腿法的对手，只怕把一种腿法练一万次的对手",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497282656052.mp3"
+        },
+        {
+            "text": "不要去想，去感受",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499245478285.wav"
+        },
+        {
+            "text": "水，无时不刻，都在流动。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496791332806.mp3"
+        },
+        {
+            "text": "清空你的思绪，无态，无形",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497283867482.mp3"
+        },
+        {
+            "text": "其动若水，其静若镜，其应若响！（选自《庄子·天下》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497313412692.mp3"
+        },
+        {
+            "text": "能看清“无物”，才是真正的“看见”",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497313825553.mp3"
+        },
+        {
+            "text": "我没有对手，因为“我”是不存在的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497314155765.mp3"
+        },
+        {
+            "text": "攻击，是最好的防御！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497315674412.wav"
+        },
+        {
+            "text": "龙魂……不会熄灭",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497316086550.wav"
+        },
+        {
+            "text": "生，是等待死亡的历程",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497316467596.mp3"
+        },
+        {
+            "text": "小龙问路！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497316772929.wav"
+        },
+        {
+            "text": "大龙摆尾！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497316921482.wav"
+        },
+        {
+            "text": "这场死亡游戏，你已经输了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497317378566.wav"
+        },
+        {
+            "text": "如果你们要打，就跟我打",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497317585945.wav"
+        },
+        {
+            "text": "这，才是中国拳！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497317824616.wav"
+        },
+        {
+            "text": "粤：真理，存在于所有招式之外！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499328625140.mp3"
+        },
+        {
+            "text": "粤：以无限为有限，以无法为有法",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499328741833.mp3"
+        },
+        {
+            "text": "粤：化于无形，万法归一！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499328889026.mp3"
+        },
+        {
+            "text": "粤：我不怕练过一万种腿法的对手，只怕把一种腿法练一万次的对手",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497319494472.mp3"
+        },
+        {
+            "text": "粤：不要去想，去感受",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497319724679.wav"
+        },
+        {
+            "text": "粤：清空你的思绪，无态，无形",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497320011054.mp3"
+        },
+        {
+            "text": "粤：能看清“无物”，才是真正的“看见”",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497320463477.mp3"
+        },
+        {
+            "text": "粤：我没有对手，因为“我”是不存在的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497320776061.mp3"
+        },
+        {
+            "text": "粤：攻击，是最好的防守！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497321023214.wav"
+        },
+        {
+            "text": "粤：龙魂……不会熄灭",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497321387159.wav"
+        },
+        {
+            "text": "粤：生，是等待死亡的历程",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497321644626.mp3"
+        },
+        {
+            "text": "粤：小龙问路！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497321895439.wav"
+        },
+        {
+            "text": "粤：大龙摆尾！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497322091748.wav"
+        },
+        {
+            "text": "粤：如果你们要打，就跟我打",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497322368346.mp3"
+        },
+        {
+            "text": "粤：这场死亡游戏，你已经输了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497322699228.mp3"
+        },
+        {
+            "text": "粤：这，才是中国拳！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497322955986.wav"
+        },
+        {
+            "text": "粤：其动若水，其静若镜，其应若响！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497323243615.mp3"
+        }
+    ]
+}

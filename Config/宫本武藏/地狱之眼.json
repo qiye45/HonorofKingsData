@@ -1,0 +1,51 @@
+{
+    "name": "地狱之眼",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231114/16999344616160.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231114/16999344636374.jpg",
+    "voice_clips": [
+        {
+            "text": "品味，品味是很重要的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499935114570.mp3"
+        },
+        {
+            "text": "来点聚光灯，别浪费这吓死人的新头盔。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499934975121.mp3"
+        },
+        {
+            "text": "恶魔，也需要关注和存在感。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497486246137.mp3"
+        },
+        {
+            "text": "欸呀呀，何必用生命来迷恋我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497486458632.mp3"
+        },
+        {
+            "text": "数清楚被切成多少片了没？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497487201805.mp3"
+        },
+        {
+            "text": "这顿大餐貌似过期很久了。呃，有点馊馊的~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497487424032.mp3"
+        },
+        {
+            "text": "一两灵魂，三枚铜板。没有买卖就没有伤害……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497487927097.mp3"
+        },
+        {
+            "text": "阿通叫我回家了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497488608308.wav"
+        },
+        {
+            "text": "我也是有血性的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497489264766.wav"
+        },
+        {
+            "text": "喜欢在我的领地上打劫~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497489643448.wav"
+        },
+        {
+            "text": "搞定！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490081910.wav"
+        }
+    ]
+}

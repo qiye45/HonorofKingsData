@@ -1,0 +1,79 @@
+{
+    "name": "圣骑之力",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498377651370.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498377681891.jpg",
+    "voice_clips": [
+        {
+            "text": "因剑而生！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497663888923.wav"
+        },
+        {
+            "text": "永不背叛！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497664453009.wav"
+        },
+        {
+            "text": "为了王者的形象，连睡觉也穿着铠甲！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497664779690.wav"
+        },
+        {
+            "text": "命运所在，别无选择。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497665019062.wav"
+        },
+        {
+            "text": "不要被欲望玷污。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497665262602.wav"
+        },
+        {
+            "text": "理想乡呼唤着我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497665591692.wav"
+        },
+        {
+            "text": "圣剑啊，你有看到那个敌人吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497665755567.wav"
+        },
+        {
+            "text": "王者背负，王者审判，王者不可阻挡！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497666692737.wav"
+        },
+        {
+            "text": "因剑而亡！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497667354985.wav"
+        },
+        {
+            "text": "以圣剑的名义，冲锋！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497670561695.wav"
+        },
+        {
+            "text": "见证奇迹吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497670979654.wav"
+        },
+        {
+            "text": "Excalibur！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497671229903.wav"
+        },
+        {
+            "text": "圣剑的裁决！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497671528301.wav"
+        },
+        {
+            "text": "感谢你的牺牲！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497671989615.wav"
+        },
+        {
+            "text": "安息吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497672174363.wav"
+        },
+        {
+            "text": "圣剑选择我，因为它也爱好在朋友圈发五杀战绩。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497672322163.wav"
+        },
+        {
+            "text": "命运指引我来到此处",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511328887433.mp3"
+        },
+        {
+            "text": "骑士，永不背叛",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511329226542.mp3"
+        }
+    ]
+}

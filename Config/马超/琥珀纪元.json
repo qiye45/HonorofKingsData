@@ -1,0 +1,155 @@
+{
+    "name": "琥珀纪元",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240201/17067743504900.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240201/17067743532753.jpg",
+    "voice_clips": [
+        {
+            "text": "白昼将尽，但人类的勇气会在宇宙的黑夜中燃起",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068680351807.mp3"
+        },
+        {
+            "text": "逆风暴而上，执过往前行！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068680498411.mp3"
+        },
+        {
+            "text": "活下来，才有资格定义人类！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068680868098.mp3"
+        },
+        {
+            "text": "高维打击低维，强者吞食弱者——这就是文明的铁律。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068573002619.mp3"
+        },
+        {
+            "text": "琥珀以为自己困住了虫子，但虫子从来都没有真正认输过。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068573167401.mp3"
+        },
+        {
+            "text": "这些枪曾经是荣耀者的通行证，如今 成了失败者的墓志铭",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068573325824.mp3"
+        },
+        {
+            "text": "我们纪念过往，却不该困于过往",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068573471527.mp3"
+        },
+        {
+            "text": "加入佣兵的第一课：保守，就等同于懦弱",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068573638869.mp3"
+        },
+        {
+            "text": "父亲没能改变风伯危机的轨迹，但我们可以纠正人类文明的方向",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068573796033.mp3"
+        },
+        {
+            "text": "老一辈有他们坚持的理由，新一代有自己追求的明天",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068573975807.mp3"
+        },
+        {
+            "text": "谁都可以在明天谈论道德，只要地球能活过此刻。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068574121791.mp3"
+        },
+        {
+            "text": "别让人性妨碍你做正确的事。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068574278082.mp3"
+        },
+        {
+            "text": "（实验开始： 你是否准备好接受琥珀植入……）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068574506174.mp3"
+        },
+        {
+            "text": "如果不想被当成猎物，那就先一步当上猎手",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068574849472.mp3"
+        },
+        {
+            "text": "（实验进程：琥珀植入比例40%……）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068575053756.mp3"
+        },
+        {
+            "text": "改造武器？不如改造自己",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068575634301.mp3"
+        },
+        {
+            "text": "（警告：琥珀植入比例超过60%，实验体陷入昏迷）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068575918663.mp3"
+        },
+        {
+            "text": "发现界限的唯一方法，就是超越界限",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068576237825.mp3"
+        },
+        {
+            "text": "我们会看到……全新的人类文明……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068576599350.mp3"
+        },
+        {
+            "text": "只有两种东西是无限的——宇宙，和人类的愚蠢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068576856435.mp3"
+        },
+        {
+            "text": "谁先让步，谁先灭亡。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068577482625.mp3"
+        },
+        {
+            "text": "先发制人！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068578019566.mp3"
+        },
+        {
+            "text": "主动出击！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068578231980.mp3"
+        },
+        {
+            "text": "进化，无法阻挡！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068578525602.mp3"
+        },
+        {
+            "text": "前行，不择手段！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068578957254.mp3"
+        },
+        {
+            "text": "掌控至高力量！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068579145419.mp3"
+        },
+        {
+            "text": "追不上技术，就会被危险追上！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068579309604.mp3"
+        },
+        {
+            "text": "重拾英雄的名字——截星者！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068579496273.mp3"
+        },
+        {
+            "text": "风暴之间！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068579711389.mp3"
+        },
+        {
+            "text": "极限穿梭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068579928266.mp3"
+        },
+        {
+            "text": "守护文明之路！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068580108242.mp3"
+        },
+        {
+            "text": "这次，和我一起回家",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068580295266.mp3"
+        },
+        {
+            "text": "直面所有未知",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068580563828.mp3"
+        },
+        {
+            "text": "那就让他们来试试，谁才是这具身体的主宰",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068580988769.mp3"
+        },
+        {
+            "text": "我和你们选择了不同的抗争方式",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068581164829.mp3"
+        },
+        {
+            "text": "故人的武器已重铸，故人的意志也该转向新路",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068581395892.mp3"
+        },
+        {
+            "text": "既不认同进化派，却也不是绝对的保守派，你究竟是什么立场？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240202/17068581572099.mp3"
+        }
+    ]
+}

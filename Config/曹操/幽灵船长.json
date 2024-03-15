@@ -1,0 +1,55 @@
+{
+    "name": "幽灵船长",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498325659801.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498325697415.jpg",
+    "voice_clips": [
+        {
+            "text": "扬帆！起航！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497675164444.wav"
+        },
+        {
+            "text": "我是已经成为海贼王的男人！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497675485710.wav"
+        },
+        {
+            "text": "身为著名鬼故事的男主角，值得一座金像奖。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497675776002.wav"
+        },
+        {
+            "text": "舍弃名字的家伙，跟挂掉没两样！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497675977092.wav"
+        },
+        {
+            "text": "海盗也是充满团队精神的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497676602086.wav"
+        },
+        {
+            "text": "大海贼时代降临！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497677083894.wav"
+        },
+        {
+            "text": "用宝藏来洗刷刷我的船板！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497677689878.wav"
+        },
+        {
+            "text": "对面水手，啧啧，美味的河蟹。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497677877409.wav"
+        },
+        {
+            "text": "阴沟翻船……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497690196411.wav"
+        },
+        {
+            "text": "你撞上了海难！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497690437249.wav"
+        },
+        {
+            "text": "击沉!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497690557383.wav"
+        },
+        {
+            "text": "噢，感受到了你们犀利的杀气，类似一滩海底的烂泥。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497690764812.mp3"
+        }
+    ]
+}

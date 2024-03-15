@@ -1,0 +1,139 @@
+{
+    "name": "玫瑰剑士",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498376999743.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498377029165.jpg",
+    "voice_clips": [
+        {
+            "text": "记住，玫瑰有刺~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500169274435.mp3"
+        },
+        {
+            "text": "拿去，放下剑~去找别的活法。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500169522390.mp3"
+        },
+        {
+            "text": "拿去，优雅地结束吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500169669662.mp3"
+        },
+        {
+            "text": "能够不流血而胜利，是最完美的胜利。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497651281762.mp3"
+        },
+        {
+            "text": "使命常与剑相伴。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497651473230.mp3"
+        },
+        {
+            "text": "美丽的事物，总是很棘手~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497651752118.mp3"
+        },
+        {
+            "text": "保持分寸。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497652011444.wav"
+        },
+        {
+            "text": "已显现的命运，不会因逃避而改变。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497652191617.mp3"
+        },
+        {
+            "text": "远离那些……只凭狂想的艺术和笃信杀戮的战斗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497652361570.mp3"
+        },
+        {
+            "text": "我们珍视荣誉，但绝非过去的荣誉。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497652718276.mp3"
+        },
+        {
+            "text": "神不会对胆小鬼微笑。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497652913262.wav"
+        },
+        {
+            "text": "光明会将我们引向同一个终点。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497653122843.mp3"
+        },
+        {
+            "text": "我竟然会失败…...!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497653841865.mp3"
+        },
+        {
+            "text": "你躲得开吗",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654634441.wav"
+        },
+        {
+            "text": "往哪逃",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654835535.wav"
+        },
+        {
+            "text": "迅光三角剑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497656503518.wav"
+        },
+        {
+            "text": "前进喷泉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497657572742.wav"
+        },
+        {
+            "text": "命中要害！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497658052774.wav"
+        },
+        {
+            "text": "冲力光剑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497658469184.wav"
+        },
+        {
+            "text": "你还太弱了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497658846626.wav"
+        },
+        {
+            "text": "太弱了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497659475828.wav"
+        },
+        {
+            "text": "破空光剑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497659871215.wav"
+        },
+        {
+            "text": "就凭你，挡不住我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497660353780.wav"
+        },
+        {
+            "text": "不用祷告！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497661362616.wav"
+        },
+        {
+            "text": "麻烦解决了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497662593233.wav"
+        },
+        {
+            "text": "这才刚开始！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497663128135.wav"
+        },
+        {
+            "text": "七星光芒剑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497663466033.wav"
+        },
+        {
+            "text": "别太得意！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497663798440.wav"
+        },
+        {
+            "text": "舒适的风~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497664162996.wav"
+        },
+        {
+            "text": "嗯~好香~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497664498723.wav"
+        },
+        {
+            "text": "站起来！这样就不行了？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497664821022.wav"
+        },
+        {
+            "text": "还算配得上我的对手~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497665163528.wav"
+        },
+        {
+            "text": "赌上荣耀！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497665966444.wav"
+        }
+    ]
+}

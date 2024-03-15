@@ -1,0 +1,151 @@
+{
+    "name": "时之奇旅",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231020/16977722204773.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20231020/16977722261776.jpg",
+    "voice_clips": [
+        {
+            "text": "不要耽误我下班！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977843432683.mp3"
+        },
+        {
+            "text": "嘿，收工~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977843659305.mp3"
+        },
+        {
+            "text": "最靠谱的大编辑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977843868703.mp3"
+        },
+        {
+            "text": "哼~还得是我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977844108434.mp3"
+        },
+        {
+            "text": "可别小瞧我啊！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977844332232.mp3"
+        },
+        {
+            "text": "切~小事一桩~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977844606990.mp3"
+        },
+        {
+            "text": "嘻嘻~乖~为猫猫摸鱼，当然也是工作的一部分",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977722797378.mp3"
+        },
+        {
+            "text": "啦啦啦~我的眼睛亮晶晶，纠错查漏辨得清",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977723082242.mp3"
+        },
+        {
+            "text": "规则那么多，我也就违反了一点点，嘿嘿",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977723361644.mp3"
+        },
+        {
+            "text": "唔，我犯的可是个美丽的错误～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977723766674.mp3"
+        },
+        {
+            "text": "读者的声音，可要好好听听~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977724049363.mp3"
+        },
+        {
+            "text": "冰冷的打印机，怎么能感受到角色的温度嘛~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977724346594.mp3"
+        },
+        {
+            "text": "这次轮到鲁班七号当主角了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977724576869.mp3"
+        },
+        {
+            "text": "糟了，截稿时间到了…",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977725221893.mp3"
+        },
+        {
+            "text": "嗨，问题稿件~回收回收！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977725462419.mp3"
+        },
+        {
+            "text": "不行不行~排序混乱~错字连篇~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977725836659.mp3"
+        },
+        {
+            "text": "呜啊~睡过头啦，赶不上送稿了…",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977726141823.mp3"
+        },
+        {
+            "text": "午休时间到！休息，休息一会儿~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977726438614.mp3"
+        },
+        {
+            "text": "审核通过！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977727037786.mp3"
+        },
+        {
+            "text": "精准校对！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977727238337.mp3"
+        },
+        {
+            "text": "哼，清除错版～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977727497991.mp3"
+        },
+        {
+            "text": "喂，交稿了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977727774155.mp3"
+        },
+        {
+            "text": "圈出错误所在~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977727981929.mp3"
+        },
+        {
+            "text": "锁定遗漏目标~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977728204995.mp3"
+        },
+        {
+            "text": "不仅是他们，我也很舍不得你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977728866000.mp3"
+        },
+        {
+            "text": "呜呜，太感动了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977729126223.mp3"
+        },
+        {
+            "text": "真不想和你说再见……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977732535764.mp3"
+        },
+        {
+            "text": "再不走你就要消失啦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977731941774.mp3"
+        },
+        {
+            "text": "不会画漫画的校阅官不是一个好编辑！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977731056793.mp3"
+        },
+        {
+            "text": "呜呜……不行，不行，我需要这份工作",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977731602598.mp3"
+        },
+        {
+            "text": "我不能去，会被开除的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977731318747.mp3"
+        },
+        {
+            "text": "终于找到你了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977730431567.mp3"
+        },
+        {
+            "text": "快跟我走",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977729393227.mp3"
+        },
+        {
+            "text": "等等我，我还没上去呢！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977729998137.mp3"
+        },
+        {
+            "text": "没我不行吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977732249414.mp3"
+        },
+        {
+            "text": "没有角色从遗忘之海回来过，除非有奇迹……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20231020/16977729673644.mp3"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "龙骑士",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498350152513.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498350183824.jpg",
+    "voice_clips": [
+        {
+            "text": "火焰，世界的本源。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499906822032.mp3"
+        },
+        {
+            "text": "信仰，即是契约。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499906937634.mp3"
+        },
+        {
+            "text": "你们的守护者，降临了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499907036373.mp3"
+        },
+        {
+            "text": "古老龙族的预言，终将在这片大陆应验。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496800707183.mp3"
+        },
+        {
+            "text": "再强大的龙骑士，也有为庇护弱小而死的一天。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496800874698.mp3"
+        },
+        {
+            "text": "战斗！为了无愧于人族世代的铭记。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496801449323.mp3"
+        },
+        {
+            "text": "灾难会淬炼龙的骨血。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496801612467.mp3"
+        },
+        {
+            "text": "我可没有那种……抢公主的爱好。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496801832508.mp3"
+        },
+        {
+            "text": "别怕，这就是龙骑士的命运……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496801981468.mp3"
+        },
+        {
+            "text": "无可匹敌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496802137074.wav"
+        },
+        {
+            "text": "龙之怒焰！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496802316094.wav"
+        },
+        {
+            "text": "觊觎圣物的下场。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496802476246.wav"
+        },
+        {
+            "text": "没错，我就是你理解的那种恶龙。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496802614209.wav"
+        },
+        {
+            "text": "被唤醒……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496803137494.wav"
+        }
+    ]
+}

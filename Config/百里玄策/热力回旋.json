@@ -1,0 +1,111 @@
+{
+    "name": "热力回旋",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498412849655.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498412868722.jpg",
+    "voice_clips": [
+        {
+            "text": "赌上少年之名",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500096964064.mp3"
+        },
+        {
+            "text": "青春最闪耀，天才正登场",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500097064436.mp3"
+        },
+        {
+            "text": "同学，要加入我们社团吗",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500097174894.mp3"
+        },
+        {
+            "text": "别埋头刷题了，一起来让脑子放松一下",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497658824658.wav"
+        },
+        {
+            "text": "你也被我的表演征服了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497658969455.wav"
+        },
+        {
+            "text": "你也有不管过去多久，都不会忘记的朋友吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497659087837.wav"
+        },
+        {
+            "text": "随风声接踵而至，是少年人的意志",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497659206567.wav"
+        },
+        {
+            "text": "成长的烦恼，统统用汗水来打倒。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497659335493.wav"
+        },
+        {
+            "text": "青春万岁，友谊万岁",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497659458283.wav"
+        },
+        {
+            "text": "我感觉快飞起来了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497659581303.wav"
+        },
+        {
+            "text": "少年，永不败退……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497659731333.wav"
+        },
+        {
+            "text": "忘我时刻",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497660084897.wav"
+        },
+        {
+            "text": "心跳加速",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497660222354.wav"
+        },
+        {
+            "text": "螺旋切",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497660356945.wav"
+        },
+        {
+            "text": "疾风回旋",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497660792216.wav"
+        },
+        {
+            "text": "千风瞬闪",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497660922631.wav"
+        },
+        {
+            "text": "怎么，你只会后退吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497661173072.wav"
+        },
+        {
+            "text": "为我欢呼吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497661345302.wav"
+        },
+        {
+            "text": "史上最强组合，运动与艺术的碰撞。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497663626984.wav"
+        },
+        {
+            "text": "这一棒就交给我吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499319621904.wav"
+        },
+        {
+            "text": "科学会爆炸我也会爆炸",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499319846073.wav"
+        },
+        {
+            "text": "完美的单词怎么读来着？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499319939559.wav"
+        },
+        {
+            "text": "经过计算这就是回旋镖的最佳角度",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498209312883.wav"
+        },
+        {
+            "text": "又是全场醒目担当。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497664458870.wav"
+        },
+        {
+            "text": "能百发百中的才叫作天才。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497665712961.wav"
+        },
+        {
+            "text": "时间不是友谊的敌人，而是最好的朋友",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497666196108.wav"
+        }
+    ]
+}

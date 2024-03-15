@@ -1,0 +1,79 @@
+{
+    "name": "如梦令",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498317179731.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498317208359.jpg",
+    "voice_clips": [
+        {
+            "text": "故事说，喜鹊在云上架桥，命定之人会从桥的那头奔向你……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500067679344.mp3"
+        },
+        {
+            "text": "就是你吗……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500067782948.mp3"
+        },
+        {
+            "text": "像做梦一样……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500067893165.mp3"
+        },
+        {
+            "text": "云上一瞬……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497407102365.wav"
+        },
+        {
+            "text": "是你对神灵许下因果吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497407286988.wav"
+        },
+        {
+            "text": "它们有着，不同于强者的力量。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497407453704.wav"
+        },
+        {
+            "text": "除了神女……我还有个自己的名字。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497407595106.wav"
+        },
+        {
+            "text": "合会有离……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497407744141.wav"
+        },
+        {
+            "text": "佳期如梦～（选自秦观《鹊桥仙·纤云弄巧》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497407922949.wav"
+        },
+        {
+            "text": "看呐，重逢的指引！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497408061447.wav"
+        },
+        {
+            "text": "在这儿~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497408223816.wav"
+        },
+        {
+            "text": "你尽力了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497408428540.wav"
+        },
+        {
+            "text": "你们不该来这。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497408607719.wav"
+        },
+        {
+            "text": "你对着月亮许了什么愿？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497408823064.wav"
+        },
+        {
+            "text": "在日之塔上祈求夜晚的神灵",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497409179364.wav"
+        },
+        {
+            "text": "梦醒之后……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511335725727.mp3"
+        },
+        {
+            "text": "经历贯穿命运的强光……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511336034479.mp3"
+        },
+        {
+            "text": "像焰火一样……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220428/16511336255012.mp3"
+        }
+    ]
+}

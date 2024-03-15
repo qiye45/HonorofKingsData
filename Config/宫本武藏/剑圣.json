@@ -1,0 +1,187 @@
+{
+    "name": "剑圣",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220609/16547757602146.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220609/16547757699111.jpg",
+    "voice_clips": [
+        {
+            "text": "天下无双！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547758929927.mp3"
+        },
+        {
+            "text": "告诉你个秘密：我，是无敌的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547759347757.mp3"
+        },
+        {
+            "text": "无敌，正是我所选择的道路。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547759497398.mp3"
+        },
+        {
+            "text": "人生，就是不断的战斗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547764867226.mp3"
+        },
+        {
+            "text": "太无敌而找不到对手，也是种无敌的忧伤。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547765709412.mp3"
+        },
+        {
+            "text": "无敌的我，又迷路了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547765865395.mp3"
+        },
+        {
+            "text": "想挑战的人排好队，一个一个来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547766053342.mp3"
+        },
+        {
+            "text": "在非人的领域，也同样无敌。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547766211017.mp3"
+        },
+        {
+            "text": "修行之路，永无止境。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547766431814.mp3"
+        },
+        {
+            "text": "浪迹天下，未尝一败。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547766604797.mp3"
+        },
+        {
+            "text": "朝一个方向走下去，便总有相见的那天。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547766762345.mp3"
+        },
+        {
+            "text": "没有一往无前的觉悟，就不配握紧手中的双刀。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547766954022.mp3"
+        },
+        {
+            "text": "武士的灵魂，可是比心脏更重要的东西。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547767583403.mp3"
+        },
+        {
+            "text": "悟彻……剑意……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547767823416.mp3"
+        },
+        {
+            "text": "下雪啊.....",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547767994576.mp3"
+        },
+        {
+            "text": "空明斩！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547769128418.mp3"
+        },
+        {
+            "text": "影步！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547769391837.mp3"
+        },
+        {
+            "text": "神速！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547770915598.mp3"
+        },
+        {
+            "text": "二天化一！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547771115627.mp3"
+        },
+        {
+            "text": "破空问心！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547772092679.mp3"
+        },
+        {
+            "text": "斩叶飞花！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547772255955.mp3"
+        },
+        {
+            "text": "断浪踏炎！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547772428028.mp3"
+        },
+        {
+            "text": "吾名宫本武藏，是将要打败你们的人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547772746528.mp3"
+        },
+        {
+            "text": "报上你的名号，挑战者！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547773006230.mp3"
+        },
+        {
+            "text": "恭喜你，将以我手下败将的身份载入史册。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547773172679.mp3"
+        },
+        {
+            "text": "今日状态上佳～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547773435895.mp3"
+        },
+        {
+            "text": "以武道之名！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547773706511.mp3"
+        },
+        {
+            "text": "下一个挑战者是谁？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547773893087.mp3"
+        },
+        {
+            "text": "更快，更高，更强！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547774145697.mp3"
+        },
+        {
+            "text": "只差一步！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547774354443.mp3"
+        },
+        {
+            "text": "此间再无敌手！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547775168002.mp3"
+        },
+        {
+            "text": "天下无双！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547775404865.mp3"
+        },
+        {
+            "text": "世间之寂寞，莫过于无敌。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547776459655.mp3"
+        },
+        {
+            "text": "你也有成为天下无双的理由么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547776837627.mp3"
+        },
+        {
+            "text": "你的剑，太重了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547777152110.mp3"
+        },
+        {
+            "text": "速与我再战一场！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547777338367.mp3"
+        },
+        {
+            "text": "中原剑法，不过如此。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547777526505.mp3"
+        },
+        {
+            "text": "人生的旅途可是很长的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547777798481.mp3"
+        },
+        {
+            "text": "承诺，一如我手中之剑。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547778105672.mp3"
+        },
+        {
+            "text": "我予你的，尚有最后一剑。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547778318284.mp3"
+        },
+        {
+            "text": "拿起剑的那天，就准备面对这一刻。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547778559922.mp3"
+        },
+        {
+            "text": "置之死地，方为活路。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547778843269.mp3"
+        },
+        {
+            "text": "是在下无敌了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547779128746.mp3"
+        },
+        {
+            "text": "安息吧，回到你们的故乡。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547779577403.mp3"
+        },
+        {
+            "text": "鸣雷，是你的怒吼吗。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220609/16547779822713.mp3"
+        }
+    ]
+}

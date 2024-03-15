@@ -1,0 +1,59 @@
+{
+    "name": "逐梦之翼",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498352005503.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498352032445.jpg",
+    "voice_clips": [
+        {
+            "text": "天之骄子！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496761583941.wav"
+        },
+        {
+            "text": "翻盘一切，除了正义！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496761724516.wav"
+        },
+        {
+            "text": "什么是真相？炸麦告诉你~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496761852687.wav"
+        },
+        {
+            "text": "年少如我，残血也会燃烧掉整个阵地~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496762319774.mp3"
+        },
+        {
+            "text": "并非平头的本少爷，照样安排得明明白白~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496762185316.mp3"
+        },
+        {
+            "text": "适时进场，他们需要你的力量！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496762446626.wav"
+        },
+        {
+            "text": "优秀的人，怎会千里送人头？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496762561985.wav"
+        },
+        {
+            "text": "笑话！来四个人就扛不住了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496762692512.wav"
+        },
+        {
+            "text": "永不零封！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496762831268.wav"
+        },
+        {
+            "text": "保护弱者，重振乾坤！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496763039530.wav"
+        },
+        {
+            "text": "玩够了，我要长大！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496763165329.wav"
+        },
+        {
+            "text": "讨厌被监察~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496763291848.wav"
+        },
+        {
+            "text": "你皮得过我？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496763478801.wav"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "name": "杀手不太冷",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502899793172.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502899695766.jpg",
+    "voice_clips": [
+        {
+            "text": "呵~哒哒哒！保持水准！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500021271047.mp3"
+        },
+        {
+            "text": "呵~哒哒哒！嘿！你们遗漏了某个小女孩！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500021381184.mp3"
+        },
+        {
+            "text": "呵~哒哒哒！26号在哪？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500021122038.mp3"
+        },
+        {
+            "text": "泡泡糖和枪，同等重要。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497750305861.wav"
+        },
+        {
+            "text": "普攻是为了说话，开大是为了思考",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497750476188.wav"
+        },
+        {
+            "text": "来玩儿个游戏吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497750759732.wav"
+        },
+        {
+            "text": "胆大心细有助于防止感冒",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497750891520.wav"
+        },
+        {
+            "text": "像小鸟一样自由",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497751052562.wav"
+        },
+        {
+            "text": "呵呵，谁这么幸运，中了本小姐的瞄准镜。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497751213019.wav"
+        },
+        {
+            "text": "啊，别开枪，我只是来送外卖的。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497751356907.wav"
+        },
+        {
+            "text": "我想你了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497751536291.wav"
+        },
+        {
+            "text": "哼，我只配呆在这儿？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497751688115.wav"
+        },
+        {
+            "text": "太棒了，amazing！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497751813093.wav"
+        },
+        {
+            "text": "哼，弱爆了，啊哈哈哈哈哈哈哈哈",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497751947141.wav"
+        },
+        {
+            "text": "想想你输了该怎么办吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497752081985.wav"
+        },
+        {
+            "text": "永远不对弱者下手。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497752211391.wav"
+        },
+        {
+            "text": "猜猜，这是哪个电影里的舞蹈。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497752362877.wav"
+        },
+        {
+            "text": "嗨~认出我了吗~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497752497664.wav"
+        },
+        {
+            "text": "嘿，吃糖吗？ 来拿呀~嘿嘿~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497752728413.wav"
+        },
+        {
+            "text": "来杯牛奶，谢谢。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497753254881.wav"
+        },
+        {
+            "text": "有人会替我送个礼物给你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497753404370.wav"
+        },
+        {
+            "text": "position!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497753592701.wav"
+        },
+        {
+            "text": "别跑，朋友",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497753742533.wav"
+        },
+        {
+            "text": "别跑，哥们",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497753897315.wav"
+        },
+        {
+            "text": "哼，就是现在",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754058573.wav"
+        },
+        {
+            "text": "我为自己工作~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754224039.wav"
+        },
+        {
+            "text": "暗号不对",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754341746.wav"
+        },
+        {
+            "text": "该听我的了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754476887.wav"
+        },
+        {
+            "text": "想杀我？本小姐睡觉都睁着一只眼。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497754717241.wav"
+        }
+    ]
+}

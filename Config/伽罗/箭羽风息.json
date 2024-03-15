@@ -1,0 +1,75 @@
+{
+    "name": "箭羽风息",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498390123456.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498390159227.jpg",
+    "voice_clips": [
+        {
+            "text": "一发入魂！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493189674040.wav"
+        },
+        {
+            "text": "比利箭更稳的，是我本人",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493190169955.wav"
+        },
+        {
+            "text": "你在我心头的第一章",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493190508425.wav"
+        },
+        {
+            "text": "除非你在我的门前，用柳枝筑一个靶心",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493191124666.wav"
+        },
+        {
+            "text": "除非你会一直吟咏着被冷淡的诗篇",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493191404001.wav"
+        },
+        {
+            "text": "或者，你可以向整个赛场呼喊，让所有的风都叫着我的名字",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493191669734.wav"
+        },
+        {
+            "text": "如果这支箭没有穿过你的信，那就代表着拒绝",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493192838922.wav"
+        },
+        {
+            "text": "一支真心准备的花，胜过千朵玫瑰",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493193581928.wav"
+        },
+        {
+            "text": "下个赛场再见",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493194728727.wav"
+        },
+        {
+            "text": "当心，朋友",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493196183904.wav"
+        },
+        {
+            "text": "有些伤害比我能看见的远",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493196553983.wav"
+        },
+        {
+            "text": "别堵在那，请让下路",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493197795100.wav"
+        },
+        {
+            "text": "学会沉默吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493199493565.wav"
+        },
+        {
+            "text": "骄傲值得分享",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493200398565.wav"
+        },
+        {
+            "text": "理解胜于一切！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493200602575.wav"
+        },
+        {
+            "text": "坚不可摧的胜利！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493205152071.wav"
+        },
+        {
+            "text": "要为你列一张无用之举的清单么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493205558648.wav"
+        }
+    ]
+}

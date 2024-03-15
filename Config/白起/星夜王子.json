@@ -1,0 +1,51 @@
+{
+    "name": "星夜王子",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220419/16503360045852.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220419/16503359991376.jpg",
+    "voice_clips": [
+        {
+            "text": "太阳之外，星夜之中！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496458667625.wav"
+        },
+        {
+            "text": "击碎命运的诅咒！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496458815959.wav"
+        },
+        {
+            "text": "这才是真正的我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496458905316.wav"
+        },
+        {
+            "text": "忍耐，还是抗争？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496459304238.wav"
+        },
+        {
+            "text": "驱散夜行人的恐惧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496459435760.wav"
+        },
+        {
+            "text": "重掌人生！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496459537556.wav"
+        },
+        {
+            "text": "困兽犹斗，何况是人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496459636662.wav"
+        },
+        {
+            "text": "卸下面具，和最后的懦弱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496459741081.wav"
+        },
+        {
+            "text": "灵魂，永不毁灭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496460019483.wav"
+        },
+        {
+            "text": "叫我夜之王子！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496460578852.wav"
+        },
+        {
+            "text": "想尝尝不幸的滋味么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496460688705.wav"
+        }
+    ]
+}

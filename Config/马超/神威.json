@@ -1,0 +1,55 @@
+{
+    "name": "神威",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498348595707.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498348651860.jpg",
+    "voice_clips": [
+        {
+            "text": "别挪开目光。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497652825551.wav"
+        },
+        {
+            "text": "穿越数个世纪，我来展示年轻。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497653042136.wav"
+        },
+        {
+            "text": "预言常与人相随。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497653256551.wav"
+        },
+        {
+            "text": "五虎上将，参见！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497653401606.wav"
+        },
+        {
+            "text": "强壮，冷静，骄傲，带电。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497653526738.wav"
+        },
+        {
+            "text": "难知如阴，动如雷震！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497653726733.wav"
+        },
+        {
+            "text": "战争应以所需而来，却不应以所欲而止...",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497653914985.mp3"
+        },
+        {
+            "text": "无论你有多快，雷电总会追上你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654052695.wav"
+        },
+        {
+            "text": "我的枪法，冷过冰雪。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654251833.wav"
+        },
+        {
+            "text": "尖锐的痛苦来自重复。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654473426.wav"
+        },
+        {
+            "text": "汝命，休矣！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654675907.wav"
+        },
+        {
+            "text": "吾家屡世公侯，岂识村野匹夫？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497654836322.mp3"
+        }
+    ]
+}

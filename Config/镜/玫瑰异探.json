@@ -1,0 +1,111 @@
+{
+    "name": "玫瑰异探",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230418/16818010843554.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230418/16818010872920.jpg",
+    "voice_clips": [
+        {
+            "text": "迷雾将会覆盖世界……；刺破伪装，窥见真相！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818131081288.mp3"
+        },
+        {
+            "text": "美丽通常和危险相伴，神秘往往与黑暗共舞。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818131193755.mp3"
+        },
+        {
+            "text": "你所接触的，只是冰山一角……；畏惧与逃避从不是我的信条。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818131322982.mp3"
+        },
+        {
+            "text": "世上没有完美的谎言，凡是犯罪必留痕迹。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818013313992.mp3"
+        },
+        {
+            "text": "平凡只是一座仁慈的孤岛，未知与疯狂才是这个世界的底色。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818013447984.mp3"
+        },
+        {
+            "text": "玫瑰之心，未被记录在册的异常物品。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818013618878.mp3"
+        },
+        {
+            "text": "永远对一切存在保持警惕。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818013746747.mp3"
+        },
+        {
+            "text": "表象不为真，眼见不为实。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818013882068.mp3"
+        },
+        {
+            "text": "更多危险，通常意味着更多的秘密。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818014034547.mp3"
+        },
+        {
+            "text": "越是复杂，越有破绽；越不起眼，越发关键。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818014286383.mp3"
+        },
+        {
+            "text": "躯体可被复制，但心不尽相同。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818014432087.mp3"
+        },
+        {
+            "text": "不会就此停止……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818014682227.mp3"
+        },
+        {
+            "text": "去妄",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818014986285.mp3"
+        },
+        {
+            "text": "求真",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818019247359.mp3"
+        },
+        {
+            "text": "破开迷雾",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818015885073.mp3"
+        },
+        {
+            "text": "探异闻",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818016088972.mp3"
+        },
+        {
+            "text": "窥诡秘",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818019653914.mp3"
+        },
+        {
+            "text": "玫瑰不语",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818016562622.mp3"
+        },
+        {
+            "text": "秘密隐藏",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818016969105.mp3"
+        },
+        {
+            "text": "线索易得",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818017431373.mp3"
+        },
+        {
+            "text": "人心难测",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818017588141.mp3"
+        },
+        {
+            "text": "超自然领域",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818017808764.mp3"
+        },
+        {
+            "text": "闲人退场",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818018017133.mp3"
+        },
+        {
+            "text": "我会记住你的遗言。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818018469530.mp3"
+        },
+        {
+            "text": "无知也是种幸运。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818018766382.mp3"
+        },
+        {
+            "text": "值得详细记述的是逻辑，而非罪行。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230418/16818018998693.mp3"
+        }
+    ]
+}

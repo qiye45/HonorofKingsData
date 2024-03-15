@@ -1,0 +1,347 @@
+{
+    "name": "凌霄真龙",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240129/17065122317616.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20240129/17065122276431.jpg",
+    "voice_clips": [
+        {
+            "text": "潜龙腾渊凌霄上，尘世无名誓不休！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065231894322.mp3"
+        },
+        {
+            "text": "一翻一覆兮天地，一生一灭兮吾心。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065232108938.mp3"
+        },
+        {
+            "text": "向世间，破尽尘骸一剑中。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065154658332.mp3"
+        },
+        {
+            "text": "迹为前尘隐，名因立身传；未敢试此剑，何面叩先贤？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065156253781.mp3"
+        },
+        {
+            "text": "欲破举世沉疴——于我一剑下。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065156708134.mp3"
+        },
+        {
+            "text": "谁将我族传说，解作神人之篇？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065156958553.mp3"
+        },
+        {
+            "text": "昔年传说，道是群龙飞呜，一木归焉……大泽为梦，心为四野。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065157232543.mp3"
+        },
+        {
+            "text": "敖隐年少，不识时务，不知何为退避求全——一身顽骨，锋芒必争。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065159692239.mp3"
+        },
+        {
+            "text": "我身何畏风雨来？风雨渡江，岂不快哉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065159903972.mp3"
+        },
+        {
+            "text": "像我们这样的龙，许是天生刚骨，便是寸寸折断，也不俯就屈弯。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065160135975.mp3"
+        },
+        {
+            "text": "问我来处，青野之埂；问我去处，冥冥天穹；谁与我同游……白首一仙翁。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065160363483.mp3"
+        },
+        {
+            "text": "所谓兴灭继绝，就是从一族最险最痛的伤口上，将往事，一一重建。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065160642342.mp3"
+        },
+        {
+            "text": "我答应过你，无论年月多少……去时如此，归亦如此。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065161132925.mp3"
+        },
+        {
+            "text": "处身浮世，谁又不是命在倏忽？但叶落归根，生生无穷，此我族之道。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065161375589.mp3"
+        },
+        {
+            "text": "他们在看着我。都在等一个，能够啖我血肉的机会。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065161637083.mp3"
+        },
+        {
+            "text": "振银鳞，赴虞渊，再历星天万千年。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065161863802.mp3"
+        },
+        {
+            "text": "何消天涯风共雪？前尘为梦；何陟人间雨翻云？来日方长。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065162148614.mp3"
+        },
+        {
+            "text": "此战，只有彼我存亡，绝无两败俱伤。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065162507198.mp3"
+        },
+        {
+            "text": "天地太寂寥，回家吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065162739798.mp3"
+        },
+        {
+            "text": "谁共我，万丈颠波！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065163458524.mp3"
+        },
+        {
+            "text": "你的刀太钝。但我一息尚在，必为汝之大患。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065163734401.mp3"
+        },
+        {
+            "text": "敖隐，九死不悔。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065163984874.mp3"
+        },
+        {
+            "text": "拂却他年成雪色，如见白雪如见我……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065164207160.mp3"
+        },
+        {
+            "text": "不必将我视作需要相让的稚子，像你这样的敌人，我不止有一个。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065164585038.mp3"
+        },
+        {
+            "text": "剑成如炼，驱驭神火。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065165255813.mp3"
+        },
+        {
+            "text": "神火俱焚！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065165602518.mp3"
+        },
+        {
+            "text": "诸恶自伏。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065165831268.mp3"
+        },
+        {
+            "text": "苍星列炬！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065166228572.mp3"
+        },
+        {
+            "text": "谁销，万甲为薪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065166474924.mp3"
+        },
+        {
+            "text": "剑成如雨，博施甘泽。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065167059240.mp3"
+        },
+        {
+            "text": "甘泽流惠！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065167315084.mp3"
+        },
+        {
+            "text": "河渎听命。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065167586560.mp3"
+        },
+        {
+            "text": "澄湖濯魄！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065167923678.mp3"
+        },
+        {
+            "text": "来决，四海之波！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065168182297.mp3"
+        },
+        {
+            "text": "剑成如飚，意裁风刀。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065168499562.mp3"
+        },
+        {
+            "text": "风刀解身！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065168833196.mp3"
+        },
+        {
+            "text": "箕星应召。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065169101273.mp3"
+        },
+        {
+            "text": "天风在袖！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065169605666.mp3"
+        },
+        {
+            "text": "当策，九霄云气！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065169857713.mp3"
+        },
+        {
+            "text": "生当奋飞，腾必九霄。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065170152718.mp3"
+        },
+        {
+            "text": "神龙显昭——直取太霄！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065170494100.mp3"
+        },
+        {
+            "text": "飞龙在天——威临四野！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065170717623.mp3"
+        },
+        {
+            "text": "万古尘氛一剑扫！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065170955211.mp3"
+        },
+        {
+            "text": "真龙 在此。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065171197691.mp3"
+        },
+        {
+            "text": "不必挟山超海之功。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065171417448.mp3"
+        },
+        {
+            "text": "所历如蝇逐血，所过遍插锥刀——但若阿爷梦中来问，便说……此去，甚好。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065179386052.mp3"
+        },
+        {
+            "text": "千年，疾光迅影，我们在世人的传说中载沉载浮。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065179737768.mp3"
+        },
+        {
+            "text": "若你在世间不曾见我，想必那时，我已飞度天外。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065180141996.mp3"
+        },
+        {
+            "text": "除了以命相搏，我可没什么人生至理可以教给谁。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065180441077.mp3"
+        },
+        {
+            "text": "顽心一起，试与日月争先！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065180725459.mp3"
+        },
+        {
+            "text": "此处潭寒且清，正宜洗濯鳞角！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065201348533.mp3"
+        },
+        {
+            "text": "我虽年弱，但龙有逆鳞，犯之者死。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065182664040.mp3"
+        },
+        {
+            "text": "虎狼伏藏，恶煞毋降。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065182976430.mp3"
+        },
+        {
+            "text": "惊诸凡夫。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065183182497.mp3"
+        },
+        {
+            "text": "大道并非一条，哪有那么多过来人能一一指路——我要自己走。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065201058456.mp3"
+        },
+        {
+            "text": "悬名天下，我昭四方。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065184722273.mp3"
+        },
+        {
+            "text": "别怕，我也曾经像这样……风雨骤来，不等我们变得更强大。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065185101668.mp3"
+        },
+        {
+            "text": "强悍无匹么，会有这一天。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065185448347.mp3"
+        },
+        {
+            "text": "去吧，你自由了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065200758413.mp3"
+        },
+        {
+            "text": "你已经做得很好了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065200404644.mp3"
+        },
+        {
+            "text": "怀必死之志，搏转圜之机！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065199817478.mp3"
+        },
+        {
+            "text": "胜他天命一筹。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065187083703.mp3"
+        },
+        {
+            "text": "敖隐死且不惧，何况断骨？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065187447803.mp3"
+        },
+        {
+            "text": "嗯……习惯就好。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065187737225.mp3"
+        },
+        {
+            "text": "谁能无憾，不必相责。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065187959683.mp3"
+        },
+        {
+            "text": "……有谁把这些话，穿过滚流一样的岁月，送到了我面前。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065189768829.mp3"
+        },
+        {
+            "text": "自古至今，永无止息。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065190388578.mp3"
+        },
+        {
+            "text": "无可失去，无所畏惧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065190712756.mp3"
+        },
+        {
+            "text": "你知道，孤注一掷的人不会遗忘——但我活着，不只为雪恨。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065191758181.mp3"
+        },
+        {
+            "text": "你还记得自己原本的样子吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065192149218.mp3"
+        },
+        {
+            "text": "也许，你和我，本就是同类！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065192425943.mp3"
+        },
+        {
+            "text": "……我知道了我知道了……那不是我那不是我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065193086024.mp3"
+        },
+        {
+            "text": "听说当世最博识的贤者之一，正乘着大鱼四方游历……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065193492232.mp3"
+        },
+        {
+            "text": "不是我。不好意思，是我……不听话的尾巴。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065193857893.mp3"
+        },
+        {
+            "text": "……你看错了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065195682540.mp3"
+        },
+        {
+            "text": "你的眼睛在说，你见过我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065196021466.mp3"
+        },
+        {
+            "text": "我来告诉你——她说，我的孩子正向我而来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065196308313.mp3"
+        },
+        {
+            "text": "迷路的老人家，有一个很大的大泽，去那里要怎么走？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065197143434.mp3"
+        },
+        {
+            "text": "天地川泽，草木万类……他们来过，而我看见。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065197661409.mp3"
+        },
+        {
+            "text": "天地高远，万物渺渺。让你几乎忘记自己是谁……让你，不敢忘记自己是谁。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065197968963.mp3"
+        },
+        {
+            "text": "我在找没人打扰的地方，洗……我的鳞。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065198258135.mp3"
+        },
+        {
+            "text": "你再敢碰我的角，明天你的角就装不上去了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065198495837.mp3"
+        },
+        {
+            "text": "当然。我也不会生你的气，东神说，“不要理她，那是个怪孩子”。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065198765479.mp3"
+        },
+        {
+            "text": "鳞片在颤栗。因为我们如此相似……可我们，为什么会如此地、相似呢？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065199138210.mp3"
+        },
+        {
+            "text": "包括东神——你自己的宫殿么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065199431097.mp3"
+        }
+    ]
+}

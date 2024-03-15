@@ -1,0 +1,71 @@
+{
+    "name": "乐园奇幻夜",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498353416151.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498353435226.jpg",
+    "voice_clips": [
+        {
+            "text": "闯入者搜索中！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496611521455.wav"
+        },
+        {
+            "text": "出示午夜场门票！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496611777700.wav"
+        },
+        {
+            "text": "拿来吧你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496611866688.wav"
+        },
+        {
+            "text": "通通抓走！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496611984297.wav"
+        },
+        {
+            "text": "在乐园里，不完美的才独一无二。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496612082648.wav"
+        },
+        {
+            "text": "玩具的自由，建立在规则之上。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496612228247.wav"
+        },
+        {
+            "text": "谁来当第一个被抓的布娃娃。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496612316681.wav"
+        },
+        {
+            "text": "除了幸运，你还需要点技巧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496612459823.wav"
+        },
+        {
+            "text": "夜晚比白天多一点幻想色彩～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496612728274.wav"
+        },
+        {
+            "text": "天亮之前，请叫我午夜乐园管理员。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496612981132.wav"
+        },
+        {
+            "text": "游戏结束～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496613127614.wav"
+        },
+        {
+            "text": "谁把你丢在这的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496614398522.wav"
+        },
+        {
+            "text": "欢迎，来到，我们的乐园......",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496614765779.wav"
+        },
+        {
+            "text": "玩具们，各自归位！午夜乐园，只在天亮的时钟敲响前。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220418/16502694983110.mp3"
+        },
+        {
+            "text": "天亮了......现在，通通归位！欢迎来到，我们的乐园。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499293868426.mp3"
+        },
+        {
+            "text": "做一名合格的玩具收纳师。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499294051667.mp3"
+        }
+    ]
+}

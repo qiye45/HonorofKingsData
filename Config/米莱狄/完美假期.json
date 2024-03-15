@@ -1,0 +1,111 @@
+{
+    "name": "完美假期",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230706/16886281972595.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230706/16886282026263.jpg",
+    "voice_clips": [
+        {
+            "text": "让酒店起死回生的奥秘，有时只需要一个大新闻。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886358566962.mp3"
+        },
+        {
+            "text": "换一种工作方式，就是最好的度假。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886358898240.mp3"
+        },
+        {
+            "text": "镜头聚焦表象，而我主导一切。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886359419202.mp3"
+        },
+        {
+            "text": "意外是计划的假象，平静是深海的伪装。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886291455424.mp3"
+        },
+        {
+            "text": "在我的度假酒店里，从来没有不满意的客人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886291775094.mp3"
+        },
+        {
+            "text": "濒临倒闭的假日海滩，将是商业制胜的绝佳筹码。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886292065650.mp3"
+        },
+        {
+            "text": "偶尔翻腾的泡沫，只是夏日海滩的小插曲。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886292265761.mp3"
+        },
+        {
+            "text": "海滩上奋勇救人的热血英雄，正是媒体最爱的新闻。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886292528692.mp3"
+        },
+        {
+            "text": "漩涡汹涌，藏于海面之下。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886292755178.mp3"
+        },
+        {
+            "text": "掌控全场比解决问题，更接近胜利。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886292988146.mp3"
+        },
+        {
+            "text": "计划……被打乱了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886293177832.mp3"
+        },
+        {
+            "text": "是时候好好度个假了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886293456104.mp3"
+        },
+        {
+            "text": "新手，只配待在浅水区。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886293647293.mp3"
+        },
+        {
+            "text": "魅力源于自身的强大，信心来自绝对的实力。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886293869854.mp3"
+        },
+        {
+            "text": "海鸥盘旋，预见胜利。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886294119595.mp3"
+        },
+        {
+            "text": "突破，天与海的边界！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886294376172.mp3"
+        },
+        {
+            "text": "海滩清道夫，接受指令！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886294579881.mp3"
+        },
+        {
+            "text": "扫除垃圾！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886294782725.mp3"
+        },
+        {
+            "text": "这里是危险海域！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886294994055.mp3"
+        },
+        {
+            "text": "我的海滩不欢迎你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886295194633.mp3"
+        },
+        {
+            "text": "头脑简单但积极勇敢，恰好组成热血青年的价值标签。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886295526407.mp3"
+        },
+        {
+            "text": "套圈圈的沙滩游戏？值得推广。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886295731272.mp3"
+        },
+        {
+            "text": "夏日最耀眼的少女，是海滩最好的招牌。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886296002342.mp3"
+        },
+        {
+            "text": "制定者比参与者，更能走向理想的游戏结局。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886296244103.mp3"
+        },
+        {
+            "text": "成功的度假酒店，少不了热情似火的客人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886296494226.mp3"
+        },
+        {
+            "text": "驾驭人心比驾驭海浪，更有力。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230706/16886296789192.mp3"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "name": "水果甜心",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502900142548.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502900047315.jpg",
+    "voice_clips": [
+        {
+            "text": "Round one！游戏开始",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220418/16502899248986.mp3"
+        },
+        {
+            "text": "糖果冒险新纪录！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220418/16502899419818.mp3"
+        },
+        {
+            "text": "一切美好的，都由糖果构成",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220418/16502899599355.mp3"
+        },
+        {
+            "text": "一流的勇气就是——接受脆弱，找回自我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498203924275.wav"
+        },
+        {
+            "text": "困在城堡里的公主，跟罐子里的糖果没两样。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498204075899.wav"
+        },
+        {
+            "text": "左转——新手村，这里没有公主需要你救。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498204239489.wav"
+        },
+        {
+            "text": "要么给我换个结局，要么，我将换掉整个游戏。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498204392858.wav"
+        },
+        {
+            "text": "当你扮演角色的时候，小心角色也在扮演你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498204559271.wav"
+        },
+        {
+            "text": "朋友，你需要一根棒棒糖当拐杖～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498204728019.wav"
+        },
+        {
+            "text": "啊~好吧，复活点见！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498204904740.wav"
+        },
+        {
+            "text": "哇哦，多谢款待。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498205051646.wav"
+        },
+        {
+            "text": "喂，菜鸟，你通关了吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498205229571.wav"
+        },
+        {
+            "text": "小怪兽，你完蛋了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498205445413.wav"
+        },
+        {
+            "text": "通关密语是——嘭！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498205611398.wav"
+        },
+        {
+            "text": "轻松得分~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498205819778.wav"
+        },
+        {
+            "text": "只是外表甜美～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498206029640.wav"
+        },
+        {
+            "text": "送你出局！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498206241800.wav"
+        },
+        {
+            "text": "化了，化了，全化了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498206372722.wav"
+        },
+        {
+            "text": "哈哈哈哈哈哈，有时候，你比自己想象的更疯狂~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498206565109.wav"
+        },
+        {
+            "text": "来吧，自己找找节奏~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498206738798.wav"
+        },
+        {
+            "text": "糟糕，过量的糖粉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498206946735.wav"
+        },
+        {
+            "text": "哈哈哈哈哈，你这个可爱的笨蛋~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498207099692.wav"
+        },
+        {
+            "text": "把这东西拿远点！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498207267167.wav"
+        },
+        {
+            "text": "今天可是糖果节～",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498207563149.wav"
+        },
+        {
+            "text": "输得很精彩，值得一点掌声。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498207728403.wav"
+        },
+        {
+            "text": "果然只有我，才能完成这一关~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498207879019.wav"
+        }
+    ]
+}

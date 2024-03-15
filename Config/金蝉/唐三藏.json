@@ -1,0 +1,211 @@
+{
+    "name": "唐三藏",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220804/16595932193374.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220804/16595932233806.jpg",
+    "voice_clips": [
+        {
+            "text": "弟子玄奘奉东土大唐皇帝旨意，遥诣宝刹，拜求真经。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595942199286.mp3"
+        },
+        {
+            "text": "谢佛祖恩典。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595942338857.wav"
+        },
+        {
+            "text": "听，这是大唐的钟声啊！我们取经回来了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595942484393.mp3"
+        },
+        {
+            "text": "贫僧自东土大唐而来，去往西天拜佛求经。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595942697717.mp3"
+        },
+        {
+            "text": "珍奇之物，不可使见贪婪之人。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595942848433.mp3"
+        },
+        {
+            "text": "衣冠虽别，修行之理则同。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595942995031.mp3"
+        },
+        {
+            "text": "普济苦海群生，广运慈悲舟楫。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595943148575.mp3"
+        },
+        {
+            "text": "禅心似月迥无尘。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595943285480.mp3"
+        },
+        {
+            "text": "此去定要直至西天，不得真经誓不回还。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595943439938.mp3"
+        },
+        {
+            "text": "半枕松风茶未熟，吟怀潇洒满腔春。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595943757103.mp3"
+        },
+        {
+            "text": "三千功行尽倾颓……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595943989517.mp3"
+        },
+        {
+            "text": "悟空，你在哪里……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595944134478.wav"
+        },
+        {
+            "text": "开而当名，遍而弥广",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595944331613.mp3"
+        },
+        {
+            "text": "刀兵不怯",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595944505066.wav"
+        },
+        {
+            "text": "护体庄严",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595944642460.wav"
+        },
+        {
+            "text": "法者，度也。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595944803020.wav"
+        },
+        {
+            "text": "悟彻菩提",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595944952449.wav"
+        },
+        {
+            "text": "断魔归本",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595945115519.wav"
+        },
+        {
+            "text": "定心真言",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595945258260.wav"
+        },
+        {
+            "text": "教亦不善，非愚而何!",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595945451267.wav"
+        },
+        {
+            "text": "清静灵通，周流三界",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595945783511.wav"
+        },
+        {
+            "text": "入深缘起",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595945928520.wav"
+        },
+        {
+            "text": "见生死际",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595946057326.wav"
+        },
+        {
+            "text": "九九数完魔灭尽",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595946311542.wav"
+        },
+        {
+            "text": "色原无色，空亦非空",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595946514527.mp3"
+        },
+        {
+            "text": "万象澄明",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595946672706.wav"
+        },
+        {
+            "text": "普施善果",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595946814785.wav"
+        },
+        {
+            "text": "不见舟楫，如何可渡？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595946989915.wav"
+        },
+        {
+            "text": "无所丛生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595947158779.wav"
+        },
+        {
+            "text": "靡所不生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595947305748.wav"
+        },
+        {
+            "text": "功成行满",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595947451844.wav"
+        },
+        {
+            "text": "意马收缰",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595947597482.wav"
+        },
+        {
+            "text": "洗心涤虑",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595947733175.wav"
+        },
+        {
+            "text": "善哉善哉",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595947904709.wav"
+        },
+        {
+            "text": "一念之差招致杀身之祸。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595948789844.mp3"
+        },
+        {
+            "text": "居心不良终竟玩火自焚。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595948956694.mp3"
+        },
+        {
+            "text": "你是哪里来的妖怪，胆敢前来作祟？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595949189804.mp3"
+        },
+        {
+            "text": "洗尘涤垢，反本还原。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595949381098.mp3"
+        },
+        {
+            "text": "悟空，你可降得住这妖怪？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595949695026.wav"
+        },
+        {
+            "text": "悟空，你怎敢欺心要打师父？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595949846966.wav"
+        },
+        {
+            "text": "你野性不除，连伤三命，佛祖也不宽容于你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595950096877.mp3"
+        },
+        {
+            "text": "八戒，斯文斯文。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595950395793.wav"
+        },
+        {
+            "text": "八戒，收起嘴脸来。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595950533729.wav"
+        },
+        {
+            "text": "佛心四大皆空，贫僧尘念已绝，无缘消受人间富贵。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595951038619.mp3"
+        },
+        {
+            "text": "若来世有缘分……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595951334252.wav"
+        },
+        {
+            "text": "万望公主成全贫僧，放我西去。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595951566494.mp3"
+        },
+        {
+            "text": "公主是个假作真形的，等我徒弟拿住，方知好歹。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595951735627.mp3"
+        },
+        {
+            "text": "恶徒不除，难取真经！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595951923795.wav"
+        },
+        {
+            "text": "八戒，悟空说你撒谎，我本来不信，不想果真如此，其实该打。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595952103303.mp3"
+        },
+        {
+            "text": "我这徒弟相貌丑陋，但心地善良。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595952702018.mp3"
+        },
+        {
+            "text": "你这猴头，为师要念那紧箍咒了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220804/16595953563698.wav"
+        }
+    ]
+}

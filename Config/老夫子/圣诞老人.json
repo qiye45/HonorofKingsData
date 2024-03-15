@@ -1,0 +1,63 @@
+{
+    "name": "圣诞老人",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498343227031.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498343255899.jpg",
+    "voice_clips": [
+        {
+            "text": "冰雪和狂欢与老夫同在~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497489815894.wav"
+        },
+        {
+            "text": "老夫我有特殊的爬烟囱技巧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490043609.wav"
+        },
+        {
+            "text": "啊哈哈哈，Merry Christmas！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490158656.wav"
+        },
+        {
+            "text": "每只袜子都装满礼物，自带除臭效果。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490328956.wav"
+        },
+        {
+            "text": "谁偷走了老夫的驯鹿驾照！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490472115.wav"
+        },
+        {
+            "text": "钻草丛是没用的！你偷吃的糖纸还扔在路上！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490618327.wav"
+        },
+        {
+            "text": "啊~圣诞快递，节日直达，大陆包邮！不能拒收哟~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490715393.wav"
+        },
+        {
+            "text": "帅气大胡子红配绿衣装，冬日时尚最时尚",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490844234.wav"
+        },
+        {
+            "text": "人到礼到~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497490976404.wav"
+        },
+        {
+            "text": "糖果大派送！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497491074133.wav"
+        },
+        {
+            "text": "嘿嘿，空降成功！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497491181180.wav"
+        },
+        {
+            "text": "圣诞特送，请签收！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497491317214.wav"
+        },
+        {
+            "text": "哈哈哈，惊喜得晕过去吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497491424552.wav"
+        },
+        {
+            "text": "不听话的小孩子，没有糖吃！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499897057371.mp3"
+        }
+    ]
+}

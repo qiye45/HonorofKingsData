@@ -1,0 +1,51 @@
+{
+    "name": "霸王别姬",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502887835368.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502887765911.jpg",
+    "voice_clips": [
+        {
+            "text": "来来，妾当与大王对饮",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493293816221.wav"
+        },
+        {
+            "text": "汉兵已掠地， 四面楚歌声。（改编自虞姬《和项王歌》）",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493294028492.wav"
+        },
+        {
+            "text": "兵家胜负，乃是常情",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493294197264.wav"
+        },
+        {
+            "text": "成败兴亡，不过刹那",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493294361816.wav"
+        },
+        {
+            "text": "千古英雄争何事",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493294513301.wav"
+        },
+        {
+            "text": "壮士轻生死，征战几人回",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493294715059.wav"
+        },
+        {
+            "text": "大王，何日共还乡",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493294889329.wav"
+        },
+        {
+            "text": "妾随大王，生死无悔",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493295055331.wav"
+        },
+        {
+            "text": "免你牵挂",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493295301254.wav"
+        },
+        {
+            "text": "一曲虞歌！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493295561514.wav"
+        },
+        {
+            "text": "十年征战几人回？尔等，再难归去~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220407/16493295744156.wav"
+        }
+    ]
+}

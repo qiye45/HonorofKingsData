@@ -1,0 +1,63 @@
+{
+    "name": "一生所爱",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498347402306.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498347431360.jpg",
+    "voice_clips": [
+        {
+            "text": "这个峡谷里所有东西都属于我，包括你在内。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499309537228.mp3"
+        },
+        {
+            "text": "你再往前半步，我就...我会彻底原谅你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499309683381.mp3"
+        },
+        {
+            "text": "你现在是我的人了，过来乖一点。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220414/16499309811711.mp3"
+        },
+        {
+            "text": "一直在等着……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494926971069.wav"
+        },
+        {
+            "text": "只羡鸳鸯不羡仙~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494927178529.wav"
+        },
+        {
+            "text": "有人的心，长得好像椰子哦~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494927378815.wav"
+        },
+        {
+            "text": "心跳得好厉害……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494927589279.wav"
+        },
+        {
+            "text": "活在过去，会永远错过现在。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494927799546.wav"
+        },
+        {
+            "text": "天黑了，我要去找姐姐了……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494928089860.wav"
+        },
+        {
+            "text": "给你盖个章吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494928731838.wav"
+        },
+        {
+            "text": "往哪跑？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494929196388.wav"
+        },
+        {
+            "text": "如果有人欺负你，就报我的名字！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494929539874.wav"
+        },
+        {
+            "text": "爱我就要付出代价！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494930197645.wav"
+        },
+        {
+            "text": "就凭你，也拔得出我的紫青宝剑？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220409/16494930451820.wav"
+        }
+    ]
+}

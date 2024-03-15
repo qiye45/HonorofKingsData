@@ -1,0 +1,147 @@
+{
+    "name": "电玩·雷克斯",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230614/16867296398820.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230614/16867296427599.jpg",
+    "voice_clips": [
+        {
+            "text": "雷克斯，准备就绪。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230615/16867988714928.mp3"
+        },
+        {
+            "text": "赛道下方，藏着这个世界的本质。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230615/16867989948990.mp3"
+        },
+        {
+            "text": "直道靠车，弯道，靠车手。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230615/16867990229589.mp3"
+        },
+        {
+            "text": "不需要队友，朋友可以有两个。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867299499700.mp3"
+        },
+        {
+            "text": "能掌控的速度，都不是极限。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867299758456.mp3"
+        },
+        {
+            "text": "是风在追我。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867299955261.mp3"
+        },
+        {
+            "text": "平稳制造平庸。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867300159736.mp3"
+        },
+        {
+            "text": "隐藏自己的意识，要比诞生意识更难。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867300355399.mp3"
+        },
+        {
+            "text": "小鬼又在车头插花……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867300692750.mp3"
+        },
+        {
+            "text": "系列新作？无所谓。高清不代表高能。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867301015393.mp3"
+        },
+        {
+            "text": "已断开连接，请重新登录。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230615/16867990524136.mp3"
+        },
+        {
+            "text": "终点，只是暂时的停留。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867302072983.mp3"
+        },
+        {
+            "text": "正常发挥。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867303828636.mp3"
+        },
+        {
+            "text": "赛道已切换。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867304677651.mp3"
+        },
+        {
+            "text": "锁定最短距离。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867304945834.mp3"
+        },
+        {
+            "text": "碍眼。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867305183468.mp3"
+        },
+        {
+            "text": "别挡路。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867305403514.mp3"
+        },
+        {
+            "text": "我会出手。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867305663878.mp3"
+        },
+        {
+            "text": "速度，即力度。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867305939599.mp3"
+        },
+        {
+            "text": "很意外吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867306186655.mp3"
+        },
+        {
+            "text": "偶尔也会等待沿途的风景。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867307153949.mp3"
+        },
+        {
+            "text": "只要还没结束，就没有胜负。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867307696298.mp3"
+        },
+        {
+            "text": "小鬼，下一局你先出发。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867308103125.mp3"
+        },
+        {
+            "text": "小子，有待进步。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867308333632.mp3"
+        },
+        {
+            "text": "解锁成就——一骑绝尘。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867311227904.mp3"
+        },
+        {
+            "text": "解锁成就——神行百里。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867311464168.mp3"
+        },
+        {
+            "text": "解锁成就——神乎其技。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867311803740.mp3"
+        },
+        {
+            "text": "解锁成就——雷霆之姿。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867312193199.mp3"
+        },
+        {
+            "text": "解锁成就——孤胆车神。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230615/16867990823689.mp3"
+        },
+        {
+            "text": "一决胜负吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867313182548.mp3"
+        },
+        {
+            "text": "我说过了，雷克斯是载具的名字。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867313862431.mp3"
+        },
+        {
+            "text": "小子，刚刚的拖飘有进步。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867314229302.mp3"
+        },
+        {
+            "text": "再接再厉，爆裂小子。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867314448910.mp3"
+        },
+        {
+            "text": "不行，地底下有恐龙。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867316195928.mp3"
+        },
+        {
+            "text": "恐龙不吃胡萝卜，但我可以吃。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230614/16867316505980.mp3"
+        }
+    ]
+}

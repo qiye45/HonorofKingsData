@@ -1,0 +1,87 @@
+{
+    "name": "言灵之书",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498395464215.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498395492118.jpg",
+    "voice_clips": [
+        {
+            "text": "我思故我在",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493927298488.wav"
+        },
+        {
+            "text": "嘘，好奇心会害死猫！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493927424183.wav"
+        },
+        {
+            "text": "最强大的魔法，是语言！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493927677535.wav"
+        },
+        {
+            "text": "你和神交谈，是信仰。神和你说话……呵，脑子坏掉了吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493928273054.wav"
+        },
+        {
+            "text": "伤心不是哭的理由，傻才是。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493928409107.wav"
+        },
+        {
+            "text": "如果世上还有什么我不懂的学问，那就是女孩子们……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493928554767.wav"
+        },
+        {
+            "text": "预知到即将降临的风暴，无人能置身事外。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493928684277.wav"
+        },
+        {
+            "text": "为什么人和人的头脑结构会有这么大差异？嗯，值得思索。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493928833120.wav"
+        },
+        {
+            "text": "知道的太多……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493929407304.wav"
+        },
+        {
+            "text": "遵循我的命令！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493930609684.wav"
+        },
+        {
+            "text": "现在，接受支配！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493930736632.wav"
+        },
+        {
+            "text": "回归本源！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493934026215.wav"
+        },
+        {
+            "text": "连愚昧的心灵一同摧毁！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220408/16493934157069.wav"
+        },
+        {
+            "text": "知道了，老师。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221109/16679792819268.mp3"
+        },
+        {
+            "text": "保持警惕",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221109/16679780116011.mp3"
+        },
+        {
+            "text": "老师外出多时，可有所获？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221109/16679779346620.mp3"
+        },
+        {
+            "text": "老师，女孩子是一种什么学问？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221109/16679778547772.mp3"
+        },
+        {
+            "text": "天书是否会告诉我们，什么是终极",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221109/16679777492100.mp3"
+        },
+        {
+            "text": "探索学问，我也该去其他地方了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20221109/16679848244052.mp3"
+        },
+        {
+            "text": "厚土之下，有搏动的脉息，但已无可被解读的话语。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20240129/17065213256322.mp3"
+        }
+    ]
+}

@@ -1,0 +1,243 @@
+{
+    "name": "破晓之神",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498353237768.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498353266800.jpg",
+    "voice_clips": [
+        {
+            "text": "开天辟地，万物新生！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497337328954.mp3"
+        },
+        {
+            "text": "人类啊，跟我来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497337442797.wav"
+        },
+        {
+            "text": "神设下的桎梏，还是由神来打破！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497337607389.mp3"
+        },
+        {
+            "text": "谁制造坐井观天的文明，谁就是文明终结者。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497337778161.mp3"
+        },
+        {
+            "text": "倒悬都市……颠倒乾坤。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497337927265.mp3"
+        },
+        {
+            "text": "登上方舟前，我隶属舰队国际……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729772214629.wav"
+        },
+        {
+            "text": "温室，它的实质是牢笼。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497338304115.mp3"
+        },
+        {
+            "text": "王者大陆，比你们想象的更广阔。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497338492056.mp3"
+        },
+        {
+            "text": "强制进化的文明，背离了文明的本质。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729772735306.wav"
+        },
+        {
+            "text": "人类的命运不来自神明的馈赠，而是人类自己的选择。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729773126062.wav"
+        },
+        {
+            "text": "没有谁应该被捏造成神所希望的模样。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729774192530.wav"
+        },
+        {
+            "text": "人类会仰望上苍祈求庇佑，神明却忘记了怜悯。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729774693107.wav"
+        },
+        {
+            "text": "我不善争辩，只会以行动证明。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729774972669.wav"
+        },
+        {
+            "text": "从此把握自己命运吧！别浪费了我的牺牲。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729775438473.wav"
+        },
+        {
+            "text": "过去由我埋葬，未来属于你们。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729859696777.wav"
+        },
+        {
+            "text": "完成神明的应尽之责，我该休息了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729860046888.wav"
+        },
+        {
+            "text": "比起享乐，还是冲锋适合我！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729860281863.wav"
+        },
+        {
+            "text": "从天而降！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729860485388.wav"
+        },
+        {
+            "text": "开辟新生！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729860654859.wav"
+        },
+        {
+            "text": "用拳头说话！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729860856888.wav"
+        },
+        {
+            "text": "冲锋！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729861078970.wav"
+        },
+        {
+            "text": "被控制的感觉好受么？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729861272094.wav"
+        },
+        {
+            "text": "神斧破世，万兵来朝。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729861462124.wav"
+        },
+        {
+            "text": "奴役者终将受制。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729861706612.wav"
+        },
+        {
+            "text": "大地之殇！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729861892998.wav"
+        },
+        {
+            "text": "破晓未来！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729862107614.wav"
+        },
+        {
+            "text": "苦难由我终结！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729862389473.wav"
+        },
+        {
+            "text": "在我身后，有不可后退的理由！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729862579667.wav"
+        },
+        {
+            "text": "巨斧在手掌碎裂，未来以身躯开辟。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729862799687.wav"
+        },
+        {
+            "text": "破晓之后，便是黎明！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729862984251.wav"
+        },
+        {
+            "text": "巨斧重聚，武神降临！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729863239830.wav"
+        },
+        {
+            "text": "无人可挡！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729863591910.wav"
+        },
+        {
+            "text": "荡平一切障碍！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729863782014.wav"
+        },
+        {
+            "text": "为了人类！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729864046532.wav"
+        },
+        {
+            "text": "斧头还是拳头？挑一个！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729866041536.wav"
+        },
+        {
+            "text": "纵使严厉，爱亦深沉。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729868433672.wav"
+        },
+        {
+            "text": "以我的斧子，为人类开辟世界。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729869983870.wav"
+        },
+        {
+            "text": "为了人类。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729870692658.wav"
+        },
+        {
+            "text": "为新人类开天辟地，延续文明，是我们的职责。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729871276649.wav"
+        },
+        {
+            "text": "但以爱为名的桎梏才是痛苦的根源。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729871589297.wav"
+        },
+        {
+            "text": "你不愿面对的是所谓的危险，还是背后的代价？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729871841206.wav"
+        },
+        {
+            "text": "我从未想象过有一天我会与魔种并肩作战。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729872233696.wav"
+        },
+        {
+            "text": "驱逐魔种，建立人类家园。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729872632878.wav"
+        },
+        {
+            "text": "你的长枪令我印象深刻。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729872946390.wav"
+        },
+        {
+            "text": "战争不代表真理。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729873224854.wav"
+        },
+        {
+            "text": "神与人，并无不同。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729893442752.wav"
+        },
+        {
+            "text": "神眼中的世界，并无不同。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729893711816.wav"
+        },
+        {
+            "text": "你和我认识的一个人类小姑娘很像。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729885526334.wav"
+        },
+        {
+            "text": "曾有个像你一样的小姑娘，为了递给我一只果子，差点摔了一跤。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729885743055.wav"
+        },
+        {
+            "text": "我知道你，神职者中的佼佼者。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729886064705.wav"
+        },
+        {
+            "text": "还记得我最后对你说的话吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729886735477.wav"
+        },
+        {
+            "text": "食梦族？我听帝俊提起过你。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729887017307.wav"
+        },
+        {
+            "text": "为人类开辟的土地，从这里开始。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729887345726.wav"
+        },
+        {
+            "text": "一个需要被排除的隐患。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729887895048.wav"
+        },
+        {
+            "text": "扫除一个危险区域。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729888161766.wav"
+        },
+        {
+            "text": "舍弃鳞甲以成全众生？制造者与我做了相同的选择。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729888486328.wav"
+        },
+        {
+            "text": "手感有点轻。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729888726570.wav"
+        },
+        {
+            "text": "这把趁手多了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729889051465.wav"
+        },
+        {
+            "text": "傲慢终将反噬其身。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20230106/16729889265294.wav"
+        }
+    ]
+}

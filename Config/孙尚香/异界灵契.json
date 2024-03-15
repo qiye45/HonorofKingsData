@@ -1,0 +1,127 @@
+{
+    "name": "异界灵契",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502900456499.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502900407799.jpg",
+    "voice_clips": [
+        {
+            "text": "以守护为契，与世界缔约——准备好，你们的拯救者来了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500022568945.mp3"
+        },
+        {
+            "text": "下一站是——不如留点悬念~到了再说！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500022425139.mp3"
+        },
+        {
+            "text": "异界穿梭指南——你需要一个最佳旅伴~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500022716954.mp3"
+        },
+        {
+            "text": "嗯~，哎，逛过这么多地方，还是这里最有趣~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498217505837.wav"
+        },
+        {
+            "text": "什么时候才能集齐所有传送点啊？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498217646819.wav"
+        },
+        {
+            "text": "契约内容是——我可不属于任何世界，正相反，他们全都属于我~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498218588389.wav"
+        },
+        {
+            "text": "轻松解决危机，偶尔制造“惊喜”~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498218752198.wav"
+        },
+        {
+            "text": "另一个世界，也有人在守望我！~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498218881914.wav"
+        },
+        {
+            "text": "命运总会走向已知的终点，但要怎么走，我说了算！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498219214992.wav"
+        },
+        {
+            "text": "从今天起，你们这儿归我保护了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498219356659.wav"
+        },
+        {
+            "text": "拜拜，我会回来看你的~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498219524733.wav"
+        },
+        {
+            "text": "到此一游的纪念~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498220505562.wav"
+        },
+        {
+            "text": "嗯~打卡完成~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498220675442.wav"
+        },
+        {
+            "text": "你和你的世界一样无聊~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498220841311.wav"
+        },
+        {
+            "text": "即刻启程！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498221021531.wav"
+        },
+        {
+            "text": "突破界限！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498221179705.wav"
+        },
+        {
+            "text": "开启新地图！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498221375035.wav"
+        },
+        {
+            "text": "又见面了，这次有什么好玩的~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498221514671.wav"
+        },
+        {
+            "text": "新的旅程，出发！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498221629422.wav"
+        },
+        {
+            "text": "武器是唯一的搭档~喂！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498221792413.wav"
+        },
+        {
+            "text": "提前出发！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498221998414.wav"
+        },
+        {
+            "text": "快点~跟上我的节奏！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498312364221.wav"
+        },
+        {
+            "text": "新世界，我来了！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498314371456.wav"
+        },
+        {
+            "text": "终于来了个有趣的~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498314594875.wav"
+        },
+        {
+            "text": "举手之劳，不用谢！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498317193951.wav"
+        },
+        {
+            "text": "嗯，你们已经不需要一个守护者了",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498317514288.wav"
+        },
+        {
+            "text": "我还没玩儿够呢！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498318794340.wav"
+        },
+        {
+            "text": "喂！别把契约当束缚！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498319058810.wav"
+        },
+        {
+            "text": "什么？禁止通行？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498319581143.wav"
+        },
+        {
+            "text": "才，才不会被困在原地！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220413/16498319842623.wav"
+        }
+    ]
+}

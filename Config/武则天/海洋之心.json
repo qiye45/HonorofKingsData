@@ -1,0 +1,67 @@
+{
+    "name": "海洋之心",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498479728323.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498479761731.jpg",
+    "voice_clips": [
+        {
+            "text": "这次要征服的，是陆地！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496585175731.wav"
+        },
+        {
+            "text": "潮水是我的触手~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496585231059.wav"
+        },
+        {
+            "text": "嘴上说不要，但你的眼睛很诚实嘛。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496585387145.wav"
+        },
+        {
+            "text": "恐惧吧，让我好好咀嚼这痛苦。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496585934837.wav"
+        },
+        {
+            "text": "身为女高音，每天都要吊嗓。啊~啊~啦~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496586027599.wav"
+        },
+        {
+            "text": "亚特兰蒂斯沉睡在海底，我却无法接近！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496586074051.wav"
+        },
+        {
+            "text": "音痴什么的！是对我最大的侮辱！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496586318675.wav"
+        },
+        {
+            "text": "水逆的一天。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587138157.wav"
+        },
+        {
+            "text": "一波带走！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587468344.wav"
+        },
+        {
+            "text": "浪起来~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587534652.wav"
+        },
+        {
+            "text": "来点背景音乐吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587637199.wav"
+        },
+        {
+            "text": "呵~洗掉你的鱼腥味",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496587904360.wav"
+        },
+        {
+            "text": "去海底喂鱼吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496588142557.wav"
+        },
+        {
+            "text": "淹死的都是会游泳的",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496588344823.wav"
+        },
+        {
+            "text": "我的海底音乐会，还缺少观众哟~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496588643279.wav"
+        }
+    ]
+}

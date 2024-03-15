@@ -1,0 +1,59 @@
+{
+    "name": "千金重弩",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220415/16499976376683.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20230306/16780992184120.jpg",
+    "voice_clips": [
+        {
+            "text": "大小姐驾到！统统闪开！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497736119448.wav"
+        },
+        {
+            "text": "来发子弹吗？满足你！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497736263234.wav"
+        },
+        {
+            "text": "你也是本小姐的粉丝吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497736424073.wav"
+        },
+        {
+            "text": "哈哈哈，轰得不要太爽！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497736564278.wav"
+        },
+        {
+            "text": "送你个轰轰烈烈的退场，感谢本小姐大恩大德吧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497736722621.wav"
+        },
+        {
+            "text": "淑女什么的……哼，才不屑呢！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497736895584.wav"
+        },
+        {
+            "text": "没人气的家伙，不值得浪费炮火。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497737119308.wav"
+        },
+        {
+            "text": "野外徘徊的可怜家伙，能够收获的只有炮火。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497737422853.wav"
+        },
+        {
+            "text": "呜，可恶！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497737576305.wav"
+        },
+        {
+            "text": "3，2，1，BOOM！！！！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497739894564.wav"
+        },
+        {
+            "text": "指哪打哪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497740203040.wav"
+        },
+        {
+            "text": "百发百中！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497740491149.wav"
+        },
+        {
+            "text": "除了炮弹，本小姐没别的跟你们交流了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497740648057.wav"
+        }
+    ]
+}

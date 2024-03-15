@@ -1,0 +1,159 @@
+{
+    "name": "一念神魔",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498344643355.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220413/16498344685438.jpg",
+    "voice_clips": [
+        {
+            "text": "一念通天，神魔无惧！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500065401782.wav"
+        },
+        {
+            "text": "如有一味绝境，非历十方生死。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500065511575.wav"
+        },
+        {
+            "text": "雷电遽散！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16500065612584.wav"
+        },
+        {
+            "text": "光明神已陨落，现在由光明引领我.",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496615135234.mp3"
+        },
+        {
+            "text": "天生吾族，岂可轻弃。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496615337844.mp3"
+        },
+        {
+            "text": "无数次，在人世的焦土上，祈望太阳。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496615581255.mp3"
+        },
+        {
+            "text": "照彻，苦难的世间。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496615779451.mp3"
+        },
+        {
+            "text": "光明始于先驱者。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496615992209.mp3"
+        },
+        {
+            "text": "天地吾心，日月重光！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496616928864.mp3"
+        },
+        {
+            "text": "此剑——当斩，群魔授首！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496617194620.mp3"
+        },
+        {
+            "text": "我，就是太阳。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496617437838.mp3"
+        },
+        {
+            "text": "去哪里寻找，救诸此界的力量？！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496617997861.mp3"
+        },
+        {
+            "text": "像面对黑夜一样...面对死亡。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496618896950.mp3"
+        },
+        {
+            "text": "我与我剑斩黄泉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496619432468.mp3"
+        },
+        {
+            "text": "化神为佑，沐临绝土",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496619963728.wav"
+        },
+        {
+            "text": "此天命也。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496620462275.wav"
+        },
+        {
+            "text": "击破宿命的无常！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496623512591.wav"
+        },
+        {
+            "text": "光明始于先驱者。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496623732639.wav"
+        },
+        {
+            "text": "越是没有武器，越要变得强大。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496624045097.wav"
+        },
+        {
+            "text": "像面对黑夜一样...面对死亡。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496624589029.mp3"
+        },
+        {
+            "text": "我剑与我斩黄泉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496625912234.wav"
+        },
+        {
+            "text": "我与我剑斩黄泉！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496626424430.wav"
+        },
+        {
+            "text": "此天命也。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496627021883.wav"
+        },
+        {
+            "text": "风刃铸就信仰，奉承暗与光.",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496627457800.wav"
+        },
+        {
+            "text": "百炼之志，当我问鼎",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496627879882.wav"
+        },
+        {
+            "text": "看看像我这样的凡人，都怎么诛灭神魔。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496629066549.mp3"
+        },
+        {
+            "text": "天地不仁，大道无光。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496629292282.mp3"
+        },
+        {
+            "text": "我也曾……在人世的焦土上，幻想太阳。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496629545742.mp3"
+        },
+        {
+            "text": "击破宿命的无常！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496629769926.mp3"
+        },
+        {
+            "text": "越是没有武器，越要变得强大。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496629994451.mp3"
+        },
+        {
+            "text": "我早就...无路可退了。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496630204207.mp3"
+        },
+        {
+            "text": "去哪里寻找，重造此界的力量？！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496630942298.mp3"
+        },
+        {
+            "text": "此剑——当判，诸神谢罪！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496632267428.mp3"
+        },
+        {
+            "text": "我，即是黑夜。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496632486808.mp3"
+        },
+        {
+            "text": "森罗列阵，日月转轮。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496633091016.mp3"
+        },
+        {
+            "text": "我心如冰剑如霜……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496633673622.mp3"
+        },
+        {
+            "text": "如果害怕，就跑吧。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496634136844.mp3"
+        },
+        {
+            "text": "独倚白夜，破魔为生",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220411/16496634691491.mp3"
+        }
+    ]
+}

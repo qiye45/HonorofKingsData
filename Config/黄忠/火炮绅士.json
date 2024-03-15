@@ -1,0 +1,87 @@
+{
+    "name": "火炮绅士",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502898247901.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502898218686.jpg",
+    "voice_clips": [
+        {
+            "text": "钢铁与蒸汽，一种高级的魔法",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499851351887.mp3"
+        },
+        {
+            "text": "干大事前，先饮杯下午茶~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499851488515.mp3"
+        },
+        {
+            "text": "帽子，有助于随时保持优雅",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220415/16499851601220.mp3"
+        },
+        {
+            "text": "爱护淑女，是绅士的品格。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684496193.wav"
+        },
+        {
+            "text": "玫瑰与火炮，永不过时的浪漫。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497684761754.wav"
+        },
+        {
+            "text": "阴暗的角落，需要炮火来照亮。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497685026861.wav"
+        },
+        {
+            "text": "血液还在流动，斗志便永不停歇！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497685572427.wav"
+        },
+        {
+            "text": "来场有风度的对决吧~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497685708570.wav"
+        },
+        {
+            "text": "女士们先生们，火炮交响开始了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497686119503.wav"
+        },
+        {
+            "text": "不要……踩到……我的礼帽……",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497686245413.wav"
+        },
+        {
+            "text": "无知带来的粗暴无礼，这点我可以原谅。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497687189928.wav"
+        },
+        {
+            "text": "谢谢您的贡献。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497687395652.wav"
+        },
+        {
+            "text": "荣誉高于一切！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497687616899.wav"
+        },
+        {
+            "text": "保持风度。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497687764501.wav"
+        },
+        {
+            "text": "简装上阵。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497687898738.wav"
+        },
+        {
+            "text": "当心雷区。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497688187360.wav"
+        },
+        {
+            "text": "注意脚下。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497688458432.wav"
+        },
+        {
+            "text": "表演一首宏大的轰鸣曲！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497688594156.wav"
+        },
+        {
+            "text": "坚守绅士的立场！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497688843014.wav"
+        },
+        {
+            "text": "尝尝复古新风潮！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497689018079.wav"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "name": "无间傀儡",
+    "portrait": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502882656041.jpg",
+    "icon": "//game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20220418/16502882579913.jpg",
+    "voice_clips": [
+        {
+            "text": "无欲无求，笑口常开~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497715369462.wav"
+        },
+        {
+            "text": "做个安静的美男子~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497715689157.wav"
+        },
+        {
+            "text": "哪一个才是真正的我，我自己也不太明白",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497715815132.wav"
+        },
+        {
+            "text": "幸福，令人畏惧。更钟情绝望的美学。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497716001561.wav"
+        },
+        {
+            "text": "为战斗加点品味，加点恶作剧，嗯，会很有趣。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497716166400.wav"
+        },
+        {
+            "text": "生命绽放于战场，璀璨却仅限于你的眼中",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497716569829.wav"
+        },
+        {
+            "text": "法则和禁忌存在的意义，不就是被打破吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497716753664.wav"
+        },
+        {
+            "text": "人生如戏，全靠演技",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497717215036.wav"
+        },
+        {
+            "text": "认真我就输了~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497717355303.wav"
+        },
+        {
+            "text": "去吧",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497717487612.wav"
+        },
+        {
+            "text": "随指尖而舞",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497718826828.wav"
+        },
+        {
+            "text": "喧哗与骚动！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497718966327.wav"
+        },
+        {
+            "text": "栩栩如生的死亡",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497719112055.wav"
+        },
+        {
+            "text": "美是致命的愉悦！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497719272384.wav"
+        },
+        {
+            "text": "据说文案已想不出更美妙的语言来赞美我的杰作和你的死亡",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497719456347.wav"
+        },
+        {
+            "text": "生的渺小，死的精彩~",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497719653790.wav"
+        },
+        {
+            "text": "人们最热爱歌咏的英雄",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497719869587.wav"
+        },
+        {
+            "text": "傀儡师连自己也能操纵自如",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497720044278.wav"
+        },
+        {
+            "text": "绽放的璀璨，不在于年龄",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497720192998.wav"
+        },
+        {
+            "text": "似曾相识的熟悉感，我遗忘了什么吗？",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497720547145.wav"
+        },
+        {
+            "text": "愉快的游戏吧，人因游戏而完整",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497720769063.wav"
+        },
+        {
+            "text": "悲剧，就是把美好的东西毁灭给人看",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497720939874.wav"
+        },
+        {
+            "text": "无间道的游戏，可是很有趣的！",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497721176600.wav"
+        },
+        {
+            "text": "对面的你和手中的傀儡同样美妙，同样舞姿翩翩",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497721359754.wav"
+        },
+        {
+            "text": "毫无美感可言",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497721504042.wav"
+        },
+        {
+            "text": "就背景音乐而言，很动听。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497721689664.wav"
+        },
+        {
+            "text": "缺乏仪式感的决斗，有个同义词叫中二",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497721882371.wav"
+        },
+        {
+            "text": "操纵木偶和操纵心灵是同样的艺术。",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497722112916.wav"
+        },
+        {
+            "text": "噢，世界上的另一个我",
+            "audio": "//game.gtimg.cn/images/yxzj/zlkdatasys/audios/audio/20220412/16497722345965.wav"
+        }
+    ]
+}
